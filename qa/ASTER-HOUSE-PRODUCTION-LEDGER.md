@@ -26,5 +26,5 @@
 | CH-016 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-017 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-018 | PASS v2 | complete | PASS v2 | **YES** |
-| CH-019 | pending | pending | pending | no |
+| CH-019 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-020 | pending | pending | pending | no |
