@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** ORIGINALITY REVISION v2 — GATE 2 REVALIDATION PASS — GATE 3 NEXT
+**Status:** ORIGINALITY REVISION v2 — GATE 3 REVALIDATION PASS — GATE 4 NEXT
 
 # Series Length
 
@@ -54,7 +54,7 @@ Opening system:
 Historical but revalidation-required:
 - Gate 1 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 2 — **PASS v2 REVALIDATION — 2026-09-19**
-- Gate 3 — REVALIDATE
+- Gate 3 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 4 — CHECK / REVALIDATE
 - Gate 5 — CHECK / REVALIDATE
 - Gate 6 — SUPERSEDED by v2 candidate architecture
@@ -113,12 +113,15 @@ No revised chapter is canon-approved yet.
 
 # Next Authorized Step
 
-**Gate 3 — Mystery/Twist QA Revalidation for Originality Revision v2.**
+**Gate 4 — Location QA Revalidation for Originality Revision v2.**
 
 Gate 1 v2 record:
 `qa/FOUNDATION-QA-V2.md`
 
 Gate 2 v2 record:
 `qa/CHARACTER-QA-V2.md`
+
+Gate 3 v2 record:
+`qa/MYSTERY-TWIST-QA-V2.md`
 
 Do not draft the new opening until affected gates are revalidated in production order.
