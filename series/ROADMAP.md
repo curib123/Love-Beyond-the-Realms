@@ -137,7 +137,7 @@ CH-001 through CH-020 v2 are canon-approved.
 
 # Next Authorized Step
 
-**Aster House Arc complete. Future arc selection remains UNSELECTED / UNLOCKED.**
+**Aster House Arc complete. Superseded by the later Gate 5 selection of the Shared Foundations Arc.**
 
 Gate 1 v2 record:
 `qa/FOUNDATION-QA-V2.md`
@@ -257,7 +257,10 @@ CH-001 through CH-020 are publication-ready.
 Final arc state:
 **R2 / P0 baseline / narrow controlled P1 / C0 / X0**
 
-Future arc:
+Next active arc:
+**Shared Foundations Arc — GATE 5 PASS**
+
+Later arcs:
 **UNSELECTED / UNLOCKED**
 
 # Next Authorized Step
