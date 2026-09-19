@@ -352,3 +352,27 @@ Canon status:
 # Current Next Authorized Step
 
 **CH-021 — The Inspection Notice → Gate 9 Chapter QA**
+
+
+# CH-021 Gate 9
+
+QA:
+`qa/CH-021-CHAPTER-QA.md`
+
+Result:
+**PASS — CANON-APPROVED**
+
+Arc 2 continuity:
+`continuity/SHARED-FOUNDATIONS-ARC-CONTINUITY.md`
+
+Latest canon:
+**CH-021 — The Inspection Notice**
+
+Arc state remains:
+**R2 / P0 baseline / narrow controlled P1 / C0 / X0 / K2**
+
+No M-ID or F-ID changed in CH-021.
+
+# Current Next Authorized Step
+
+**CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
