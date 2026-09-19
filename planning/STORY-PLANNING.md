@@ -1367,3 +1367,33 @@ From CH-022 onward, Gate 8 and Gate 9 must explicitly enforce this genre hierarc
 # 96. Current Next Production Step
 
 **CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
+
+
+# 97. CH-022 — The Safe Distance — Gate 8 Record
+
+Architecture:
+`planning/CH-022-SCENE-ARCHITECTURE.md`
+
+Gate 8:
+`qa/CH-022-PRE-MANUSCRIPT-SCENE-QA.md`
+
+Result:
+**PASS — MANUSCRIPT AUTHORIZED**
+
+Genre-priority result:
+**PASS**
+
+Execution lock:
+- Max-only close-third POV;
+- romance/relationship trust remains the emotional center;
+- slice-of-life preparation/recovery required;
+- survey remains bounded and concise;
+- first real symptom means return;
+- no portable communication;
+- no P1;
+- no M-ID/F-ID change at planning stage;
+- R2 remains unchanged.
+
+# 98. Next Production Step
+
+**CH-022 — The Safe Distance → Manuscript Draft**
