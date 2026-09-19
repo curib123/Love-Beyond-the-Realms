@@ -256,13 +256,21 @@ Twenty seconds.
 
 Thirty.
 
-When it arrived, it was only:
+Lily tapped the pen once.
+
+"Don't make this weird."
+
+The reply appeared.
 
 **GOOD.**
 
-Then another line appeared.
+Then, almost immediately:
 
 **FOR YOU, I MEAN.**
+
+Lily closed her eyes.
+
+"Too late."
 
 Lily raised an eyebrow.
 
@@ -631,6 +639,16 @@ Max's voice came back.
 "What happens next?"
 
 Lily looked at the agreement.
+
+Then at the kitchen.
+
+Then at the laundry she still had not folded.
+
+"Tomorrow?"
+
+"Generally, yes."
+
+She smiled.
 
 Good question.
 
