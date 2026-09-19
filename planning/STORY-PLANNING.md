@@ -914,7 +914,7 @@ Canon unchanged:
 
 # 62. Next Editorial Step
 
-**CH-020 — The Roommate Agreement → Final Prose Development Pass → Gate 9 Revalidation**
+**Final all-manuscript publication QA → verification pass**
 
 
 # 63. CH-010 Final Prose Revalidation
@@ -1117,3 +1117,29 @@ Canon unchanged:
 # 78. Next Editorial Step
 
 **CH-020 — The Roommate Agreement → Final Prose Development Pass → Gate 9 Revalidation**
+
+
+# 79. CH-020 Final Prose Revalidation
+
+Chapter:
+`manuscript/CH-020-THE-ROOMMATE-AGREEMENT.md`
+
+Gate 9:
+`qa/CH-020-CHAPTER-QA-V2.md`
+
+Result:
+**PASS — PUBLICATION-FINAL**
+
+Current word count:
+**1,729**
+
+Canon unchanged:
+- R2 Cross-World Roommates;
+- P0 baseline;
+- narrow controlled P1;
+- C0 / X0;
+- future arc remains unselected/unlocked.
+
+# 80. Next Editorial Step
+
+**Final all-manuscript publication QA → verification pass**
