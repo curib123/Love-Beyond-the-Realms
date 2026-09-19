@@ -3,7 +3,7 @@
 **Arc ID:** AH-ARC-001  
 **Owners:** A061 Arc Architect + A071 Arc Editor  
 **Selection:** Gate 5 approved  
-**Architecture Status:** GATE 6 CANDIDATE — NOT YET QA-LOCKED  
+**Architecture Status:** GATE 6 PASS — QA-LOCKED  
 **Chapter Count:** UNLOCKED
 
 # 1. Arc Purpose
