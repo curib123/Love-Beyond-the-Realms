@@ -7,12 +7,12 @@
 **Gate 5:** PASS  
 **Gate 6:** PASS — QA-LOCKED  
 **Gate 7:** PASS — QA-LOCKED  
-**Status:** ACTIVE PRODUCTION — CH-021 MANUSCRIPT NEXT  
+**Status:** ACTIVE PRODUCTION — CH-021 GATE 9 NEXT  
 **Date:** 2026-09-19
 
 | Chapter | Title | Gate 8 | Manuscript | Gate 9 | Canon |
 |---|---|---|---|---|---|
-| CH-021 | The Inspection Notice | **PASS** | pending | pending | NO |
+| CH-021 | The Inspection Notice | **PASS** | **complete — 1,993 words** | pending | NO |
 | CH-022 | The Safe Distance | pending | pending | pending | NO |
 | CH-023 | Behind the East Door | pending | pending | pending | NO |
 | CH-024 | Your Measurements Are Wrong | pending | pending | pending | NO |
@@ -63,6 +63,17 @@ QA:
 Result:
 **PASS — MANUSCRIPT AUTHORIZED**
 
+# CH-021 Manuscript Record
+
+Manuscript:
+`manuscript/CH-021-THE-INSPECTION-NOTICE.md`
+
+Status:
+**COMPLETE — 1,993 words**
+
+Canon:
+**NOT YET — GATE 9 PENDING**
+
 # Next Authorized Step
 
-**CH-021 — The Inspection Notice → Manuscript Draft**
+**CH-021 — The Inspection Notice → Gate 9 Chapter QA**
