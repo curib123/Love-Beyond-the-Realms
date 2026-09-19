@@ -19,7 +19,7 @@
 | CH-009 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-010 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-011 | PASS v2 | complete | PASS v2 | **YES** |
-| CH-012 | PASS v2 | complete | pending | no |
+| CH-012 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-013 | pending | pending | pending | no |
 | CH-014 | pending | pending | pending | no |
 | CH-015 | pending | pending | pending | no |
