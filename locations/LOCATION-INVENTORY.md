@@ -16,14 +16,14 @@ Classification does not assign a final series order.
 
 | ID | Location | Realm | Classification | Story Capacity | Mystery Risk | POV Utility |
 |---|---|---|---|---|---|---|
-| LOC-001 | Aster House | Earth | HIGH POTENTIAL | shared-apartment romcom, tenant life, local overlap | medium | Lily primary; Max perceivable through correlated overlap |
-| LOC-002 | Unit 4B | Earth | HIGH POTENTIAL | Lily/Max interaction, Echo Exchange, perception milestones | high | Lily physical POV space; Max cross-world interaction space |
+| LOC-001 | Aster House | Earth | HIGH POTENTIAL | tenant life, local overlap, room-before-person mystery | medium | Lily primary; Max affects only authorized correlated room/environment states |
+| LOC-002 | Unit 4B | Earth | HIGH POTENTIAL | anonymous writing, Echo Exchange, voice progression, later perception milestones | high | Lily physical POV space; Max initially detectable only through authorized Echo Trace |
 | LOC-003 | Paper Moon Books & Café | Earth | SUPPORTING | Lily's work, Ava, ordinary comedy, social pressure | low | Lily |
 | LOC-004 | Bellweather Riverfront | Earth | SUPPORTING | friendship, grief, romance, ordinary city life, controlled experiments | low | Lily; Max only if an authorized connection permits |
 | LOC-005 | Nora's Home | Earth | SUPPORTING | family, independence, ordinary life | low | Lily |
 | LOC-006 | East Maintenance Corridor | Earth | RESERVED | old structural channel, future mirrorstone evidence | high | Lily when authorized |
-| LOC-007 | Larkspur House | Velaire | HIGH POTENTIAL | Max-side life, family-search consequences, overlap investigation | high | Max primary; Lily perceivable only through authorized overlap |
-| LOC-008 | Room 17 | Velaire | HIGH POTENTIAL | paired coordinate, Max POV, Echo Exchange, Phase Lag | high | Max physical POV space; Lily cross-world interaction space |
+| LOC-007 | Larkspur House | Velaire | HIGH POTENTIAL | Max-side life, family-search consequences, overlap investigation | high | Max primary; Lily initially detectable only through authorized correlated room/environment states |
+| LOC-008 | Room 17 | Velaire | HIGH POTENTIAL | paired coordinate, anonymous writing, Echo Exchange, Phase Lag, later P1 | high | Max physical POV space; Lily initially detectable only through authorized Echo Trace |
 | LOC-009 | Rivenhall Civic Archive | Velaire | RESERVED | Max's work, records, Corven, later Twinfall/reactivation research | very high | Max |
 | LOC-010 | Arden Family Home | Velaire | RESERVED | Mina/Elara independent life and Max-family consequence | high | Max if physically/phase-accessible; Mina POV only if separately authorized |
 | LOC-011 | Rivenhall Market Bridges | Velaire | UNUSED | culture, ordinary life, comedy, future cross-world contrast | low | Max |
@@ -106,9 +106,11 @@ Velaire ordinary-life anchors:
 
 Using a location for ordinary life does not automatically activate its mystery content.
 
-# 4. Aster / Larkspur Dual-POV Function
+# 4. Aster / Larkspur Dual-POV Function — v2
 
-The opening location pair is intentionally asymmetric.
+The opening pair supports **room-before-person discovery**.
+
+The locations are correlated strongly enough for environmental information to cross before person-image information.
 
 ## Lily side
 
@@ -117,7 +119,12 @@ Aster House / Unit 4B gives Lily:
 - independence pressure;
 - landlord/neighbour consequences;
 - Earth-side clues;
-- the ability to observe Max through P0 Bleed.
+- ordinary surfaces that can receive limited Echo Trace;
+- a tall window/light source that can briefly show the wrong branch state;
+- an old wall mirror reserved for later P1-oriented testing;
+- a writing-capable surface or paper placed at a correlated coordinate.
+
+Lily does **not** receive direct person sight at P0.
 
 ## Max side
 
@@ -126,11 +133,26 @@ Larkspur House / Room 17 gives Max:
 - incident consequences;
 - his own investigation space;
 - Velaire-side clues;
-- the ability to hear/sense Lily under P0.
+- corresponding room surfaces capable of limited Echo Trace;
+- a light/window or instrument-facing line capable of branch-state bleed;
+- a reflective/instrument surface reserved for later P1-oriented testing;
+- a writing-capable surface corresponding closely enough to Unit 4B for controlled early messages.
+
+Max does **not** receive direct person sight at P0.
 
 ## Shared function
 
-The pair supports both regular POVs without requiring both protagonists to occupy the same physical world.
+The pair can support this progression without either protagonist physically entering the other world:
+
+1. wrong room/light state;
+2. surface mark;
+3. limited written response;
+4. intermittent audio;
+5. later P1 indirect sight.
+
+The paired writing surfaces do not reveal why the buildings correlate.
+
+Their deeper common-history explanation remains protected by MT-001.
 
 A POV scene must stay physically and informationally consistent with its owner.
 
@@ -144,9 +166,10 @@ Purpose:
 - establish Lily;
 - establish Max;
 - establish both POV voices;
-- establish the roommate romantic-comedy engine;
+- establish room-before-person mystery;
+- establish anonymous-correspondent romantic-comedy;
 - prove repeatable dimensional behavior;
-- seed Echo Exchange;
+- seed Echo Exchange through environment before person-image data;
 - support fair clues toward deeper mystery;
 - keep high-level Twinfall truth protected.
 
