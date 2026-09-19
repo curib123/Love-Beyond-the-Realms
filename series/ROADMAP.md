@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** ASTER HOUSE ARC COMPLETE — CH-001–CH-020 CANON-APPROVED
+**Status:** ASTER HOUSE ARC CANON-COMPLETE — FULL MANUSCRIPT QA: EDITORIAL REVISION REQUIRED
 
 # Series Length
 
@@ -133,3 +133,17 @@ Gate 5 v2 record:
 `qa/ACTIVE-ARC-SELECTION-QA-V2.md`
 
 Aster House Arc production is complete. Any new active arc must begin through the normal selection and QA gate process.
+
+
+# Post-Arc Full Manuscript QA
+
+Record:
+`qa/ASTER-HOUSE-FULL-MANUSCRIPT-QA.md`
+
+Result:
+**CANON PASS / PUBLICATION-READINESS REVISION REQUIRED**
+
+Priority final-prose queue:
+CH-005, CH-010, CH-011, CH-013, CH-014, CH-015, CH-017, CH-018, CH-019, CH-020.
+
+Future arc selection remains unlocked until the user chooses to proceed; this editorial pass does not alter canon.
