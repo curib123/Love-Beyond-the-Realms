@@ -156,11 +156,13 @@ Their deeper common-history explanation remains protected by MT-001.
 
 A POV scene must stay physically and informationally consistent with its owner.
 
-# 5. Opening Active Arc
+# 5. Completed Opening Active Arc
 
 **Selected cluster:** Aster House + Unit 4B + controlled Larkspur/Room 17 POV scenes.
 
 **Arc name:** Aster House Arc
+
+**Status:** COMPLETE — PUBLICATION-FINAL
 
 Purpose:
 - establish Lily;
@@ -189,3 +191,79 @@ A future location may become an active arc only when:
 No current RESERVED or UNUSED location is automatically the next arc.
 
 Future route remains **UNLOCKED**.
+
+
+# 7. Current Active Arc Selection — Post-Aster
+
+**Selected Arc:** **Shared Foundations Arc**
+
+**Gate 5 Status:** SELECTED — REQUIRES GATE 6 ARCHITECTURE QA
+
+## Primary Active Cluster
+
+Earth:
+- **LOC-001 — Aster House** — Lily's home/base;
+- **LOC-002 — Unit 4B** — safe P0 communication base;
+- **LOC-006 — East Maintenance Corridor** — new primary Earth investigation location.
+
+Velaire:
+- **LOC-007 — Larkspur House** — Max-side active structure;
+- **LOC-008 — Room 17** — safe communication/reference base;
+- immediately adjoining Larkspur interior only within Max's existing phase-bound mobility.
+
+## Supporting Locations
+
+May continue without becoming separate active arcs:
+- LOC-003 Paper Moon Books & Café;
+- LOC-004 Bellweather Riverfront;
+- LOC-005 Nora's Home.
+
+Reserved/non-active for this Gate 5 selection:
+- LOC-009 Rivenhall Civic Archive — not a primary physical Max location while phase-bound;
+- LOC-010 Arden Family Home — not used to bypass Max's uncertainty about Mina;
+- LOC-011 Rivenhall Market Bridges — remains future ordinary-life capacity;
+- LOC-012 Hollow Between — remains protected.
+
+## Selection Purpose
+
+The next active arc will investigate **why Aster House and Larkspur House show deeper structural correspondence beyond Unit 4B / Room 17** without revealing the Twinfall.
+
+This naturally opens a local path toward:
+- M-007 as a future on-page investigation question;
+- controlled progress on M-003/M-004;
+- possible later setup for F-005 Shared Foundation Mark and F-007 Map Similarity.
+
+Gate 5 selection does **not** plant any F-ID and does **not** change any M-ID state.
+
+## Starting Canon Envelope
+
+- Relationship: **R2 — Cross-World Roommates**
+- Default perception: **P0 Echo Trace**
+- Narrow P1: learned, controlled, consent-based
+- Contact: **C0**
+- Crossing: **X0**
+- Knowledge: **K2**
+- Max remains phase-bound to the Larkspur correlation zone.
+
+## Protection
+
+This selection does not authorize:
+- MT-001 Worlds Were Once One;
+- MT-002 Present Overlap Was Reactivated;
+- MT-003 Their Experiments Strengthen the Leak;
+- Mina survival reaching Max;
+- Mina POV;
+- restricted Threshold Keeper records;
+- Hollow entry;
+- C1+ or X1+.
+
+## Future Route
+
+Still open after this selection:
+- Mina/family investigation;
+- Civic Archive/reactivation investigation;
+- broader Rivenhall exploration;
+- Hollow/crossing arcs;
+- later romance/contact arcs.
+
+Only the **Shared Foundations Arc** is active.
