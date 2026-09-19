@@ -260,24 +260,19 @@ A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story eve
 
 # 6A. Current On-Page Mystery State
 
-**Through canonical CH-014 v2**
+**Through canonical CH-015 v2**
 
 | Mystery | State | Canon Basis |
 |---|---|---|
 | M-001 | RESOLVED locally | mutual reality evidence |
 | M-002 | PARTIAL | receiver-specific P1 |
-| M-003 | ACTIVE | furniture-state overlap and later local geometry mismatch |
-| M-004 | ACTIVE | measured Phase Lag; instability now complicates timing further |
-| M-005 | PARTIAL | Max's Larkspur/Mina disclosure |
-| M-006–M-011 | protected/unresolved | no authorized advancement |
+| M-003 | ACTIVE | object/room-state and geometry mismatch |
+| M-004 | ACTIVE — SEVERE LAG | delayed/duplicated arrivals extend into tens of seconds/minute range; no pre-echo |
+| M-005 | PARTIAL | Larkspur/Mina disclosure |
+| M-006–M-011 | protected/unresolved | no advancement |
 
-Foreshadowing:
-- F-001 PLANTED
-- F-002 PLANTED
-- **F-003 PLANTED CH-014**
-- F-004–F-008 NOT YET PLANTED
-
-The CH-014 acute instability does not reveal MT-003.
+F-001/F-002/F-003 remain PLANTED.
+No new F-ID in CH-015.
 
 # 7. Foreshadowing IDs
 
