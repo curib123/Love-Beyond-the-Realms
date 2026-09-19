@@ -482,7 +482,7 @@ Lily answered:
 
 Max smiled.
 
-Apparently, scientific procedure had become emotional supervision.
+Apparently Lily had turned experimental procedure into a way of making sure he didn't lie to himself.
 
 His compass provided a known reference on the Room 17 side.
 
@@ -574,11 +574,11 @@ Lily answered:
 
 **THAT WASN'T YES.**
 
-Max leaned back and looked toward the corridor.
+Max looked toward the corridor.
 
-Then at the compass.
+Then the compass.
 
-Then back at the page.
+Then Lily's waiting **MAX.**
 
 "You're impossible."
 
