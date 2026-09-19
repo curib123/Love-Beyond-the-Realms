@@ -448,7 +448,9 @@ Her voice came through.
 
 Max opened his mouth.
 
-Nothing useful came out.
+Nothing.
+
+For once, his brain had produced absolutely nothing.
 
 The image shook.
 
@@ -584,7 +586,13 @@ Max stared at what he had written.
 
 Silence.
 
-Long enough for him to consider whether Room 17 could kindly fold him out of existence.
+One second.
+
+Two.
+
+Three.
+
+Plenty of time to regret having hands.
 
 Then:
 
