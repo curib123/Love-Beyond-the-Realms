@@ -888,7 +888,7 @@ Result:
 **PUBLICATION-READINESS REVISION REQUIRED**
 
 Priority final-prose queue:
-CH-017 → CH-018 → CH-019 → CH-020.
+CH-018 → CH-019 → CH-020.
 
 Canon must remain unchanged during this pass.
 
@@ -914,7 +914,7 @@ Canon unchanged:
 
 # 62. Next Editorial Step
 
-**CH-017 — Same Count, Same Time → Final Prose Development Pass → Gate 9 Revalidation**
+**CH-018 — Let Go on Three → Final Prose Development Pass → Gate 9 Revalidation**
 
 
 # 63. CH-010 Final Prose Revalidation
@@ -1041,3 +1041,28 @@ Canon unchanged:
 # 72. Next Editorial Step
 
 **CH-017 — Same Count, Same Time → Final Prose Development Pass → Gate 9 Revalidation**
+
+
+# 73. CH-017 Final Prose Revalidation
+
+Chapter:
+`manuscript/CH-017-SAME-COUNT-SAME-TIME.md`
+
+Gate 9:
+`qa/CH-017-CHAPTER-QA-V2.md`
+
+Result:
+**PASS — PUBLICATION-FINAL**
+
+Current word count:
+**1,470**
+
+Canon unchanged:
+- coordinated neutral-state timing reduces mismatch;
+- no new power;
+- final shutdown remains CH-018;
+- R1 / narrow P1 / C0 / X0.
+
+# 74. Next Editorial Step
+
+**CH-018 — Let Go on Three → Final Prose Development Pass → Gate 9 Revalidation**
