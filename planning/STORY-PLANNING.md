@@ -285,139 +285,29 @@ Gate 7 approved:
 - no P2/P3, C1+, or X1+;
 - future arc still unlocked.
 
-# 16. CH-001 Gate 8 Record
+# 16. Originality Revision v2 Production Reset
 
-Detailed scene architecture:
+Revision record:
 
-`planning/CH-001-SCENE-ARCHITECTURE.md`
+`revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`
 
-Formal QA:
+The opening foundation has changed from one-way person visibility to:
 
-`qa/CH-001-PRE-MANUSCRIPT-SCENE-QA.md`
+**room → writing → voice → face**
 
-CH-001 Gate 8 status:
+Production effects:
+- previous CH-001/CH-002 manuscript canon is superseded;
+- previous CH-001/CH-002 Gate 8/9 approvals are historical only;
+- previous Gate 6/7 arc locks are superseded by v2 candidate architecture/roadmap;
+- the 20-chapter Aster House shape remains **PROVISIONAL**;
+- CH-010 remains the intended first P1 sight milestone, pending revalidation.
 
-**PASS — MANUSCRIPT AUTHORIZED**
+Current active documents:
+- `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md` — v2 candidate
+- `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md` — v2 candidate
 
-Locked CH-001 scene sequence:
-1. SC-001-01 The Key Works
-2. SC-001-02 Make It Livable
-3. SC-001-03 I'm Fine
-4. SC-001-04 Not Alone
+# 17. Next Production Step
 
-No F-ID is assigned to CH-001.
+**Gate 1 — Foundation QA Revalidation (Originality Revision v2)**
 
-# 17. CH-001 Manuscript Draft Record
-
-Manuscript:
-
-`manuscript/CH-001-A-PLACE-OF-MY-OWN.md`
-
-Status:
-
-**DRAFT COMPLETE — GATE 9 NOT YET RUN**
-
-Draft length:
-- approximately 1,900 words;
-- within the flexible chapter-length guideline;
-- not padded to hit a quota.
-
-# 18. CH-001 Gate 9 Record
-
-Formal QA:
-
-`qa/CH-001-CHAPTER-QA.md`
-
-Status:
-
-**PASS — CANON-APPROVED**
-
-Canonical manuscript:
-
-`manuscript/CH-001-A-PLACE-OF-MY-OWN.md`
-
-Gate 9 required:
-- paragraph-flow revision;
-- restoration of the explicit four-scene structure.
-
-Final manuscript remains approximately 1,893 words.
-
-# 19. CH-002 Gate 8 Record
-
-Detailed scene architecture:
-
-`planning/CH-002-SCENE-ARCHITECTURE.md`
-
-Formal QA:
-
-`qa/CH-002-PRE-MANUSCRIPT-SCENE-QA.md`
-
-CH-002 Gate 8 status:
-
-**PASS — MANUSCRIPT AUTHORIZED**
-
-Locked CH-002 scene sequence:
-1. SC-002-01 Intruder
-2. SC-002-02 He Isn't Looking at Me
-3. SC-002-03 The World's Worst Burglar
-4. SC-002-04 Can You Hear Me?
-
-No F-ID is assigned to CH-002.
-
-Planned mystery transition:
-- M-001 → ACTIVE through manuscript events;
-- M-002 receives first observable asymmetry only.
-
-The actual canon mystery state changes only after prose exists and passes chapter QA.
-
-# 20. CH-002 Manuscript Draft Record
-
-Manuscript:
-
-`manuscript/CH-002-THERE-IS-A-BOY-IN-MY-APARTMENT.md`
-
-Status:
-
-**DRAFT COMPLETE — GATE 9 NOT YET RUN**
-
-Draft length:
-- approximately 1,340 words;
-- slightly below the suggested range but complete;
-- not padded to hit a quota.
-
-Scene compliance:
-- four Lily-only scenes;
-- no formal experiment;
-- no touch/object test;
-- no F-ID assignment;
-- endpoint is Max reacting to Lily's voice without seeing her.
-
-# 21. CH-002 Gate 9 Record
-
-Formal QA:
-
-`qa/CH-002-CHAPTER-QA.md`
-
-Status:
-
-**PASS — CANON-APPROVED**
-
-Canonical manuscript:
-
-`manuscript/CH-002-THERE-IS-A-BOY-IN-MY-APARTMENT.md`
-
-Gate 9 required:
-- paragraph-flow revision.
-
-Final manuscript remains approximately 1334 words.
-
-Canon mystery-state result:
-- M-001 ACTIVE;
-- M-002 ACTIVE with first observable asymmetry;
-- all F-IDs remain PLANNED — NOT YET PLANTED.
-
-# 22. Next Production Step
-
-**CH-003 — The Voice That Shouldn't Be Here → Detailed Scene Architecture → Gate 8**
-
-CH-003 manuscript drafting remains unauthorized until its Gate 8 scene architecture passes.
+Do not draft revised CH-001 or CH-002 until the affected gates are revalidated in order.
