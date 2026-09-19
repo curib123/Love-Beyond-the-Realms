@@ -48,7 +48,9 @@ Lily shifted the box against her hip and took it.
 
 "Yours."
 
-The word landed harder than it should have.
+Lily looked down at the key.
+
+For a second, the elevator groans, the rain, even Mrs. Bell beside her all seemed farther away.
 
 The apartment was not impressive. The ceiling paint had been repaired in a shade that almost matched. The floor leaned just enough to make loose objects reconsider their position. The kitchen was small. The bathroom looked offended by the idea of elbows.
 
