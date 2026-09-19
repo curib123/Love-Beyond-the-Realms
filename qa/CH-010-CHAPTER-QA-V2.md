@@ -3,7 +3,7 @@
 **Chapter:** I Can See You  
 **Result:** **PASS**  
 **Canon Status:** **APPROVED**  
-**Word Count:** 742  
+**Word Count:** 1,890  
 **Blocking:** 0  
 **Major:** 0  
 **Minor:** 2
@@ -50,3 +50,41 @@ R1 remains the formal state, with early cross-world-roommate behavior deepening.
 # Next
 
 **CH-011 — That Is Not What I Imagined → Detailed Scene Architecture → Gate 8**
+
+
+# Final Prose Development — Gate 9 Revalidation
+
+**Result:** **PASS**  
+**Publication Readiness:** **FINAL-PASS**  
+**Current Word Count:** **1,890**
+
+The midpoint-compression issue identified by the full-manuscript audit has been corrected.
+
+Development added only:
+- clearer receiver-calibration reasoning from prior lag data;
+- stronger sensory grounding during failed reflective attempts;
+- more breathing room around Max's temptation to push despite eye strain;
+- fuller five-second first-sight experience;
+- richer but restrained appearance observation;
+- explicit emphasis that Lily was already real to Max before he saw her;
+- fuller post-sight awkwardness, asymmetry, and separate-calibration handoff.
+
+Canon preserved exactly:
+- Max-only close third;
+- first person-image remains indirect through the polished receiver;
+- successful image lasts approximately five seconds;
+- Max alone reaches narrow P1;
+- Lily remains P0;
+- no direct naked-eye sight;
+- no touch/contact/crossing;
+- no P2/P3;
+- eye/head strain remains the cost;
+- R1 remains;
+- **M-002 remains PARTIAL**;
+- M-003/M-004 remain ACTIVE;
+- no new F-ID;
+- MT-001/002/003 remain protected.
+
+No new clue, power, relationship milestone, or mystery state was introduced.
+
+**FINAL GATE 9 REVALIDATION — PASS / PUBLICATION-FINAL**
