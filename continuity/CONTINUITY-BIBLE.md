@@ -145,6 +145,17 @@ Every F-ID records:
 - REINFORCED
 - PAID OFF
 
+The authoritative initial knowledge baseline is stored in:
+
+`mysteries/MYSTERY-BIBLE.md → Initial Knowledge Matrix`
+
+A scene or chapter that changes character knowledge must record:
+- source of information;
+- who observed it;
+- what they concluded;
+- whether that conclusion is correct;
+- which M-ID/F-ID/MT-ID is affected.
+
 # 13. Twist State
 
 Every major Twist ID records:
@@ -155,6 +166,11 @@ Every major Twist ID records:
 - CONSEQUENCE ACTIVE
 
 No major twist jumps directly from writer truth to reveal.
+
+Before REVEAL AUTHORIZED:
+- required clue paths must exist in manuscript;
+- active POV knowledge must be audited;
+- emotional and plot consequences must be defined.
 
 # 14. Consequence Rule
 
@@ -170,3 +186,9 @@ After major experiments record:
 # 15. Canon Conflict Rule
 
 When manuscript conflicts with a higher canon Bible, manuscript loses unless the higher canon is explicitly revised.
+
+A later twist may reinterpret established information but may not silently rewrite:
+- physical rules;
+- character knowledge;
+- published observations;
+- protected ordinary events.
