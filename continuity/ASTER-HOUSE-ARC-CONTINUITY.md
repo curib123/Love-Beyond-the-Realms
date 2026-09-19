@@ -31,4 +31,34 @@ Major twists:
 
 # Chapter Ledger
 
-No v2 chapter is canon-approved yet.
+## CH-001 — A Place of My Own — CANON
+
+Knowledge:
+- Lily knows Unit 4B produced one impossible environmental state;
+- Lily does not know Max, Velaire, or another room exists.
+
+Mystery:
+- M-001 **ACTIVE** — broad question: what is altering the room?
+- M-002–M-011 unchanged.
+
+F-IDs:
+- all **PLANNED — NOT YET PLANTED**.
+
+State:
+- K0
+- R0
+- P0 Echo Trace
+- C0
+- X0
+
+System observation:
+- wrong-city/window light state lasting only seconds;
+- no person-image;
+- no writing/audio.
+
+# Current State
+
+Latest canon: **CH-001**
+
+M-001 ACTIVE.
+All other M-IDs unchanged.
