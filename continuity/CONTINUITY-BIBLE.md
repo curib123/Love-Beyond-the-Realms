@@ -198,55 +198,55 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-012 v2
+# 16. Current Canon State — Through CH-013 v2
 
-**Latest Canon Chapter:** CH-012 — Rent, Repairs, and Other Horrors
-
-## Lily
-- remains committed to Unit 4B as her home;
-- reported ordinary mirror-mount damage rather than hiding it;
-- accepted limited support from Nora without moving home;
-- has explicit limits on late-night testing and apartment damage.
+**Latest Canon Chapter:** CH-013 — One More Test
 
 ## Max
-- accepts that Lily's home/work/sleep responsibilities outrank convenient visual access;
-- agrees to pause Lily-side visual calibration until repair is complete.
+- has told Lily that the Larkspur accident occurred while he was trying to reach his younger sister, Mina;
+- became phase-bound during the collapse;
+- does not know what happened to Mina afterward;
+- wants a stronger spatial reading because he hopes to learn whether his condition has directional structure.
+
+## Lily
+- knows the safe portion of Max's accident history;
+- understands his family urgency;
+- agrees to one stronger test only under explicit safety conditions.
 
 ## Reader Knowledge
 **K2**
 
 ## Relationship
-**R1 — Mutual Reality Test, deepened toward roommate behavior**
+**R1 — deepened**
 
-## Perception / Contact / Crossing
-- Lily: narrow P1 capability, current mirror receiver temporarily unavailable during ordinary repair
-- Max: narrow P1 capability
+## System
+- both retain narrow P1
 - C0
 - X0
+
+## Planned Stronger-Test Safety Conditions
+- daytime;
+- not a Lily work day;
+- one attempt only;
+- either person may stop;
+- no crossing or contact objective.
 
 ## Mystery
 - M-001 RESOLVED locally
 - M-002 PARTIAL
 - M-003 ACTIVE
 - M-004 ACTIVE
-- M-005 unadvanced
+- **M-005 PARTIAL**
 
 ## Foreshadowing
 - F-001 PLANTED
 - F-002 PLANTED
 - F-003–F-008 NOT YET PLANTED
 
-## Ordinary-Life Rules
-- no late tests before work days;
-- restore furniture/fixtures after tests;
-- building repair/inspection access takes priority;
-- Unit 4B is a home before it is an experiment site.
+## Protected
+Mina survival, deliberate reactivation, full accident cause, MT-001/002/003.
 
-## CH-013 Guard
-CH-013 may partially open M-005 through Max's controlled incident disclosure.
+## CH-014 Guard
+Execute one stronger observation attempt using existing anchors only.
 
-It must not reveal:
-- Mina survived;
-- deliberate reactivation;
-- full Larkspur cause;
-- MT-001/002/003.
+The attempt may create acute instability, but characters may not infer the broader MT-003 truth.
