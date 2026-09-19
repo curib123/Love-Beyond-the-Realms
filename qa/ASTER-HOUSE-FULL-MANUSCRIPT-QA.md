@@ -19,10 +19,10 @@ The arc is structurally complete and all 20 chapters have canonical story conten
 - 20/20 v2 Gate 9 records present.
 - 20/20 chapters now contain the intended four scene sections / three explicit scene breaks.
 - 0 manuscript files contain DRAFT, TODO, TBD, PLACEHOLDER, or INSERT HERE markers.
-- Total current manuscript size by repository tokenized word-count method: approximately **19,206 words**.
+- Total current manuscript size by repository tokenized word-count method: approximately **20,439 words**.
 - Writing Rules default: approximately **1,400–2,400 words per chapter**, explicitly flexible and not a quota.
-- 16/20 chapters are below 1,400 words.
-- 13/20 chapters are below 900 words.
+- 15/20 chapters are below 1,400 words.
+- 12/20 chapters are below 900 words.
 
 Length alone is **not** a failure. The concern is where a major emotional/relationship/mystery milestone is compressed enough that it reads more like a finished scene sequence than a fully developed web-novel chapter.
 
@@ -73,7 +73,7 @@ Old CH-012 draft-stage records and pre-Gate-7 provisional language are now expli
 | CH-008 | 813 | PASS | **PASS — SHORT FORM** | Controlled object-state experiment and F-002 plant are complete, though concise. |
 | CH-009 | 661 | PASS | **PASS — SHORT FORM** | Failed visual test is deliberately narrow and cleanly sets CH-010. |
 | CH-010 | 1,890 | **PASS — REVALIDATED** | **FINAL-PASS** | Midpoint P1 sight now has full calibration, sensory, emotional, and asymmetry weight without changing canon. |
-| CH-011 | 583 | PASS | **REVISION REQUIRED — MILESTONE COMPRESSION** | Lily's first sight of Max plus privacy rules are too compressed for the reciprocal visual payoff. |
+| CH-011 | 1,816 | **PASS — REVALIDATED** | **FINAL-PASS** | Reciprocal P1 sight, mental-image correction, and privacy rules now have full emotional and consent weight without canon drift. |
 | CH-012 | 1,644 | PASS | **FINAL-PASS** | Ordinary-life consequence chapter is fully developed and balanced. |
 | CH-013 | 668 | PASS after knowledge fix | **REVISION REQUIRED — MILESTONE COMPRESSION** | Mina disclosure, Max's usefulness wound, and stronger-test decision need more room. |
 | CH-014 | 691 | PASS | **REVISION REQUIRED — MILESTONE COMPRESSION** | Arc reversal and F-003 plant are correct but too compressed for the danger shift. |
@@ -130,11 +130,18 @@ Major twists:
 - publication readiness: **FINAL-PASS**;
 - canon unchanged.
 
+## CH-011 Final Prose Revalidation
+- reciprocal-first-sight compression corrected;
+- current manuscript: **1,816 words**;
+- Gate 9 revalidation: **PASS**;
+- publication readiness: **FINAL-PASS**;
+- canon unchanged.
+
 # Required Final-Prose Revision Queue
 
 Priority revision chapters:
 
-**CH-011 → CH-013 → CH-014 → CH-015 → CH-017 → CH-018 → CH-019 → CH-020**
+**CH-013 → CH-014 → CH-015 → CH-017 → CH-018 → CH-019 → CH-020**
 
 Revision rule:
 - preserve canon exactly;
@@ -151,6 +158,6 @@ No chapter is missing.
 
 No current manuscript is literally marked DRAFT.
 
-However, eight milestone/climax/aftermath chapters still require a final prose-development pass before this QA can be upgraded to:
+However, seven milestone/climax/aftermath chapters still require a final prose-development pass before this QA can be upgraded to:
 
 **FULL MANUSCRIPT QA — FINAL PASS**
