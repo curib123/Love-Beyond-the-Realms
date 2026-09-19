@@ -200,6 +200,28 @@ Before manuscript prose exists:
 
 A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story events.
 
+# 6A. Current On-Page Mystery State
+
+**Through canonical CH-002**
+
+| Mystery | Current Canon State | On-Page Basis |
+|---|---|---|
+| M-001 — Is Max a ghost? | **ACTIVE** | Lily sees an impossible young man in locked Unit 4B, considers intruder/hallucination/ghost possibilities, and has no answer yet. |
+| M-002 — Why can Lily see Max while Max cannot see Lily? | **ACTIVE — FIRST OBSERVABLE ASYMMETRY** | Lily repeatedly sees Max fail to visually track her; Max reacts only after Lily speaks. |
+| M-003 | UNASKED | No canonical object-state exchange investigation yet. |
+| M-004 | UNASKED | No canonical timing anomaly investigation yet. |
+| M-005 | UNASKED | No canonical investigation of Max's incident yet. |
+| M-006 | UNASKED / PROTECTED | Mina remains outside Lily's knowledge and protected from Max. |
+| M-007 | UNASKED / PROTECTED | No building-history comparison yet. |
+| M-008 | UNASKED / PROTECTED | Twinfall remains protected. |
+| M-009 | UNASKED / PROTECTED | Responsible researcher remains protected/unlocked. |
+| M-010 | UNASKED / PROTECTED | No growth-consequence question yet. |
+| M-011 | UNASKED | Safe long-term contact not yet investigated. |
+
+This section tracks **current canon**.
+
+The Initial Mystery-State Ledger above remains the historical baseline before manuscript events.
+
 # 7. Foreshadowing IDs
 
 Every F-ID currently has the status:
