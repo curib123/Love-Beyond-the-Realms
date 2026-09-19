@@ -24,13 +24,13 @@ No lower-level planning file may convert Writer Truth into character knowledge m
 # 2. Reveal Windows
 
 **RW-0 — Opening**  
-The apartment is impossible.
+The room is impossible, but no person-image is available.
 
 **RW-1 — Early**  
-Max is not a normal ghost.
+Evidence supports another independent intelligence / living correspondent across the overlap.
 
 **RW-2 — Developing**  
-The overlap follows repeatable physical rules.
+The overlap follows repeatable physical rules and person-image data requires stronger conditions than room/information data.
 
 **RW-3 — Expansion**  
 Earth and Velaire share deeper history.
@@ -117,35 +117,75 @@ Stable branch contact may eventually be possible, but it will require technical,
 
 Do not promise an easy ending early.
 
-# 4. Initial Knowledge Matrix
+# 4. Staged Initial Knowledge Matrix
 
-This matrix defines the baseline **before Lily and Max complete their first successful mutual reality test**.
+The v2 opening requires **staged knowledge**, because Max receives his own POV before Lily completes a mutual reality test.
 
-Later knowledge must be updated through scene/chapter continuity records.
+A single static matrix is not sufficient.
+
+## K0 — Before Max POV / Before Independent Correspondent Is Confirmed
 
 | Truth | Reader | Lily | Max | Supporting Cast |
 |---|---|---|---|---|
-| WT-001 Max is alive | UNKNOWN / ghost assumption allowed | UNKNOWN | KNOWS he is alive | Velaire family knows Max was alive before disappearance; Earth cast does not know Max |
+| WT-001 Max is alive | UNKNOWN | UNKNOWN | KNOWS he is alive | Velaire family knows Max was alive before disappearance; Earth cast does not know Max |
 | WT-002 Lily is not chosen | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN |
-| WT-003 parents are outside conspiracy | ordinary accident is the known explanation | believes ordinary accident | no knowledge of Lily's parents | Nora knows ordinary accident; no dimensional link |
+| WT-003 parents outside conspiracy | ordinary accident known | believes ordinary accident | no knowledge | Nora knows ordinary accident |
 | WT-004 worlds were once one | PROTECTED | UNKNOWN | UNKNOWN | PROTECTED |
 | WT-005 buildings share pre-Twinfall origin | PROTECTED | UNKNOWN | UNKNOWN | PROTECTED |
 | WT-006 Echo Exchange is state leakage | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN |
-| WT-007 Max's binding was accidental | UNKNOWN | UNKNOWN | knows he did not intend to become phase-bound, but does not know full cause | Mina/Elara know he disappeared during an incident, not the full mechanism |
-| WT-008 Mina survived | PROTECTED from Max | no knowledge of Mina | UNKNOWN / fears she may be dead | Mina and Elara know Mina survived |
-| WT-009 Corven is not mastermind | UNKNOWN | UNKNOWN | may distrust containment authorities but has no proof of a mastermind | Corven knows his own actions only |
-| WT-010 reactivation was deliberate | PROTECTED | UNKNOWN | knows equipment was active during the incident but **does not know deliberate restart or responsible person** | Corven may suspect a technical cause; exact restricted knowledge must be locked before any disclosure |
-| WT-011 their experiments strengthen leak | PROTECTED | UNKNOWN | UNKNOWN | UNKNOWN |
+| WT-007 Max binding accidental | UNKNOWN | UNKNOWN | knows he did not intend phase binding, not full cause | Mina/Elara know disappearance followed incident, not mechanism |
+| WT-008 Mina survived | PROTECTED | no knowledge | UNKNOWN / fears she may be dead | Mina and Elara know |
+| WT-009 Corven not mastermind | UNKNOWN | UNKNOWN | may distrust authorities, no mastermind proof | Corven knows own actions |
+| WT-010 deliberate reactivation | PROTECTED | UNKNOWN | knows equipment was active, not deliberate restart/responsible person | exact support knowledge remains locked |
+| WT-011 experiments strengthen leak | PROTECTED | UNKNOWN | UNKNOWN | UNKNOWN |
 | WT-012 no simple one-world choice | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN |
+
+## K1 — After First Max POV, Before Successful Mutual Reality Test
+
+Once a truthful Max POV appears, the **reader may know facts Max genuinely knows**.
+
+Most importantly:
+
+| Truth | Reader | Lily | Max |
+|---|---|---|---|
+| WT-001 Max is alive | **KNOWN TO READER THROUGH MAX POV** | UNKNOWN | KNOWS |
+| Max has ordinary Velaire memories / family concerns | may know only what Max naturally thinks/observes | UNKNOWN | KNOWS |
+| Lily is a real living Earth person | UNKNOWN / hypothesis only | UNKNOWN about Max | UNKNOWN / hypothesis only |
+| WT-004/005/010/011 major protected truths | PROTECTED | UNKNOWN | UNKNOWN beyond recorded limits |
+
+This asymmetry is allowed and desirable.
+
+The mystery is not "hide from the reader that Max is alive at all costs."
+
+The early reader question becomes:
+- who/what is affecting Lily's room;
+- whether Lily and Max can prove the correspondent is independent and living;
+- why room/information data crosses before person-image data.
+
+## K2 — After Successful Mutual Reality Test
+
+Only after actual manuscript events earn it may Lily and Max move from hypothesis toward:
+- the other correspondent is independent;
+- the other correspondent is likely living;
+- communication can be reproduced.
+
+Even then they do **not** automatically know:
+- split-history truth;
+- shared building origin;
+- deliberate reactivation;
+- MT-003;
+- safe crossing mechanics.
 
 ## Knowledge-Lock Rule
 
 Until a knowledge update is explicitly earned:
 - Lily cannot infer Velaire history from writer notes;
 - Max cannot know Earth history merely because Room 17 overlaps Unit 4B;
+- Max POV may reveal only facts Max actually knows;
+- reader knowledge may exceed Lily knowledge when Max POV honestly supplies it;
 - Corven cannot reveal MT-001, MT-002, or MT-003 unless his exact evidence and authorization are recorded;
 - Mina cannot function as an exposition shortcut;
-- reader knowledge follows published prose, not repository metadata.
+- reader knowledge follows canonical prose, not repository metadata.
 
 # 5. Mystery IDs
 
@@ -229,7 +269,9 @@ No F-ID may become PLANTED until matching manuscript prose exists.
 
 **F-001 — Mirror Delay**  
 Status: **PLANNED — NOT YET PLANTED**  
-Lily's reflection and Max's room do not align at the same instant.
+During an authorized P1-oriented reflective test, person-image information appears delayed or misaligned relative to room-state information.
+
+F-001 may not grant or imply direct person sight before the perception ladder authorizes it.
 
 **F-002 — Wrong Furniture**  
 Status: **PLANNED — NOT YET PLANTED**  
@@ -258,6 +300,53 @@ Two city maps are different but share impossible old geometry beneath later stre
 **F-008 — Mina Trace**  
 Status: **PLANNED — NOT YET PLANTED**  
 An echo suggests Mina remained alive after Max disappeared.
+
+# 7A. v2 Opening Evidence Ladder
+
+These are **core local mystery clues**, not automatically major-twist foreshadowing IDs.
+
+They remain planning-level until actual prose exists.
+
+## M-001 — Who Is Changing the Room?
+
+Planned evidence classes:
+1. environmental state appears that Lily did not cause;
+2. a written mark appears in a corresponding place;
+3. a response changes meaningfully after Lily writes back;
+4. Max POV demonstrates independent intent without replaying Lily's scene;
+5. later reality tests eliminate simple prank/self-generated explanations.
+
+A single anonymous note is not enough to prove a living person.
+
+## M-002 — Why Can Information Cross Before Person-Image Data?
+
+Planned evidence classes:
+1. room/light/surface data crosses;
+2. writing can cross under narrower conditions;
+3. audio later becomes possible;
+4. attempts at visual person-data fail or distort;
+5. a later P1 test finally produces indirect sight.
+
+This progression should make the perception ladder feel discovered rather than imposed.
+
+## Writing-Before-Voice Fairness Rule
+
+Early written communication must not become omnipotent.
+
+Gate 6 must define:
+- which surfaces can correlate;
+- how long writing remains readable;
+- whether transfer is complete, partial, delayed, or unstable;
+- what prevents unlimited exposition-by-note.
+
+## Planning vs Canon Rule
+
+Assigning an evidence step to a future chapter does **not** make it planted.
+
+Only canonical manuscript prose can:
+- activate an M-ID;
+- plant an F-ID;
+- establish an observed system rule.
 
 # 8. Minor Twist Rule
 
