@@ -2,44 +2,98 @@
 
 **Author:** minuszeroo  
 **Repository:** `curib123/Love-Beyond-the-Realms`  
-**Genre:** Young Adult • Supernatural Romance • Urban Fantasy • Mystery • Drama
+**Genre:** Young Adult • Romantic Comedy • Mystery • Science Fiction • Supernatural
 
-This repository is the canonical production workspace for **Love Beyond the Realms**, a teen-female-oriented supernatural romance web novel.
+This repository is the canonical production workspace for **Love Beyond the Realms**, a teen-female-oriented web novel with **two equal main characters: Lily Marlowe and Max Arden**.
 
 ## Core Hook
 
-After losing her parents, eighteen-year-old **Lily Marlowe** moves into an affordable apartment at Aster House hoping to rebuild an ordinary life. Instead, she discovers **Max Arden**, a handsome nineteen-year-old stranger occupying the same apartment from another realm.
+After losing her parents, eighteen-year-old **Lily Marlowe** rents Unit 4B in Aster House because it is cheap, quiet, and finally hers.
 
-Lily can see Max. Max cannot normally see Lily.
+Then she discovers a boy already living in her apartment.
+
+**Max Arden**, nineteen, is not a ghost. He is alive in another version of the same city.
+
+Lily can see him.
+
+Max can hear her—but at first he cannot see her.
 
 They cannot touch.
 
-At first Max hears only her voice and sees the objects she moves. Reflections, dreams, blackouts, and rare dimensional alignments slowly let them perceive more of one another. As their friendship becomes love, both begin crossing dangerous boundaries between worlds to stay together.
+Worse, their shared room does not behave like a normal portal. Objects sometimes exchange states between worlds. Sounds arrive early. Furniture appears where it should not exist. For a few seconds, one person's room may replace the other's. The more they investigate the connection, the more both realities begin leaking into each other.
 
-The deeper mystery is not whether the apartment is haunted, but **why two versions of the same room are overlapping at all—and what will happen if the overlap becomes permanent.**
+Their first problem is learning how to share one apartment across two worlds without driving each other insane.
+
+Their second problem is figuring out why the apartment exists in both realities.
+
+Their third problem is realizing **Earth and Velaire were once the same world.**
+
+## Story Identity
+
+The default experience is:
+
+**romantic comedy first → character growth → mystery → science-fiction escalation**
+
+The story uses:
+- alternating Lily and Max close POV;
+- simple English;
+- natural dialogue and strong banter;
+- slow-burn romance;
+- awkward shared-apartment comedy;
+- two different social lives;
+- small mysteries that build toward larger truths;
+- minor and major plot twists;
+- sci-fi dimensional rules;
+- emotional consequences without becoming constantly dark.
+
+The romance must stay fun, human, and alive even when the larger mystery becomes serious.
+
+## What Makes It Different
+
+This is not simply "girl falls for a boy from another universe."
+
+Earth and Velaire are **two histories split from one original reality** during an old dimensional event.
+
+The overlap can exchange more than people:
+- room layouts;
+- object states;
+- sounds;
+- short moments of time;
+- traces of information.
+
+Lily and Max do not gain magic from falling in love.
+
+Their choices, experiments, mistakes, and use of the overlap change the connection.
 
 ## Studio Pipeline
 
-`Series Constitution → World Bible → Realm/Threshold Systems → Characters → Mysteries → Locations → Volume/Arc → Chapters → Scenes → Manuscript → QA → Canon`
+`Series Constitution → World Bible → Realm Systems → Characters → Mysteries/Twists → Locations → Active Arc → Chapters → Scenes → Manuscript → QA → Canon`
 
-**Character truth first. Relationship progression second. Supernatural mystery third. Realm escalation fourth.**
+**Character truth → relationship/comedy → mystery → sci-fi escalation.**
 
-No major romantic milestone, reveal, crossing, or sacrifice may appear in manuscript prose before its owning canon layer and QA gate authorize it.
+## Open-Ended Series Rule
+
+There is **no locked final series chapter count** and no fixed number of volumes.
+
+Only the currently authorized arc is planned in detail.
+
+Future arcs remain flexible until existing canon naturally creates them.
 
 ## Start Here
 
-1. `studio/STUDIO-ARCHITECTURE.md` — editorial roles, ownership, and production flow.
-2. `series/SERIES-CONSTITUTION.md` — locked identity, target audience, romance laws, and canon rules.
-3. `world/WORLD-BIBLE.md` — Earth-side setting, Aster House, Max's realm, and dimensional history.
-4. `systems/REALM-SYSTEMS-BIBLE.md` — perception, crossing, touch, anchors, costs, and collapse rules.
-5. `characters/CHARACTER-BIBLE.md` — Lily, Max, supporting cast, histories, goals, and relationship boundaries.
-6. `mysteries/MYSTERY-BIBLE.md` — writer truth, M-IDs, F-IDs, reveal windows, and spoiler firewall.
-7. `locations/LOCATION-INVENTORY.md` — canonical locations and their story capacity.
-8. `planning/STORY-PLANNING.md` — volume → chapter → scene workflow.
-9. `manuscript/WRITING-RULES.md` — YA supernatural-romance prose and POV rules.
-10. `continuity/CONTINUITY-BIBLE.md` — injuries, grief state, relationship state, crossings, and knowledge tracking.
-11. `qa/QA-GATES.md` — foundation through series QA.
-12. `series/ROADMAP.md` — current authorized production state.
+1. `studio/STUDIO-ARCHITECTURE.md`
+2. `series/SERIES-CONSTITUTION.md`
+3. `world/WORLD-BIBLE.md`
+4. `systems/REALM-SYSTEMS-BIBLE.md`
+5. `characters/CHARACTER-BIBLE.md`
+6. `mysteries/MYSTERY-BIBLE.md`
+7. `mysteries/TWIST-REGISTRY.md`
+8. `locations/LOCATION-INVENTORY.md`
+9. `planning/STORY-PLANNING.md`
+10. `manuscript/WRITING-RULES.md`
+11. `continuity/CONTINUITY-BIBLE.md`
+12. `qa/QA-GATES.md`
+13. `series/ROADMAP.md`
 
 ## Canon States
 
