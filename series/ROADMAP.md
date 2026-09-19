@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-001 GATE 9 PASS — CH-002 GATE 8 SCENE ARCHITECTURE NEXT
+**Status:** CH-002 GATE 8 PRE-MANUSCRIPT SCENE QA PASS — CH-002 MANUSCRIPT NEXT
 
 # Series Length
 
@@ -58,6 +58,10 @@ CH-001 Gate 8 — Pre-Manuscript Scene QA: **PASS — 2026-09-19**
 Record: `qa/CH-001-PRE-MANUSCRIPT-SCENE-QA.md`  
 Scene architecture: `planning/CH-001-SCENE-ARCHITECTURE.md`
 
+CH-002 Gate 8 — Pre-Manuscript Scene QA: **PASS — 2026-09-19**  
+Record: `qa/CH-002-PRE-MANUSCRIPT-SCENE-QA.md`  
+Scene architecture: `planning/CH-002-SCENE-ARCHITECTURE.md`
+
 Architecture: `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`  
 Chapter roadmap: `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
 
@@ -113,9 +117,20 @@ CH-001 manuscript:
 - Gate 9 record: `qa/CH-001-CHAPTER-QA.md`
 - required pre-pass correction: natural paragraph flow + explicit four-scene separation.
 
-Non-blocking CH-001 notes:
-- avoid overplaying grief in the opening;
-- keep the cabinet anomaly mundane enough to dismiss.
+CH-002 Gate 8 confirms:
+- four Lily-only scenes;
+- immediate intruder-level threat assessment;
+- first observable visual asymmetry;
+- one short perception-based comedy beat;
+- no formal experiment;
+- no F-ID assignment;
+- no touch/object test;
+- P0/C0/X0 preserved;
+- chapter ends when Max reacts to Lily's voice, not her visible body.
+
+Non-blocking CH-002 notes:
+- keep Max's embarrassing rehearsal short;
+- do not let Lily become certain he is a ghost.
 
 # Active Arc
 
@@ -123,7 +138,7 @@ Non-blocking CH-001 notes:
 
 Status:
 
-**CH-001 GATE 9 PASS — CH-002 GATE 8 NEXT**
+**CH-002 GATE 8 APPROVED — CH-002 MANUSCRIPT AUTHORIZED**
 
 Approved primary cluster:
 - Aster House;
@@ -170,8 +185,14 @@ MT-003 Their Experiments Strengthen the Leak:
 
 # Next Authorized Step
 
-**CH-002 — There Is a Boy in My Apartment → Detailed Scene Architecture → Gate 8.**
+**CH-002 — There Is a Boy in My Apartment → Manuscript Draft.**
 
-CH-001 is canon-approved.
+CH-001 remains canon-approved.
 
-CH-002 manuscript drafting remains unauthorized until its Gate 8 scene architecture passes.
+Only CH-002 manuscript prose is currently authorized.
+
+After the draft is completed, run:
+
+**CH-002 → Gate 9 Chapter QA.**
+
+CH-003 still requires its own Gate 8 scene architecture before its manuscript may be drafted.
