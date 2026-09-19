@@ -3,7 +3,7 @@
 **Chapter:** That Is Not What I Imagined  
 **Result:** **PASS**  
 **Canon Status:** **APPROVED**  
-**Word Count:** 583  
+**Word Count:** 1,816  
 **Blocking:** 0  
 **Major:** 0  
 **Minor:** 2
@@ -48,3 +48,41 @@ Minor:
 
 # Next
 **CH-012 — Rent, Repairs, and Other Horrors → Gate 8**
+
+
+# Final Prose Development — Gate 9 Revalidation
+
+**Result:** **PASS**  
+**Publication Readiness:** **FINAL-PASS**  
+**Current Word Count:** **1,816**
+
+The reciprocal-first-sight compression identified by the full-manuscript audit has been corrected.
+
+Development added only:
+- fuller Lily-side calibration setup and reasoning;
+- stronger distinction between Max's settings and Lily's receiver conditions;
+- more sensory grounding across the two failed reverse attempts;
+- more breathing room around Lily's six-second first sight of Max;
+- fuller correction of Lily's imagined version of Max without idealizing appearance;
+- clearer recognition that Max's tired appearance fits already-known emotional facts;
+- fuller post-sight banter and privacy/consent discussion;
+- explicit clarification that either person may refuse a visual window without having to justify the refusal.
+
+Canon preserved exactly:
+- Lily-only close third;
+- reverse calibration remains separate and non-automatic;
+- first two Lily-side attempts fail;
+- third attempt gives Lily narrow **P1 Indirect Sight** for only several seconds;
+- Max gains no new perception tier;
+- no direct naked-eye sight;
+- no touch/contact/crossing;
+- no P2/P3;
+- both leads now have separately calibrated narrow P1 methods;
+- R1 remains the formal relationship state;
+- **M-002 remains PARTIAL**;
+- no new F-ID;
+- MT-001/002/003 remain protected.
+
+No new clue, power, official-romance milestone, or mystery-state change was introduced.
+
+**FINAL GATE 9 REVALIDATION — PASS / PUBLICATION-FINAL**
