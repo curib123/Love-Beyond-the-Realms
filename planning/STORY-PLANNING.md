@@ -179,11 +179,15 @@ Not every chapter needs a cliffhanger.
 
 **Aster House Arc**
 
-Selection cluster remains provisionally:
+**Selection Status:** **GATE 5 v2 REVALIDATION PASS — SINGLE ACTIVE ARC**
+
+Approved primary cluster:
 - LOC-001 Aster House;
 - LOC-002 Unit 4B;
 - controlled LOC-007 Larkspur House;
 - controlled LOC-008 Room 17.
+
+Supporting ordinary-life locations may appear as needed without becoming separate active arcs.
 
 Current opening baseline:
 - R0 Unknown Presence;
@@ -203,8 +207,10 @@ Current v2 roadmap:
 Status:
 **CANDIDATE — GATE 7 REVALIDATION REQUIRED**
 
-Provisional active-arc chapter count:
-**20 — NOT QA-LOCKED**
+Active-arc chapter count:
+**UNLOCKED AT GATE 5**
+
+The existing v2 20-chapter shape remains a planning candidate only and receives no authority from Gate 5.
 
 The old Gate 5/6/7 planning language is superseded where it conflicts with Originality Revision v2.
 
