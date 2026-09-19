@@ -384,15 +384,33 @@ Then:
 
 **CAN'T SEE YOU.**
 
-Lily looked at the mirror.
+Her smile faded.
 
-Her own face.
+She looked at the mirror.
+
+Only herself.
 
 **CAN'T SEE YOU EITHER.**
 
-Longer delay.
+The answer took longer this time.
 
-**WORTH IT.**
+**I DON'T LIKE THAT.**
+
+Lily's hand tightened around the pen.
+
+Before she could answer, another line appeared.
+
+**STILL WORTH IT.**
+
+She looked at the normal doorway.
+
+Then wrote:
+
+**YEAH.**
+
+A beat.
+
+**I KNOW.**
 
 That one hurt.
 
@@ -454,11 +472,23 @@ Action felt useful.
 
 Useful felt safer than waiting for news about Mina.
 
-The letters appeared.
+The letters finally appeared.
+
+**I HATE THIS RULE.**
+
+Lily let out a breath that almost became a laugh.
+
+She wrote:
+
+**YOU CAN HATE IT AND FOLLOW IT.**
+
+A pause.
+
+Then:
 
 **AGREED.**
 
-No joke.
+No joke after that.
 
 No qualification.
 
