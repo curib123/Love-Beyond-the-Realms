@@ -198,57 +198,74 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — ORIGINALITY REVISION v2
+# 16. Current Canon State — Through CH-002 v2
 
-**Manuscript Canon Status:** RESET FOR OPENING REWRITE
+**Latest Canon Chapter:** CH-002 — Someone Else Is Using My Room
 
-The previous CH-001 and CH-002 visual-perception canon is superseded.
+## Lily
+Knows:
+- Unit 4B briefly showed an impossible wrong-city/window state;
+- unfamiliar fresh handwriting can appear on the east-side desk correlation area;
+- her written question received a semantically relevant reply;
+- the unknown responder also does not know who Lily is.
 
-No revised manuscript chapter is canon-approved yet.
+Does not know:
+- Max's name, age, sex, appearance, or living status;
+- Velaire;
+- Room 17;
+- Echo Exchange terminology;
+- Phase Lag;
+- mirrorstone;
+- Twinfall;
+- why the language is understandable.
 
-## Opening Baseline
+## Max
+No on-page POV knowledge has yet been canonically exposed to the reader.
 
-### Lily
-- has chosen Unit 4B as her first independent home;
-- has no knowledge of Max, Velaire, Echo Exchange, Twinfall, or mirrorstone;
-- does not begin by seeing Max.
+Writer-side continuity:
+- Max is alive and phase-bound around Room 17;
+- Max has not visually perceived Lily.
 
-### Max
-- is alive and phase-bound around Room 17;
-- has no visual knowledge of Lily;
-- does not begin by seeing Lily.
+## Reader Knowledge
+**K0**
+
+The reader has not yet entered Max POV.
 
 ## Relationship
-
 **R0 — Unknown Presence**
 
-Neither initially knows the identity, age, appearance, or even exact nature of the other occupant.
+An intentional correspondent is suspected, but mutual living-person reality has not been established.
 
 ## Perception / Contact / Crossing
-
 - **P0 — Echo Trace**
-  - neither directly sees the other;
-  - room/environment information may cross;
-  - writing may cross;
-  - intermittent sound may later cross;
 - **C0 — None**
 - **X0 — Observation**
 
-## Mystery
+Observed P0 capabilities so far:
+- wrong light/window state;
+- fresh mark-state transfer at Correlation Patch A.
 
-Use the Initial Mystery-State Ledger until revised manuscript prose passes QA.
+No:
+- audio;
+- person-image;
+- touch;
+- crossing.
+
+## Mystery
+- **M-001 ACTIVE — strengthened**
+- M-002 through M-011 unchanged/unasked/protected as applicable.
 
 ## Foreshadowing
-
 All F-IDs remain:
-
 **PLANNED — NOT YET PLANTED**
 
-## Revision Guard
+## CH-003 Guard
+CH-003 is the first truthful Max POV.
 
-The opening may not restore:
-- Lily directly seeing Max before communication;
-- Max hearing Lily as the sole defining opening asymmetry;
-- a "handsome spectral stranger in the apartment" hook.
+It may move reader knowledge to **K1** by honestly showing facts Max knows, including that he is alive.
 
-First sight must be earned later through P1.
+It must not:
+- give Lily that knowledge automatically;
+- replay CH-002 scene-for-scene;
+- grant voice or person-image data;
+- reveal MT-001/002/003.
