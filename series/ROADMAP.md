@@ -336,3 +336,19 @@ Result:
 # Current Next Authorized Step
 
 **CH-021 — The Inspection Notice → Manuscript Draft**
+
+
+# CH-021 Manuscript Draft
+
+Manuscript:
+`manuscript/CH-021-THE-INSPECTION-NOTICE.md`
+
+Status:
+**COMPLETE — 1,993 words**
+
+Canon status:
+**PENDING GATE 9**
+
+# Current Next Authorized Step
+
+**CH-021 — The Inspection Notice → Gate 9 Chapter QA**
