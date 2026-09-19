@@ -2,215 +2,391 @@
 
 Lily slept badly.
 
-Not dramatically badly. She did not wake screaming or discover muddy footprints beside the bed or hear anyone whispering her name through the wall. She simply woke four times, checked the living-room window twice, and spent the last hour before sunrise staring at the ceiling while her brain replayed four seconds of a city that had not been Bellweather.
+Not dramatically badly.
 
-By seven-thirty, she had decided on a reasonable explanation.
+No screaming.
 
-There had to be one.
+No muddy footprints.
 
-The problem was that she had not found it yet.
+No voice whispering her name through the wall.
 
-Lily stood in front of the tall window with a mug of coffee in one hand and the curtain pulled aside with the other. Morning rain had turned the glass gray. Across the street, the same brick building sat where it had always been. The pharmacy sign was off. Tram wires crossed the road at the correct angle.
+Just four separate wake-ups, two trips to the living-room window, and one final hour before sunrise spent staring at the ceiling while her brain replayed four impossible seconds.
 
-No elevated rail. No amber lights. No impossible city.
+By seven-thirty, Lily had decided there had to be a reasonable explanation.
 
-She checked the latch again. Locked.
+She had not found one.
 
-Then she turned the desk lamp on and off three times and immediately felt ridiculous.
+That was becoming irritating.
 
-"Good," she told herself. "Excellent scientific method."
+She stood in front of the tall window with coffee in one hand and the curtain pulled aside with the other.
 
-Nothing happened.
+Morning rain had turned the glass gray.
 
-She moved left and right, changed the curtain angle, held her phone screen against the glass, and tried to reproduce any reflection that could have looked like the structure she remembered. Nothing came close.
+Across the street, the same brick building sat where it belonged. The pharmacy sign was dark. Tram wires crossed the road at the correct angle.
 
-A bad dream would have been easier. A reflection would have been better. Even a migraine would have been familiar enough to complain about properly.
+No elevated rail.
 
-Instead, Lily had a perfectly normal window and a memory she could not fit anywhere.
+No amber lights.
 
-She opened the notes app on her phone and typed:
+No impossible city.
+
+Lily checked the latch.
+
+Locked.
+
+She turned the desk lamp on.
+
+Off.
+
+On.
+
+Nothing.
+
+She stared at it.
+
+"Great."
+
+Off.
+
+On.
+
+"Now I'm investigating a light switch."
+
+The lamp remained stubbornly normal.
+
+Lily moved left and right, changed the curtain angle, held her phone screen near the glass, and tried every reflection she could think of.
+
+Nothing even came close.
+
+A bad dream would have been easier.
+
+A reflection would have been better.
+
+A migraine would at least have had the decency to hurt.
+
+Instead, Lily had a normal window and a memory that refused to become normal with it.
+
+She opened the notes app.
 
 10:15 PM. Window changed for maybe 3–4 seconds. Amber lights. Elevated structure. Lamp dimmed at same time.
 
-After staring at the words for a few seconds, she added:
+She read it.
+
+Then added:
 
 Possibly tired.
 
-That felt responsible.
+Lily considered another line.
 
-She considered adding Possibly losing mind, but decided responsible had limits.
+Possibly losing mind.
+
+She deleted that before typing it.
+
+"Responsible," she told herself.
+
+The coffee did not agree.
 
 ---
 
-The rest of the morning tried very hard to become normal.
+The rest of the morning tried very hard to behave.
 
-Lily showered, unpacked two more boxes, found the missing half of her bedsheets in a suitcase she had already checked, and discovered that the radiator made a clicking sound every few minutes even though it was not cold enough to be on.
+Lily showered.
+
+Unpacked two boxes.
+
+Found the missing half of her bedsheets inside a suitcase she had already checked.
+
+The radiator clicked every few minutes even though it was barely cold enough to justify existing.
 
 Mrs. Bell had mentioned pipes.
 
-Old building. Normal.
+Old building.
 
-At eleven, Lily sat at the small desk against the east wall with her laptop open and a blank sheet of paper beside it. She was trying to list everything she still needed for the apartment.
+Normal.
 
-Trash bags. Dish soap. Extension cord. A chair that did not require folded cardboard to survive.
+At eleven, Lily sat at the small desk against the east wall with her laptop open and a sheet of paper beside it.
+
+She was making a shopping list.
+
+Trash bags.
+
+Dish soap.
+
+Extension cord.
+
+A chair that did not require structural support from folded cardboard.
 
 She had just written detergent when something moved at the edge of the page.
 
 Lily stopped.
 
-There was a dark line near the top-left corner. It had not been there a second ago.
+A dark line appeared near the top-left corner.
+
+She lifted her pen.
 
 The line extended.
 
-Not fast. Not like a pen moving. More like ink becoming visible through paper.
+Slowly.
 
-A short vertical mark appeared, then another beside it. A thin horizontal line connected them. More marks followed, neat and narrow, forming what looked almost like part of a measurement grid.
+Not like someone writing.
 
-Lily lifted both hands away from the desk and watched.
+More like ink becoming visible from underneath the paper.
 
-One final mark appeared.
+A short vertical mark appeared.
 
-Then nothing.
+Then another.
 
-The marks were dark gray, not quite black. Too straight to be accidental pen scratches. They looked deliberate, but they did not form words she recognized.
+A thin line connected them.
 
-She glanced at the apartment door. Locked. The chain was on. The room was empty.
+More followed.
+
+Neat.
+
+Narrow.
+
+Deliberate.
+
+Lily set both hands flat on her knees.
 
 "Okay."
 
-The marks did not respond.
+The marks continued.
 
-She leaned closer without touching them. The paper was definitely hers: cheap white notebook paper, a slight bend in the bottom corner, a small coffee stain from ten minutes ago.
+They looked almost like part of a measurement grid.
+
+Then one final stroke appeared.
+
+Nothing else.
+
+Lily glanced at the apartment door.
+
+Locked.
+
+Chain on.
+
+No one inside.
+
+The paper was definitely hers.
+
+Cheap white notebook paper.
+
+Bent lower corner.
+
+Small coffee stain near the edge.
 
 Only the writing was wrong.
 
-Lily picked up her phone and took a picture. By the time the camera focused, the marks had already started to fade. She took three more pictures, but the last one captured almost nothing.
+She picked up her phone.
 
-Within a minute, the page was blank again except for her shopping list.
+By the time the camera focused, the first marks had already begun to fade.
 
-The wrong city had lasted four seconds. The wrong writing had lasted less than two minutes.
+"No, no, no."
 
-Neither had left anything useful behind.
+She took one picture.
+
+Then another.
+
+Then three more because panic apparently improved neither composition nor focus.
+
+The final photo caught almost nothing.
+
+Within a minute, the page was blank except for her shopping list.
+
+Lily stared at it.
 
 "Very considerate."
 
-Her voice sounded too loud in the room.
+Her own voice sounded too loud.
 
-She did not like that either.
+She did not like that.
 
 ---
 
-Lily spent the next twenty minutes doing the sort of things a person did when she absolutely did not want to admit that invisible writing had appeared on her desk.
+For the next twenty minutes, Lily did the things a person did when she absolutely did not want to admit that invisible writing had appeared on her desk.
 
-She checked the underside of the desk. Nothing.
+She checked underneath it.
 
-She checked the wall. Paint.
+Nothing.
 
-She opened the cabinet beside the desk, closed it again, and felt mildly betrayed when it behaved normally.
+She checked the wall.
 
-Then she moved the sheet of paper to the kitchen counter.
+Paint.
 
-Nothing happened.
+She opened the built-in cabinet.
 
-She returned it to the desk.
+Normal shelves.
 
-Still nothing.
+Closed it again.
 
-While she was standing beside the chair, the desk lamp dimmed.
+The cabinet behaved perfectly.
+
+Lily frowned at it.
+
+"Traitor."
+
+She moved the paper to the kitchen counter.
+
+Nothing.
+
+Back to the desk.
+
+Nothing.
+
+She stood there with both hands on her hips.
+
+"This is ridiculous."
+
+The desk lamp dimmed.
 
 Lily froze.
 
-Not much. Just enough.
+Just slightly.
 
-The same kind of dimming as last night.
+But enough.
 
-Her eyes dropped to the paper. A dark speck appeared near the center, followed by another.
+The same kind of dip as last night.
 
-Lily moved before she could talk herself out of it. She sat down, grabbed a pen, and wrote in large block letters:
+Her eyes dropped to the paper.
+
+A dark speck appeared near the center.
+
+Then another.
+
+Lily moved before she could change her mind.
+
+She sat down, grabbed the pen, and wrote in large block letters:
 
 WHO ARE YOU?
 
-She stopped.
+She stared at the question.
 
-The question looked dramatic.
+It looked dramatic.
 
-For half a second she considered replacing it with something more reasonable, like:
+She almost crossed it out.
+
+Maybe she should write something calmer.
 
 PLEASE EXPLAIN THE UNAUTHORIZED PAPER ACTIVITY.
 
-That was worse.
+Lily closed her eyes.
 
-She left the first version.
+"No."
 
-Nothing happened.
+The first version stayed.
 
-Ten seconds passed. Then twenty. The desk lamp flickered once, but the page remained unchanged.
+Ten seconds passed.
 
-At forty seconds, Lily checked her phone clock.
+Then twenty.
+
+The page did nothing.
+
+At forty, she checked the phone timer.
 
 "Of course."
 
-She rested her elbows on the desk, remembered the strange marks, and immediately lifted them again.
+She rested both elbows on the desk.
 
-One minute passed. The lamp brightened.
+Immediately remembered that strange marks had appeared there.
 
-Lily exhaled. The window had been four seconds. The marks had appeared once. Maybe whatever had happened was already over.
+Lifted them again.
 
-She picked up the paper.
+One minute.
 
----
+The lamp brightened.
 
-A faint gray stroke appeared beneath her question.
+Lily exhaled.
 
-Lily stopped moving.
+Maybe it was done.
 
-The stroke darkened. Another appeared beside it.
+Maybe the writing only happened once.
 
-Letters formed one by one.
+Maybe—
 
-Not her handwriting.
+A faint gray stroke appeared under her question.
 
-Narrower. Sharper.
+Lily stopped breathing.
+
+The stroke darkened.
+
+Another formed beside it.
+
+Then letters.
+
+Not hers.
+
+Narrower.
+
+Sharper.
 
 WHO ARE YOU?
 
 Lily stared.
 
-For a moment, neither she nor the room did anything.
+"That was my question."
 
-Then a second line began.
+The room, predictably, did not apologize.
+
+A second line appeared.
 
 I WAS ABOUT TO ASK YOU THAT.
 
-She read it twice.
+Lily read it once.
 
-The handwriting was compact and slightly slanted. Whoever—or whatever—had written it used less space than she did.
+Then leaned closer and read it again.
 
-The sentence was also annoying.
+The handwriting leaned slightly to the right.
 
-That somehow made it worse.
+Compact.
 
-Lily looked around the apartment. Still empty.
+Annoyingly neat.
 
-She looked under the desk even though she knew that made no sense.
+And the sentence itself—
+
+"Seriously?"
+
+That somehow made everything worse.
+
+A strange message was one thing.
+
+A strange message with attitude was another.
+
+She looked under the desk.
 
 Nothing.
 
-When she looked back at the page, the first letters were already fading.
+Lily sat upright again.
+
+"Right. Of course. Person under the desk. Excellent theory."
+
+The first letters began to fade.
 
 "Wait."
 
-She grabbed her phone, but the camera opened too slowly. By the time she took the picture, the final words were pale enough that the image would probably look like bad pencil smudges.
+She grabbed her phone.
 
-Then the message disappeared.
+The camera took too long to open.
+
+By the time she snapped a picture, the final words were already pale.
+
+"No, stay—"
+
+Gone.
 
 Her own question remained.
 
-That was new.
+Lily touched the paper.
 
-Lily touched the paper carefully. Dry. Normal. No hidden ink. No heat. No second sheet underneath.
+Dry.
 
-Just ordinary paper on an ordinary desk in an apartment that had stopped behaving like one.
+Normal.
+
+No hidden ink.
+
+No heat.
+
+No second sheet.
+
+Just ordinary paper in an ordinary apartment that had developed an increasingly flexible definition of ordinary.
 
 Last night, the room had shown her somewhere else.
 
@@ -218,10 +394,14 @@ Today, something from somewhere else had written back.
 
 She had no idea what it was.
 
-She had no idea if it was a person.
+She had no idea whether it was a person.
 
 But it had understood the question.
 
 And it had answered.
 
-That changed the problem completely.
+Lily looked at the empty space beneath her own handwriting.
+
+"Okay," she said quietly. "New problem."
+
+That changed everything.
