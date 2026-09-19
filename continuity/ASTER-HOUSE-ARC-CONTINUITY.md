@@ -113,10 +113,40 @@ State:
 - C0
 - X0
 
+## CH-004 — The Other Tenant — CANON
+
+Lily knowledge:
+- correspondent gives name Max;
+- claims Room 17 / Rivenhall;
+- Max does not recognize Bellweather;
+- communication occurs only in short windows.
+
+Max knowledge available through the exchange:
+- correspondent gives name Lily;
+- claims Unit 4B / Aster House / Bellweather;
+- Bellweather weather/environment differs from Rivenhall.
+
+Both:
+- agree to a controlled reality test next.
+
+Mystery:
+- M-001 **ACTIVE — NEAR RESOLUTION**
+- M-002–M-011 unchanged.
+
+F-IDs:
+- all **PLANNED — NOT YET PLANTED**.
+
+State:
+- reader K1
+- R0
+- P0 Echo Trace
+- C0
+- X0
+
 # Current State
 
-Latest canon: **CH-003**
+Latest canon: **CH-004**
 
 Reader knowledge stage: **K1**
-M-001 ACTIVE — independent responder strongly supported.
+M-001 ACTIVE — named independent correspondent, mutual test pending.
 All other M-IDs unchanged.
