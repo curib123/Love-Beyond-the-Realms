@@ -1,9 +1,14 @@
+> **HISTORICAL RECORD — SUPERSEDED BY ORIGINALITY REVISION v2**  
+> This Gate 3 PASS applied to the pre-v2 mystery structure.  
+> Current production uses `qa/MYSTERY-TWIST-QA-V2.md`.  
+> See `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`.
+
 # Gate 3 — Mystery/Twist QA
 
 **Project:** Love Beyond the Realms  
 **Date:** 2026-09-19  
 **Gate:** 3 — Mystery/Twist QA  
-**Final Result:** **PASS**  
+**Final Result:** **HISTORICAL PASS — SUPERSEDED**  
 **Blocking Issues:** 0  
 **Major Issues:** 0 after correction  
 **Minor Notes:** 2
