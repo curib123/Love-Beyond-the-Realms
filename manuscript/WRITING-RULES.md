@@ -288,6 +288,31 @@ Required revision tools:
 Canon, mystery timing, system rules, POV limits, and relationship milestones must remain unchanged unless separately authorized.
 
 
+
+# 7D. Cross-World Writing Channel Vitality Rule — HARD LOCK
+
+Because Lily and Max often communicate through short written windows, the page must **not** become a sterile all-caps transcript.
+
+Written exchanges should still feel alive through:
+- the POV character reacting before writing back;
+- hesitation, crossed-out thoughts, delayed answers, and missed timing;
+- interruptions caused by fading windows;
+- physical business around the desk, mirror, chair, kettle, compass, or room;
+- callbacks to earlier jokes or mistakes;
+- answers that dodge the literal question but reveal personality;
+- silence that changes the meaning of the next line;
+- one character noticing the other's habits from message length, speed, phrasing, or delay.
+
+Avoid long sequences of:
+**QUESTION → ANSWER → QUESTION → ANSWER**
+
+unless the stiffness itself is being used for comedy or tension.
+
+When a test requires concise messages, keep the test concise but make the surrounding prose carry:
+**anticipation → friction → reaction → emotional meaning.**
+
+The writing channel must feel like **Lily and Max talking**, not a debug console.
+
 # 8. Lily and Max Dialogue
 
 Their chemistry develops through contrast.
