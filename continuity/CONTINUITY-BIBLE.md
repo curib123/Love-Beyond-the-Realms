@@ -198,40 +198,66 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-019 v2
+# 16. Current Canon State — Aster House Arc Complete Through CH-020 v2
 
-**Latest Canon Chapter:** CH-019 — Still Here
-
-## Max
-- remains phase-bound around Room 17;
-- confirms the corridor limit still exists;
-- does not respond by forcing another test;
-- admits that part of his risk-taking came from needing to feel useful and worth waiting for;
-- still intends to find Mina and understand Larkspur.
+**Latest Canon Chapter:** CH-020 — The Roommate Agreement
 
 ## Lily
-- supports Max without promising to solve his family problem;
-- reinforces safe learning and ordinary-life rules.
+- chooses to remain in Unit 4B for now;
+- keeps work, family, sleep, rent, repairs, and home responsibilities independent of Max;
+- accepts connection without making Max the sole reason for her housing/life choices.
+
+## Max
+- remains alive and phase-bound around Room 17;
+- still wants to find Mina and understand Larkspur;
+- accepts that stronger contact is not automatically safer or more useful.
 
 ## Relationship
-**R1 — deep emotional trust**
+**R2 — Cross-World Roommates**
 
-## Active System State
-- **P0 Echo Trace baseline**
-- narrow P1 learned but inactive by default
-- C0
-- X0
+This is not yet an official romantic relationship.
+
+## Default Active System State
+- **P0 — Echo Trace baseline**
+- narrow **P1 Indirect Sight** remains learned and available only through deliberate, separately calibrated, consent-based use
+- **C0**
+- **X0**
+
+## Canon Roommate Rules
+1. home/work/family responsibilities come before experiments;
+2. no test without mutual consent;
+3. stop means stop immediately;
+4. no surprise visual calibration;
+5. no late tests before important obligations;
+6. wrong doors stay closed;
+7. restore furniture/fixtures after tests;
+8. record meaningful physical/system costs;
+9. no stronger test without a clear question and recovery plan;
+10. either person may refuse without justification.
 
 ## Mystery
-M-002 PARTIAL
-M-003 ACTIVE
-M-004 ACTIVE
-M-005 PARTIAL
+- **M-001 RESOLVED locally**
+- **M-002 PARTIAL**
+- **M-003 ACTIVE**
+- **M-004 ACTIVE**
+- **M-005 PARTIAL**
+- M-006–M-011 protected/unresolved
 
 ## Foreshadowing
-F-001/F-002/F-003 PLANTED.
+- **F-001 Mirror Delay — PLANTED**
+- **F-002 Wrong Furniture — PLANTED**
+- **F-003 Cold Brass Key — PLANTED**
+- F-004–F-008 — PLANNED / NOT YET PLANTED
 
-## CH-020 Goal
-Lily chooses to remain in Unit 4B and converts the accumulated safety/privacy/ordinary-life rules into a practical cross-world roommate agreement.
+## Major Twists
+- MT-001 — UNREVEALED
+- MT-002 — UNREVEALED / responsible person not locked
+- MT-003 — UNREVEALED
 
-R2 may be formally reached only there.
+## Arc Status
+**AH-ARC-001 ASTER HOUSE ARC — COMPLETE**
+
+Future arc:
+**UNSELECTED / UNLOCKED**
+
+Any next arc must begin from this canon state and pass the normal production gates.
