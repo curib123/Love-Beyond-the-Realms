@@ -1,10 +1,15 @@
+> **HISTORICAL RECORD — SUPERSEDED BY ORIGINALITY REVISION v2**  
+> This Gate 6 PASS used the pre-v2 P0 Bleed / asymmetric-visibility architecture.  
+> Current production uses `qa/ACTIVE-ARC-ARCHITECTURE-QA-V2.md`.  
+> See `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`.
+
 # Gate 6 — Active Arc Architecture QA
 
 **Project:** Love Beyond the Realms  
 **Date:** 2026-09-19  
 **Gate:** 6 — Active Arc Architecture QA  
 **Arc:** AH-ARC-001 — Aster House Arc  
-**Final Result:** **PASS**  
+**Final Result:** **HISTORICAL PASS — SUPERSEDED**  
 **Blocking Issues:** 0  
 **Major Issues:** 0  
 **Minor Notes:** 2
