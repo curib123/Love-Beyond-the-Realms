@@ -222,6 +222,97 @@ Information crossing before person-image crossing is a core early-series rule.
 
 But communication can be corrupted by phase lag.
 
+# 13A. Early Correspondence Channel
+
+The opening arc uses a narrow writer-side mechanic called **Correlation Patch A**.
+
+This is not a term Lily or Max must know.
+
+Physical pair:
+- **Unit 4B:** the small desk/table area against the interior east-side living-room wall;
+- **Room 17:** Max's worktable positioned at the corresponding local coordinate.
+
+The strongest usable patch is approximately **40 cm × 60 cm** on each work surface.
+
+At P0, the patch can exchange the **state of fresh marks**, not the paper itself.
+
+Opening limits:
+- one active writable surface per side;
+- only fresh, high-contrast marks made inside the patch transfer reliably;
+- pre-existing pages/books do not copy wholesale;
+- a useful coherence window normally lasts about **20–90 seconds**;
+- an early window carries at most roughly **six short handwritten lines / about 120 characters** before corruption increases sharply;
+- transferred marks may arrive after **1–12 seconds** of local lag;
+- marks may fade, fragment, or overwrite after the window closes;
+- moving the paper/surface more than roughly **30 cm** away from the patch or rotating it substantially weakens or breaks transfer;
+- the channel may fail completely between coherence windows.
+
+These are practical opening-arc limits, not universal laws for every future node.
+
+The purpose is to allow:
+- challenge/response;
+- names;
+- short questions;
+- test prompts;
+- brief personal notes;
+
+without allowing unlimited exposition-by-letter.
+
+# 13B. Early Audio Bridge
+
+Audio can become available at P0 only after Lily and Max learn to stabilize the same local correlation.
+
+Early audio limits:
+- strongest near Correlation Patch A;
+- first useful windows last about **3–15 seconds**;
+- direction may be one-way or two-way depending on alignment;
+- words may clip or arrive late;
+- long uninterrupted conversations are not available at first;
+- audio does not imply person-image access.
+
+Later chapters in the same arc may extend audio reliability through learned timing without exceeding P0/P1 limits.
+
+# 13C. P1 Directionality / Reciprocity
+
+**P1 is receiver-specific.**
+
+A successful indirect sight event does **not** automatically grant equal sight to both people.
+
+For an early P1 event:
+- the sender-side person must occupy a known correlated visual line;
+- the receiver must use an authorized reflective or instrument-mediated surface;
+- local timing must be sufficiently aligned.
+
+The first successful configuration may therefore let **one receiver** see the other while the other person still receives no image.
+
+Reciprocal P1 requires:
+- a second calibration;
+- reversed/adjusted geometry;
+- its own successful test.
+
+The Aster House Arc may end with narrow-condition P1 available to both through separately learned setups.
+
+P1 never grants direct naked-eye mutual sight.
+
+# 13D. Max Phase-Bound Mobility
+
+Max is alive but phase-bound around Larkspur House / Room 17.
+
+Opening-arc mobility:
+- reliable presence inside Room 17;
+- limited movement into immediately adjoining Larkspur interior space when local coherence allows;
+- no reliable departure beyond the local Larkspur correlation zone;
+- no normal unrestricted travel through Rivenhall;
+- ordinary Velaire people cannot be assumed to perceive or physically interact with him reliably.
+
+He may still observe signs of ordinary Velaire life:
+- distant voices;
+- building activity;
+- light/transit outside;
+- search or containment activity near Larkspur.
+
+Any chapter that gives Max normal unrestricted Rivenhall movement requires an explicit Realm Systems canon update.
+
 # 14. Collapse Risk
 
 If coherence becomes too strong and uncontrolled:
