@@ -370,13 +370,13 @@ No chapter replays the full events of a previous chapter from the other POV.
 
 **POV:** Lily  
 **Movement:** C — I Can See You  
-**Primary Location:** Aster House / Paper Moon / Unit 4B
+**Primary Location:** Aster House / Unit 4B
 
 **Opening problem:** Experiments and poor sleep are creating ordinary consequences.
 
-**POV goal:** Keep the apartment and reassure Inez/Nora/June without surrendering control of her life.
+**POV goal:** Keep the apartment while handling Inez's practical concerns and Nora's safety concerns without surrendering control of her life.
 
-**Romantic-comedy beat:** A normal building complaint sounds much worse because Lily has to hide the actual reason for the noise.
+**Romantic-comedy beat:** Inez's completely ordinary building complaint sounds much worse because Lily has to hide the actual reason for the noise.
 
 **Character beat:** Lily accepts limited practical help instead of insisting she can handle everything alone.
 
