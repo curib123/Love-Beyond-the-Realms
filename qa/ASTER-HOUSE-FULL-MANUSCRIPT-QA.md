@@ -246,3 +246,21 @@ Major twists:
 **MT-001 / MT-002 / MT-003 UNREVEALED**
 
 **ASTER HOUSE ARC — PUBLICATION-FINAL**
+
+
+# Dialogue Vitality Revalidation
+
+A later publication-prose pass was completed after this audit.
+
+Record:
+`qa/ASTER-HOUSE-DIALOGUE-VITALITY-REVALIDATION.md`
+
+Result:
+**PASS — PUBLICATION-FINAL**
+
+All CH-001–CH-020 were reviewed for dialogue vitality. Targeted revisions were applied where needed. Canon, mystery, system, POV, and relationship milestones remain unchanged.
+
+Current publication master:
+`publication/ASTER-HOUSE-ARC-PUBLISH-MANUSCRIPT.md`
+
+This revalidation is the current prose baseline for Arc 1.
