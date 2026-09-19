@@ -1605,3 +1605,1714 @@ For once, Max did not mind having them.
 
 ---
 
+# CH-006 — Normal People Don't Have Cross-Reality Pen Pals
+
+At three-thirty, Lily checked the clock above the café counter for the fifth time.
+
+Ava noticed on the sixth.
+
+"You have somewhere to be?"
+
+Lily put a clean mug on the shelf. "Eventually."
+
+"That is how time works."
+
+Paper Moon Books & Café was busy enough that Lily should not have had space in her head for anything except orders. The rain had driven half the university district indoors, which meant every small table was occupied and somebody had already asked if the history section had an outlet.
+
+It did not.
+
+The clock moved to three-thirty-two.
+
+Max had written the night before that the desk usually changed around late afternoon on his side. Their times did not match neatly, but the last few windows had clustered close enough that Lily had started making guesses.
+
+She disliked that she had started making guesses.
+
+She disliked even more that she wanted to be right.
+
+Ava slid a tray onto the counter. "You are doing the thing."
+
+"What thing?"
+
+"The thing where you pretend you're not waiting for a message."
+
+Lily looked at her. "I don't have a thing."
+
+"You absolutely have a thing."
+
+A customer approached before Lily could respond. She took the order, made two drinks, found a misplaced paperback, and managed not to look at the clock for almost nine minutes.
+
+Personal growth.
+
+Then the espresso machine hissed and she checked again.
+
+Ava smiled.
+
+Lily ignored her.
+
+---
+
+Their shift was supposed to end at four.
+
+At four-oh-five, a customer spilled tea over a display table.
+
+At four-ten, the card terminal stopped connecting.
+
+At four-seventeen, Lily was kneeling on the floor with a towel while Ava held three damp novels by their dry corners.
+
+"Go," Ava said.
+
+Lily looked up. "What?"
+
+"You've checked the time enough to age the clock. I can finish this."
+
+"No."
+
+"Lily."
+
+"We close together."
+
+Ava narrowed her eyes. "Is this a boy?"
+
+Lily nearly dropped the towel.
+
+"No."
+
+That answer was technically defensible.
+
+Max was a boy, probably. He had a male voice. He claimed to be alive. But he was also trapped in a room that should not overlap Lily's apartment, and Ava was asking a much more normal question.
+
+Ava's expression changed immediately.
+
+"Oh, it is."
+
+"It is not."
+
+"Online?"
+
+"No."
+
+"Neighbor?"
+
+"Definitely no."
+
+"Secret criminal?"
+
+"You're getting warmer only because everything else is colder."
+
+Ava laughed. "You have been weird for four days."
+
+"I moved."
+
+"You have been different weird."
+
+Lily stood and carried the wet towels to the sink. "There is no boy."
+
+Ava followed. "There is a person."
+
+Lily hesitated for half a second.
+
+That was enough.
+
+Ava pointed at her. "Person."
+
+"Congratulations."
+
+"Do I know them?"
+
+"No."
+
+"Do you?"
+
+Lily thought of gray handwriting appearing on blank paper. A voice breaking through static for ten seconds.
+
+"Not really."
+
+Ava's teasing softened. "Okay."
+
+That was one of the reasons Lily trusted her. Ava knew when to stop pushing.
+
+Mostly.
+
+Then Ava added, "But when this becomes a dramatic internet romance, I want it noted that I identified it first."
+
+Lily picked up the nearest clean towel and threw it at her.
+
+---
+
+The tram was late.
+
+Of course it was.
+
+Lily stood beneath the stop shelter while rain hammered the roof and watched four-twenty become four-thirty-three.
+
+If the pattern was right, the window had probably opened already.
+
+For one uncomfortable second, she considered walking the rest of the way.
+
+It would still take too long.
+
+Her phone buzzed.
+
+Ava: DON'T RUN FOR YOUR MYSTERY PERSON
+
+Lily typed:
+
+I am standing still.
+
+Ava: emotionally counts
+
+Lily put the phone away.
+
+She was annoyed.
+
+Not at Ava. Not at work. Not even at the tram.
+
+At the fact that missing a gray sentence on a sheet of paper felt like missing an appointment with someone.
+
+That was unreasonable.
+
+Max had survived without her for however long Room 17 had been strange.
+
+She had survived without him for her entire life.
+
+One missed window was not an emergency.
+
+The tram arrived nine minutes later.
+
+Lily got on instead of running.
+
+That felt like a decision worth remembering.
+
+---
+
+The desk lamp did not dim until nearly six.
+
+Lily was halfway through reheating dinner when she saw it.
+
+She sat quickly, but not quickly enough to spill anything.
+
+Progress again.
+
+A message appeared.
+
+YOU MISSED IT.
+
+Lily wrote:
+
+WORK.
+
+A pause.
+
+Then:
+
+I ASSUMED YOU HAD A LIFE. VERY INCONVENIENT.
+
+She smiled.
+
+I DO.
+
+GOOD.
+
+The answer arrived almost at once.
+
+Lily looked at the word longer than necessary.
+
+Then she wrote:
+
+IF I MISS A WINDOW, DON'T WAIT ALL DAY.
+
+Max replied:
+
+SAME RULE FOR ME?
+
+YES.
+
+A short pause.
+
+THAT SOUNDS SUSPICIOUSLY HEALTHY.
+
+Lily wrote:
+
+TRY TO COPE.
+
+The marks began to fade.
+
+One last line appeared.
+
+TOMORROW, THEN.
+
+Lily waited until the page went blank.
+
+She had missed a window.
+
+Nothing terrible had happened. Max had not demanded an explanation. She had not abandoned her shift. Ava still had no idea what was actually happening.
+
+Normal life had survived contact with the impossible.
+
+For one day, at least.
+
+Lily carried her dinner to the small table and checked the clock only once.
+
+
+
+---
+
+# CH-007 — You're Early
+
+Max had a clock problem.
+
+Not the normal kind, where a clock was wrong.
+
+That would have been useful.
+
+His problem was that Lily's messages seemed to arrive at different speeds depending on when the room decided to cooperate.
+
+He had noticed it before. A line might appear almost immediately after he wrote. Another might take ten seconds. Her voice had broken through in pieces. The taps from the table had felt delayed, though he had been too busy being surprised to measure them.
+
+Surprise was a poor instrument.
+
+Today, Max intended to be less surprised.
+
+He set his spatial compass beside the writing patch and turned the small timing dial until the needle rested at zero. The dial was meant for survey intervals, not impossible conversations, but tools rarely got to choose their careers.
+
+When the light dimmed, Lily's handwriting appeared.
+
+READY?
+
+Max wrote:
+
+TIMING TEST.
+
+A pause.
+
+HOW EXCITING.
+
+He smiled.
+
+COUNT 3. TAP ON ZERO. I TIME ARRIVAL.
+
+Her answer came back:
+
+YOU MEAN COUNT DOWN FROM 3.
+
+Max stared at it.
+
+YES.
+
+THAT WAS IMPLIED.
+
+NO IT WASN'T.
+
+The window closed.
+
+Max leaned back.
+
+"Very productive."
+
+---
+
+The next window opened twenty-three minutes later.
+
+They kept the test simple.
+
+Max wrote:
+
+TRIAL 1. GO.
+
+Lily answered:
+
+3 2 1
+
+Then the table knocked once.
+
+Max stopped the dial.
+
+A little over two seconds.
+
+He wrote the result.
+
+2 SEC HERE.
+
+Lily's answer arrived:
+
+MINE FELT IMMEDIATE.
+
+Max's smile faded.
+
+That mattered.
+
+They repeated it.
+
+Second trial: almost five seconds.
+
+Third: just over eight.
+
+The direction stayed the same from Max's point of view. Lily acted; Max received it later.
+
+But the size changed.
+
+He wrote:
+
+NOT CONSTANT.
+
+Lily answered:
+
+NOTHING ABOUT THIS IS CONVENIENT.
+
+Max tapped the table once in agreement.
+
+The headache started behind his left eye after the third trial. Mild, but familiar enough that he stopped pretending it was unrelated.
+
+He drank water and waited for the next window.
+
+---
+
+Audio came unexpectedly.
+
+Max was still looking at his notes when Lily's voice broke through near the table.
+
+"Three, two—"
+
+Static.
+
+He reached for the dial.
+
+"—one."
+
+Max started it.
+
+Silence.
+
+Then, several seconds later, he heard the knock that should have followed immediately.
+
+Tap.
+
+He stopped the dial.
+
+Six seconds.
+
+"Lily?"
+
+"What?"
+
+Her answer arrived almost four seconds after his question.
+
+Max laughed once. "This is terrible."
+
+"What is?"
+
+"Your timing."
+
+A pause.
+
+Then her voice returned, irritated and delayed.
+
+"My timing is fine."
+
+The sentence arrived so late that Max had already started writing down the previous interval.
+
+He looked at the empty air above the desk.
+
+"That sounded personal."
+
+Static swallowed whatever she said next.
+
+The channel vanished.
+
+Max wrote in his notes:
+
+Audio delay varies too.
+
+Then below it:
+
+Do not tell Lily her timing is bad.
+
+He underlined that once.
+
+---
+
+The final writing window was weak enough that only part of the paper responded.
+
+Max copied his results into short lines.
+
+2 sec.
+5 sec.
+8 sec.
+Audio ~6 sec.
+
+Lily's reply appeared slowly.
+
+SO THE ROOMS AREN'T KEEPING THE SAME TIME.
+
+Max considered that.
+
+Not exactly. Their clocks could still be normal. The connection between them was what seemed to slip.
+
+He wrote:
+
+THE CONNECTION IS LATE. SOMETIMES MORE LATE.
+
+Her answer did not come.
+
+The gray edge of the patch faded.
+
+Max waited another fifteen seconds.
+
+Nothing.
+
+He closed the compass.
+
+"Done, then."
+
+He stood.
+
+A line appeared on the paper behind him.
+
+YOU'RE EARLY.
+
+Max turned back.
+
+The writing had arrived after the rest of the window looked finished.
+
+He stared at it, then laughed.
+
+"Fine."
+
+He added one last note to his page:
+
+Even the goodbye can be late.
+
+The headache behind his eye pulsed once.
+
+Max stopped there.
+
+They had learned something useful.
+
+Messages did not simply cross space.
+
+Sometimes they crossed the wrong few seconds too.
+
+That was enough discovery for one day.
+
+
+
+---
+
+# CH-008 — That Was My Chair
+
+Lily had learned that impossible things became less impressive once they required masking tape.
+
+She crouched beside the dining chair and pressed a strip across the floor in front of its left leg, then another beside the right.
+
+The chair looked exactly as dignified as it had before, which was not very. It was secondhand, slightly too narrow, and still depended on a folded piece of cardboard under one leg to keep from rocking.
+
+A gray message appeared on the paper at the desk.
+
+THAT'S THE TEST OBJECT?
+
+Lily looked at it.
+
+YES.
+
+A few seconds later:
+
+IT LOOKS UNSTABLE.
+
+She wrote:
+
+YOU HAVE NEVER SEEN IT.
+
+I KNOW YOU.
+
+Lily stared at the page for a moment.
+
+Then she wrote:
+
+THAT IS NOT EVIDENCE.
+
+The answer arrived almost immediately.
+
+IT HAS CARDBOARD UNDER IT, DOESN'T IT?
+
+Lily looked down at the folded shim.
+
+She hated that he was right.
+
+---
+
+They had already tested messages, taps, voices, and timing.
+
+The chair was different.
+
+It was bigger than the writing patch and ordinary enough that Lily would not care if the experiment ruined it. At least, that was what she told herself while checking the floor marks for the third time.
+
+Max had described his own test object through two short writing windows.
+
+Metal work stool. Square seat. Four narrow legs. No back. No loose parts.
+
+Lily had written back a description of hers.
+
+Wooden dining chair. Spindle back. Four legs. One shorter than the others.
+
+Max's response had been:
+
+THE CARDBOARD IS NOW PART OF THE OFFICIAL DESCRIPTION.
+
+Lily had considered ending the experiment on principle.
+
+Instead, they agreed on the useful part.
+
+Both objects would stay in marked positions beside their tables during the next strong window. Neither of them would move the furniture once the test began.
+
+If nothing happened, fine.
+
+If the chair disappeared, Lily was leaving the apartment.
+
+Probably.
+
+---
+
+The desk lamp dimmed.
+
+A gray line appeared.
+
+READY?
+
+Lily wrote:
+
+READY.
+
+Then she put both hands on the back of the chair and waited.
+
+At first, nothing changed.
+
+Ten seconds passed. The room stayed quiet except for rain at the window.
+
+At fifteen, the chair rocked once under Lily's hands.
+
+She frowned.
+
+"I didn't move you."
+
+The wood beneath her fingers turned cold.
+
+Not cool. Cold.
+
+Lily pulled one hand away.
+
+A dark line appeared beneath the seat.
+
+For half a second she thought it was shadow. Then it sharpened into a metal brace crossing from one side of the chair to the other.
+
+Her chair did not have a metal brace.
+
+Lily stepped back.
+
+The wooden seat remained. The front legs remained. The spindle back did not.
+
+Its center shape flattened and widened, the curved wood becoming something halfway between a chair back and a frame. It was not Max's stool. His stool had no back at all.
+
+This was something else.
+
+A chair made from two sets of instructions that had not agreed on the answer.
+
+"Max."
+
+No voice came back.
+
+The writing patch brightened instead.
+
+CHANGED HERE.
+
+Lily grabbed the pen.
+
+MINE TOO.
+
+Her fingertips felt numb.
+
+She looked under the seat again. The dark brace was still there, but now the cardboard shim beneath the short leg had changed too. Its pale folded edge had become a thin gray strip that looked almost metallic.
+
+The chair rocked, and then everything snapped back.
+
+Wooden spindle back. No metal brace. Folded cardboard under the leg.
+
+Exactly the chair she had started with.
+
+Lily held the edge of the desk until the brief wave of nausea passed.
+
+The whole event had lasted less than half a minute.
+
+That was long enough.
+
+---
+
+The next writing window opened twelve minutes later.
+
+Max wrote first.
+
+MY STOOL GREW A WOODEN RUNG.
+
+Lily answered:
+
+MINE GREW METAL.
+
+A pause.
+
+THAT SOUNDS WORSE.
+
+IT WAS UGLY.
+
+IMPORTANT SCIENTIFIC OBSERVATION.
+
+Lily almost smiled.
+
+She checked the chair again before writing.
+
+DID YOUR STOOL MOVE?
+
+NO.
+
+MINE DIDN'T EITHER.
+
+Another pause.
+
+Max wrote:
+
+SO NOT A SWAP.
+
+Lily looked at the chair.
+
+That was the part that bothered her most.
+
+Nothing had crossed the room in the normal sense. Her chair had stayed under her hands. The legs had stayed on the tape marks. Max's stool had apparently stayed in Room 17.
+
+But for several seconds, both pieces of furniture had stopped being entirely themselves.
+
+She wrote:
+
+IT CHANGED WITHOUT GOING ANYWHERE.
+
+The reply took longer this time.
+
+YES.
+
+Then:
+
+STOP FOR TODAY.
+
+Lily flexed her cold fingers.
+
+She had already been about to write the same thing.
+
+AGREED.
+
+The marks began to fade.
+
+Before the window closed, Max added:
+
+SAVE THE CARDBOARD.
+
+Lily frowned.
+
+WHY?
+
+SENTIMENTAL VALUE.
+
+She laughed despite herself.
+
+Then the page cleared.
+
+The apartment looked normal again. The chair looked normal again.
+
+Lily was no longer convinced that meant very much.
+
+
+---
+
+# CH-009 — No Faces
+
+Max had spent twenty minutes polishing a compass that was already polished.
+
+He knew this was not useful.
+
+It was, however, something his hands could do while he waited for the writing patch to open.
+
+When the light above the worktable dimmed, Lily's first message appeared.
+
+MIRROR READY.
+
+Max set the compass on its stand.
+
+READY HERE.
+
+A pause.
+
+YOU POLISHED IT AGAIN, DIDN'T YOU?
+
+Max looked at the mirror-bright metal face.
+
+NO.
+
+The answer arrived a few seconds later.
+
+LIAR.
+
+"Excellent," he said. "We are beginning from a place of trust."
+
+---
+
+They had agreed on the setup the night before.
+
+Lily would angle the old wall mirror toward the east side of Unit 4B. Max would place the polished measurement face beside Correlation Patch A and keep it fixed. Neither would change position once the test started.
+
+The first goal was not Lily.
+
+It was the room.
+
+Max wrote:
+
+LIGHT ON?
+
+ON.
+
+He watched the compass face.
+
+At first it reflected Room 17 exactly as it should: amber lumen strip, pale stone wall, the corner of the worktable.
+
+Then the metal surface rippled.
+
+The amber light became warmer.
+
+A different wall appeared behind it.
+
+Paint instead of stone.
+
+A narrow desk lamp.
+
+The edge of a curtain.
+
+Max stopped breathing for one second.
+
+Not Lily.
+
+But not Room 17 either.
+
+He wrote quickly:
+
+I CAN SEE YOUR ROOM.
+
+Lily's reply took six seconds.
+
+CAN YOU SEE ME?
+
+Max looked again.
+
+The reflected room was empty.
+
+NO.
+
+There was a longer pause before her next message.
+
+RUDE.
+
+Max laughed once.
+
+NOT MY DECISION.
+
+---
+
+They tried the movement test anyway.
+
+Lily wrote:
+
+I'M IN FRONT OF THE MIRROR.
+
+Max checked the metal reflection.
+
+Empty room.
+
+He could see the desk. He could see part of the curtain. He could see a pale rectangle that had to be Lily's wall mirror.
+
+No Lily.
+
+Max wrote:
+
+RAISE RIGHT HAND ON 3.
+
+The answer came:
+
+READY.
+
+He counted against the compass dial.
+
+Three.
+
+Two.
+
+One.
+
+For several seconds, nothing changed.
+
+Then the empty space in the reflected room bent.
+
+Not a person.
+
+A vertical blur, darker at the center, as though the reflection had forgotten how to finish one part of the image.
+
+The blur shifted upward.
+
+Late.
+
+Max's pulse jumped.
+
+He wrote:
+
+DID YOU MOVE?
+
+YES. HAND UP THEN DOWN.
+
+WHEN?
+
+A timestamp followed.
+
+Max checked his dial.
+
+The distortion had moved several seconds after Lily's reported motion.
+
+He stared at the reflection.
+
+"Again."
+
+They repeated it once.
+
+Lily moved left.
+
+Four seconds later, the blur slid left.
+
+Still no face.
+
+No hair.
+
+No clothes.
+
+No body he could honestly call a body.
+
+Just an absence that behaved like someone was supposed to be there.
+
+The pressure behind Max's eyes sharpened.
+
+He stopped the test.
+
+STOP.
+
+Lily answered almost immediately.
+
+AGREED.
+
+The reflected Earth-side room dissolved from the metal surface.
+
+Room 17 returned.
+
+---
+
+The next writing window was short.
+
+Max wrote his result in the fewest words he could manage.
+
+ROOM VISIBLE.
+
+YOU NOT VISIBLE.
+
+MOVEMENT SHOWS AS DELAYED BLUR.
+
+Lily's answer:
+
+SO I'M A SMUDGE.
+
+CURRENTLY.
+
+I HATE THIS EXPERIMENT.
+
+Max smiled, then rubbed the ache above his left eye.
+
+He wrote:
+
+THE ROOM CROSSES CLEANER THAN YOU DO.
+
+A pause.
+
+THAT SOUNDS PERSONAL AGAIN.
+
+IT IS SCIENCE.
+
+THAT'S WHAT PEOPLE SAY BEFORE SOMETHING BREAKS.
+
+Max looked at the compass.
+
+She was not wrong often enough to be irritating.
+
+He wrote:
+
+ONE MORE TEST. DIFFERENT SETUP.
+
+NOT TODAY.
+
+He stopped.
+
+Then answered:
+
+NOT TODAY.
+
+The gray marks began to fade.
+
+Before they disappeared, Lily added:
+
+NEXT TIME, NO GUESSING.
+
+Max looked at the polished metal face.
+
+A room had crossed.
+
+A person had not.
+
+But the delayed blur had moved when Lily moved.
+
+That was not a face.
+
+It was not even close.
+
+It was enough to tell him where the next problem was.
+
+Max opened his notebook and wrote a new heading.
+
+**Receiver calibration.**
+
+
+
+---
+
+# CH-010 — I Can See You
+
+Max had one advantage over yesterday.
+
+Yesterday, he had been trying to make the reflection stronger.
+
+Today, he was trying to make it arrive at the right time.
+
+That distinction made him feel smarter than he deserved.
+
+The compass sat on its stand beside the worktable, its polished face angled toward the point where Lily's mirror sometimes appeared. Max had copied the previous timing results into the margin of his notebook.
+
+Two seconds.
+
+Five.
+
+Eight.
+
+Then four-point-something during the mirror test.
+
+Not a pattern. Not yet.
+
+But the delays had never been fixed.
+
+That mattered.
+
+If Lily's movement reached him late while the room itself arrived cleanly, then perhaps the problem was not that person-image information was impossible.
+
+Perhaps it was arriving out of step.
+
+Max looked at the polished receiver.
+
+"That sounds almost reasonable."
+
+Room 17 did not reward him.
+
+He checked the angle again.
+
+Then stopped himself from checking it a third time.
+
+Lily would absolutely notice if she could see him.
+
+That thought made him look at the metal face differently.
+
+Until now, Lily had been handwriting. Timing. A voice through static. Rain. A pharmacy sign. A bad kettle. A chair with structural problems she defended like family.
+
+He knew how she argued.
+
+He knew which jokes made her stop answering for several seconds.
+
+He knew she wrote shorter when she was annoyed.
+
+He knew she worried quietly and complained practically.
+
+He had no idea what face went with any of it.
+
+The writing patch opened.
+
+READY?
+
+Max picked up the pen.
+
+AS MUCH AS POSSIBLE.
+
+Her reply came quickly.
+
+THAT IS NOT REASSURING.
+
+IT WASN'T FOR YOU.
+
+A pause.
+
+RUDE.
+
+Max smiled.
+
+"Good. Normal so far."
+
+He wrote:
+
+SAME RULE AS YESTERDAY. ROOM FIRST. THEN MOVEMENT.
+
+Lily answered:
+
+AND IF YOUR EYES HURT?
+
+STOP.
+
+A few seconds later:
+
+ACTUALLY STOP?
+
+Max looked at the line.
+
+He deserved that.
+
+YES.
+
+Her next answer:
+
+GOOD.
+
+He set the pen down.
+
+First the room.
+
+Then the blur.
+
+Then, if the timing behaved, one controlled correction.
+
+No stronger alignment.
+
+No guessing.
+
+No turning an experiment into a personal challenge because he hated losing to furniture and mirrors.
+
+Max checked the compass dial.
+
+"Easy."
+
+The room remained unconvinced.
+
+---
+
+Lily angled her mirror until the polished receiver shimmered.
+
+Room 17 faded from the compass face.
+
+For several seconds, the reflection became an unstable mixture of both spaces. Pale Velaire stone lingered behind warmer Earth-side light. The edge of Max's worktable doubled, then settled.
+
+Unit 4B appeared.
+
+Desk.
+
+Curtain.
+
+Warm lamp.
+
+Part of the wall.
+
+The old mirror.
+
+And the empty place where Lily should have been.
+
+Max leaned closer but did not touch the receiver.
+
+Yesterday he had chased the blur every time it moved.
+
+Today he waited.
+
+The room reflection held.
+
+He wrote:
+
+ROOM STABLE.
+
+Lily's answer:
+
+I'M IN POSITION.
+
+Max checked the dial.
+
+He wrote:
+
+RAISE RIGHT HAND ON 3.
+
+The audio channel did not open, so the count crossed in writing.
+
+3
+
+2
+
+1
+
+Max watched the empty place in the reflected room.
+
+Nothing.
+
+One second.
+
+Two.
+
+Three.
+
+Then the familiar distortion formed.
+
+A vertical shadow.
+
+Too soft to be a body.
+
+Too responsive to be random.
+
+It shifted upward.
+
+Late.
+
+Max checked the dial.
+
+Four-point-three seconds.
+
+He wrote it down.
+
+Lily's message appeared.
+
+DID IT MOVE?
+
+YES. LATE.
+
+HOW LATE?
+
+Max wrote:
+
+4.3.
+
+A pause.
+
+VERY ROMANTIC NUMBER.
+
+Max stared at the line.
+
+He wrote:
+
+THIS IS SCIENCE.
+
+THAT'S WHAT YOU SAID LAST TIME.
+
+He ignored that.
+
+Mostly.
+
+Max adjusted the receiver by a fraction and reset the timing dial.
+
+Again.
+
+Lily moved on the count.
+
+The distortion appeared.
+
+Narrower.
+
+For half a second Max thought he had it.
+
+Then the blur split into two overlapping shadows.
+
+One moved left.
+
+The other stayed behind.
+
+Max's eyes watered.
+
+He looked away immediately.
+
+Pressure gathered above his left eye.
+
+The writing patch brightened.
+
+BETTER?
+
+Max rubbed his brow.
+
+He considered lying.
+
+WORSE IN A MORE INTERESTING WAY.
+
+The answer:
+
+THAT IS A VERY MAX ANSWER.
+
+He could hear her saying it even though the audio channel was closed.
+
+Not literally.
+
+He just knew where the dry emphasis would fall now.
+
+That was probably a problem of a different kind.
+
+Max sat back.
+
+The pressure behind his eye had not become pain yet, but it was close enough to count as warning.
+
+He drank water.
+
+Did not touch the receiver.
+
+Did not propose a fourth idea immediately.
+
+The writing patch opened again.
+
+WE CAN STOP.
+
+Max looked at the words.
+
+He wanted to say no.
+
+Not because stopping would be wrong.
+
+Because they were close.
+
+Close was dangerous that way. It made one more attempt sound like caution instead of impatience.
+
+He checked his notes.
+
+The first attempt had given him a current delay.
+
+The second had shown that changing the receiver angle affected the blur.
+
+They had one bounded attempt left in the plan.
+
+Max wrote:
+
+ONE MORE. CURRENT DELAY ONLY. THEN STOP.
+
+The answer took several seconds.
+
+ONE.
+
+He wrote:
+
+ONE.
+
+---
+
+They waited until the pressure behind Max's eye faded.
+
+The third window opened weakly.
+
+That almost ended the experiment before it began.
+
+The room image shimmered in and out, unable to decide which wall belonged in the reflection.
+
+Max held still.
+
+Then the Earth-side room sharpened.
+
+Desk.
+
+Lamp.
+
+Curtain.
+
+Mirror.
+
+Empty space.
+
+He checked the dial.
+
+The lag was not yesterday's lag.
+
+It was not even the lag from the first attempt.
+
+Max measured the newest interval from Lily's last movement test.
+
+He adjusted for that number only.
+
+No average.
+
+No stronger setting.
+
+No extra correction.
+
+"Lily," he murmured, though she could not hear him.
+
+The blur appeared.
+
+Max turned the compass face a few degrees.
+
+The blur narrowed.
+
+His pulse climbed.
+
+He stopped touching the receiver.
+
+For one breath, nothing happened.
+
+Then the missing part of the reflection filled in.
+
+A person stood in Lily's mirror.
+
+Max forgot the dial.
+
+Forgot the notebook.
+
+Forgot the headache.
+
+Lily.
+
+Not handwriting.
+
+Not static.
+
+Not a dark place in a reflection where someone should have been.
+
+Her.
+
+She had her hair tied back, though several loose strands had escaped around her face as if she had stopped caring halfway through. She wore a simple dark shirt with one sleeve pushed slightly higher than the other.
+
+She was standing very straight.
+
+Too straight.
+
+Nervous, then.
+
+That surprised him.
+
+In every written exchange, Lily had seemed like the calmer person.
+
+The one who wrote rules while he tried to find technical loopholes.
+
+The one who answered fear by becoming practical.
+
+But now he could see the tension in her shoulders.
+
+The way she watched a mirror that still showed her nothing from his side.
+
+Mostly, she looked annoyed.
+
+That felt correct.
+
+Max smiled before he could stop himself.
+
+Lily's expression changed slightly.
+
+She could not see him.
+
+She must have noticed something on her side.
+
+Or heard the change in his breathing.
+
+She raised one hand.
+
+Max saw it happen.
+
+At the right time.
+
+Not four seconds later.
+
+Not as a blur.
+
+Her actual hand moved.
+
+Her actual face shifted with the effort of watching for a result she could not see.
+
+Max stared.
+
+"Lily."
+
+The audio channel crackled open.
+
+Weak.
+
+Barely there.
+
+Her voice reached him.
+
+"Did it work?"
+
+Max opened his mouth.
+
+For once, no joke arrived.
+
+The image shook.
+
+Lily doubled.
+
+One version stayed where she was.
+
+The other lagged half a step behind.
+
+The pressure behind Max's eye sharpened.
+
+He did not touch the receiver.
+
+He had promised one attempt.
+
+"Lily, I—"
+
+The image collapsed.
+
+Both versions vanished.
+
+Room 17 returned to the polished metal.
+
+Max sat very still.
+
+The audio died with it.
+
+The whole clear image had lasted perhaps five seconds.
+
+Five seconds.
+
+He looked at the dial as if the number might be wrong.
+
+It wasn't.
+
+Five seconds had been enough to make the empty space in Lily's mirror stop being abstract.
+
+Enough to attach expressions to pauses he already knew.
+
+Enough to make the distance between Room 17 and Unit 4B feel much less theoretical.
+
+Max closed his eyes.
+
+That was the part he had not predicted.
+
+Seeing Lily did not make her more real.
+
+They had settled that with taps, writing, and a voice.
+
+It made the separation more visible.
+
+---
+
+The writing patch opened before Max had recovered a useful expression.
+
+DID IT WORK?
+
+He looked at the question.
+
+For some reason, answering felt harder than it should have.
+
+He wrote:
+
+YES.
+
+Her response came quickly.
+
+YES WHAT?
+
+Max laughed.
+
+Of course.
+
+He wrote:
+
+I SAW YOU.
+
+Nothing appeared for several seconds.
+
+Then:
+
+OH.
+
+Max waited.
+
+He could imagine the exact tone now.
+
+That was new.
+
+Another line appeared.
+
+WAS I A SMUDGE?
+
+Max smiled.
+
+NOT THIS TIME.
+
+A pause.
+
+GOOD.
+
+He rubbed the ache above his eye.
+
+He could have described her.
+
+He could have told Lily everything he had noticed.
+
+The loose hair.
+
+The dark shirt.
+
+The way she stood too straight because she was pretending not to be nervous.
+
+That felt too personal somehow.
+
+Not because he had seen anything private.
+
+Because she had not seen him back.
+
+The asymmetry mattered more now than it had on paper.
+
+So Max chose the safest true thing.
+
+YOU LOOKED ANNOYED.
+
+The reply arrived almost immediately.
+
+I WAS LOOKING AT YOU.
+
+Max laughed hard enough that the headache objected.
+
+FAIR.
+
+Another line appeared.
+
+HOW LONG?
+
+Max checked the notebook.
+
+ABOUT FIVE SECONDS.
+
+Her response:
+
+THAT'S IT?
+
+Max wrote:
+
+VERY MEMORABLE FIVE SECONDS.
+
+He regretted the sentence immediately.
+
+There was a pause long enough for him to consider moving to another branch of reality voluntarily.
+
+Then Lily answered:
+
+THAT SOUNDS WEIRD.
+
+Max covered his face with one hand.
+
+I MEANT SCIENTIFICALLY.
+
+WORSE.
+
+He laughed again.
+
+The embarrassment helped.
+
+It made the moment ordinary enough to survive.
+
+The window weakened.
+
+Lily wrote:
+
+MY TURN NEXT.
+
+Max looked at the compass.
+
+That was the important part.
+
+She had no image of him.
+
+The connection had not become fair just because his side had worked first.
+
+Max wrote:
+
+SEPARATE CALIBRATION.
+
+The response:
+
+I KNOW.
+
+He added:
+
+YOUR SIDE MAY NEED DIFFERENT TIMING.
+
+AGREED.
+
+Then, after a pause:
+
+AND IF IT HURTS?
+
+Max looked at the ache behind his eye.
+
+He wrote:
+
+WE STOP.
+
+Her answer came immediately.
+
+GOOD.
+
+The page began to clear.
+
+Max leaned back.
+
+For days, Lily had been handwriting, timing, clipped audio, bad weather, a loud kettle, and arguments about furniture.
+
+Now she had a face.
+
+That did not replace any of those things.
+
+It fit beside them.
+
+Her face was not the reason he cared whether the writing patch opened.
+
+It was not the reason he had waited early today.
+
+It was not the reason Room 17 had felt less empty after CH-005.
+
+The connection had happened first.
+
+The face only gave it another shape.
+
+Max looked once more at the polished receiver.
+
+It reflected only Room 17 now.
+
+He could not see Lily.
+
+She could not see him.
+
+Not yet.
+
+For the first time, that imbalance felt personal.
+
+Tomorrow, they would fix it properly.
+
+Separately.
+
+Carefully.
+
+No guessing.
+
+Max wrote one final note in the margin of his timing sheet.
+
+**P1 — possible. Receiver-specific. Brief. Costly.**
+
+Then, beneath it, after a moment:
+
+**Five seconds.**
+
+He did not need to write anything else.
+
+
+---
+
