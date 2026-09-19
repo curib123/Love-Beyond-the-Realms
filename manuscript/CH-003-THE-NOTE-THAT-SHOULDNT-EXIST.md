@@ -6,37 +6,21 @@ Unfortunately, only some of them.
 
 He stood in the narrow passage outside Room 17 with one hand pressed against the stone and stared at the next doorway. The corridor beyond it looked perfectly ordinary: pale wall panels, a line of amber lumen strips, and the bottom half of a stairwell turning toward the lower floor.
 
-He had made it to that doorway six times.
+He had made it to that doorway six times and through it twice. On both occasions, the world had folded sideways before he reached the stairs and deposited him back inside Room 17 with a headache.
 
-He had made it through twice.
-
-On both occasions, the world had folded sideways before he reached the stairs and deposited him back inside Room 17 with a headache.
-
-Max considered the corridor.
-
-The corridor, as usual, showed no guilt.
+Max considered the corridor. The corridor, as usual, showed no guilt.
 
 "Very mature."
 
-His voice came back to him from the empty walls.
-
-He stepped forward.
-
-One foot crossed the threshold.
+His voice came back to him from the empty walls. He stepped forward and put one foot across the threshold.
 
 Then the pressure arrived.
 
 It was not pain exactly. More like walking into deep water that had forgotten to be wet. His chest tightened. The lights stretched into thin lines. For half a second he could see two versions of the doorway occupying the same place.
 
-Max stopped.
+Max stopped. He had become much better at stopping, which was not a skill he had expected to develop.
 
-He had become much better at stopping.
-
-That was not a skill he had expected to develop.
-
-He backed away.
-
-The pressure released so suddenly that he had to catch himself against the wall.
+He backed away. The pressure released so suddenly that he had to catch himself against the wall.
 
 His pulse hammered under his fingers.
 
@@ -46,11 +30,7 @@ Still an annoyingly useful fact.
 
 Max waited until the dizziness passed. Through the tall opening at the far end of the corridor, Rivenhall continued without him. An elevated railcar glided across the river district. Lumen signs blinked awake along a market bridge. Somewhere below, metal struck metal three times, followed by voices he could not make out.
 
-Ordinary life.
-
-Close enough to see.
-
-Too far to reach.
+Ordinary life, close enough to see and too far to reach.
 
 He looked away before the feeling in his chest became something he would have to name.
 
@@ -60,9 +40,7 @@ It usually was.
 
 ---
 
-The worktable had changed again.
-
-Max noticed it the moment he stepped inside.
+The worktable had changed again. Max noticed it the moment he stepped inside.
 
 A sheet of drafting paper lay where he had left it, held down by his spatial compass and a chipped ceramic weight. The paper was his. The compass was his. The table, unfortunately, still belonged to the building.
 
@@ -76,9 +54,7 @@ Below it, in a different hand, was another line.
 
 I WAS ABOUT TO ASK YOU THAT.
 
-He stared at the page.
-
-Then he laughed once.
+He stared at the page, then laughed once.
 
 "That's my question."
 
@@ -90,21 +66,13 @@ He had not named the effect.
 
 Naming things too early was how people became emotionally attached to bad theories.
 
-The first line was heavier and wider. Block letters.
-
-The second line was compact and slightly slanted.
+The first line was heavier and wider, written in block letters. The second was compact and slightly slanted.
 
 Two hands.
 
 Or one extremely committed hallucination.
 
-Max rubbed his thumb over the edge of the table.
-
-The marks did not smear.
-
-They were not wet.
-
-They seemed less like ink placed on the page and more like the page briefly remembering ink that belonged somewhere else.
+Max rubbed his thumb over the edge of the table. The marks did not smear. They were not wet. They seemed less like ink placed on the page and more like the page briefly remembering ink that belonged somewhere else.
 
 That thought was unpleasant enough that he decided not to improve it.
 
@@ -114,7 +82,7 @@ Only his own old measurement notes remained.
 
 Max leaned back in the chair.
 
-For the past several days, Room 17 had shown him things it should not contain. Light with the wrong color. A rectangular shadow where no object stood. Once, the outline of what looked like a wooden chair had occupied the corner for less than a second.
+For the past several days, Room 17 had shown him things it should not contain. Light with the wrong color. A rectangular patch of wall that seemed darker than the stone around it. Small marks that vanished when he tried to measure them.
 
 He had blamed exhaustion.
 
@@ -124,19 +92,13 @@ Exhaustion was becoming ambitious.
 
 ---
 
-Max waited for the next change.
-
-Waiting was worse than testing.
-
-Testing, at least, allowed a person to pretend he had control.
+Max waited for the next change. Waiting was worse than testing. Testing, at least, allowed a person to pretend he had control.
 
 He placed a clean sheet of paper in the center of the worktable and drew a small line near the top.
 
 Nothing.
 
-He added another.
-
-Still nothing.
+He added another. Still nothing.
 
 "Good conversation."
 
@@ -150,11 +112,7 @@ There.
 
 He checked the small timing dial on his compass. He did not understand the full pattern yet, but the changes often came in short windows.
 
-He needed a question.
-
-Not Who are you? They had established that neither side had found that useful.
-
-Not Where are you? Too broad.
+He needed a question. Not Who are you? They had established that neither side had found that useful. Not Where are you? Too broad.
 
 He looked toward the distant opening where Rivenhall's elevated rail crossed between the buildings.
 
@@ -168,9 +126,7 @@ He placed the pen down.
 
 The letters remained.
 
-For several seconds, nothing else happened.
-
-The room gave a soft creak.
+For several seconds, nothing else happened. The room gave a soft creak.
 
 Ten seconds.
 
@@ -182,9 +138,7 @@ The gray mark near the top began to fade.
 
 "Come on."
 
-Thirty.
-
-A new line appeared beneath his question.
+At thirty seconds, a new line appeared beneath his question.
 
 Max leaned closer.
 
@@ -202,15 +156,9 @@ The final line came in more slowly.
 
 TRAM WIRES.
 
-Max read the message again.
+Max read the message again, then looked toward Room 17's outer opening.
 
-He looked toward Room 17's outer opening.
-
-No brick building directly across from him.
-
-No pharmacy sign.
-
-No tram wires.
+No brick building directly across from him. No pharmacy sign. No tram wires.
 
 Rivenhall used elevated rail through this district, not street tram lines. The nearest commercial sign was amber and green, three buildings south. The rain part was possible, except Rivenhall's sky was currently dry enough to be offensive.
 
@@ -218,11 +166,7 @@ Max looked back at the page.
 
 Different place.
 
-That did not mean different world.
-
-It did not even prove there was a person.
-
-But whatever was producing the answer was not simply copying information from his room.
+That did not mean different world, and it did not even prove there was a person. But whatever was producing the answer was not simply copying information from his room.
 
 That was enough to make his pulse pick up for reasons that had nothing to do with the corridor.
 
@@ -236,9 +180,7 @@ YOU'RE INTERESTING.
 
 The sentence looked ridiculous the moment it existed.
 
-Max considered crossing it out.
-
-The gray letters on the other side began to fade.
+Max considered crossing it out, but the gray letters on the other side began to fade.
 
 Too late.
 
