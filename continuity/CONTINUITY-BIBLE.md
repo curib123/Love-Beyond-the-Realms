@@ -198,21 +198,24 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-010 v2
+# 16. Current Canon State — Through CH-011 v2
 
-**Latest Canon Chapter:** CH-010 — I Can See You
+**Latest Canon Chapter:** CH-011 — That Is Not What I Imagined
 
 ## Lily
 Knows:
-- Max's side successfully produced a visual image of her.
-- Lily still cannot see Max.
-- visual access requires a separate calibration.
+- Max's CH-010 visual success was receiver-specific and did not automatically transfer to her;
+- her own reverse calibration requires a different timing/angle solution;
+- after two failed attempts, she obtained a reliable reflected image of Max for several seconds;
+- Max appears to be a young man around her age with messy dark hair, tired eyes, expressive features, and practical unfamiliar clothing;
+- P1 access must be announced and consent-based.
 
 ## Max
 Knows:
-- receiver-specific calibration can briefly resolve Lily as a reliable reflected person-image.
-- Lily's appearance is now known to him through P1.
-- the clear image lasted only several seconds and caused eye/head strain.
+- Lily independently achieved her own P1 view of him;
+- reciprocity is possible but requires separate receiver calibration;
+- Lily's settings are not identical to his;
+- both can refuse visual windows.
 
 ## Reader Knowledge
 **K2**
@@ -220,15 +223,19 @@ Knows:
 ## Relationship
 **R1 — Mutual Reality Test**
 
-Visual vulnerability deepens the existing bond; no formal romance-stage jump.
+The relationship deepens toward cross-world-roommate behavior through visual familiarity and explicit privacy boundaries.
+
+No formal promotion to R2 yet.
 
 ## Perception / Contact / Crossing
+- **Lily: P1 — Indirect Sight (narrow, receiver-specific)**
 - **Max: P1 — Indirect Sight (narrow, receiver-specific)**
-- **Lily: P0 — Echo Trace**
+- each requires separate calibration;
+- visual windows are brief and deliberate;
 - **C0**
 - **X0**
 
-No direct sight, touch or crossing.
+No direct naked-eye sight, touch, crossing, P2, or P3.
 
 ## Mystery
 - M-001 RESOLVED locally
@@ -238,13 +245,26 @@ No direct sight, touch or crossing.
 - M-005 onward unchanged
 
 ## Foreshadowing
-- F-001 PLANTED
-- F-002 PLANTED
-- F-003–F-008 NOT YET PLANTED
+- **F-001 Mirror Delay — PLANTED**
+- **F-002 Wrong Furniture — PLANTED**
+- F-003–F-008 — NOT YET PLANTED
 
-## CH-011 Guard
-CH-011 must perform a separate reverse calibration for Lily.
+## Privacy / Consent Rules
+Canonical visual-window rules:
+- announce before visual calibration;
+- no surprise activation;
+- no testing while changing;
+- no testing while sleeping;
+- either person may refuse a visual window.
 
-Lily may reach P1 if Gate 9 approves it.
+## CH-012 Guard
+CH-012 must shift pressure back to ordinary life:
+- rent;
+- repairs;
+- Inez;
+- Nora;
+- sleep / responsible apartment use.
 
-No automatic reciprocity, contact or direct sight.
+P1 remains narrow and deliberate.
+
+Do not escalate to touch/crossing or a new perception tier.
