@@ -1165,12 +1165,12 @@ Final manuscript total:
 Final arc state:
 **R2 / P0 baseline / narrow controlled P1 / C0 / X0**
 
-# 82. Next Production Step
+# 82. Historical Pre-Gate-5 Next Step
 
-Future arc remains:
+At this point in production history, the future arc was still:
 **UNSELECTED / UNLOCKED**
 
-**Gate 5 — Next Active Arc Selection QA**
+This state was superseded by Gate 5 selection of the **Shared Foundations Arc**.
 
 
 # 83. Gate 5 — Next Active Arc Selection
