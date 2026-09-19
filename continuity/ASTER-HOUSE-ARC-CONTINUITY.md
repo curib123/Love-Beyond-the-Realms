@@ -83,9 +83,40 @@ System observation:
 - Lily's own writing remains on her paper;
 - no voice/person-image.
 
+## CH-003 — The Note That Shouldn't Exist — CANON
+
+Reader knowledge:
+- Max is alive;
+- Max is phase-bound around Room 17/Larkspur;
+- Rivenhall exists as Max's ordinary world context;
+- Max cannot reliably rejoin normal life.
+
+Lily knowledge:
+- unchanged from CH-002.
+
+Max knowledge:
+- the responder can supply environmental information not copied from Room 17;
+- responder remains unproven as living human.
+
+Mystery:
+- M-001 **ACTIVE — STRONGLY DEEPENED**
+- M-002–M-011 unchanged.
+
+F-IDs:
+- all **PLANNED — NOT YET PLANTED**.
+
+State:
+- reader K1
+- Lily still pre-mutual-test knowledge
+- R0
+- P0 Echo Trace
+- C0
+- X0
+
 # Current State
 
-Latest canon: **CH-002**
+Latest canon: **CH-003**
 
-M-001 ACTIVE — evidence of intentional response.
+Reader knowledge stage: **K1**
+M-001 ACTIVE — independent responder strongly supported.
 All other M-IDs unchanged.
