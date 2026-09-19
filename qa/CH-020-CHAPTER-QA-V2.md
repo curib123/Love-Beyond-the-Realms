@@ -3,7 +3,7 @@
 **Chapter:** The Roommate Agreement  
 **Result:** **PASS**  
 **Canon Status:** **APPROVED**  
-**Word Count:** 811  
+**Word Count:** 1,729  
 **Blocking:** 0  
 **Major:** 0  
 **Minor:** 2
@@ -53,3 +53,40 @@
 **CH-020 GATE 9 — PASS / CANON-APPROVED**
 
 **ASTER HOUSE ARC MANUSCRIPT COMPLETE**
+
+
+# Final Prose Development — Gate 9 Revalidation
+
+**Result:** **PASS**  
+**Publication Readiness:** **FINAL-PASS**  
+**Current Word Count:** **1,729**
+
+The arc-finale compression identified by the full-manuscript audit has been corrected.
+
+Development added only:
+- fuller confirmation that Unit 4B is safely ordinary again;
+- more ordinary-life recovery and supporting-cast aftermath;
+- clearer separation between Lily choosing Unit 4B for herself and Max being part of that life;
+- fuller roommate-agreement drafting with all already-earned rules;
+- stronger emphasis that P0 is the default and P1 requires mutual controlled calibration;
+- more breathing room around R2 formalization;
+- an open-ended final conversation that preserves Max/Mina/Larkspur and future-arc questions.
+
+Canon preserved exactly:
+- Lily-only close third;
+- Lily stays by her own choice;
+- R2 formalizes practical cross-world-roommate trust, not an official romance;
+- default active state remains **P0 Echo Trace**;
+- narrow P1 remains learned and controlled;
+- C0 / X0;
+- M-001 resolved locally;
+- M-002 partial;
+- M-003 active;
+- M-004 active;
+- M-005 partial;
+- F-001/F-002/F-003 planted only;
+- F-004–F-008 remain unplanted;
+- MT-001/002/003 remain unrevealed;
+- future arc remains UNSELECTED / UNLOCKED.
+
+**FINAL GATE 9 REVALIDATION — PASS / PUBLICATION-FINAL**
