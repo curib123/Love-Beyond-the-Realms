@@ -290,3 +290,65 @@ Planned but NOT YET CANON:
 - blind-survey climax.
 
 No M/F state changes occur until manuscript prose passes Gate 9.
+
+
+# 17. Current Canon State — Shared Foundations Arc Through CH-021
+
+**Latest Canon Chapter:** CH-021 — The Inspection Notice
+
+Arc:
+**SF-ARC-002 — Shared Foundations Arc**
+
+Relationship:
+**R2 — Cross-World Roommates**
+
+Knowledge:
+**K2**
+
+Default system:
+- **P0 — Echo Trace baseline**
+- narrow controlled **P1 Indirect Sight** remains available but was not used in CH-021
+- **C0**
+- **X0**
+
+## CH-021 Canon Additions
+
+Earth-side access:
+- Inez schedules an east-side service inspection for **10:30 a.m. the next morning**;
+- inspection rationale is ordinary maintenance: frame/alignment complaint, temperature irregularity, older electrical/service routing, repair/insurance documentation;
+- Lily may accompany Inez under supervision;
+- Inez retains the key;
+- Lily receives no independent service-area access;
+- Lily may document the complaint area only within Inez's rules;
+- Lily must bring earlier photographs and temperature notes.
+
+Ordinary-life state:
+- Lily's Paper Moon shift begins at **1:00 p.m.**;
+- Lily explicitly will not miss work for the inspection.
+
+Lily/Max research state:
+- first inspection is observation-only;
+- no P1;
+- no attempt to provoke a reaction;
+- no synchronized test;
+- no unauthorized manipulation;
+- Max acknowledges he must define his own safe Larkspur survey boundary first;
+- Max explicitly agrees to no improvising / no "five more seconds."
+
+Mystery / foreshadowing:
+- **no M-ID change**
+- **no F-ID change**
+- M-007 remains unactivated;
+- F-005 remains **PLANNED — NOT YET PLANTED**.
+
+Major twists:
+- MT-001 UNREVEALED;
+- MT-002 UNREVEALED;
+- MT-003 UNREVEALED.
+
+Detailed Arc 2 continuity:
+`continuity/SHARED-FOUNDATIONS-ARC-CONTINUITY.md`
+
+# Next Canon Production Step
+
+**CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
