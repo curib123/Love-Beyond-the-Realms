@@ -92,17 +92,15 @@ Blue.
 
 The joke disappeared from the other side.
 
-Footsteps moved away.
-
-Another pause.
+A pause.
 
 "Lily."
 
 "Please."
 
-That changed June's tone.
+That did it.
 
-Footsteps moved away.
+June's footsteps moved away.
 
 Lily waited.
 
@@ -172,7 +170,7 @@ June sighed.
 
 "Nothing."
 
-June just looked at her.
+Silence from the other side.
 
 Lily lasted two seconds.
 
