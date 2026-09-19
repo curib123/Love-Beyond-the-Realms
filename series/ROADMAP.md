@@ -294,4 +294,29 @@ Locked:
 - P0 / narrow controlled P1 / C0 / X0 ceiling.
 
 Chapter count:
-**UNLOCKED — GATE 7 ONLY**
+**14 — GATE 7 QA-LOCKED**
+
+
+# Shared Foundations Gate 7 Roadmap
+
+Roadmap:
+`planning/SHARED-FOUNDATIONS-CHAPTER-ROADMAP.md`
+
+QA:
+`qa/SHARED-FOUNDATIONS-CHAPTER-ROADMAP-QA.md`
+
+Production ledger:
+`qa/SHARED-FOUNDATIONS-PRODUCTION-LEDGER.md`
+
+Result:
+**PASS — QA-LOCKED**
+
+Locked chapter range:
+**CH-021–CH-034**
+
+Later arcs:
+**UNSELECTED / UNLOCKED**
+
+# Current Next Authorized Step
+
+**CH-021 — The Inspection Notice → Detailed Scene Architecture → Gate 8**
