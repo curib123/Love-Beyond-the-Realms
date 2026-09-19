@@ -38,9 +38,7 @@ The answer came back:
 
 I KNOW YOU.
 
-Lily's pen stopped.
-
-Lily stopped.
+Her pen stopped.
 
 Then:
 
@@ -268,7 +266,7 @@ SO WE DIDN'T SWAP THEM.
 
 Lily's smile disappeared.
 
-Lily looked at the chair.
+She looked at the chair.
 
 That was the part she disliked.
 
