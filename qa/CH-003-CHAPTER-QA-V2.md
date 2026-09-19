@@ -3,7 +3,7 @@
 **Chapter:** The Note That Shouldn't Exist  
 **Result:** **PASS**  
 **Canon Status:** **APPROVED**  
-**Word Count:** 1,092  
+**Word Count:** 1,077  
 **Blocking:** 0  
 **Major:** 0 after correction  
 **Minor:** 2
@@ -48,3 +48,11 @@ knows an independent responder can supply environmental information different fr
 # Next
 
 **CH-004 — The Other Tenant → Gate 8**
+
+
+# Post-arc metadata audit
+
+Current manuscript word count rechecked:
+**1,077**
+
+Prior QA count was stale after prose revision. No story/canon change.
