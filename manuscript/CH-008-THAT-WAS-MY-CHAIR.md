@@ -20,7 +20,9 @@ A gray message appeared at the desk.
 
 THAT'S THE TEST OBJECT?
 
-Lily looked at it.
+Lily looked at the chair.
+
+Then at the page.
 
 YES.
 
@@ -32,7 +34,11 @@ She wrote:
 
 YOU HAVE NEVER SEEN IT.
 
+The answer came back:
+
 I KNOW YOU.
+
+Lily's pen stopped.
 
 Lily stopped.
 
@@ -300,15 +306,19 @@ Before the window closed, Max added:
 
 SAVE THE CARDBOARD.
 
-Lily frowned.
+Lily frowned at the folded shim still under the leg.
 
 WHY?
 
 SENTIMENTAL VALUE.
 
-She laughed.
+She laughed once.
 
-Then wrote:
+YOU HAVE NEVER TOUCHED IT.
+
+DETAILS.
+
+Lily shook her head and wrote:
 
 YOU NEED BETTER HOBBIES.
 
