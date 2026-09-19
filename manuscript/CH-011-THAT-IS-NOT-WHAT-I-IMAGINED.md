@@ -2,19 +2,17 @@
 
 Lily had discovered one unfair thing about dimensional physics.
 
-Max was much more confident about experiments that had already worked for him.
+Max became much more confident about experiments after they worked for him.
 
-His handwriting appeared on the desk before she had finished checking the mirror angle.
+His handwriting appeared before she finished checking the mirror angle.
 
 USE THE SAME ANGLE I USED.
 
-Lily looked at the wall mirror.
+Lily looked at the mirror.
 
 Then at the note.
 
 Then back at the mirror.
-
-She wrote:
 
 YOUR ANGLE WAS ON YOUR SIDE.
 
@@ -24,7 +22,7 @@ PHYSICS SHOULD RESPECT SYMMETRY.
 
 IT HASN'T SO FAR.
 
-That took longer to answer.
+Longer pause.
 
 FAIR.
 
@@ -38,57 +36,53 @@ Mrs. Bell would probably sense it from downstairs if Lily loosened the wall agai
 
 She checked the floor marks.
 
-The mirror.
+The timer.
 
-The timer on her phone.
-
-The notebook where Max's previous calibration numbers had been copied in her handwriting.
+The notebook where she had copied Max's calibration numbers.
 
 His settings were useful.
 
 They were not hers.
 
-That distinction mattered now.
+That mattered.
 
 Yesterday, Max had seen her.
 
 For approximately five seconds.
 
-He had been annoyingly restrained about what he said afterward.
+He had been annoyingly restrained afterward.
 
 Mostly.
 
 **YOU LOOKED ANNOYED** was not exactly restraint, but it could have been worse.
 
-Lily had spent more time thinking about the fact that he had seen her than she wanted to admit.
+Lily had spent more time thinking about being seen than she wanted to admit.
 
-Not because she was embarrassed about her face.
+Not because of her face.
 
 Because the balance had changed.
 
-Max now knew something visual about her that she did not know about him.
+Max knew something visual about her now.
+
+She did not know the same about him.
 
 She knew his voice.
 
 His handwriting.
 
-His habit of turning fear into jokes.
+The way he hid fear behind jokes.
 
 The way his messages got shorter when something was actually wrong.
 
-The fact that he kept pushing at Room 17's boundaries even when he knew they would push back.
+The fact that he kept testing the edges of Room 17 as if the building might one day apologize and let him through.
 
 She had built a person out of all those things.
 
-Apparently, that person now had a face.
+Apparently, that person had a face.
 
-She just had no idea what it was.
-
-Lily wrote:
+She just had no idea what it looked like.
 
 SAME RULES AS YESTERDAY.
-
-Max answered:
 
 ONE GOOD TRY AFTER THE FAILURES.
 
@@ -114,7 +108,7 @@ I'M NOT THE RECEIVER THIS TIME.
 
 THAT WAS NOT MY POINT.
 
-A pause.
+A beat.
 
 AGREED.
 
@@ -122,9 +116,7 @@ Lily put down the pen.
 
 "Good."
 
-The apartment remained normal.
-
-The wall mirror reflected only her.
+The mirror reflected only her.
 
 For the moment.
 
@@ -132,65 +124,67 @@ For the moment.
 
 The first attempt showed Room 17.
 
-That was all.
+Nothing else.
 
-Lily's reflection faded from the glass.
+Lily's reflection faded.
 
-Warm Unit 4B light gave way to pale stone, an amber lumen strip, and the edge of Max's worktable.
+Warm Unit 4B light gave way to pale stone, amber lumen strips, and the edge of Max's worktable.
 
-The transition still made her stomach tighten even though she had seen versions of Room 17 before.
+The transition still tightened her stomach.
 
 It was one thing to know another room existed.
 
-It was another to have it replace your own reflection.
+It was another to lose your own reflection to it.
 
-Lily leaned closer.
+She leaned closer.
 
 No Max.
 
-Only the table.
+Just table.
 
-A chair.
+Chair.
 
-A wall that belonged to another reality.
+Stone wall.
+
+A room that belonged somewhere else.
 
 She wrote:
 
 ROOM. NO YOU.
 
-His reply appeared several seconds later.
-
 OFFENSIVE.
 
-Lily checked the phone timer.
+Lily checked the timer.
 
-The room image held for four seconds, blurred, then collapsed back into Unit 4B.
+Four seconds.
 
-She recorded the delay.
+Blur.
+
+Then Unit 4B returned.
 
 The second attempt was worse.
 
-Room 17 appeared again, but the space beside the worktable filled with a dark vertical shape that immediately split into two overlapping versions.
+Room 17 appeared.
 
-One shadow leaned slightly forward.
+A dark vertical shape formed beside the table.
 
-The other remained behind.
+Then split into two.
 
-Both were useless.
+One shadow leaned forward.
 
-Lily stared at them.
+The other lagged behind.
 
-This was what Max had seen yesterday.
+Both useless.
+
+Lily stared.
+
+So this was what Max had seen yesterday.
 
 Not a person.
 
 Evidence that a person should have been there.
 
-She wrote:
-
 YOU WERE TWO PEOPLE.
-
-His answer:
 
 I'M VERY EFFICIENT.
 
@@ -198,29 +192,21 @@ BOTH WERE BLURRY.
 
 THAT'S LESS FLATTERING.
 
-Lily checked the phone timer.
+Lily checked the timer.
 
-The delay on her side was not the same as his had been.
+Her delay was not his delay.
 
-Of course it wasn't.
+Of course it was not.
 
-The system had been personally committed to inconvenience from the beginning.
+The connection had committed itself to inconvenience from the beginning.
 
-She compared the movement lag with the room-state transition.
-
-Different.
-
-She adjusted for the newest interval instead of copying Max's settings.
-
-A message arrived.
+She adjusted for the newest interval.
 
 HOW BAD?
 
 Lily considered.
 
 ONE OF YOU LOOKED TALLER.
-
-There was a pause.
 
 WHICH ONE?
 
@@ -230,41 +216,35 @@ THAT EXPLAINS EVERYTHING.
 
 Lily shook her head.
 
-The humor helped more than it should have.
+The humor helped.
 
-It gave her something ordinary to hold onto while another world's room sat inside her mirror.
+It gave her something ordinary to hold while another world's room sat inside her mirror.
 
-The image vanished.
+Then the image vanished.
 
 Her own face returned.
 
-Lily looked tired.
-
-She had not noticed before.
+She looked tired.
 
 That annoyed her too.
 
-The writing patch opened again.
+The patch opened.
 
 WE CAN STOP.
 
-Lily looked at the sentence.
+Lily stared at the sentence.
 
-Yesterday, Max had apparently needed to be reminded that "one more try" was not the same thing as caution.
+Yesterday, Max had needed reminders that "one more try" was not the same as caution.
 
-Today he was the one offering to stop.
+Today he was offering to stop.
 
 She checked her eyes.
 
+Mild strain.
+
 No pain.
 
-Only mild strain.
-
-The next window would be their third attempt.
-
-The last one they had planned.
-
-Lily wrote:
+One attempt remained.
 
 ONE MORE. CURRENT DELAY ONLY.
 
@@ -272,21 +252,17 @@ A pause.
 
 ONE.
 
-She answered:
-
 ONE.
 
 ---
 
-The third window opened twenty minutes later.
+Twenty minutes later, Lily stood in front of the wall mirror with one hand resting lightly on the frame.
 
-Lily stood in front of the wall mirror with one hand resting lightly on the frame.
+Max had written that he was ready.
 
-Max had written that he was in position.
+She did not copy his angle.
 
-She did not copy his old angle.
-
-She did not copy yesterday's delay.
+Did not copy his delay.
 
 She used the newest number from her side.
 
@@ -308,9 +284,9 @@ Lily watched the timer.
 
 The shape doubled.
 
-For half a second, she thought they had failed again.
+For half a second, she thought they had failed.
 
-Then the second image collapsed into the first.
+Then one image collapsed into the other.
 
 A face resolved.
 
@@ -318,43 +294,39 @@ Lily forgot the timer.
 
 Max stood beside the worktable.
 
-He was a young man around her age.
+Around her age.
 
 Leaner than she had imagined.
 
-His dark hair looked like it had lost an argument with several different directions and then refused to apologize.
+Dark hair that looked like it had lost an argument with several directions and refused to apologize.
 
-His clothes were unfamiliar without being dramatic: fitted dark layers, practical fastenings, nothing that looked remotely ghost-like or ceremonial.
+His clothes were unfamiliar without being dramatic. Dark layers. Practical fastenings. Nothing ghost-like. Nothing ceremonial.
 
-His face was more expressive than his handwriting suggested.
+His face was more expressive than his handwriting.
 
-That made sense immediately.
+That made immediate sense.
 
-The jokes had always arrived too fast to belong to someone who kept everything inside.
+The jokes had always arrived too fast to belong to someone who kept everything locked down.
 
 His eyes looked tired.
 
 That surprised her most.
 
-In Lily's head, Max had somehow become permanently confident.
+In Lily's head, Max had become permanently confident.
 
-A person who wrote jokes while trapped inside an impossible building should not have been allowed to look exhausted.
+As if joking from inside an impossible building somehow exempted a person from exhaustion.
 
-It felt unfair.
+Of course he looked tired.
 
-More importantly, it felt obvious the moment she saw it.
+Of course the jokes had not erased that.
 
-Of course he was tired.
+Max looked toward the receiver on his side.
 
-Of course being funny did not erase that.
-
-Max looked directly toward the receiver on his side.
-
-He could not see Lily through her mirror now; his own successful P1 setup was not active.
+He could not see her now.
 
 That was strangely reassuring.
 
-She was the one looking this time.
+She was the one looking.
 
 He was the one waiting.
 
@@ -366,17 +338,17 @@ She raised one hand.
 
 Max did the same.
 
-This time neither movement arrived as a blur.
+This time, no blur.
 
-His hand moved when she expected it to move.
+His hand moved when it should.
 
-His face changed with the gesture.
+His face changed with the motion.
 
 Real timing.
 
 Real expression.
 
-Six seconds, perhaps.
+Six seconds.
 
 Maybe less.
 
@@ -384,7 +356,7 @@ Enough.
 
 The mirror flickered.
 
-Max became two overlapping versions of himself.
+Max doubled.
 
 Lily's stomach dropped.
 
@@ -394,15 +366,15 @@ His voice came faintly through the audio channel.
 
 "You can see me?"
 
-Lily looked at his doubled reflection.
+She looked at the two versions of him.
 
-One version lagged behind the other by half a movement.
+One lagged behind by half a movement.
 
 "Unfortunately."
 
 Max grinned.
 
-That expression fit the voice so well that Lily almost laughed.
+That expression fit his voice so perfectly Lily nearly laughed.
 
 Then the image vanished.
 
@@ -414,49 +386,43 @@ Lily stayed still.
 
 The silence after visual contact felt larger than the room.
 
-She looked at herself.
-
 Same apartment.
 
 Same mirror.
 
-Same face.
+Same face looking back.
 
-But now Max was no longer an imagined outline built from handwriting and bad decisions.
+But Max was no longer an outline made from handwriting and bad decisions.
 
-He had shoulders that carried more tension than she expected.
-
-Tired eyes.
+He had tired eyes.
 
 Messy hair.
 
 A grin that arrived before caution.
 
-That did not make him more real.
+It did not make him more real.
 
-He had already been real.
+He already was.
 
-It only made some of her guesses embarrassingly specific.
+It only made some of Lily's guesses embarrassingly specific.
 
-Lily sat down before the next window opened.
+She sat down before the next window opened.
 
 ---
 
-The writing patch brightened almost immediately.
+The patch brightened.
 
 WELL?
 
 Lily looked at the question.
 
-She could have said the obvious thing.
+She could have written the obvious thing.
 
-**I saw you.**
-
-Instead she wrote:
+Instead:
 
 YOU LOOK LESS ORGANIZED THAN YOUR HANDWRITING.
 
-There was a pause.
+A pause.
 
 THAT IS SLANDER.
 
@@ -464,11 +430,9 @@ YOUR HAIR IS MAKING A STRONG ARGUMENT.
 
 Another pause.
 
-Then:
-
 YOU LOOK EXACTLY AS JUDGMENTAL AS EXPECTED.
 
-Lily frowned at the page.
+Lily frowned.
 
 I WAS CORRECT.
 
@@ -476,19 +440,17 @@ ABOUT WHAT?
 
 MOST THINGS.
 
-The gray letters trembled at the edge of the patch.
-
-Max wrote:
+The gray letters trembled near the edge.
 
 THAT IS NOT A SCIENTIFIC CATEGORY.
 
 IT SHOULD BE.
 
-A short laugh escaped her before she could stop it.
-
-The room did not carry the sound across this time.
+A laugh escaped her.
 
 Good.
+
+The room did not carry it across.
 
 Some humiliation still belonged entirely to Earth.
 
@@ -498,21 +460,17 @@ SO WHAT DID YOU IMAGINE?
 
 Lily froze.
 
-That was an unfair question.
+Unfair question.
 
-She had imagined several versions of Max without admitting that she was doing it.
+She had imagined several versions of Max without admitting she was doing it.
 
-Someone taller.
+Taller.
 
-Someone neater.
+Neater.
 
 Someone who looked as comfortable as his jokes sounded.
 
-She wrote:
-
 MORE COMPOSED.
-
-His response:
 
 RUDE AGAIN.
 
@@ -522,11 +480,9 @@ This time the answer took longer.
 
 I AM.
 
-The simplicity changed the tone.
+The simplicity changed the scene.
 
 Lily rested the pen against the paper.
-
-She could have asked why.
 
 She already knew enough.
 
@@ -536,9 +492,7 @@ Missing family.
 
 Room 17.
 
-Days measured by failed exits and impossible windows.
-
-She wrote:
+Days measured in failed exits and impossible windows.
 
 YOU DON'T HAVE TO JOKE EVERY TIME.
 
@@ -546,7 +500,7 @@ A pause.
 
 I KNOW.
 
-Then, after another:
+Then:
 
 I LIKE JOKING.
 
@@ -556,15 +510,11 @@ FAIR.
 
 The window weakened.
 
-Max wrote:
-
 NEW RULE.
 
-Lily waited.
+She waited.
 
 NO SURPRISE MIRROR TESTS.
-
-She answered:
 
 OBVIOUSLY.
 
@@ -576,15 +526,11 @@ NO TESTING WHILE SLEEPING.
 
 Lily stopped.
 
-Then wrote:
-
 WHY DID THAT NEED TO BE SAID?
 
 BECAUSE WE ARE MAKING RULES.
 
-That was exactly the kind of answer a person gave when they had thought of something stupid and wanted legal protection before admitting it.
-
-Lily added:
+That was exactly the answer of a person who had already thought of something stupid and wanted legal protection before admitting it.
 
 ANNOUNCE FIRST.
 
@@ -592,15 +538,11 @@ AGREED.
 
 EITHER PERSON CAN SAY NO.
 
-His answer came without delay.
-
 AGREED.
 
 NO ASKING WHY?
 
 Lily considered that.
-
-Sometimes there would be a reason.
 
 Work.
 
@@ -610,29 +552,21 @@ Fear.
 
 Embarrassment.
 
-Sometimes there would not.
+Sometimes there would be a reason.
 
-Sometimes **no** should be enough.
-
-She wrote:
+Sometimes no should be enough.
 
 NO EXPLANATION REQUIRED.
 
-The response took only a moment.
-
 AGREED.
 
-Lily looked toward the wall mirror.
+Lily looked at the mirror.
 
-It reflected only her apartment again.
+For days, Max had been a voice and handwriting with bad ideas attached.
 
-For days, Max had been a voice and a handwriting style with bad ideas attached.
-
-Now she knew what face made those bad ideas.
+Now she knew what face made the bad ideas.
 
 It changed less than she expected.
-
-That was the strange part.
 
 His appearance corrected details.
 
@@ -642,23 +576,21 @@ If anything, the tired eyes made the jokes make more sense.
 
 The messy hair made several arguments more predictable.
 
-And the fact that he looked nothing like the polished imaginary version in her head was somehow a relief.
+And the fact that he looked nothing like the polished imaginary version in her head was a relief.
 
 The connection had not depended on guessing correctly.
 
-The writing patch began to fade.
+The patch began to fade.
 
-Max added one final line.
+One final line.
 
 SO?
-
-Lily wrote:
 
 SO WHAT?
 
 DO I PASS?
 
-She stared at the question.
+Lily stared.
 
 Then smiled.
 
@@ -669,8 +601,6 @@ The answer appeared at the edge of the fading patch.
 I'LL TAKE IT.
 
 The page cleared.
-
-Lily looked at the mirror one last time.
 
 Tomorrow, seeing Max would still require preparation.
 
