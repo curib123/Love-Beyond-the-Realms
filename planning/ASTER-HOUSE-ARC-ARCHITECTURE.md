@@ -4,7 +4,7 @@
 **Owners:** A061 Arc Architect + A071 Arc Editor  
 **Selection:** Gate 5 approved  
 **Architecture Status:** GATE 6 PASS — QA-LOCKED  
-**Chapter Count:** UNLOCKED
+**Chapter Count:** **20 — LOCKED FOR AH-ARC-001**
 
 # 1. Arc Purpose
 
