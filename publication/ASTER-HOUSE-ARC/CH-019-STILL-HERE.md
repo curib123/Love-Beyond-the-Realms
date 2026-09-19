@@ -360,13 +360,33 @@ Max nodded even though she could not see him.
 
 "You also made a good one after."
 
-"That doesn't erase the first part."
+He leaned back.
+
+"Are you trying to make me feel better?"
+
+"No."
+
+The answer came too quickly.
+
+That pulled a short laugh out of him.
+
+Lily continued, "I'm trying to stop you from turning one bad choice into your whole personality."
+
+Max went quiet.
+
+"That's very specific."
+
+"You make it necessary."
+
+He looked at the folded compass.
+
+"The good choice doesn't erase the first one."
 
 "No."
 
 A pause.
 
-"It doesn't erase the second part either."
+"It doesn't erase itself either."
 
 Max went still.
 
@@ -484,17 +504,27 @@ He wrote:
 
 Lily's answer took almost a minute.
 
-**WE KEEP THE SAFE RULES. WE LIVE OUR LIVES. WE LEARN WITHOUT BEING STUPID.**
+**WE KEEP THE SAFE RULES.**
+
+Another line appeared.
+
+**WE LIVE OUR LIVES.**
+
+Then:
+
+**WE LEARN WITHOUT BEING STUPID.**
 
 Max stared at the last part.
 
-**THE LAST RULE SEEMS TARGETED.**
+**THAT ONE FEELS PERSONAL.**
 
 **IT IS.**
 
 He laughed.
 
-Then wrote:
+Then the smile slipped.
+
+His pen hovered before he wrote:
 
 **AND MINA?**
 
