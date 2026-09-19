@@ -8,7 +8,7 @@
 
 | Chapter | Gate 8 | Manuscript | Gate 9 | Canon |
 |---|---|---|---|---|
-| CH-001 | pending | pending | pending | no |
+| CH-001 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-002 | pending | pending | pending | no |
 | CH-003 | pending | pending | pending | no |
 | CH-004 | pending | pending | pending | no |
