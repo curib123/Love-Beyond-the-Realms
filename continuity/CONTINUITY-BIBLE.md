@@ -198,46 +198,50 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-003 v2
+# 16. Current Canon State — Through CH-004 v2
 
-**Latest Canon Chapter:** CH-003 — The Note That Shouldn't Exist
+**Latest Canon Chapter:** CH-004 — The Other Tenant
 
 ## Lily
 Knows:
-- Unit 4B produced an impossible wrong-city/window state;
-- a responder can answer through fresh writing at the desk patch;
-- during CH-003's written exchange, the responder asked what was outside her window;
-- she supplied rain / brick building / blue pharmacy sign / tram wires;
-- she received the responder's brief reaction, including **YOU'RE INTERESTING**.
+- the responder calls himself **Max**;
+- he claims to be in **Room 17** in a place called **Rivenhall**;
+- he does not recognize Bellweather;
+- his weather/local details differ from hers;
+- short written windows open and close unpredictably;
+- Max agreed to a controlled mutual reality test.
 
 Still does not know:
-- Max's name, age, sex, appearance, or living status;
-- Velaire / Room 17;
-- system terminology or cosmology.
+- Max's age or appearance;
+- whether Max is definitely alive/human;
+- Velaire as a named world;
+- why the rooms correlate;
+- Echo Exchange / Phase Lag / Twinfall / mirrorstone.
 
 ## Max
 Knows:
-- he is alive and phase-bound around Room 17;
-- limited adjoining movement fails unpredictably;
-- a written source at the correlated table can answer with information absent from his surroundings;
-- the source describes rain, brick building, blue pharmacy sign, and tram wires;
-- the source is not merely copying his visible room.
+- the responder calls herself **Lily**;
+- she claims to be in **Unit 4B** in **Bellweather**;
+- her local environment differs from Rivenhall;
+- short written windows permit bounded exchange;
+- Lily agreed to a controlled mutual reality test.
 
 Still does not know:
-- Lily's name, age, appearance, living status with certainty;
+- Lily's age or appearance;
+- whether Lily is definitely alive/human;
 - Earth as a named world;
-- why the correlation exists;
+- why the rooms correlate;
 - MT-001/002/003.
 
 ## Reader Knowledge
 **K1**
 
-Reader knows Max is alive and phase-bound through truthful Max POV.
+Reader knows Max is alive and phase-bound through Max POV.
 
 ## Relationship
 **R0 — Unknown Presence**
 
-Mutual curiosity exists, but living-person reality is not yet proven.
+Names and claimed local places are exchanged, but mutual living-person reality is not yet proven.
 
 ## System
 - **P0 Echo Trace**
@@ -246,8 +250,9 @@ Mutual curiosity exists, but living-person reality is not yet proven.
 
 Observed:
 - environmental bleed;
-- bounded writing;
-- independent information response.
+- bounded fresh-mark writing;
+- multiple short coherence windows;
+- independent location information.
 
 No:
 - audio;
@@ -256,18 +261,18 @@ No:
 - crossing.
 
 ## Mystery
-- **M-001 ACTIVE — DEEPENED**
+- **M-001 ACTIVE — NEAR RESOLUTION**
 - M-002 onward unchanged.
 
 ## Foreshadowing
 All F-IDs remain:
 **PLANNED — NOT YET PLANTED**
 
-## CH-004 Guard
-CH-004 must move forward into:
-- names;
-- basic facts;
-- correspondence rules across multiple bounded windows.
-
-Do not replay CH-003's window test.
-Do not advance to voice before CH-005.
+## CH-005 Guard
+CH-005 must:
+- run a controlled mutual reality test;
+- keep first audio clipped to 3–15 seconds;
+- resolve M-001 only after combined independent evidence;
+- activate M-002;
+- remain P0/C0/X0;
+- plant no F-ID.
