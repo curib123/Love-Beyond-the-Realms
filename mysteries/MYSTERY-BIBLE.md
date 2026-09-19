@@ -260,20 +260,20 @@ A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story eve
 
 # 6A. Current On-Page Mystery State
 
-**ORIGINALITY REVISION v2 — MANUSCRIPT CANON RESET**
+**Through canonical CH-001 v2**
 
-The previous CH-001/CH-002 on-page state is superseded by the v2 opening revision.
+| Mystery | State | Canon Basis |
+|---|---|---|
+| M-001 — Who is changing the room? | **ACTIVE** | Lily has observed an impossible wrong-city/window state in Unit 4B but has no evidence of another person yet. |
+| M-002–M-011 | UNASKED / protected as applicable | No canonical event has advanced them. |
 
-Until the revised manuscripts are re-approved through Gate 8/9:
-- M-001 through M-011 use the Initial Mystery-State Ledger as the active canon baseline;
-- all F-IDs remain PLANNED — NOT YET PLANTED;
-- no previous one-way visual-perception event remains canon.
+Knowledge stage:
+**K0**
 
-The revised opening is intended to activate:
-- M-001 through impossible room-state interference and anonymous writing;
-- M-002 through information exchange occurring before first sight.
+All F-IDs remain:
+**PLANNED — NOT YET PLANTED**
 
-Those transitions are **planned, not yet canon**, until revised prose passes QA.
+No pre-v2 visual-perception event is canon.
 
 # 7. Foreshadowing IDs
 
