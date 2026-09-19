@@ -543,3 +543,24 @@ Canon:
 # 31. Next Production Step
 
 **CH-009 — No Faces → Detailed Scene Architecture → Gate 8**
+
+
+# 32. CH-009 Production Record
+
+Architecture: `planning/CH-009-SCENE-ARCHITECTURE-V2.md`  
+Gate 8: `qa/CH-009-PRE-MANUSCRIPT-SCENE-QA-V2.md`  
+Manuscript: `manuscript/CH-009-NO-FACES.md`  
+Gate 9: `qa/CH-009-CHAPTER-QA-V2.md`
+
+Status: **PASS — CANON-APPROVED**
+
+Canon:
+- reflective room state crosses;
+- no P1 yet;
+- M-002 strengthened;
+- F-001 PLANTED;
+- K2 / R1 / P0 / C0 / X0.
+
+# 33. Next Production Step
+
+**CH-010 — I Can See You → Detailed Scene Architecture → Gate 8**
