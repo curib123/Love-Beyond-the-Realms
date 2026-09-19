@@ -198,46 +198,36 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-016 v2
+# 16. Current Canon State — Through CH-017 v2
 
-**Latest Canon Chapter:** CH-016 — Do Not Open That Door
+**Latest Canon Chapter:** CH-017 — Same Count, Same Time
 
-## Ordinary-Life Safety Event
-June nearly interacted with Unit 4B's misaligned doorway while the hall seam was unstable.
+## Stabilization Progress
+Using only:
+- prior lag measurements;
+- known room reference positions;
+- neutral mirror/compass orientation;
+- matched counts;
 
-Lily stopped her before the door was opened.
+Lily and Max reduce the local geometry mismatch.
 
-June knows only that Lily has an unsafe door/frame problem.
-
-## Lily
-- prioritizes another person's safety over secrecy;
-- reports a practical door/frame issue to Inez;
-- marks the doorway out of service;
-- chooses stabilization over continued observation.
-
-## Max
-Agrees the next step is stabilization, not stronger testing.
+Observed:
+- false doorway moves closer to physical frame;
+- duplicated message arrivals decrease;
+- lag shortens during stable windows;
+- geometry remains imperfect.
 
 ## Relationship
 R1.
 
 ## System
-- narrow P1 capability retained
-- local doorway/hall seam unstable
+- narrow P1 capability retained but not actively used
 - C0
 - X0
-- no Hollow entry
+- no new power
 
-## Mystery
-M-002 PARTIAL
-M-003 ACTIVE
-M-004 ACTIVE
-M-005 PARTIAL
+## Next Step
+They agree to release the active anchor conditions together on the same count.
 
-## Foreshadowing
-F-001/F-002/F-003 PLANTED.
-
-## CH-017 Goal
-Use only previously measured timing/state behavior to build a stabilization protocol.
-
-No new power.
+Goal:
+return to baseline rather than strengthen contact.
