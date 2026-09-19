@@ -260,21 +260,23 @@ A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story eve
 
 # 6A. Current On-Page Mystery State
 
-**Through canonical CH-007 v2**
+**Through canonical CH-008 v2**
 
 | Mystery | State | Canon Basis |
 |---|---|---|
-| M-001 — Who is changing the room? | **RESOLVED locally** | Timed independent mark/tap tests plus live two-way voice establish an independent living correspondent. |
-| M-002 — Why can information cross before sight? | **ACTIVE** | Writing, tapping and short audio cross while person-image does not. |
-| M-004 — Why do sounds/messages arrive late or early? | **ACTIVE** | CH-007 measures delayed arrivals of about 2, 5 and 8 seconds plus delayed audio. No pre-echo observed. |
-| M-003, M-005–M-011 | UNASKED / protected as applicable | No canonical event has advanced them. |
+| M-001 | **RESOLVED locally** | independent timed tests + live voice |
+| M-002 — Why can information cross before sight? | **ACTIVE** | writing/taps/audio/object-state cross while person-image remains unavailable |
+| M-003 — Why do exchanged objects change? | **ACTIVE** | CH-008 controlled furniture test produces temporary hybrid state without matter transfer |
+| M-004 — Why does timing drift? | **ACTIVE** | CH-007 measured delayed arrivals; no pre-echo |
+| M-005–M-011 | UNASKED / protected as applicable | no canonical advancement |
 
-Knowledge stage: **K2**  
+Knowledge: **K2**  
 Relationship: **R1**  
 System: **P0 / C0 / X0**
 
-All F-IDs remain:
-**PLANNED — NOT YET PLANTED**
+Foreshadowing state:
+- **F-002 Wrong Furniture — PLANTED**
+- all other F-IDs remain **PLANNED — NOT YET PLANTED**
 
 # 7. Foreshadowing IDs
 
@@ -291,7 +293,7 @@ During an authorized P1-oriented reflective test, person-image information appea
 F-001 may not grant or imply direct person sight before the perception ladder authorizes it.
 
 **F-002 — Wrong Furniture**  
-Status: **PLANNED — NOT YET PLANTED**  
+Status: **PLANTED — CH-008**  
 A piece of furniture briefly appears with details neither room currently has.
 
 **F-003 — Cold Brass Key**  
