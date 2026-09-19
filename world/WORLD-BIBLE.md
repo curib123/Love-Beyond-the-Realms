@@ -63,7 +63,15 @@ It includes:
 - tall window;
 - old wall mirror;
 - built-in cabinet;
-- brass lock.
+- brass lock;
+- a small table/desk area and ordinary paper/writable surfaces that can be positioned inside the strongest room correlation.
+
+For v2 opening use:
+- the tall window/light may briefly show the wrong branch state;
+- a paper, board, or other writable surface may receive limited correlated marks under P0 Echo Trace;
+- the wall mirror exists physically from the beginning but may not provide person-image access until an authorized P1 condition is earned.
+
+These features are ordinary parts of Lily's apartment. Their correlation behavior does not itself reveal the historical reason the rooms align.
 
 Previous tenants reported:
 - voices;
@@ -220,15 +228,26 @@ Larkspur House supports:
 
 Room 17 is the strongest known local correlation with Unit 4B.
 
+It contains enough ordinary room structure to support comparison without being a duplicate:
+- a work surface or table;
+- writable paper/board surfaces;
+- a light/window-facing line;
+- reflective or instrument-polished surfaces;
+- stable wall/floor reference points used by Max for spatial measurement.
+
 It supports:
 - Max POV;
 - room-before-person perception;
+- limited correlated writing;
 - Echo Exchange;
 - Phase Lag;
 - controlled experiments;
+- later P1 indirect-sight testing;
 - evidence that can be compared with Lily's room.
 
-Its existence does not by itself reveal the Twinfall or the true historical relationship between the buildings.
+At P0, these features may exchange environmental/state information without revealing Lily's person-image.
+
+Its existence and correlated surfaces do not by themselves reveal the Twinfall or the true historical relationship between the buildings.
 
 # 6. Mirrorstone
 
