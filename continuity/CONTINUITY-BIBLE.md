@@ -147,7 +147,7 @@ Every F-ID records:
 
 The authoritative initial knowledge baseline is stored in:
 
-`mysteries/MYSTERY-BIBLE.md → Initial Knowledge Matrix`
+`mysteries/MYSTERY-BIBLE.md → Staged Initial Knowledge Matrix (K0/K1/K2)`
 
 A scene or chapter that changes character knowledge must record:
 - source of information;
@@ -155,6 +155,10 @@ A scene or chapter that changes character knowledge must record:
 - what they concluded;
 - whether that conclusion is correct;
 - which M-ID/F-ID/MT-ID is affected.
+
+Reader knowledge and M-ID state are related but not identical.
+
+A truthful Max POV may give the reader facts Lily does not know. Do not mark an M-ID RESOLVED solely because the reader learned one side of the answer.
 
 # 13. Twist State
 
