@@ -564,3 +564,24 @@ Canon:
 # 33. Next Production Step
 
 **CH-010 — I Can See You → Detailed Scene Architecture → Gate 8**
+
+
+# 34. CH-010 Production Record
+
+Architecture: `planning/CH-010-SCENE-ARCHITECTURE-V2.md`  
+Gate 8: `qa/CH-010-PRE-MANUSCRIPT-SCENE-QA-V2.md`  
+Manuscript: `manuscript/CH-010-I-CAN-SEE-YOU.md`  
+Gate 9: `qa/CH-010-CHAPTER-QA-V2.md`
+
+Status: **PASS — CANON-APPROVED**
+
+Canon:
+- Max reaches receiver-specific P1;
+- Lily remains P0;
+- M-002 PARTIAL;
+- no direct sight/contact/crossing;
+- no new F-ID.
+
+# 35. Next Production Step
+
+**CH-011 — That Is Not What I Imagined → Detailed Scene Architecture → Gate 8**
