@@ -306,9 +306,9 @@ No chapter replays the full events of a previous chapter from the other POV.
 
 **Foreshadow candidate:** **F-001 Mirror Delay — PLANNED, NOT PLANTED.**
 
-**What changes:** They have a concrete plan for a perception test.
+**What changes:** They have evidence that reflection behaves differently and a concrete plan for a perception test, but P1 has **not** yet been achieved.
 
-**Ending beat:** For a fraction of a moment Max sees an incomplete reflected shape that moves with Lily.
+**Ending beat:** The reflective surface produces a delayed distortion synchronized with Lily's movement, but Max still cannot identify her shape or appearance.
 
 **Prohibited reveal:** P2; direct mutual sight; Twinfall implications.
 
