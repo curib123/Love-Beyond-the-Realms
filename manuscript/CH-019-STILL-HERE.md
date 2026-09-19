@@ -246,11 +246,23 @@ Just P0 conditions behaving well enough for Lily's voice to arrive faintly throu
 
 Max leaned back in the chair.
 
-"Everyone keeps telling me that."
+"That's becoming a popular opinion."
 
-"Maybe everyone is right."
+"Maybe because you look—"
 
-"Terrible possibility."
+The audio broke.
+
+Max waited.
+
+Lily came back.
+
+"—sound tired."
+
+He smiled. "Nice recovery."
+
+"Shut up."
+
+"Better."
 
 Silence followed.
 
@@ -444,13 +456,17 @@ Lily answered carefully.
 
 Max closed his eyes.
 
-Annoying.
+"Do you practice these speeches?"
 
-Accurate.
+"No."
 
-Again.
+"They're very efficient."
 
-He said, "You have a very repetitive philosophy."
+"Because you keep making me repeat the same point."
+
+He laughed despite himself.
+
+"That feels unfair."
 
 "It keeps being relevant."
 
