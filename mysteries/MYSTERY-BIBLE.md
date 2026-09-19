@@ -260,20 +260,20 @@ A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story eve
 
 # 6A. Current On-Page Mystery State
 
-**Through canonical CH-002 v2**
+**Through canonical CH-003 v2**
 
 | Mystery | State | Canon Basis |
 |---|---|---|
-| M-001 — Who is changing the room? | **ACTIVE — STRENGTHENED** | Lily observed an impossible room state, foreign fresh marks, and one meaningful written response. She still lacks proof of a living independent person. |
+| M-001 — Who is changing the room? | **ACTIVE — STRONGLY DEEPENED** | Lily has deliberate written response; Max POV independently confirms a responder whose environmental answer differs from Room 17. Neither protagonist has yet completed a mutual living-person reality test. |
 | M-002–M-011 | UNASKED / protected as applicable | No canonical event has advanced them. |
 
-Knowledge stage:
-**K0**
+Reader knowledge:
+**K1** — reader now knows Max is alive through truthful Max POV.
+
+Lily knowledge remains below K2.
 
 All F-IDs remain:
 **PLANNED — NOT YET PLANTED**
-
-No voice or person-image event is canon yet.
 
 # 7. Foreshadowing IDs
 
