@@ -82,7 +82,13 @@ Check:
 - relationship stage fits;
 - local stakes can resolve;
 - future arcs remain open;
-- protected major truths remain protected.
+- protected major truths remain protected;
+- selected cluster supports **room-before-person** discovery;
+- selected cluster supports both Lily and Max as active POV protagonists;
+- P0 Echo Trace works without direct person sight;
+- M-001/M-002 can progress locally without revealing MT-001/002/003;
+- ordinary-life supporting locations can remain in use without becoming separate active arcs;
+- Gate 5 does not lock chapter count, midpoint, climax, or next arc.
 
 # Gate 6 — Active Arc Architecture QA
 
