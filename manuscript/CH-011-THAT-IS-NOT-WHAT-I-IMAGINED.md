@@ -372,9 +372,15 @@ One lagged behind by half a movement.
 
 "Unfortunately."
 
-Max grinned.
+"That bad?"
 
-That expression fit his voice so perfectly Lily nearly laughed.
+The audio cracked around the words.
+
+Lily almost smiled. "Hold still."
+
+Max grinned anyway.
+
+That expression fit his voice so perfectly she nearly laughed.
 
 Then the image vanished.
 
@@ -480,9 +486,11 @@ This time the answer took longer.
 
 I AM.
 
-The simplicity changed the scene.
+No joke.
 
-Lily rested the pen against the paper.
+Lily's pen stopped moving.
+
+That landed harder than anything clever would have.
 
 She already knew enough.
 
