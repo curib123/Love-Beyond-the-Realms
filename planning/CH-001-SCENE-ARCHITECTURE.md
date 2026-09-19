@@ -8,7 +8,7 @@
 **Primary Location:** LOC-001 Aster House / LOC-002 Unit 4B  
 **Relationship State:** R0 — Unknown Presence  
 **System State:** P0 Bleed / C0 No Contact / X0 Observation  
-**Manuscript Status:** **AUTHORIZED FOR CH-001 DRAFT**
+**Manuscript Status:** **GATE 9 PASS — CANON-APPROVED**
 
 # 1. Chapter Function
 
