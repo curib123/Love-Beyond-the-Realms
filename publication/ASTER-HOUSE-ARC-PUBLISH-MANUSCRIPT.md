@@ -3,134 +3,245 @@
 **Arc:** Aster House Arc  
 **Chapters:** CH-001–CH-020  
 **Author:** minuszeroo  
-**Status:** PUBLICATION-FINAL — Dialogue Vitality Revalidation  
-**Genre Priority:** Romantic Comedy / Romance → Slice of Life → Mystery → Science Fiction
+**Status:** PUBLICATION-FINAL — Movie-Like English Revalidation  
+**Genre Priority:** Romantic Comedy / Romance → Slice of Life → Mystery → Science Fiction  
+**Prose Standard:** Natural cinematic novel prose; actor-speak dialogue; not screenplay formatting.
 
 ---
 
 # CH-001 — A Place of My Own
 
-The elevator made a noise halfway to the fourth floor that did not inspire confidence.
+The elevator made a noise halfway to the fourth floor that sounded like a machine reconsidering its career.
 
-Lily looked up at the metal ceiling as it groaned above her. "That normal?"
+Lily looked up.
 
-Mrs. Bell did not even glance up. She stood beside Lily with one hand on a box marked KITCHEN and the calm expression of someone who had heard the same complaint many times.
+A long metal groan rolled through the ceiling.
+
+She tightened both arms around the box she was carrying. "Please tell me that's normal."
+
+Mrs. Bell stood beside her with one hand resting on a box marked KITCHEN and the expression of someone who had been asked the same question since before the invention of concern.
 
 "It's been doing that since before you were born."
 
-Lily waited.
+The elevator gave another shudder.
 
-Mrs. Bell added, "Probably."
+Lily looked at Mrs. Bell. "That wasn't the question."
 
-"Much better."
+Mrs. Bell finally glanced at the ceiling. "Probably."
 
-The elevator shuddered once, then continued upward. Lily tightened her grip on the box in her arms. It contained two mugs, three paperbacks, a desk lamp, a roll of tape, and one shoe. Packing had stopped being a system around two in the morning and become a series of decisions she was no longer willing to defend.
+"Great. Much better."
+
+"You wanted cheap."
+
+"I wanted affordable."
+
+"Same building."
+
+The elevator climbed another floor.
+
+Lily looked down at the box in her arms. It contained two mugs, three paperbacks, a desk lamp, a roll of tape, and one shoe. Packing had stopped being a system around two in the morning and become an act of surrender.
 
 The doors opened with a tired ding.
 
-"See?" Mrs. Bell said. "Perfectly fine."
+Mrs. Bell stepped out first. "See? Perfectly fine."
 
-"Your definition of perfectly is flexible."
+Lily followed her into the hallway. "Your definition of perfectly is doing a lot of work."
 
-That got a small smile. The fourth-floor hallway was narrow and quiet, with old wooden doors and a long window at the far end. Rain tapped against the glass. Somewhere outside, a tram bell rang twice before fading into Bellweather traffic.
+That earned the smallest smile.
 
-Mrs. Bell stopped at 4B and handed over a brass key. "There. Yours."
+The fourth floor was narrow and quiet, lined with old wooden doors. Rain streaked the long window at the far end. Somewhere outside, a tram bell rang twice and disappeared into Bellweather traffic.
 
-The word hit harder than Lily expected. Not because the apartment was impressive. It wasn't. The paint near the ceiling had been touched up in a shade that almost matched. The floor leaned just enough to make a coin roll if it felt ambitious. The kitchen was small, the bathroom smaller, and the living room window looked like it had survived several arguments with the weather.
+Mrs. Bell stopped at Unit 4B and held out a brass key.
 
-Still, the key was in Lily's hand.
+"There."
+
+Lily shifted the box against her hip and took it.
+
+"Yours."
+
+Lily looked down at the key.
+
+For a second, the elevator groans, the rain, even Mrs. Bell beside her all seemed farther away.
+
+The apartment was not impressive. The ceiling paint had been repaired in a shade that almost matched. The floor leaned just enough to make loose objects reconsider their position. The kitchen was small. The bathroom looked offended by the idea of elbows.
+
+Still.
+
+The key sat in Lily's palm.
 
 Hers.
 
-She slid it into the lock. It turned with a little resistance.
+She slid it into the lock.
 
-Mrs. Bell watched her open the door. "If the radiator complains, hit the valve once. If it complains again, call me. If the elevator stops between floors, press the red button."
+It caught halfway.
 
-"Does that happen often?"
+Lily looked at Mrs. Bell.
+
+Mrs. Bell looked at the key.
+
+Lily tried again. The lock turned.
+
+"There we go."
+
+"Good first impression," Lily said.
+
+"The lock is old."
+
+"So is the elevator."
+
+"The building has character."
+
+"The building has symptoms."
+
+Mrs. Bell ignored that and pushed the door wider.
+
+"If the radiator complains, hit the valve once. If it complains again, call me. Don't keep hitting it."
+
+"That sounds like a rule created by experience."
+
+"It is."
+
+Lily stepped inside.
+
+Mrs. Bell pointed down the hall. "If the elevator stops between floors, press the red button."
+
+Lily slowly looked back at her. "Does that happen often?"
 
 "No."
 
-Lily looked at her. "Often enough to have instructions?"
+"You had that answer ready very quickly."
 
-Mrs. Bell ignored that. "And don't force the built-in cabinet. Old wood swells when it rains."
+Mrs. Bell continued as if Lily had not spoken. "Don't force the built-in cabinet. Old wood swells when it rains."
 
-Lily looked toward the cabinet beside the living-room wall. "Anything else?"
+Lily looked toward the cabinet beside the living-room wall.
 
-"The fourth-floor laundry line belongs to everyone, which means nobody agrees on the rules. Apartment 4A works nights. The tenant below you has a baby. And if you hear pipes knocking after midnight, it's the heating."
+"Anything else?"
+
+"The fourth-floor laundry line belongs to everyone, which means nobody agrees on the rules. Apartment 4A works nights. The tenant below you has a baby. If you hear pipes knocking after midnight, it's the heating."
 
 "Very specific."
 
 "People like dramatic explanations for old buildings."
 
-Lily looked around Unit 4B. "Good thing I'm boring."
+Lily looked around Unit 4B.
 
-Mrs. Bell gave her another sideways smile. "We'll see."
+"Good thing I'm boring."
 
-Then she was gone. The door clicked shut, and for the first time that day, Lily stood alone.
+Mrs. Bell gave her a sideways glance.
 
-No aunt checking whether she had eaten. No moving company worker asking where a box belonged. No Mrs. Bell explaining which sound was normal and which sound was probably normal. Just rain at the window and the soft hum of an empty apartment.
+"We'll see."
 
-Lily put the key on the kitchen counter. "Okay," she told the room. "Don't be terrible."
+Then she left.
 
-The room did not answer.
+The door clicked shut.
 
-A promising start.
+For the first time that day, Lily was alone.
+
+No aunt asking whether she had eaten. No mover asking where the boxes went. No Mrs. Bell classifying suspicious noises into categories of probably harmless.
+
+Just rain at the window and the low hum of an empty apartment.
+
+Lily set the brass key on the kitchen counter.
+
+"Okay," she told the room. "I am asking for very little."
+
+The room, wisely, said nothing.
+
+"Good start."
 
 ---
 
-By seven, Lily had learned three things. The floor leaned toward the window. One of her dining chairs had a shorter leg. And the box marked BATHROOM contained absolutely nothing that belonged in a bathroom.
+By seven, Lily had learned three things.
 
-She sat cross-legged on the living-room floor and held up a frying pan. "Excellent."
+The floor leaned toward the window.
 
-The frying pan offered no apology.
+One dining chair had a shorter leg.
 
-She had managed to make the bedroom usable, which mostly meant the mattress had sheets and the boxes were now arranged around it instead of on top of it. The kitchen had plates. The bathroom had towels after she found them inside a box labeled BOOKS.
+And the box marked BATHROOM contained absolutely nothing that belonged in a bathroom.
 
-Progress, more or less.
+She sat cross-legged on the living-room floor and pulled out a frying pan.
 
-The living room was still a mess, but a controlled mess. Lily dragged the small secondhand desk toward the interior east wall. It was narrow enough to fit beside the built-in cabinet and wide enough for her laptop, a notebook, and the desk lamp.
+"Perfect."
 
-She pushed it into place. The desk rocked.
+The frying pan remained unrepentant.
 
-Of course it did.
+She had made the bedroom usable, if usable meant the mattress had sheets and the boxes were now arranged around it instead of on it.
 
-Lily crouched, folded a piece of cardboard twice, and shoved it under one leg. Once the desk stopped moving, she sat back on her heels.
+The kitchen had plates.
+
+The bathroom had towels after Lily found them inside a box labeled BOOKS.
+
+Progress had become a flexible concept.
+
+She dragged the small secondhand desk toward the interior east wall and pushed it into place.
+
+It rocked.
+
+Lily pushed it again.
+
+It rocked back.
+
+"Absolutely not."
+
+She crouched, folded a square of cardboard twice, and shoved it under one leg.
+
+The desk settled.
+
+Lily sat back on her heels.
 
 "Professional installation."
 
-Her phone buzzed on top of a box.
+Her phone buzzed from the top of a box.
 
 Nora: Need help?
 
-Lily looked at the message, then at the room, then at the stack of boxes that had somehow become more threatening now that she knew exactly how many were left.
+Lily looked at the message.
 
-She typed, I'm good.
+Then at the room.
 
-Deleted it.
+Then at the remaining boxes, which seemed to have multiplied while she was not looking.
 
-Typed, Almost done.
+She typed:
 
-That was technically less false.
+I'm good.
 
-Nora answered immediately.
+Her thumb hovered.
 
-You said that two hours ago.
+She deleted it.
 
-Lily frowned at the screen. She considered turning the phone face down and pretending she had not seen it.
+Almost done.
 
-Instead she wrote: Because I am extremely consistent.
+The reply came almost immediately.
+
+Nora: You said that two hours ago.
+
+Lily frowned.
+
+Because I am extremely consistent.
 
 Three dots appeared.
 
 Nora: Eat something.
 
-Lily looked at the unopened bag of takeout on the counter. She typed Already did, stared at the lie for half a second, deleted it, and replaced it with:
+Lily looked toward the unopened takeout bag on the counter.
+
+She typed Already did.
+
+Stopped.
+
+Deleted it.
 
 About to.
 
-Nora sent a thumbs-up.
+A thumbs-up appeared.
 
-Lily put the phone down and ate. Independence, apparently, included being bullied into dinner from another building.
+Lily stared at the screen.
+
+"Surveillance state."
+
+She put the phone down and opened the food.
+
+Independence, apparently, still came with remote supervision.
 
 ---
 
@@ -146,13 +257,15 @@ Lily answered with the phone wedged between her shoulder and ear while trying to
 
 "I was going to ask if you found the kettle."
 
-Lily stopped and looked toward the kitchen counter.
+Lily stopped.
+
+She looked toward the counter.
 
 No kettle.
 
-"That's a different question."
+"That is technically a different attack."
 
-Nora laughed softly. "Check the blue box."
+Nora laughed. "Check the blue box."
 
 "There are four blue boxes."
 
@@ -164,99 +277,223 @@ Nora laughed softly. "Check the blue box."
 
 "Then this is partly your crime."
 
-The conversation stayed easy for a while. Nora asked about the elevator, the landlord, whether the lock worked properly. Lily answered. She did not say that hearing Nora's voice made the apartment feel less empty, because that would invite concern, and concern had a way of turning into suggestions.
+"Only partly?"
 
-She found the kettle in a blue box under two winter scarves.
+Lily opened the nearest blue box.
 
-"Why?"
+Winter scarves.
 
-"I got tired near the end," Nora said.
+No kettle.
 
-"Good. I thought I had done this."
+The next one had books, two extension cords, and a ceramic bowl she did not remember owning.
 
-"You did most of it."
+"Your labeling system failed."
 
-Lily opened her mouth, then closed it. On the bottom of the box was a ceramic spoon rest shaped like a lemon.
+"My labeling system?"
 
-Her mother had bought it during a road trip because she had insisted every kitchen needed at least one object with no serious purpose. Lily touched the chipped yellow edge with her thumb.
+"You were present."
 
-The room went very quiet.
+"I was supervising."
 
-Nora did not fill the silence.
+"That's worse."
 
-That helped.
+The conversation stayed easy.
 
-Lily set the spoon rest beside the stove. "There. Kitchen officially complete."
+Nora asked about the elevator.
 
-Nora's voice softened, but not too much. "Looks good?"
+"Still alive."
 
-Lily glanced around. The paint still didn't match near the ceiling. One chair still wobbled. Boxes still covered half the floor.
+"The landlord?"
 
-"Yeah."
+"Also alive."
 
-And, surprisingly, she meant it.
+"The lock?"
 
-"Staying there tonight?"
-
-"That's usually how apartments work."
+"Only fought me once."
 
 "Lily."
 
-"Yes. I'm staying."
+"It works."
 
-Another small silence.
+That satisfied her for about three seconds.
 
-"Okay," Nora said. "Call if you need me."
+"And the apartment?"
+
+Lily looked around while Nora talked.
+
+The mismatched paint.
+
+The boxes.
+
+The wobbling chair.
+
+The small warm pool of light from the desk lamp.
+
+"It is definitely an apartment."
+
+"That bad?"
+
+"No."
+
+She meant it.
+
+Mostly.
+
+She found the kettle in the third blue box, under two scarves and a folded towel.
+
+"Found it."
+
+"I told you."
+
+"You told me blue box. That was statistically irresponsible."
+
+Nora laughed again.
+
+At the bottom of the box was a ceramic spoon rest shaped like a lemon.
+
+Lily's hand stopped.
+
+Her mother had bought it on a road trip because every kitchen, according to her, needed at least one completely unnecessary object.
+
+The yellow glaze was chipped at the edge.
+
+Lily ran her thumb over it.
+
+The apartment went very quiet.
+
+Nora did not rush to fill the silence.
+
+That helped.
+
+Lily set the spoon rest beside the stove.
+
+"There," she said. "Kitchen officially complete."
+
+Nora's voice softened, but only a little. "Looks good?"
+
+Lily glanced around.
+
+The paint still did not match.
+
+The chair still wobbled.
+
+Half her life was still inside cardboard boxes.
+
+"Yeah."
+
+A beat.
+
+"Yeah, it does."
+
+"You're staying there tonight?"
+
+Lily leaned against the counter. "I did move all my things in."
+
+"Lily."
+
+She looked down at the chipped lemon spoon rest.
+
+"Yeah," she said. "I'm staying."
+
+Nora went quiet.
+
+Not long.
+
+Just enough.
+
+"Okay."
+
+Lily looked toward the rain sliding down the window.
+
+"Call if you need me," Nora said.
 
 "I know."
 
 "You can need me and still live there."
 
-Lily looked at the rain sliding down the tall window. "I know that too."
+Lily stared at the lemon spoon rest.
 
-She almost believed herself.
+"I know that too."
 
-After they hung up, the ceiling light flickered once. Lily looked up, waited, and watched it steady.
+This time, she almost believed it.
+
+After they hung up, the ceiling light flickered once.
+
+Lily looked up.
+
+Waited.
+
+The light steadied.
 
 "Old building," she said.
 
-Mrs. Bell would have been proud.
+Mrs. Bell would have approved.
 
 ---
 
-At ten-fifteen, Lily decided the final box could remain a problem for tomorrow. She washed her mug, checked the front door, and turned off the kitchen light.
+At ten-fifteen, Lily decided the final box could become tomorrow's problem.
 
-The living room felt different at night. Smaller, maybe. The lamp on the desk made a warm circle against the east wall while the rest of the apartment settled into shadow. Rain still tapped against the window.
+She washed her mug, checked the front door, and turned off the kitchen light.
+
+At night, the living room felt smaller.
+
+The desk lamp made a warm circle against the east wall. Rain whispered against the window. The apartment creaked once somewhere near the pipes.
 
 Lily crossed the room to pull the curtain.
 
-She stopped.
+Then stopped.
 
 Something outside was wrong.
 
-At first she thought the rain had distorted the glass. Bellweather should have been there: the building across the street, the tram wires, the pharmacy sign glowing blue on the corner.
+At first, she thought the rain had distorted the glass.
 
-Instead, beyond the window, a line of amber-white lights curved through darkness. An elevated structure crossed the view at an angle that did not exist. A railcar—or something shaped enough like one for Lily's brain to choose the word—slid past behind a row of narrow metal arches.
+Bellweather should have been there.
 
-She did not move.
+The brick building across the street.
 
-The light from outside spilled across her floor. Not blue from the pharmacy.
+The tram wires.
+
+The pharmacy sign glowing blue on the corner.
+
+Instead, amber-white lights curved through darkness.
+
+An elevated structure cut across the view at an angle that should not exist.
+
+A railcar—or something close enough that her brain grabbed the word—slid behind a row of narrow metal arches.
+
+Lily forgot to breathe.
+
+The light outside spilled across her floor.
 
 Amber.
 
-Her desk lamp dimmed at the same time.
+Not blue.
 
-For three seconds, maybe four, Unit 4B felt connected to a city Lily had never seen.
+The desk lamp dimmed.
+
+For three seconds, maybe four, Unit 4B did not look like it belonged in Bellweather at all.
 
 Then the window flashed.
 
-Bellweather returned.
+The pharmacy sign returned.
 
-Blue pharmacy sign. Wet tram wires. Brick building across the street.
+Wet tram wires.
+
+Brick building.
 
 The desk lamp brightened.
 
-Lily stared at the glass. Her first thought was reflection, so she turned off the lamp.
+Lily stayed exactly where she was.
+
+"No."
+
+She blinked.
+
+Bellweather remained.
+
+Her first thought was reflection.
+
+She turned off the desk lamp.
 
 Nothing changed.
 
@@ -264,25 +501,45 @@ She turned it back on.
 
 Still Bellweather.
 
-Lily checked the latch. Locked. She pressed her palm to the glass, cold from the rain, then stepped left and right to test the angle. The street outside remained exactly where it belonged.
+Lily checked the latch.
 
-No elevated structure. No amber lights. No strange railcar.
+Locked.
 
-The apartment was quiet.
+She pressed her palm to the glass.
 
-Lily looked toward the hallway, half expecting someone to explain the trick.
+Cold.
 
-There was no one.
+Real.
 
-That was almost worse.
+She stepped left.
 
-She pulled the curtain shut, waited, then opened it again.
+Then right.
+
+No strange city.
+
+No elevated structure.
+
+No amber rail.
+
+The room behind her stayed quiet.
+
+Too quiet.
+
+Lily looked toward the hall as if Mrs. Bell might appear and announce that impossible skylines were another known feature of the heating system.
+
+No one came.
+
+"Fine," Lily whispered.
+
+She pulled the curtain shut.
+
+Waited.
+
+Opened it again.
 
 Bellweather.
 
-"Fine," she whispered.
-
-It was not fine.
+Her pulse had not received the message.
 
 She had wanted a place of her own.
 
@@ -295,215 +552,391 @@ For several seconds, it had looked like the place belonged somewhere else.
 
 Lily slept badly.
 
-Not dramatically badly. She did not wake screaming or discover muddy footprints beside the bed or hear anyone whispering her name through the wall. She simply woke four times, checked the living-room window twice, and spent the last hour before sunrise staring at the ceiling while her brain replayed four seconds of a city that had not been Bellweather.
+Not dramatically badly.
 
-By seven-thirty, she had decided on a reasonable explanation.
+No screaming.
 
-There had to be one.
+No muddy footprints.
 
-The problem was that she had not found it yet.
+No voice whispering her name through the wall.
 
-Lily stood in front of the tall window with a mug of coffee in one hand and the curtain pulled aside with the other. Morning rain had turned the glass gray. Across the street, the same brick building sat where it had always been. The pharmacy sign was off. Tram wires crossed the road at the correct angle.
+Just four separate wake-ups, two trips to the living-room window, and one final hour before sunrise spent staring at the ceiling while her brain replayed four impossible seconds.
 
-No elevated rail. No amber lights. No impossible city.
+By seven-thirty, Lily had decided there had to be a reasonable explanation.
 
-She checked the latch again. Locked.
+She had not found one.
 
-Then she turned the desk lamp on and off three times and immediately felt ridiculous.
+That was becoming irritating.
 
-"Good," she told herself. "Excellent scientific method."
+She stood in front of the tall window with coffee in one hand and the curtain pulled aside with the other.
 
-Nothing happened.
+Morning rain had turned the glass gray.
 
-She moved left and right, changed the curtain angle, held her phone screen against the glass, and tried to reproduce any reflection that could have looked like the structure she remembered. Nothing came close.
+Across the street, the same brick building sat where it belonged. The pharmacy sign was dark. Tram wires crossed the road at the correct angle.
 
-A bad dream would have been easier. A reflection would have been better. Even a migraine would have been familiar enough to complain about properly.
+No elevated rail.
 
-Instead, Lily had a perfectly normal window and a memory she could not fit anywhere.
+No amber lights.
 
-She opened the notes app on her phone and typed:
+No impossible city.
+
+Lily checked the latch.
+
+Locked.
+
+She turned the desk lamp on.
+
+Off.
+
+On.
+
+Nothing.
+
+She stared at it.
+
+"Great."
+
+Off.
+
+On.
+
+"Now I'm investigating a light switch."
+
+The lamp remained stubbornly normal.
+
+Lily moved left and right, changed the curtain angle, held her phone screen near the glass, and tried every reflection she could think of.
+
+Nothing even came close.
+
+A bad dream would have been easier.
+
+A reflection would have been better.
+
+A migraine would at least have had the decency to hurt.
+
+Instead, Lily had a normal window and a memory that refused to become normal with it.
+
+She opened the notes app.
 
 10:15 PM. Window changed for maybe 3–4 seconds. Amber lights. Elevated structure. Lamp dimmed at same time.
 
-After staring at the words for a few seconds, she added:
+She read it.
+
+Then added:
 
 Possibly tired.
 
-That felt responsible.
+Lily considered another line.
 
-She considered adding Possibly losing mind, but decided responsible had limits.
+Possibly losing mind.
+
+She deleted that before typing it.
+
+"Responsible," she told herself.
+
+The coffee did not agree.
 
 ---
 
-The rest of the morning tried very hard to become normal.
+The rest of the morning tried very hard to behave.
 
-Lily showered, unpacked two more boxes, found the missing half of her bedsheets in a suitcase she had already checked, and discovered that the radiator made a clicking sound every few minutes even though it was not cold enough to be on.
+Lily showered.
+
+Unpacked two boxes.
+
+Found the missing half of her bedsheets inside a suitcase she had already checked.
+
+The radiator clicked every few minutes even though it was barely cold enough to justify existing.
 
 Mrs. Bell had mentioned pipes.
 
-Old building. Normal.
+Old building.
 
-At eleven, Lily sat at the small desk against the east wall with her laptop open and a blank sheet of paper beside it. She was trying to list everything she still needed for the apartment.
+Normal.
 
-Trash bags. Dish soap. Extension cord. A chair that did not require folded cardboard to survive.
+At eleven, Lily sat at the small desk against the east wall with her laptop open and a sheet of paper beside it.
+
+She was making a shopping list.
+
+Trash bags.
+
+Dish soap.
+
+Extension cord.
+
+A chair that did not require structural support from folded cardboard.
 
 She had just written detergent when something moved at the edge of the page.
 
 Lily stopped.
 
-There was a dark line near the top-left corner. It had not been there a second ago.
+A dark line appeared near the top-left corner.
+
+She lifted her pen.
 
 The line extended.
 
-Not fast. Not like a pen moving. More like ink becoming visible through paper.
+Slowly.
 
-A short vertical mark appeared, then another beside it. A thin horizontal line connected them. More marks followed, neat and narrow, forming what looked almost like part of a measurement grid.
+Not like someone writing.
 
-Lily lifted both hands away from the desk and watched.
+More like ink becoming visible from underneath the paper.
 
-One final mark appeared.
+A short vertical mark appeared.
 
-Then nothing.
+Then another.
 
-The marks were dark gray, not quite black. Too straight to be accidental pen scratches. They looked deliberate, but they did not form words she recognized.
+A thin line connected them.
 
-She glanced at the apartment door. Locked. The chain was on. The room was empty.
+More followed.
+
+Neat.
+
+Narrow.
+
+Deliberate.
+
+Lily set both hands flat on her knees.
 
 "Okay."
 
-The marks did not respond.
+The marks continued.
 
-She leaned closer without touching them. The paper was definitely hers: cheap white notebook paper, a slight bend in the bottom corner, a small coffee stain from ten minutes ago.
+They looked almost like part of a measurement grid.
+
+Then one final stroke appeared.
+
+Nothing else.
+
+Lily glanced at the apartment door.
+
+Locked.
+
+Chain on.
+
+No one inside.
+
+The paper was definitely hers.
+
+Cheap white notebook paper.
+
+Bent lower corner.
+
+Small coffee stain near the edge.
 
 Only the writing was wrong.
 
-Lily picked up her phone and took a picture. By the time the camera focused, the marks had already started to fade. She took three more pictures, but the last one captured almost nothing.
+She picked up her phone.
 
-Within a minute, the page was blank again except for her shopping list.
+By the time the camera focused, the first marks had already begun to fade.
 
-The wrong city had lasted four seconds. The wrong writing had lasted less than two minutes.
+"No, no, no."
 
-Neither had left anything useful behind.
+She took one picture.
+
+Then another.
+
+Then three more because panic apparently improved neither composition nor focus.
+
+The final photo caught almost nothing.
+
+Within a minute, the page was blank except for her shopping list.
+
+Lily stared at it.
 
 "Very considerate."
 
-Her voice sounded too loud in the room.
+Her own voice sounded too loud.
 
-She did not like that either.
+She did not like that.
 
 ---
 
-Lily spent the next twenty minutes doing the sort of things a person did when she absolutely did not want to admit that invisible writing had appeared on her desk.
+For the next twenty minutes, Lily did the things a person did when she absolutely did not want to admit that invisible writing had appeared on her desk.
 
-She checked the underside of the desk. Nothing.
+She checked underneath it.
 
-She checked the wall. Paint.
+Nothing.
 
-She opened the cabinet beside the desk, closed it again, and felt mildly betrayed when it behaved normally.
+She checked the wall.
 
-Then she moved the sheet of paper to the kitchen counter.
+Paint.
 
-Nothing happened.
+She opened the built-in cabinet.
 
-She returned it to the desk.
+Normal shelves.
 
-Still nothing.
+Closed it again.
 
-While she was standing beside the chair, the desk lamp dimmed.
+The cabinet behaved perfectly.
+
+Lily frowned at it.
+
+"Traitor."
+
+She moved the paper to the kitchen counter.
+
+Nothing.
+
+Back to the desk.
+
+Nothing.
+
+She stood there with both hands on her hips.
+
+"This is ridiculous."
+
+The desk lamp dimmed.
 
 Lily froze.
 
-Not much. Just enough.
+Just slightly.
 
-The same kind of dimming as last night.
+But enough.
 
-Her eyes dropped to the paper. A dark speck appeared near the center, followed by another.
+The same kind of dip as last night.
 
-Lily moved before she could talk herself out of it. She sat down, grabbed a pen, and wrote in large block letters:
+Her eyes dropped to the paper.
+
+A dark speck appeared near the center.
+
+Then another.
+
+Lily moved before she could change her mind.
+
+She sat down, grabbed the pen, and wrote in large block letters:
 
 WHO ARE YOU?
 
-She stopped.
+She stared at the question.
 
-The question looked dramatic.
+It looked dramatic.
 
-For half a second she considered replacing it with something more reasonable, like:
+She almost crossed it out.
+
+Maybe she should write something calmer.
 
 PLEASE EXPLAIN THE UNAUTHORIZED PAPER ACTIVITY.
 
-That was worse.
+Lily closed her eyes.
 
-She left the first version.
+"No."
 
-Nothing happened.
+The first version stayed.
 
-Ten seconds passed. Then twenty. The desk lamp flickered once, but the page remained unchanged.
+Ten seconds passed.
 
-At forty seconds, Lily checked her phone clock.
+Then twenty.
+
+The page did nothing.
+
+At forty, she checked the phone timer.
 
 "Of course."
 
-She rested her elbows on the desk, remembered the strange marks, and immediately lifted them again.
+She rested both elbows on the desk.
 
-One minute passed. The lamp brightened.
+Immediately remembered that strange marks had appeared there.
 
-Lily exhaled. The window had been four seconds. The marks had appeared once. Maybe whatever had happened was already over.
+Lifted them again.
 
-She picked up the paper.
+One minute.
 
----
+The lamp brightened.
 
-A faint gray stroke appeared beneath her question.
+Lily exhaled.
 
-Lily stopped moving.
+Maybe it was done.
 
-The stroke darkened. Another appeared beside it.
+Maybe the writing only happened once.
 
-Letters formed one by one.
+Maybe—
 
-Not her handwriting.
+A faint gray stroke appeared under her question.
 
-Narrower. Sharper.
+Lily stopped breathing.
+
+The stroke darkened.
+
+Another formed beside it.
+
+Then letters.
+
+Not hers.
+
+Narrower.
+
+Sharper.
 
 WHO ARE YOU?
 
 Lily stared.
 
-For a moment, neither she nor the room did anything.
+"That was my question."
 
-Then a second line began.
+The room, predictably, did not apologize.
+
+A second line appeared.
 
 I WAS ABOUT TO ASK YOU THAT.
 
-She read it twice.
+Lily read it once.
 
-The handwriting was compact and slightly slanted. Whoever—or whatever—had written it used less space than she did.
+Then leaned closer and read it again.
 
-The sentence was also annoying.
+The handwriting leaned slightly to the right.
 
-That somehow made it worse.
+Compact.
 
-Lily looked around the apartment. Still empty.
+Annoyingly neat.
 
-She looked under the desk even though she knew that made no sense.
+And the sentence itself—
+
+"Seriously?"
+
+That somehow made everything worse.
+
+A strange message was one thing.
+
+A strange message that talked back was worse.
+
+She looked under the desk.
 
 Nothing.
 
-When she looked back at the page, the first letters were already fading.
+Lily sat upright again.
+
+"Right. Of course. Person under the desk. Excellent theory."
+
+The first letters began to fade.
 
 "Wait."
 
-She grabbed her phone, but the camera opened too slowly. By the time she took the picture, the final words were pale enough that the image would probably look like bad pencil smudges.
+She grabbed her phone.
 
-Then the message disappeared.
+The camera took too long to open.
+
+By the time she snapped a picture, the final words were already pale.
+
+"No, stay—"
+
+Gone.
 
 Her own question remained.
 
-That was new.
+Lily touched the paper.
 
-Lily touched the paper carefully. Dry. Normal. No hidden ink. No heat. No second sheet underneath.
+Dry.
 
-Just ordinary paper on an ordinary desk in an apartment that had stopped behaving like one.
+Normal.
+
+No hidden ink.
+
+No heat.
+
+No second sheet.
+
+Just ordinary paper in an ordinary apartment that had developed an increasingly flexible definition of ordinary.
 
 Last night, the room had shown her somewhere else.
 
@@ -511,13 +944,19 @@ Today, something from somewhere else had written back.
 
 She had no idea what it was.
 
-She had no idea if it was a person.
+She had no idea whether it was a person.
 
 But it had understood the question.
 
 And it had answered.
 
-That changed the problem completely.
+Lily looked at the empty space beneath her own handwriting.
+
+"Okay," she said quietly. "New problem."
+
+Her pen was still in her hand.
+
+This time, she didn't put it down.
 
 
 ---
@@ -528,33 +967,85 @@ Max had learned that walls could become suggestions.
 
 Unfortunately, only some of them.
 
-He stood in the narrow passage outside Room 17 with one hand pressed against the stone and stared at the next doorway. The corridor beyond it looked perfectly ordinary: pale wall panels, a line of amber lumen strips, and the bottom half of a stairwell turning toward the lower floor.
+He stood in the narrow passage outside Room 17 with one hand against the stone and stared at the next doorway.
 
-He had made it to that doorway six times and through it twice. On both occasions, the world had folded sideways before he reached the stairs and deposited him back inside Room 17 with a headache.
+The corridor beyond looked harmless.
 
-Max considered the corridor. The corridor, as usual, showed no guilt.
+Pale wall panels.
+
+Amber lumen strips.
+
+The lower half of a stairwell curving down to the next floor.
+
+Perfectly ordinary.
+
+Which was suspicious.
+
+Max had reached that doorway six times.
+
+He had made it through twice.
+
+Both times, the world had folded sideways before he reached the stairs and dropped him back inside Room 17 with a headache strong enough to make him reconsider several life choices.
+
+He studied the corridor.
+
+The corridor showed no remorse.
 
 "Very mature."
 
-His voice came back to him from the empty walls. He stepped forward and put one foot across the threshold.
+His voice echoed back.
 
-Then the pressure arrived.
+Max stepped forward.
 
-It was not pain exactly. More like walking into deep water that had forgotten to be wet. His chest tightened, and the lights stretched into thin lines. For half a second he could see two versions of the doorway occupying the same place.
+One foot crossed the threshold.
 
-Max stopped. He had become much better at stopping, which was not a skill he had expected to develop.
+Pressure hit him immediately.
 
-He backed away. The pressure released so suddenly that he had to catch himself against the wall. His pulse hammered under his fingers.
+Not pain.
+
+Worse, somehow.
+
+It felt like walking into deep water that had forgotten to be wet. His chest tightened. The lumen strips stretched into thin amber lines. For half a heartbeat, two doorways occupied the same space.
+
+Max stopped.
+
+His jaw tightened.
+
+He had become very good at stopping.
+
+This was not a skill he had expected to need.
+
+Slowly, he backed away.
+
+The pressure vanished so quickly that his balance went with it.
+
+He caught the wall.
+
+"Elegant."
+
+His pulse hammered under his fingertips.
 
 Alive, then.
 
-Still an annoyingly useful fact.
+Still useful information.
 
-Max waited until the dizziness passed. Through the tall opening at the far end of the corridor, Rivenhall continued without him. An elevated railcar glided across the river district. Lumen signs blinked awake along a market bridge. Somewhere below, metal struck metal three times, followed by voices he could not make out.
+He waited until the floor agreed to remain under him.
 
-Ordinary life, close enough to see and too far to reach.
+Through the tall opening at the far end of the corridor, Rivenhall continued without him.
 
-He looked away before the feeling in his chest became something he would have to name.
+An elevated railcar crossed the river district.
+
+Lumen signs blinked awake near a market bridge.
+
+Somewhere below, metal struck metal three times. Voices followed, too distant to separate into words.
+
+Ordinary life.
+
+Close enough to hear.
+
+Too far to reach.
+
+Max looked away before that thought became something larger.
 
 Room 17 was waiting.
 
@@ -562,9 +1053,17 @@ It usually was.
 
 ---
 
-The worktable had changed again. Max noticed it the moment he stepped inside.
+The worktable had changed again.
 
-A sheet of drafting paper lay where he had left it, held down by his spatial compass and a chipped ceramic weight. The paper was his. The compass was his. The table, unfortunately, still belonged to the building.
+Max noticed it before he reached the chair.
+
+A sheet of drafting paper lay where he had left it, held down by his spatial compass and a chipped ceramic weight.
+
+The paper was his.
+
+The compass was his.
+
+The table still belonged to the building.
 
 The writing did not.
 
@@ -572,43 +1071,77 @@ WHO ARE YOU?
 
 Max stopped.
 
-Below it, in a different hand, was another line.
+Below it, in a different hand:
 
 I WAS ABOUT TO ASK YOU THAT.
 
-He stared at the page, then laughed once. "That's my question."
+He stared at the page.
+
+A laugh slipped out before he could stop it.
+
+"Oh, good. It argues."
 
 The letters were already fading.
 
-Max pulled the paper closer without moving it far from the center of the table. That mattered. He had learned that much. Marks appeared most often inside a narrow section of the work surface. Move the page too far toward the edge and whatever strange behavior Room 17 was attempting simply stopped.
+Max pulled the paper closer, careful not to move it far from the center of the table.
 
-He had not named the effect. Naming things too early was how people became emotionally attached to bad theories.
+That mattered.
 
-The first line was heavier and wider, written in block letters. The second was compact and slightly slanted.
+He had learned that much.
+
+Marks appeared inside a narrow section of the work surface. Move the page too far and the strange behavior simply stopped, as if Room 17 had a preferred seating arrangement.
+
+He had not named the effect.
+
+Naming things too early was how people became loyal to bad theories.
+
+The first line was heavy and wide.
+
+Block letters.
+
+The second was narrower and slightly slanted.
 
 Two hands.
 
 Or one extremely committed hallucination.
 
-Max rubbed his thumb over the edge of the table. The marks did not smear. They were not wet. They seemed less like ink placed on the page and more like the page briefly remembering ink that belonged somewhere else.
+Max rubbed his thumb along the table edge.
 
-That thought was unpleasant enough that he decided not to improve it.
+The marks did not smear.
 
-The last letters vanished. Only his own old measurement notes remained.
+They were not wet.
 
-For the past several days, Room 17 had shown him things it should not contain: light with the wrong color, a rectangular patch of wall darker than the stone around it, small marks that vanished when he tried to measure them.
+They seemed less like ink placed on the page and more like the page had briefly remembered ink that belonged somewhere else.
+
+He disliked that thought immediately.
+
+"Not using that theory."
+
+The last letters disappeared.
+
+Only his old measurement notes remained.
+
+For days, Room 17 had shown him things it should not contain.
+
+Wrong-colored light.
+
+A dark rectangle where the wall should have been solid.
+
+Marks that vanished before he could finish measuring them.
 
 He had blamed exhaustion.
 
-Then the room had started writing back.
+Then the room had started answering questions.
 
 Exhaustion was becoming ambitious.
 
 ---
 
-Waiting was worse than testing. Testing, at least, allowed a person to pretend he had control.
+Waiting was worse than testing.
 
-Max placed a clean sheet of paper in the center of the worktable and drew a small line near the top.
+Testing at least let a person pretend he had control.
+
+Max placed a clean sheet in the center of the table and drew a short line near the top.
 
 Nothing.
 
@@ -616,41 +1149,65 @@ He added another.
 
 Still nothing.
 
-"Good conversation."
+"Excellent conversation."
 
-The lumen strip above the table dimmed. Max straightened as a pale gray mark appeared beside his.
+The lumen strip above the table dimmed.
+
+Max sat straighter.
+
+A pale gray mark appeared beside his.
 
 There.
 
-He checked the small timing dial on his compass. He did not understand the full pattern yet, but the changes often came in short windows.
+He checked the small timing dial on his compass.
 
-He needed a question. Not *Who are you?* They had established that neither side had found that useful. Not *Where are you?* Too broad.
+Short windows.
 
-Max looked toward the distant opening where Rivenhall's elevated rail crossed between the buildings, then smiled.
+That much was becoming clear.
+
+He needed a useful question.
+
+Not *Who are you?*
+
+They had already established mutual incompetence there.
+
+Not *Where are you?*
+
+Too broad.
+
+Max glanced toward the distant opening where Rivenhall's elevated rail crossed between buildings.
+
+Then he smiled.
 
 He wrote:
 
 WHAT'S OUTSIDE YOUR WINDOW?
 
-He placed the pen down.
+The pen clicked softly when he set it down.
 
-The letters remained. For several seconds, nothing else happened. The room gave a soft creak.
+The letters remained.
+
+Nothing else happened.
 
 Ten seconds.
 
-Max watched the page.
+The room creaked.
 
 Twenty.
 
 The gray mark near the top began to fade.
 
+Max leaned closer.
+
 "Come on."
 
-At thirty seconds, a new line appeared beneath his question.
+At thirty seconds, new writing appeared.
 
 RAIN.
 
-A second line followed.
+Max blinked.
+
+A second line.
 
 BRICK BUILDING.
 
@@ -658,53 +1215,85 @@ Then:
 
 BLUE PHARMACY SIGN.
 
-The final line came in more slowly.
+The final line came more slowly.
 
 TRAM WIRES.
 
----
+Max read the list.
 
-Max read the message again, then looked toward Room 17's outer opening.
+Then he looked toward Room 17's outer opening.
 
-No brick building directly across from him. No pharmacy sign. No tram wires.
+No brick building across from him.
 
-Rivenhall used elevated rail through this district, not street tram lines. The nearest commercial sign was amber and green, three buildings south. The rain part was possible, except Rivenhall's sky was currently dry enough to be offensive.
+No blue pharmacy sign.
+
+No tram wires.
+
+Rivenhall used elevated rail through this district. The nearest commercial sign was amber and green, three buildings south.
+
+And the sky outside was so dry it felt personally insulting.
 
 He looked back at the page.
 
 Different place.
 
-That did not mean different world, and it did not even prove there was a person. But whatever was producing the answer was not simply copying information from his room.
+That did not mean different world.
 
-That was enough to make his pulse pick up for reasons that had nothing to do with the corridor.
+It did not even prove there was a person.
 
-Max wrote quickly before the light returned to normal.
+But whatever was answering was not simply copying Room 17.
+
+His pulse picked up.
+
+This time, the corridor had nothing to do with it.
+
+Max wrote before the coherence window vanished.
 
 ALL RIGHT.
 
-He hesitated, then added:
+He stopped.
+
+His pen hovered.
+
+He should write something precise.
+
+Useful.
+
+Professional.
 
 YOU'RE INTERESTING.
 
-The sentence looked ridiculous the moment it existed.
+Max stared at his own sentence.
 
-Max considered crossing it out, but the gray letters on the other side began to fade.
+"Oh, no."
+
+The gray letters on the other side began to fade.
 
 Too late.
 
+He considered crossing it out.
+
+That would make it worse.
+
 "Excellent."
 
-He sat back and covered his face with one hand.
+Max leaned back and covered his face with one hand.
 
-Somewhere, in some place with rain, brick walls, a blue pharmacy sign, and tram wires, something had just received his first attempt at a serious cross-space investigation.
+Rain. Brick walls. Tram wires. Blue pharmacy sign.
 
-And he had ended it by sounding like he was flirting with a wall.
+And somewhere in all of that, someone had just read **YOU'RE INTERESTING** from a stranger in another room.
 
-Max lowered his hand.
+He had made first contact sound like flirting.
+
+"Excellent," he muttered into his palm.
+
+He lowered his hand.
 
 The page was blank again.
 
-For the first time in days, Room 17 felt less empty.
+Room 17 remained exactly as empty as before.
+
+It did not feel empty.
 
 That might have been the most dangerous result yet.
 
@@ -915,7 +1504,9 @@ Max answered quickly.
 
 THAT SOUNDS LIKE YOUR BUILDING'S PROBLEM.
 
-Lily pressed her lips together.
+Lily stared at the line.
+
+Then she actually looked around her own apartment, as if Room 17 might be hiding behind the kitchen.
 
 "You are very confident for handwriting."
 
@@ -1035,7 +1626,7 @@ TOMORROW?
 
 YES.
 
-She thought for half a beat.
+Lily tapped the pen once against the desk.
 
 Then:
 
@@ -1043,11 +1634,11 @@ SAME DESK. PROVE YOU'RE REAL.
 
 The gray letters began to fade.
 
-One final reply appeared.
+One final reply squeezed through.
 
 RUDE.
 
-Lily laughed.
+Lily laughed before she could stop herself.
 
 The sound surprised her enough that she stopped.
 
@@ -1065,7 +1656,7 @@ She knew he claimed to be in a place called Rivenhall, inside something called R
 
 She knew he thought her apartment was the strange one.
 
-And somehow, between all the impossible parts, she had also learned that he was irritating on purpose.
+And, somehow, she already knew he was irritating on purpose.
 
 None of that proved he was real.
 
@@ -1452,7 +2043,7 @@ But a voice.
 
 Max leaned so close to the worktable that his knee hit the underside.
 
-"Yes."
+"Yeah—yes."
 
 Too loud.
 
@@ -1524,15 +2115,15 @@ Outputs.
 
 Marks.
 
-A voice was harder.
+A voice ruined that distance.
 
 Breath.
 
-Timing.
+Bad timing.
 
-Hesitation.
+A nervous little "oh."
 
-A person reacting badly in real time.
+A real person on the other side.
 
 Max sat back.
 
@@ -1566,9 +2157,9 @@ Then:
 
 YOU'RE REAL.
 
-Simple.
+He almost crossed it out for sounding too obvious.
 
-Still right.
+He didn't.
 
 Lily's reply took longer.
 
@@ -1624,17 +2215,13 @@ Max rested both hands on the table.
 
 There was someone on the other side.
 
-A person named Lily.
+Lily.
 
-Too much rain.
+Too much rain. A loud kettle. Terrible timing.
 
-A loud kettle.
+Max looked at the blank page and smiled.
 
-An irritating habit of being right at exactly the wrong moment.
-
-New questions, then.
-
-For once, Max did not mind.
+New questions could wait until tomorrow.
 
 
 ---
@@ -1647,23 +2234,31 @@ Ava noticed on the sixth.
 
 "You have somewhere to be?"
 
-Lily put a clean mug on the shelf. "Eventually."
+Lily slid a clean mug onto the shelf. "Eventually."
+
+Ava stared.
 
 "That is how time works."
 
-Paper Moon Books & Café was busy enough that Lily should not have had space in her head for anything except orders. The rain had driven half the university district indoors, which meant every small table was occupied and somebody had already asked if the history section had an outlet.
+Paper Moon Books & Café was packed. Rain had driven half the university district indoors. Every small table was occupied, and someone had already asked whether the history section had an outlet.
 
 It did not.
 
 The clock moved to three-thirty-two.
 
-Max had written the night before that the desk usually changed around late afternoon on his side. Their times did not match neatly, but the last few windows had clustered close enough that Lily had started making guesses.
+Max had written the night before that Room 17 tended to cooperate around late afternoon on his side.
 
-She disliked that she had started making guesses.
+Their times did not match neatly.
 
-She disliked even more that she wanted to be right.
+But the last few windows had clustered close enough that Lily had started guessing.
 
-Ava slid a tray onto the counter. "You are doing the thing."
+She disliked that.
+
+She disliked wanting to be right even more.
+
+Ava placed a tray on the counter.
+
+"You are doing the thing."
 
 "What thing?"
 
@@ -1673,53 +2268,67 @@ Lily looked at her. "I don't have a thing."
 
 "You absolutely have a thing."
 
-A customer approached before Lily could respond. She took the order, made two drinks, found a misplaced paperback, and managed not to look at the clock for almost nine minutes.
+A customer stepped up before Lily could answer.
+
+She took an order.
+
+Made two drinks.
+
+Found a misplaced paperback.
+
+Managed not to check the clock for almost nine minutes.
 
 Personal growth.
 
-Then the espresso machine hissed and she checked again.
+The espresso machine hissed.
 
-Ava smiled.
+She looked.
 
-Lily ignored her.
+Ava smiled without saying anything.
+
+Lily hated that more.
 
 ---
 
 Their shift was supposed to end at four.
 
-At four-oh-five, a customer spilled tea over a display table.
+At four-oh-five, a customer spilled tea over a display.
 
 At four-ten, the card terminal stopped connecting.
 
-At four-seventeen, Lily was kneeling on the floor with a towel while Ava held three damp novels by their dry corners.
+At four-seventeen, Lily was on the floor with a towel while Ava held three damp novels by their dry corners.
 
 "Go," Ava said.
 
 Lily looked up. "What?"
 
-"You've checked the time enough to age the clock. I can finish this."
+"You've checked the clock enough to age it."
 
-"No."
+"I am working."
 
-"Lily."
+"So am I."
 
 "We close together."
 
-Ava narrowed her eyes. "Is this a boy?"
+Ava narrowed her eyes.
+
+"Is this a boy?"
 
 Lily nearly dropped the towel.
 
 "No."
 
-That answer was technically defensible.
+Ava went still.
 
-Max was a boy, probably. He had a male voice. He claimed to be alive. But he was also trapped in a room that should not overlap Lily's apartment, and Ava was asking a much more normal question.
+Then her eyebrows climbed.
 
-Ava's expression changed immediately.
-
-"Oh, it is."
+"Oh, wow."
 
 "It is not."
+
+"That was so fast I almost believe you."
+
+"It was also correct."
 
 "Online?"
 
@@ -1727,27 +2336,39 @@ Ava's expression changed immediately.
 
 "Neighbor?"
 
-"Definitely no."
+"Definitely not."
 
 "Secret criminal?"
 
+Lily wrung out the towel.
+
 "You're getting warmer only because everything else is colder."
 
-Ava laughed. "You have been weird for four days."
+Ava laughed.
+
+"You have been weird for four days."
 
 "I moved."
 
 "You have been different weird."
 
-Lily stood and carried the wet towels to the sink. "There is no boy."
+Lily stood and carried the towels to the sink.
 
-Ava followed. "There is a person."
+"There is no boy."
 
-Lily hesitated for half a second.
+Ava followed her.
 
-That was enough.
+"There is someone."
 
-Ava pointed at her. "Person."
+Lily paused.
+
+Half a second.
+
+Too long.
+
+Ava pointed at her.
+
+"There. That face."
 
 "Congratulations."
 
@@ -1757,19 +2378,41 @@ Ava pointed at her. "Person."
 
 "Do you?"
 
-Lily thought of gray handwriting appearing on blank paper. A voice breaking through static for ten seconds.
+Lily thought of gray handwriting.
+
+Ten seconds of static.
+
+A voice saying her name back to her.
 
 "Not really."
 
-Ava's teasing softened. "Okay."
+Ava's teasing softened.
 
-That was one of the reasons Lily trusted her. Ava knew when to stop pushing.
+"Okay."
 
-Mostly.
+Lily glanced at her.
 
-Then Ava added, "But when this becomes a dramatic internet romance, I want it noted that I identified it first."
+Ava knew when to stop.
 
-Lily picked up the nearest clean towel and threw it at her.
+Usually.
+
+Then Ava added, "But when this becomes a dramatic internet romance, I want credit for identifying the plot early."
+
+Lily threw the nearest clean towel at her.
+
+Ava caught it.
+
+"Violence confirms it."
+
+"There is nothing to confirm."
+
+"Sure."
+
+"Keep drying books."
+
+"Romantic."
+
+Lily turned away before Ava could see her smile.
 
 ---
 
@@ -1777,11 +2420,17 @@ The tram was late.
 
 Of course it was.
 
-Lily stood beneath the stop shelter while rain hammered the roof and watched four-twenty become four-thirty-three.
+Lily stood beneath the shelter while rain hammered the roof.
 
-If the pattern was right, the window had probably opened already.
+Four-twenty.
 
-For one uncomfortable second, she considered walking the rest of the way.
+Four-twenty-six.
+
+Four-thirty-three.
+
+If her guess was right, the window had probably opened already.
+
+For one bad second, Lily considered walking home.
 
 It would still take too long.
 
@@ -1791,41 +2440,49 @@ Ava: DON'T RUN FOR YOUR MYSTERY PERSON
 
 Lily typed:
 
-I am standing still.
+I am literally standing still.
+
+The reply came before she could lock the screen.
 
 Ava: emotionally counts
 
-Lily put the phone away.
+Lily stared at it, then put the phone away.
 
 She was annoyed.
 
-Not at Ava. Not at work. Not even at the tram.
+Not at Ava.
 
-At the fact that missing a gray sentence on a sheet of paper felt like missing an appointment with someone.
+Not at work.
+
+Not even at the tram.
+
+At the fact that missing a gray sentence on a sheet of paper felt like missing an appointment.
 
 That was unreasonable.
 
 Max had survived without her for however long Room 17 had been strange.
 
-She had survived without him for her entire life.
+She had survived without him for her whole life.
 
 One missed window was not an emergency.
 
 The tram arrived nine minutes later.
 
-Lily got on instead of running.
+Lily got on.
 
-That felt like a decision worth remembering.
+That felt like a decision worth keeping.
 
 ---
 
 The desk lamp did not dim until nearly six.
 
-Lily was halfway through reheating dinner when she saw it.
+Lily was reheating dinner when she saw it.
 
-She sat quickly, but not quickly enough to spill anything.
+She sat quickly.
 
-Progress again.
+Not fast enough to spill anything this time.
+
+Progress.
 
 A message appeared.
 
@@ -1837,8 +2494,6 @@ WORK.
 
 A pause.
 
-Then:
-
 I ASSUMED YOU HAD A LIFE. VERY INCONVENIENT.
 
 She smiled.
@@ -1847,25 +2502,21 @@ I DO.
 
 GOOD.
 
-The answer arrived almost at once.
+The answer arrived almost immediately.
 
-Lily looked at the word longer than necessary.
+Lily looked at it longer than necessary.
 
-Then she wrote:
+Then:
 
 IF I MISS A WINDOW, DON'T WAIT ALL DAY.
-
-Max replied:
 
 SAME RULE FOR ME?
 
 YES.
 
-A short pause.
+A pause.
 
 THAT SOUNDS SUSPICIOUSLY HEALTHY.
-
-Lily wrote:
 
 TRY TO COPE.
 
@@ -1875,18 +2526,43 @@ One last line appeared.
 
 TOMORROW, THEN.
 
-Lily waited until the page went blank.
+Lily waited until the page cleared.
 
 She had missed a window.
 
-Nothing terrible had happened. Max had not demanded an explanation. She had not abandoned her shift. Ava still had no idea what was actually happening.
+Nothing terrible had happened.
+
+Max had not demanded an explanation.
+
+She had not abandoned her shift.
+
+Ava still did not know the truth.
 
 Normal life had survived contact with the impossible.
 
-For one day, at least.
+Lily carried dinner to the table.
 
-Lily carried her dinner to the small table and checked the clock only once.
+Her phone buzzed again.
 
+Ava: SO?
+
+Lily looked at it.
+
+Then typed:
+
+Nothing happened.
+
+Ava: liar
+
+Lily put the phone face down.
+
+Her eyes drifted toward the clock.
+
+She caught herself halfway there.
+
+"No."
+
+Dinner first.
 
 
 ---
@@ -2087,15 +2763,13 @@ Max was already writing the interval down.
 
 "What?"
 
-"Nothing."
+He smiled at the empty air. "Nothing."
 
 Another delay.
 
 "I heard that."
 
-He looked at the empty air over the table.
-
-"Eventually."
+"See? Eventually."
 
 The static burst hard enough to make him wince.
 
@@ -2160,15 +2834,19 @@ A line appeared behind him.
 
 YOU'RE EARLY.
 
-Max turned.
+Max stopped halfway out of the chair.
 
-The message had arrived after the window looked finished.
+He looked back.
 
-He stared.
+The page had been blank a second ago.
 
-Then laughed.
+Now:
 
-"Fine."
+**YOU'RE EARLY.**
+
+He laughed under his breath.
+
+"Okay. You win."
 
 He wrote in his notes:
 
@@ -2182,7 +2860,7 @@ Useful result.
 
 Enough for one day.
 
-He looked at Lily's delayed sentence one last time.
+Max closed the notebook, then opened it again just to look at Lily's delayed sentence one last time.
 
 "You're early," he repeated.
 
@@ -2215,7 +2893,9 @@ A gray message appeared at the desk.
 
 THAT'S THE TEST OBJECT?
 
-Lily looked at it.
+Lily looked at the chair.
+
+Then at the page.
 
 YES.
 
@@ -2227,9 +2907,11 @@ She wrote:
 
 YOU HAVE NEVER SEEN IT.
 
+The answer came back:
+
 I KNOW YOU.
 
-Lily stopped.
+Her pen stopped.
 
 Then:
 
@@ -2457,7 +3139,7 @@ SO WE DIDN'T SWAP THEM.
 
 Lily's smile disappeared.
 
-Lily looked at the chair.
+She looked at the chair.
 
 That was the part she disliked.
 
@@ -2495,15 +3177,19 @@ Before the window closed, Max added:
 
 SAVE THE CARDBOARD.
 
-Lily frowned.
+Lily frowned at the folded shim still under the leg.
 
 WHY?
 
 SENTIMENTAL VALUE.
 
-She laughed.
+She laughed once.
 
-Then wrote:
+YOU HAVE NEVER TOUCHED IT.
+
+DETAILS.
+
+Lily shook her head and wrote:
 
 YOU NEED BETTER HOBBIES.
 
@@ -2624,9 +3310,15 @@ A longer pause.
 
 RUDE.
 
-Max laughed once.
+He laughed.
 
-NOT MY DECISION.
+I'M ALSO DISAPPOINTED.
+
+THAT DOESN'T HELP.
+
+Max smiled and wrote:
+
+NOTED.
 
 ---
 
@@ -2776,13 +3468,17 @@ The answer came before he could add anything else.
 
 NOT TODAY.
 
-Max stared at the line.
+Max stared at it.
 
-His first instinct was to argue.
+His fingers were already on their way to the adjustment screw.
 
-His second was to notice the headache.
+He stopped.
 
-He lowered the pen.
+Looked at the message again.
+
+"Right."
+
+His hand dropped back to the table.
 
 NOT TODAY.
 
@@ -2800,11 +3496,13 @@ A person had not.
 
 But the delayed blur had moved when Lily moved.
 
-That was not a face.
+It wasn't a face.
 
-It was not close.
+Not even close.
 
-It was enough to tell him what the next problem was.
+But it moved when Lily moved.
+
+That was enough.
 
 He opened his notebook.
 
@@ -2833,9 +3531,9 @@ Yesterday, he had been trying to make the reflection stronger.
 
 Today, he was trying to make it arrive at the right time.
 
-That distinction made him feel smarter than he deserved.
+That distinction made him feel much smarter than he deserved.
 
-The compass sat on its stand beside the worktable, its polished face angled toward the point where Lily's mirror sometimes appeared. Max had copied the previous timing results into the margin of his notebook.
+The compass sat on its stand beside the worktable, polished face angled toward the place where Lily's mirror sometimes appeared. Max had copied the old timing results into the margin of his notebook.
 
 Two seconds.
 
@@ -2843,39 +3541,53 @@ Five.
 
 Eight.
 
-Then four-point-something during the mirror test.
+Then four-point-something during the last mirror test.
 
-Not a pattern. Not yet.
+Not a pattern.
 
-But the delays had never been fixed.
+Not yet.
+
+But the delay had never stayed fixed.
 
 That mattered.
 
-If Lily's movement reached him late while the room itself arrived cleanly, then perhaps the problem was not that person-image information was impossible.
+If Lily's movement reached him late while the room itself crossed cleanly, maybe person-image information was not impossible.
 
-Perhaps it was arriving out of step.
+Maybe it was simply arriving out of step.
 
 Max looked at the polished receiver.
 
 "That sounds almost reasonable."
 
-Room 17 did not reward him.
+Room 17 offered no encouragement.
 
 He checked the angle again.
 
 Then stopped himself from checking it a third time.
 
-Lily would absolutely notice if she could see him.
+Lily would absolutely mock him if she could see him doing that.
 
-That thought made him look at the metal face differently.
+The thought made him look at the metal face differently.
 
-Until now, Lily had been handwriting. Timing. A voice through static. Rain. A pharmacy sign. A bad kettle. A chair with structural problems she defended like family.
+Until now, Lily had been handwriting.
+
+Timing.
+
+A voice through static.
+
+Rain.
+
+A blue pharmacy sign.
+
+A loud kettle.
+
+A chair with structural problems she defended like family.
 
 He knew how she argued.
 
 He knew which jokes made her stop answering for several seconds.
 
-He knew she wrote shorter when she was annoyed.
+He knew her writing got shorter when she was annoyed.
 
 He knew she worried quietly and complained practically.
 
@@ -2889,41 +3601,35 @@ Max picked up the pen.
 
 AS MUCH AS POSSIBLE.
 
-Her reply came quickly.
-
 THAT IS NOT REASSURING.
 
 IT WASN'T FOR YOU.
 
-A pause.
+A beat.
 
 RUDE.
 
 Max smiled.
 
-"Good. Normal so far."
+"Good. Normal."
 
 He wrote:
 
-SAME RULE AS YESTERDAY. ROOM FIRST. THEN MOVEMENT.
-
-Lily answered:
+SAME RULES. ROOM FIRST. THEN MOVEMENT.
 
 AND IF YOUR EYES HURT?
 
 STOP.
 
-A few seconds later:
+The next line came fast.
 
 ACTUALLY STOP?
 
-Max looked at the line.
+Max stared at it.
 
 He deserved that.
 
 YES.
-
-Her next answer:
 
 GOOD.
 
@@ -2933,73 +3639,73 @@ First the room.
 
 Then the blur.
 
-Then, if the timing behaved, one controlled correction.
+Then one controlled correction if the timing behaved.
 
 No stronger alignment.
 
 No guessing.
 
-No turning an experiment into a personal challenge because he hated losing to furniture and mirrors.
+No turning the experiment into a personal challenge because he hated losing to mirrors.
 
-Max checked the compass dial.
+"Easy," he told himself.
 
-"Easy."
-
-The room remained unconvinced.
+Room 17 remained deeply unconvinced.
 
 ---
 
-Lily angled her mirror until the polished receiver shimmered.
+Lily angled her mirror.
 
-Room 17 faded from the compass face.
+The compass face shimmered.
 
-For several seconds, the reflection became an unstable mixture of both spaces. Pale Velaire stone lingered behind warmer Earth-side light. The edge of Max's worktable doubled, then settled.
+For several seconds, both rooms overlapped badly.
 
-Unit 4B appeared.
+Pale stone behind warmer Earth light.
+
+Two table edges occupying nearly the same place.
+
+A curtain where no curtain belonged.
+
+Then the image settled.
+
+Unit 4B.
 
 Desk.
 
+Lamp.
+
 Curtain.
 
-Warm lamp.
-
-Part of the wall.
-
-The old mirror.
+Mirror.
 
 And the empty place where Lily should have been.
 
-Max leaned closer but did not touch the receiver.
+Max leaned closer.
 
-Yesterday he had chased the blur every time it moved.
+Yesterday, he had chased every blur.
 
-Today he waited.
+Today, he waited.
 
-The room reflection held.
+The room held.
 
 He wrote:
 
 ROOM STABLE.
 
-Lily's answer:
-
 I'M IN POSITION.
 
 Max checked the dial.
 
-He wrote:
-
 RAISE RIGHT HAND ON 3.
 
-The audio channel did not open, so the count crossed in writing.
+No audio.
+
+So the count crossed in writing.
 
 3
 
 2
 
 1
-
-Max watched the empty place in the reflected room.
 
 Nothing.
 
@@ -3009,11 +3715,11 @@ Two.
 
 Three.
 
-Then the familiar distortion formed.
+Then the distortion appeared.
 
-A vertical shadow.
+Vertical.
 
-Too soft to be a body.
+Soft.
 
 Too responsive to be random.
 
@@ -3025,17 +3731,11 @@ Max checked the dial.
 
 Four-point-three seconds.
 
-He wrote it down.
-
-Lily's message appeared.
-
 DID IT MOVE?
 
 YES. LATE.
 
 HOW LATE?
-
-Max wrote:
 
 4.3.
 
@@ -3043,9 +3743,7 @@ A pause.
 
 VERY ROMANTIC NUMBER.
 
-Max stared at the line.
-
-He wrote:
+Max stared.
 
 THIS IS SCIENCE.
 
@@ -3055,63 +3753,53 @@ He ignored that.
 
 Mostly.
 
-Max adjusted the receiver by a fraction and reset the timing dial.
+Max adjusted the receiver by a fraction.
 
 Again.
 
 Lily moved on the count.
 
-The distortion appeared.
+The blur narrowed.
 
-Narrower.
+For half a second, he thought he had it.
 
-For half a second Max thought he had it.
+Then it split.
 
-Then the blur split into two overlapping shadows.
+Two overlapping shadows.
 
-One moved left.
+One moved.
 
-The other stayed behind.
+One lagged behind.
 
-Max's eyes watered.
+His eyes watered immediately.
 
-He looked away immediately.
+Max looked away.
 
 Pressure gathered above his left eye.
 
-The writing patch brightened.
-
 BETTER?
 
-Max rubbed his brow.
-
-He considered lying.
+He rubbed his brow.
 
 WORSE IN A MORE INTERESTING WAY.
 
-The answer:
-
 THAT IS A VERY MAX ANSWER.
 
-He could hear her saying it even though the audio channel was closed.
+He could hear the dry emphasis even without audio.
 
-Not literally.
-
-He just knew where the dry emphasis would fall now.
-
-That was probably a problem of a different kind.
+That was probably a separate problem.
 
 Max sat back.
 
-The pressure behind his eye had not become pain yet, but it was close enough to count as warning.
+The pressure had not become pain yet, but it was close enough.
 
 He drank water.
 
 Did not touch the receiver.
 
-Did not propose a fourth idea immediately.
+Did not suggest another idea immediately.
 
-The writing patch opened again.
+The patch brightened again.
 
 WE CAN STOP.
 
@@ -3119,25 +3807,21 @@ Max looked at the words.
 
 He wanted to say no.
 
-Not because stopping would be wrong.
+Not because stopping was wrong.
 
 Because they were close.
 
-Close was dangerous that way. It made one more attempt sound like caution instead of impatience.
+Close made one more attempt sound responsible.
 
-He checked his notes.
+He checked the plan.
 
-The first attempt had given him a current delay.
-
-The second had shown that changing the receiver angle affected the blur.
-
-They had one bounded attempt left in the plan.
+One bounded try remained.
 
 Max wrote:
 
 ONE MORE. CURRENT DELAY ONLY. THEN STOP.
 
-The answer took several seconds.
+Several seconds passed.
 
 ONE.
 
@@ -3147,17 +3831,19 @@ ONE.
 
 ---
 
-They waited until the pressure behind Max's eye faded.
+They waited until the pressure behind his eye faded.
 
-The third window opened weakly.
+The third window opened weakly enough that Max almost called it off.
 
-That almost ended the experiment before it began.
+The image shimmered.
 
-The room image shimmered in and out, unable to decide which wall belonged in the reflection.
+Room 17.
 
-Max held still.
+Unit 4B.
 
-Then the Earth-side room sharpened.
+Back again.
+
+Then Earth sharpened.
 
 Desk.
 
@@ -3169,21 +3855,21 @@ Mirror.
 
 Empty space.
 
-He checked the dial.
+Max checked the newest delay.
 
-The lag was not yesterday's lag.
+Not yesterday's.
 
-It was not even the lag from the first attempt.
+Not the first trial's.
 
-Max measured the newest interval from Lily's last movement test.
+The current one.
 
-He adjusted for that number only.
+He corrected for that number only.
 
 No average.
 
 No stronger setting.
 
-No extra correction.
+No extra adjustment.
 
 "Lily," he murmured, though she could not hear him.
 
@@ -3191,11 +3877,11 @@ The blur appeared.
 
 Max turned the compass face a few degrees.
 
-The blur narrowed.
+The shape narrowed.
 
 His pulse climbed.
 
-He stopped touching the receiver.
+He took his hand away.
 
 For one breath, nothing happened.
 
@@ -3215,25 +3901,29 @@ Not handwriting.
 
 Not static.
 
-Not a dark place in a reflection where someone should have been.
+Not a dark place where a person should have been.
 
 Her.
 
-She had her hair tied back, though several loose strands had escaped around her face as if she had stopped caring halfway through. She wore a simple dark shirt with one sleeve pushed slightly higher than the other.
+Hair tied back, but not successfully. Several strands had escaped around her face.
 
-She was standing very straight.
+Dark shirt.
+
+One sleeve pushed higher than the other.
+
+She stood very straight.
 
 Too straight.
 
-Nervous, then.
+Nervous.
 
 That surprised him.
 
-In every written exchange, Lily had seemed like the calmer person.
+In writing, Lily always sounded like the calmer one.
 
-The one who wrote rules while he tried to find technical loopholes.
+The rule-maker.
 
-The one who answered fear by becoming practical.
+The person who answered fear by becoming practical.
 
 But now he could see the tension in her shoulders.
 
@@ -3245,27 +3935,29 @@ That felt correct.
 
 Max smiled before he could stop himself.
 
-Lily's expression changed slightly.
+Lily's expression shifted.
 
 She could not see him.
 
-She must have noticed something on her side.
+Maybe she heard his breathing change.
 
-Or heard the change in his breathing.
+Maybe she just hated waiting.
 
 She raised one hand.
 
-Max saw it happen.
+Max saw it happen at the right time.
 
-At the right time.
+No delay.
 
-Not four seconds later.
+No blur.
 
-Not as a blur.
+Her actual hand.
 
-Her actual hand moved.
+Her actual face.
 
-Her actual face shifted with the effort of watching for a result she could not see.
+Real movement.
+
+Real expression.
 
 Max stared.
 
@@ -3275,35 +3967,35 @@ The audio channel crackled open.
 
 Weak.
 
-Barely there.
-
-Her voice reached him.
+Her voice came through.
 
 "Did it work?"
 
 Max opened his mouth.
 
-For once, no joke arrived.
+Nothing.
+
+For once, his brain had produced absolutely nothing.
 
 The image shook.
 
 Lily doubled.
 
-One version stayed where she was.
+One version stayed.
 
 The other lagged half a step behind.
 
-The pressure behind Max's eye sharpened.
+The pressure behind his eye sharpened.
 
 He did not touch the receiver.
 
 He had promised one attempt.
 
-"Lily, I—"
+"Yeah. I can—"
 
 The image collapsed.
 
-Both versions vanished.
+Gone.
 
 Room 17 returned to the polished metal.
 
@@ -3311,13 +4003,13 @@ Max sat very still.
 
 The audio died with it.
 
-The whole clear image had lasted perhaps five seconds.
-
 Five seconds.
 
-He looked at the dial as if the number might be wrong.
+Maybe less.
 
-It wasn't.
+He looked at the timer as if it had personally cheated.
+
+It had not.
 
 Five seconds had been enough to make the empty space in Lily's mirror stop being abstract.
 
@@ -3331,25 +4023,21 @@ That was the part he had not predicted.
 
 Seeing Lily did not make her more real.
 
-They had settled that with taps, writing, and a voice.
+They had already settled that with taps, writing, and a voice.
 
 It made the separation more visible.
 
 ---
 
-The writing patch opened before Max had recovered a useful expression.
+The patch opened before Max had recovered a useful expression.
 
 DID IT WORK?
-
-He looked at the question.
-
-For some reason, answering felt harder than it should have.
 
 He wrote:
 
 YES.
 
-Her response came quickly.
+The response came fast.
 
 YES WHAT?
 
@@ -3357,11 +4045,9 @@ Max laughed.
 
 Of course.
 
-He wrote:
-
 I SAW YOU.
 
-Nothing appeared for several seconds.
+Nothing.
 
 Then:
 
@@ -3369,7 +4055,7 @@ OH.
 
 Max waited.
 
-He could imagine the exact tone now.
+He could hear the exact tone now.
 
 That was new.
 
@@ -3377,55 +4063,41 @@ Another line appeared.
 
 WAS I A SMUDGE?
 
-Max smiled.
-
 NOT THIS TIME.
-
-A pause.
 
 GOOD.
 
 He rubbed the ache above his eye.
 
-He could have described her.
+He could describe her.
 
-He could have told Lily everything he had noticed.
+Loose hair.
 
-The loose hair.
+Dark shirt.
 
-The dark shirt.
+Too-straight posture.
 
-The way she stood too straight because she was pretending not to be nervous.
+Nervous shoulders.
 
-That felt too personal somehow.
+That felt strangely unfair.
 
-Not because he had seen anything private.
+She had not seen him yet.
 
-Because she had not seen him back.
-
-The asymmetry mattered more now than it had on paper.
-
-So Max chose the safest true thing.
+So he chose the safest true thing.
 
 YOU LOOKED ANNOYED.
 
-The reply arrived almost immediately.
+The reply came immediately.
 
 I WAS LOOKING AT YOU.
 
-Max laughed hard enough that the headache objected.
+Max laughed hard enough that the headache complained.
 
 FAIR.
 
-Another line appeared.
-
 HOW LONG?
 
-Max checked the notebook.
-
 ABOUT FIVE SECONDS.
-
-Her response:
 
 THAT'S IT?
 
@@ -3433,15 +4105,25 @@ Max wrote:
 
 VERY MEMORABLE FIVE SECONDS.
 
-He regretted the sentence immediately.
+Max stared at what he had written.
 
-There was a pause long enough for him to consider moving to another branch of reality voluntarily.
+"Oh, no."
 
-Then Lily answered:
+Silence.
+
+One second.
+
+Two.
+
+Three.
+
+Plenty of time to regret having hands.
+
+Then:
 
 THAT SOUNDS WEIRD.
 
-Max covered his face with one hand.
+Max covered his face.
 
 I MEANT SCIENTIFICALLY.
 
@@ -3451,53 +4133,39 @@ He laughed again.
 
 The embarrassment helped.
 
-It made the moment ordinary enough to survive.
+It made the impossible moment ordinary enough to survive.
 
 The window weakened.
-
-Lily wrote:
 
 MY TURN NEXT.
 
 Max looked at the compass.
 
-That was the important part.
+That mattered.
 
-She had no image of him.
+She still had no image of him.
 
-The connection had not become fair just because his side had worked first.
-
-Max wrote:
+His success had not made the connection fair.
 
 SEPARATE CALIBRATION.
 
-The response:
-
 I KNOW.
-
-He added:
 
 YOUR SIDE MAY NEED DIFFERENT TIMING.
 
 AGREED.
 
-Then, after a pause:
+Then:
 
 AND IF IT HURTS?
 
 Max looked at the ache behind his eye.
 
-He wrote:
-
 WE STOP.
-
-Her answer came immediately.
 
 GOOD.
 
 The page began to clear.
-
-Max leaned back.
 
 For days, Lily had been handwriting, timing, clipped audio, bad weather, a loud kettle, and arguments about furniture.
 
@@ -3509,17 +4177,17 @@ It fit beside them.
 
 Her face was not the reason he cared whether the writing patch opened.
 
-It was not the reason he had waited early today.
+It was not the reason he showed up early.
 
-It was not the reason Room 17 had felt less empty after CH-005.
+It was not the reason Room 17 had started feeling less empty.
 
 The connection had happened first.
 
-The face only gave it another shape.
+The face gave it another shape.
 
 Max looked once more at the polished receiver.
 
-It reflected only Room 17 now.
+Only Room 17.
 
 He could not see Lily.
 
@@ -3527,7 +4195,7 @@ She could not see him.
 
 Not yet.
 
-For the first time, that imbalance felt personal.
+For the first time, the imbalance felt personal.
 
 Tomorrow, they would fix it properly.
 
@@ -3537,5972 +4205,13 @@ Carefully.
 
 No guessing.
 
-Max wrote one final note in the margin of his timing sheet.
+Max wrote one final note in the margin.
 
 **P1 — possible. Receiver-specific. Brief. Costly.**
 
-Then, beneath it, after a moment:
-
-**Five seconds.**
-
-He did not need to write anything else.
-
-
----
-
-# CH-011 — That Is Not What I Imagined
-
-Lily had discovered one unfair thing about dimensional physics.
-
-Max was much more confident about experiments that had already worked for him.
-
-His handwriting appeared on the desk before she had finished checking the mirror angle.
-
-USE THE SAME ANGLE I USED.
-
-Lily looked at the wall mirror.
-
-Then at the note.
-
-Then back at the mirror.
-
-She wrote:
-
-YOUR ANGLE WAS ON YOUR SIDE.
-
-A pause.
-
-PHYSICS SHOULD RESPECT SYMMETRY.
-
-IT HASN'T SO FAR.
-
-That took longer to answer.
-
-FAIR.
-
-Lily adjusted the mirror by two degrees.
-
-The repair bracket held.
-
-Good.
-
-Mrs. Bell would probably sense it from downstairs if Lily loosened the wall again.
-
-She checked the floor marks.
-
-The mirror.
-
-The timer on her phone.
-
-The notebook where Max's previous calibration numbers had been copied in her handwriting.
-
-His settings were useful.
-
-They were not hers.
-
-That distinction mattered now.
-
-Yesterday, Max had seen her.
-
-For approximately five seconds.
-
-He had been annoyingly restrained about what he said afterward.
-
-Mostly.
-
-**YOU LOOKED ANNOYED** was not exactly restraint, but it could have been worse.
-
-Lily had spent more time thinking about the fact that he had seen her than she wanted to admit.
-
-Not because she was embarrassed about her face.
-
-Because the balance had changed.
-
-Max now knew something visual about her that she did not know about him.
-
-She knew his voice.
-
-His handwriting.
-
-His habit of turning fear into jokes.
-
-The way his messages got shorter when something was actually wrong.
-
-The fact that he kept pushing at Room 17's boundaries even when he knew they would push back.
-
-She had built a person out of all those things.
-
-Apparently, that person now had a face.
-
-She just had no idea what it was.
-
-Lily wrote:
-
-SAME RULES AS YESTERDAY.
-
-Max answered:
-
-ONE GOOD TRY AFTER THE FAILURES.
-
-Lily stared.
-
-YOU'RE ASSUMING FAILURES.
-
-EXPERIENCE.
-
-She almost smiled.
-
-NO SURPRISE SETTINGS.
-
-AGREED.
-
-IF MY EYES HURT, WE STOP.
-
-AGREED.
-
-IF YOURS HURT—
-
-I'M NOT THE RECEIVER THIS TIME.
-
-THAT WAS NOT MY POINT.
-
-A pause.
-
-AGREED.
-
-Lily put down the pen.
-
-"Good."
-
-The apartment remained normal.
-
-The wall mirror reflected only her.
-
-For the moment.
-
----
-
-The first attempt showed Room 17.
-
-That was all.
-
-Lily's reflection faded from the glass.
-
-Warm Unit 4B light gave way to pale stone, an amber lumen strip, and the edge of Max's worktable.
-
-The transition still made her stomach tighten even though she had seen versions of Room 17 before.
-
-It was one thing to know another room existed.
-
-It was another to have it replace your own reflection.
-
-Lily leaned closer.
-
-No Max.
-
-Only the table.
-
-A chair.
-
-A wall that belonged to another reality.
-
-She wrote:
-
-ROOM. NO YOU.
-
-His reply appeared several seconds later.
-
-OFFENSIVE.
-
-Lily checked the phone timer.
-
-The room image held for four seconds, blurred, then collapsed back into Unit 4B.
-
-She recorded the delay.
-
-The second attempt was worse.
-
-Room 17 appeared again, but the space beside the worktable filled with a dark vertical shape that immediately split into two overlapping versions.
-
-One shadow leaned slightly forward.
-
-The other remained behind.
-
-Both were useless.
-
-Lily stared at them.
-
-This was what Max had seen yesterday.
-
-Not a person.
-
-Evidence that a person should have been there.
-
-She wrote:
-
-YOU WERE TWO PEOPLE.
-
-His answer:
-
-I'M VERY EFFICIENT.
-
-BOTH WERE BLURRY.
-
-THAT'S LESS FLATTERING.
-
-Lily checked the phone timer.
-
-The delay on her side was not the same as his had been.
-
-Of course it wasn't.
-
-The system had been personally committed to inconvenience from the beginning.
-
-She compared the movement lag with the room-state transition.
-
-Different.
-
-She adjusted for the newest interval instead of copying Max's settings.
-
-A message arrived.
-
-HOW BAD?
-
-Lily considered.
-
-ONE OF YOU LOOKED TALLER.
-
-There was a pause.
-
-WHICH ONE?
-
-THE BLURRIER ONE.
-
-THAT EXPLAINS EVERYTHING.
-
-Lily shook her head.
-
-The humor helped more than it should have.
-
-It gave her something ordinary to hold onto while another world's room sat inside her mirror.
-
-The image vanished.
-
-Her own face returned.
-
-Lily looked tired.
-
-She had not noticed before.
-
-That annoyed her too.
-
-The writing patch opened again.
-
-WE CAN STOP.
-
-Lily looked at the sentence.
-
-Yesterday, Max had apparently needed to be reminded that "one more try" was not the same thing as caution.
-
-Today he was the one offering to stop.
-
-She checked her eyes.
-
-No pain.
-
-Only mild strain.
-
-The next window would be their third attempt.
-
-The last one they had planned.
-
-Lily wrote:
-
-ONE MORE. CURRENT DELAY ONLY.
-
-A pause.
-
-ONE.
-
-She answered:
-
-ONE.
-
----
-
-The third window opened twenty minutes later.
-
-Lily stood in front of the wall mirror with one hand resting lightly on the frame.
-
-Max had written that he was in position.
-
-She did not copy his old angle.
-
-She did not copy yesterday's delay.
-
-She used the newest number from her side.
-
-Three.
-
-Two.
-
-One.
-
-The mirror changed.
-
-Room 17 appeared.
-
-The worktable sharpened first.
-
-Then the blur beside it narrowed.
-
-Lily watched the timer.
-
-The shape doubled.
-
-For half a second, she thought they had failed again.
-
-Then the second image collapsed into the first.
-
-A face resolved.
-
-Lily forgot the timer.
-
-Max stood beside the worktable.
-
-He was a young man around her age.
-
-Leaner than she had imagined.
-
-His dark hair looked like it had lost an argument with several different directions and then refused to apologize.
-
-His clothes were unfamiliar without being dramatic: fitted dark layers, practical fastenings, nothing that looked remotely ghost-like or ceremonial.
-
-His face was more expressive than his handwriting suggested.
-
-That made sense immediately.
-
-The jokes had always arrived too fast to belong to someone who kept everything inside.
-
-His eyes looked tired.
-
-That surprised her most.
-
-In Lily's head, Max had somehow become permanently confident.
-
-A person who wrote jokes while trapped inside an impossible building should not have been allowed to look exhausted.
-
-It felt unfair.
-
-More importantly, it felt obvious the moment she saw it.
-
-Of course he was tired.
-
-Of course being funny did not erase that.
-
-Max looked directly toward the receiver on his side.
-
-He could not see Lily through her mirror now; his own successful P1 setup was not active.
-
-That was strangely reassuring.
-
-She was the one looking this time.
-
-He was the one waiting.
-
-His eyebrows lifted.
-
-Lily realized her expression had changed.
-
-She raised one hand.
-
-Max did the same.
-
-This time neither movement arrived as a blur.
-
-His hand moved when she expected it to move.
-
-His face changed with the gesture.
-
-Real timing.
-
-Real expression.
-
-Six seconds, perhaps.
-
-Maybe less.
-
-Enough.
-
-The mirror flickered.
-
-Max became two overlapping versions of himself.
-
-Lily's stomach dropped.
-
-"That seems bad."
-
-His voice came faintly through the audio channel.
-
-"You can see me?"
-
-Lily looked at his doubled reflection.
-
-One version lagged behind the other by half a movement.
-
-"Unfortunately."
-
-Max grinned.
-
-That expression fit the voice so well that Lily almost laughed.
-
-Then the image vanished.
-
-Unit 4B returned.
-
-Her own reflection stood where Max had been.
-
-Lily stayed still.
-
-The silence after visual contact felt larger than the room.
-
-She looked at herself.
-
-Same apartment.
-
-Same mirror.
-
-Same face.
-
-But now Max was no longer an imagined outline built from handwriting and bad decisions.
-
-He had shoulders that carried more tension than she expected.
-
-Tired eyes.
-
-Messy hair.
-
-A grin that arrived before caution.
-
-That did not make him more real.
-
-He had already been real.
-
-It only made some of her guesses embarrassingly specific.
-
-Lily sat down before the next window opened.
-
----
-
-The writing patch brightened almost immediately.
-
-WELL?
-
-Lily looked at the question.
-
-She could have said the obvious thing.
-
-**I saw you.**
-
-Instead she wrote:
-
-YOU LOOK LESS ORGANIZED THAN YOUR HANDWRITING.
-
-There was a pause.
-
-THAT IS SLANDER.
-
-YOUR HAIR IS MAKING A STRONG ARGUMENT.
-
-Another pause.
-
-Then:
-
-YOU LOOK EXACTLY AS JUDGMENTAL AS EXPECTED.
-
-Lily frowned at the page.
-
-I WAS CORRECT.
-
-ABOUT WHAT?
-
-MOST THINGS.
-
-The gray letters trembled at the edge of the patch.
-
-Max wrote:
-
-THAT IS NOT A SCIENTIFIC CATEGORY.
-
-IT SHOULD BE.
-
-A short laugh escaped her before she could stop it.
-
-The room did not carry the sound across this time.
-
-Good.
-
-Some humiliation still belonged entirely to Earth.
-
-A new line appeared.
-
-SO WHAT DID YOU IMAGINE?
-
-Lily froze.
-
-That was an unfair question.
-
-She had imagined several versions of Max without admitting that she was doing it.
-
-Someone taller.
-
-Someone neater.
-
-Someone who looked as comfortable as his jokes sounded.
-
-She wrote:
-
-MORE COMPOSED.
-
-His response:
-
-RUDE AGAIN.
-
-YOU LOOK TIRED.
-
-This time the answer took longer.
-
-I AM.
-
-The simplicity changed the tone.
-
-Lily rested the pen against the paper.
-
-She could have asked why.
-
-She already knew enough.
-
-Phase-bound.
-
-Missing family.
-
-Room 17.
-
-Days measured by failed exits and impossible windows.
-
-She wrote:
-
-YOU DON'T HAVE TO JOKE EVERY TIME.
-
-A pause.
-
-I KNOW.
-
-Then, after another:
-
-I LIKE JOKING.
-
-Lily smiled.
-
-FAIR.
-
-The window weakened.
-
-Max wrote:
-
-NEW RULE.
-
-Lily waited.
-
-NO SURPRISE MIRROR TESTS.
-
-She answered:
-
-OBVIOUSLY.
-
-NO TESTING WHILE CHANGING.
-
-OBVIOUSLY.
-
-NO TESTING WHILE SLEEPING.
-
-Lily stopped.
-
-Then wrote:
-
-WHY DID THAT NEED TO BE SAID?
-
-BECAUSE WE ARE MAKING RULES.
-
-That was exactly the kind of answer a person gave when they had thought of something stupid and wanted legal protection before admitting it.
-
-Lily added:
-
-ANNOUNCE FIRST.
-
-AGREED.
-
-EITHER PERSON CAN SAY NO.
-
-His answer came without delay.
-
-AGREED.
-
-NO ASKING WHY?
-
-Lily considered that.
-
-Sometimes there would be a reason.
-
-Work.
-
-Sleep.
-
-Fear.
-
-Embarrassment.
-
-Sometimes there would not.
-
-Sometimes **no** should be enough.
-
-She wrote:
-
-NO EXPLANATION REQUIRED.
-
-The response took only a moment.
-
-AGREED.
-
-Lily looked toward the wall mirror.
-
-It reflected only her apartment again.
-
-For days, Max had been a voice and a handwriting style with bad ideas attached.
-
-Now she knew what face made those bad ideas.
-
-It changed less than she expected.
-
-That was the strange part.
-
-His appearance corrected details.
-
-It did not replace the person she already knew.
-
-If anything, the tired eyes made the jokes make more sense.
-
-The messy hair made several arguments more predictable.
-
-And the fact that he looked nothing like the polished imaginary version in her head was somehow a relief.
-
-The connection had not depended on guessing correctly.
-
-The writing patch began to fade.
-
-Max added one final line.
-
-SO?
-
-Lily wrote:
-
-SO WHAT?
-
-DO I PASS?
-
-She stared at the question.
-
-Then smiled.
-
-BARELY.
-
-The answer appeared at the edge of the fading patch.
-
-I'LL TAKE IT.
-
-The page cleared.
-
-Lily looked at the mirror one last time.
-
-Tomorrow, seeing Max would still require preparation.
-
-Permission.
-
-Timing.
-
-A receiver that behaved.
-
-That was probably good.
-
-Some doors were better when they did not open automatically.
-
-Apparently mirrors were too.
-
-
----
-
-# CH-012 — Rent, Repairs, and Other Horrors
-
-Lily woke up eleven minutes after her alarm. That was not a disaster.
-
-It only felt like one because she had spent the past week becoming the kind of person who measured delays in seconds.
-
-She stared at the ceiling, reached blindly for her phone, and saw the time.
-
-"Oh, come on."
-
-The apartment offered no sympathy.
-
-She got up, stepped over the notebook she had left beside the bed, and nearly walked into the chair she had moved away from the wall after the furniture test.
-
-Her first thought was that something had shifted again. Her second was more embarrassing.
-
-No. She had moved it herself.
-
-Apparently, normal bad decisions still existed.
-
-Lily washed her face, tied her hair back, and opened her banking app while waiting for the kettle.
-
-Rent was still due on the same date, still requiring actual money, and still somehow more reliable than dimensional physics.
-
-She paid it, watched the balance update, and felt the familiar small drop in her stomach.
-
-Independent adulthood remained deeply committed to being expensive.
-
-The kettle clicked off.
-
-Lily took her mug into the living room and started putting things back where they belonged. Tape marks remained near the desk from the timing tests. The chair was slightly crooked. Her notes had multiplied across the small table.
-
-The wall mirror caught her attention. It sat at the angle she had used for the last calibration with Max.
-
-Lily crossed the room and put one hand on the frame.
-
-The mirror shifted.
-
-Not much. Enough.
-
-She froze.
-
-Then she touched the lower edge again.
-
-A faint scraping sound came from the upper bracket.
-
-Lily stepped back.
-
-For one terrible second, her mind supplied three possibilities involving dimensional instability.
-
-Then she looked more closely.
-
-The plaster around one screw had cracked.
-
-She stared at it.
-
-"That's it?"
-
-The mirror had not become cold. The reflection had not changed. No second room appeared. No writing crossed the glass.
-
-The wall was simply old, the mirror was heavy, and Lily had spent several days adjusting it over and over like a person who had forgotten that screws were physical objects.
-
-She reached for the frame again, stopped, and lowered her hand.
-
-No more mirror until it was fixed.
-
-Lily looked toward the desk.
-
-The writing patch was quiet.
-
-For a moment, she considered tightening the bracket herself.
-
-It did not look difficult.
-
-That was exactly the kind of thought that usually happened right before something became more difficult.
-
-She picked up her phone and messaged Mrs. Bell.
-
-The reply came four minutes later.
-
-**I'll come up after lunch. Don't touch it.**
-
-Lily looked at the mirror.
-
-"Everyone is very controlling today."
-
-The mirror remained innocent.
-
----
-
-Mrs. Bell arrived at one thirty carrying a screwdriver, a small flashlight, and the expression of someone who had already repaired three things she had not expected to repair that day.
-
-Lily opened the door.
-
-Mrs. Bell stepped inside, looked toward the living room, and stopped.
-
-There was tape on the floor, the dining chair sat farther from the table than normal, and the wall mirror was angled strangely.
-
-Mrs. Bell looked at Lily.
-
-Lily looked at Mrs. Bell.
-
-"I can explain."
-
-"Can you?"
-
-"Most of it."
-
-Mrs. Bell made a small sound that suggested this was not the answer she had hoped for.
-
-She crossed to the mirror and checked the upper bracket without touching the frame too hard.
-
-"Old plaster," she said.
-
-Lily relaxed slightly.
-
-Mrs. Bell pointed the flashlight along the edge. "And somebody has been moving this more than it was designed to be moved."
-
-Lily did not relax.
-
-"I needed a different angle."
-
-"For what?"
-
-Lily looked at the mirror.
-
-"Lighting."
-
-Mrs. Bell turned to her.
-
-"Lighting."
-
-"It sounds worse when you repeat it."
-
-"It sounds exactly the same."
-
-Lily folded her arms.
-
-Mrs. Bell examined the bracket again.
-
-"This isn't serious. But the anchor needs replacing, and I want the wall checked before I put the weight back on it."
-
-"When?"
-
-"Tomorrow if Tomas is free. Day after if he isn't."
-
-Lily nodded.
-
-Mrs. Bell straightened and noticed the tape marks.
-
-"And the floor?"
-
-"Measurements."
-
-"Of what?"
-
-Lily paused.
-
-"Furniture."
-
-Mrs. Bell looked at the chair, then at Lily, then back at the chair.
-
-"I don't want to know."
-
-"That's probably best."
-
-Mrs. Bell sighed, but there was no real suspicion in it. Only the tired patience of a landlord whose building had survived more than one strange tenant.
-
-"There's an insurance inspection next week," she said. "Not just your unit. The whole building. I need access points clear, fixtures secure, nothing blocking the hall, and no furniture experiments that end with me explaining anything to an inspector."
-
-"They're not really furniture experiments."
-
-Mrs. Bell gave her a look.
-
-Lily corrected herself.
-
-"Understood."
-
-"And your rent came through."
-
-"Good."
-
-"Yes. That's usually the preferred outcome."
-
-Lily almost smiled.
-
-Mrs. Bell gathered her tools. "You don't need to panic. Just don't use the mirror until it's repaired."
-
-"I wasn't going to."
-
-"Good."
-
-At the door, Mrs. Bell stopped.
-
-"You look tired."
-
-Lily opened her mouth.
-
-Mrs. Bell raised one hand.
-
-"That wasn't a question."
-
-Then she left.
-
-Lily closed the door and leaned against it.
-
-Apparently, landlords had discovered direct communication before dimensional science had.
-
----
-
-Nora called at six.
-
-Lily considered ignoring the phone for exactly two rings.
-
-Then she answered.
-
-"Hi."
-
-"You're tired."
-
-Lily frowned. "That's an impressive thing to know from one word."
-
-"You sounded tired in your message this morning."
-
-"I didn't send you a message this morning."
-
-A pause.
-
-"Yesterday, then."
-
-Lily looked at the time.
-
-That was not helping her argument.
-
-Nora continued, "Mrs. Bell called me."
-
-"What?"
-
-"Not about you."
-
-Lily relaxed.
-
-"She asked if I still knew the electrician who looked at her kitchen wiring last year. Then she mentioned there was an inspection coming up."
-
-"That is a very indirect way to worry about me."
-
-"I'm talented."
-
-Lily sat down at the table.
-
-"The mirror bracket is loose. That's all."
-
-"The mirror bracket?"
-
-"Old plaster."
-
-"Are you moving furniture around at midnight now?"
-
-Lily looked at the tape on the floor.
-
-"Not every night."
-
-"Lily."
-
-"I'm fine."
-
-The words came out automatically.
-
-She hated that Nora went quiet after them.
-
-Not angry. Just quiet.
-
-Nora said, "I'm not asking you to move home."
-
-"I know."
-
-"Do you?"
-
-Lily rubbed her forehead.
-
-Nora continued before she could answer.
-
-"If the repair gets annoying, you can sleep here for one night. If you don't want that, fine. I can bring dinner. Or groceries. Or nothing."
-
-Lily stared at the wall.
-
-"I'm not falling apart."
-
-"I didn't say you were."
-
-"I can handle the apartment."
-
-"I know."
-
-That stopped her.
-
-Nora's voice softened.
-
-"Handling it doesn't mean doing every single thing alone."
-
-Lily did not answer immediately.
-
-The old reflex was there: say no, prove it, make the problem smaller until nobody could help.
-
-She looked at the mirror, the notes, the coffee mug she had forgotten to wash, and the clock.
-
-"Dinner," she said.
-
-"What?"
-
-"You can bring dinner."
-
-Nora was quiet for half a second.
-
-"All right."
-
-"Not because I can't cook."
-
-"Of course not."
-
-"I can cook."
-
-"I believe you."
-
-"That sounded suspicious."
-
-"It wasn't."
-
-It definitely was.
-
-Lily leaned back in the chair.
-
-"Tomorrow?"
-
-"Seven."
-
-"Okay."
-
-"And if the repair takes longer—"
-
-"I'll tell you."
-
-Another pause.
-
-"Good."
-
-Lily smiled a little.
-
-It felt strange that accepting dinner could feel like losing an argument she had never needed to win.
-
----
-
-The writing patch opened at eight seventeen.
-
-Lily noticed the first gray line while she was putting away the last of her notes.
-
-**MIRROR TONIGHT?**
-
-She sat down.
-
-**NO.**
-
-The answer came quickly.
-
-**BAD NO OR NORMAL NO?**
-
-Lily looked toward the wall mirror.
-
-**NORMAL NO. MOUNT IS LOOSE. LANDLORD IS REPAIRING IT.**
-
-The next line took a few seconds.
-
-**DID WE BREAK IT?**
-
-She considered that.
-
-**WE MOVED IT TOO MUCH. OLD WALL.**
-
-**THAT SOUNDS LIKE A YES WITH EXTRA STEPS.**
-
-Lily wrote:
-
-**NO VISUAL TESTS UNTIL IT'S FIXED.**
-
-**AGREED.**
-
-That part came without argument.
-
-Lily added:
-
-**AND NO MORE LATE TESTS BEFORE WORK DAYS.**
-
-There was a longer pause.
-
-**DEFINE LATE.**
-
-**IF YOU HAVE TO ASK, IT'S LATE.**
-
-**UNFAIR STANDARD.**
-
-**EFFECTIVE STANDARD.**
-
-Another line appeared.
-
-**AGREED.**
-
-Lily looked at it.
-
-She had expected at least one more joke.
-
-Instead Max wrote:
-
-**YOUR HOME COMES FIRST.**
-
-Her hand stopped over the page.
-
-The sentence was simple.
-
-That somehow made it worse.
-
-For days, Unit 4B had become a test site: a writing surface, a timing reference, a place where one mirror could show another world.
-
-But it was still where she slept, where she paid rent, where her clothes were hanging in the bedroom, where Nora would bring dinner tomorrow, and where Mrs. Bell would send someone to fix a bracket because Lily had been moving a heavy mirror too often.
-
-Home.
-
-Lily wrote:
-
-**ALSO WE PUT EVERYTHING BACK AFTER TESTS.**
-
-Max replied:
-
-**INCLUDING THE CHAIR?**
-
-**ESPECIALLY THE CHAIR.**
-
-**THE CARDBOARD HAS SCIENTIFIC VALUE.**
-
-**THE CARDBOARD IS TRASH.**
-
-**YOU HAVE NO RESPECT FOR HISTORY.**
-
-Lily smiled despite herself.
-
-Then she wrote:
-
-**I'M SERIOUS.**
-
-The answer came back slower.
-
-**I KNOW.**
-
-A second line followed.
-
-**I'M SERIOUS TOO.**
-
-The coherence window began to weaken.
-
-Lily looked at the old mirror across the room.
-
-For the next few days, she probably would not see Max. She disliked that more than she wanted to examine.
-
-But the disappointment did not change the answer.
-
-The apartment came first.
-
-Without Unit 4B, there was no mirror, no writing patch, no place for any of this to happen.
-
-The gray marks faded.
-
-Lily gathered her notes into one stack, turned off the desk lamp, and left the mirror exactly where it was.
-
-
----
-
-# CH-013 — One More Test
-
-Max made it three steps farther than usual before the corridor folded.
-
-That should have counted as progress.
-
-It did not feel like progress when the wall doubled, his stomach dropped, and the doorway behind him appeared in two places at once.
-
-He stopped before pressure became pain.
-
-That part had improved.
-
-Weeks ago, he would have kept going until Room 17 made the decision for him.
-
-Now he stood still, breathed through the nausea, and waited for the corridor to decide which version of itself it preferred.
-
-The false edge faded.
-
-The floor straightened.
-
-Max backed toward Room 17.
-
-"Excellent. Almost two additional meters."
-
-The corridor did not applaud.
-
-Beyond the nearest opening, Rivenhall continued.
-
-Railcar between archive towers.
-
-Someone shouting below.
-
-A delivery cart rattling over stone.
-
-Ordinary movement.
-
-Ordinary distance.
-
-He could see all of it.
-
-That was the worst part.
-
-If the city had vanished completely, being trapped might have been simpler.
-
-Instead, Rivenhall stayed close enough to hear.
-
-Too far to reach.
-
-Max leaned against the doorframe until the pressure behind his eyes eased.
-
-He had promised Lily he would stop treating every limit like a personal insult.
-
-Technically, he had.
-
-Mostly.
-
-He went back inside.
-
-The writing patch was already open.
-
-**MIRROR FIXED.**
-
-Max smiled.
-
-**GOOD. LANDLORD STILL TERRIFYING?**
-
-Lily answered quickly.
-
-**MORE THAN DIMENSIONAL PHYSICS.**
-
-Fair.
-
-**DID SHE SAY ANYTHING ABOUT THE TAPE MARKS?**
-
-A pause.
-
-**SHE CHOSE PEACE.**
-
-Max laughed.
-
-Room 17 felt less empty immediately.
-
-That was becoming dangerous in a different way.
-
----
-
-They used the repaired mirror once.
-
-Only once.
-
-Lily's image appeared in the polished face of Max's compass after a short calibration.
-
-Several seconds of narrow P1.
-
-Nothing stronger.
-
-Nothing experimental.
-
-Just enough to confirm the repair had not changed the setup.
-
-Lily glanced at the mirror edge, then below the frame.
-
-Checking the new mount.
-
-Max adjusted the compass by a fraction.
-
-Her eyes narrowed.
-
-"You're doing it again."
-
-Max arranged his face into innocence.
-
-"Doing what?"
-
-"Adjusting something that already works."
-
-"It could work better."
-
-"That sentence is why my wall needed repairs."
-
-Max stopped touching the compass.
-
-Lily looked satisfied.
-
-"See? Growth."
-
-"I touched it once."
-
-"Historic growth."
-
-The image flickered.
-
-Max's hand moved toward the calibration ring.
-
-Stopped.
-
-He left it alone.
-
-The visual window collapsed on its own.
-
-Unit 4B disappeared.
-
-Room 17 returned.
-
-The silence afterward felt heavier than it should have.
-
-Max looked at the compass.
-
-Writing.
-
-Short audio.
-
-Controlled P1.
-
-Rules.
-
-Stop conditions.
-
-A safe version of contact.
-
-That should have been enough.
-
-It was enough if Lily was the only question.
-
-She wasn't.
-
-The corridor existed.
-
-Mina existed.
-
-His family existed.
-
-At least, they had before the accident.
-
-The thought returned before he could stop it.
-
-Max picked up the pen.
-
-**I NEED TO TRY SOMETHING STRONGER.**
-
-Nothing.
-
-Five seconds.
-
-Ten.
-
-Then:
-
-**WHY?**
-
-Max had several answers ready.
-
-Better measurements.
-
-Directional information.
-
-Phase-bound geometry.
-
-Useful data.
-
-None survived the question.
-
-Why?
-
-Not what.
-
-Not how.
-
-Why.
-
-Max set the pen down.
-
-The window closed before he answered.
-
----
-
-He sat through the silence.
-
-That was unusual.
-
-Room 17 had trained him to fill silence with something.
-
-A note.
-
-A measurement.
-
-A joke.
-
-An unnecessary adjustment.
-
-This time he did nothing.
-
-The next window opened faintly.
-
-Max wrote slowly.
-
-**THE ACCIDENT AT LARKSPUR WASN'T RANDOM FOR ME.**
-
-Lily answered:
-
-**WHAT DOES THAT MEAN?**
-
-Memory came in pieces.
-
-Warning tone.
-
-People running.
-
-A metal case hitting the floor hard enough to split at one corner.
-
-Light bending near the restricted section.
-
-Mina somewhere ahead of him.
-
-He remembered her turning.
-
-Or remembered wanting her to turn.
-
-That part had become unreliable.
-
-The last clear thing was Max running toward the unstable area instead of away from it.
-
-He wrote:
-
-**MY SISTER WAS THERE. MINA.**
-
-The marks blurred.
-
-A new window formed.
-
-**YOUNGER?**
-
-**YES. FIFTEEN.**
-
-He hesitated.
-
-Then:
-
-**SHE WOULD HATE THAT I TOLD YOU HER AGE BEFORE ANYTHING INTERESTING.**
-
-Lily replied:
-
-**WHAT IS INTERESTING?**
-
-Max looked at the page.
-
-Hundreds of answers.
-
-Mina arguing with adults twice her age because she had already decided they were wrong.
-
-Taking apart broken lumen toys and refusing to admit she could not rebuild them.
-
-Appearing in doorways only when Max was doing something worth criticizing.
-
-Normal things.
-
-Before things.
-
-He wrote:
-
-**SHE LIKES WINNING ARGUMENTS SHE STARTED FOR FUN.**
-
-Lily answered:
-
-**FAMILY TRAIT?**
-
-Max almost laughed.
-
-**UNFORTUNATELY.**
-
-The humor lasted one line.
-
-Then:
-
-**I WAS TRYING TO REACH HER WHEN THE PLACE COLLAPSED.**
-
-The sentence sat there.
-
-Gray.
-
-Temporary.
-
-Too small for what sat behind it.
-
-**I WOKE UP LIKE THIS.**
-
-His pen stopped.
-
-The last part was harder.
-
-There was no safer version.
-
-Only the honest one.
-
-**I DON'T KNOW WHAT HAPPENED TO HER AFTER.**
-
-Nothing appeared.
-
-Max waited.
-
-The patch stayed open.
-
-Lily was there.
-
-She simply did not answer immediately.
-
-For once, he was grateful.
-
-Then:
-
-**YOU NEVER TOLD ME.**
-
-A joke tried to arrive.
-
-Bad timing.
-
-Max let it die before it reached the pen.
-
-**I KNOW.**
-
-Nothing came back.
-
-That silence was worse than an accusation.
-
-He wrote:
-
-**I KEPT THINKING I'D TELL YOU WHEN I UNDERSTOOD MORE.**
-
-Still nothing.
-
-Max added:
-
-**WHEN I HAD SOMETHING USEFUL TO SAY.**
-
-Lily's answer finally appeared.
-
-**USEFUL TO WHO?**
-
-His hand stopped.
-
-His family, obviously.
-
-Mina, if—
-
-No.
-
-He cut that thought off.
-
-**MY FAMILY.**
-
-The pen stayed against the paper.
-
-Then he added:
-
-**ME, MAYBE.**
-
-The gray letters faded at the edges.
-
-Lily wrote:
-
-**YOU THINK YOU NEED AN ANSWER BEFORE YOU'RE ALLOWED TO BE SCARED.**
-
-Max stared.
-
-Annoying sentence.
-
-Accurate sentence.
-
-The worst kind.
-
-**I DIDN'T SAY THAT.**
-
-**YOU DIDN'T HAVE TO.**
-
-Max leaned back.
-
-The compass sat beside his hand.
-
-Measure.
-
-Compare.
-
-Adjust.
-
-Useful things.
-
-Useful was easier than frightened.
-
-Useful had steps.
-
-Fear mostly had waiting.
-
-**IF I CAN FIND A DIRECTION, THAT'S SOMETHING.**
-
-**MAYBE.**
-
-Then:
-
-**THAT IS NOT THE SAME AS HAVING TO SOLVE IT ALONE.**
-
-Max looked away.
-
-No pity.
-
-No dramatic speech.
-
-Just Lily.
-
-That helped.
-
-**I KNOW.**
-
-This time, the words cost something.
-
-Good.
-
----
-
-He waited until the next stable window before showing her the plan.
-
-Not crossing.
-
-Not contact.
-
-Not stronger sight for its own sake.
-
-A spatial reading.
-
-He wrote the question first.
-
-**QUESTION: DOES MY PHASE-BOUND STATE HAVE A CONSISTENT DIRECTION?**
-
-Lily answered:
-
-**BETTER.**
-
-Max smiled.
-
-Apparently, scientific procedure had become emotional supervision.
-
-His compass provided a known reference on the Room 17 side.
-
-The repaired mirror provided a known P1 reference on Lily's.
-
-They needed one small Earth-side object Lily could place and remove without moving furniture.
-
-The brass apartment key was practical.
-
-Portable.
-
-Easy to mark.
-
-Easy to take away.
-
-Nothing more.
-
-Max was careful with that.
-
-He did not call it an anchor.
-
-He did not pretend it had behaved strangely before.
-
-Just a stable object tied to Unit 4B.
-
-He wrote the short version.
-
-**COMPASS + MIRROR + KEY POSITION. SAME COUNT. OBSERVATION ONLY.**
-
-Lily took longer.
-
-**WHAT DO YOU EXPECT?**
-
-Good question.
-
-**IF THE PHASE BINDING HAS DIRECTIONAL STRUCTURE, COMPASS RESPONSE MAY SHIFT CONSISTENTLY WHEN THE REFERENCES ALIGN.**
-
-**AND IF IT DOESN'T?**
-
-**WE STOP.**
-
-**IF SOMETHING ELSE HAPPENS?**
-
-Max's hand paused.
-
-**WE STOP.**
-
-A new line appeared.
-
-**BEFORE YOU TRY TO INTERPRET IT?**
-
-He frowned.
-
-Unfairly specific.
-
-**YES.**
-
-**WRITE THE RULES.**
-
-Max stared.
-
-Then obeyed.
-
-**DAYTIME.**
-
-Lily added:
-
-**NO WORK DAY FOR ME.**
-
-**AGREED.**
-
-**ONE ATTEMPT.**
-
-Max hesitated.
-
-A new line appeared before he decided whether the hesitation counted as an answer.
-
-**MAX.**
-
-He stared at his name.
-
-One attempt was terrible experimental design.
-
-It was also the agreement.
-
-**I KNOW.**
-
-Lily answered:
-
-**THAT WASN'T YES.**
-
-Max exhaled through his nose.
-
-**YES. ONE ATTEMPT.**
-
-Lily added:
-
-**NO CONTACT. NO CROSSING. OBSERVATION ONLY.**
-
-**AGREED.**
-
-Then:
-
-**IF EITHER OF US SAYS STOP, WE STOP.**
-
-Max stared at that one.
-
-Five more seconds would be reasonable.
-
-Enough time to finish a reading.
-
-Enough time to make danger useful.
-
-He knew exactly how convincing that argument could sound.
-
-That was the problem.
-
-**STOP MEANS STOP.**
-
-**GOOD.**
-
-The window weakened.
-
-Before it closed:
-
-**THIS IS NOT YOU SAVING EVERYONE.**
-
-Max leaned back.
-
-He wished she were wrong.
-
-That would have been easier.
-
-One stronger test.
-
-Controlled.
-
-Useful.
-
-Those words still felt comforting.
-
-Max understood now that comfort was not evidence.
-
-He wrote one final line.
-
-**ONE TEST. THEN WE REVIEW.**
-
-Lily answered faintly.
-
-**TOGETHER.**
-
-The page cleared.
-
-Max sat alone in Room 17.
-
-Not completely alone.
-
-That distinction mattered more than he wanted to admit.
-
-He put the compass away instead of adjusting it again.
-
-Tomorrow, they would test the question.
-
-Today, he had already answered a harder one.
-
-He did not need to know what happened to Mina before admitting that not knowing hurt.
-
-
----
-
-# CH-014 — The Key Goes Cold
-
-Lily checked the time twice.
-
-Daylight.
-
-No work shift.
-
-Mirror repaired.
-
-Chair back where it belonged.
-
-Front door normal.
-
-Phone charged.
-
-Water on the table.
-
-One attempt.
-
-She had written the rules even though she already knew them.
-
-Partly for Max.
-
-Mostly for herself.
-
-**ONE ATTEMPT.**
-
-**OBSERVATION ONLY.**
-
-**NO CONTACT.**
-
-**NO CROSSING.**
-
-**STOP MEANS STOP.**
-
-Lily looked at the page.
-
-Reasonable.
-
-Boring.
-
-Good.
-
-After the last few weeks, boring had become underrated.
-
-The writing patch brightened.
-
-**YOU FORGOT ONE.**
-
-Lily frowned.
-
-**WHAT?**
-
-**NO HEROICS.**
-
-She stared.
-
-Then:
-
-**THAT RULE IS FOR YOU.**
-
-**RUDE.**
-
-**ACCURATE.**
-
-A second line appeared.
-
-**I'M SERIOUS.**
-
-Lily stopped smiling.
-
-So was she.
-
-**ME TOO.**
-
-The marks faded.
-
-For a moment, Unit 4B looked completely ordinary.
-
-Morning light.
-
-Repaired mirror.
-
-Too many notes.
-
-Brass apartment key beside her hand.
-
-The key had never done anything strange.
-
-That mattered.
-
-No cold.
-
-No movement.
-
-No glow.
-
-Nothing except being a key.
-
-They were using it because it was small, tied to the apartment, easy to place, easy to remove.
-
-Nothing more.
-
-Lily picked it up.
-
-Warm brass.
-
-Put it back down.
-
-"Stay boring."
-
-The key cooperated.
-
-For now.
-
----
-
-The brass key lay in the center of the desk patch.
-
-The repaired mirror faced the same angle used for narrow P1.
-
-On Max's side, his compass would align to the corresponding point.
-
-They opened the visual window first.
-
-Normal calibration.
-
-Room 17 appeared in Lily's mirror.
-
-Max stood beside his table.
-
-More serious than usual.
-
-Not dramatic.
-
-Focused.
-
-His compass rested beside one hand.
-
-"Still one attempt," Lily said when the weak audio opened.
-
-"One."
-
-"And if I say stop?"
-
-"We stop."
-
-"Immediately."
-
-Max gave her a look through the mirror.
-
-"Lily."
-
-"That was not an answer."
-
-His mouth tightened.
-
-"No five extra seconds. No finishing the reading. We stop."
-
-She held his gaze for another second.
-
-"Good."
-
-"Happy?"
-
-"No."
-
-That pulled the smallest smile out of him.
-
-"Fair."
-
-"Good."
-
-The audio crackled.
-
-The visual link was narrow but unusually clear.
-
-Too clear.
-
-Lily did not like that.
-
-"Your side?"
-
-"Stable."
-
-"Mine too."
-
-Max lifted the compass.
-
-Lily placed two fingers on the brass key.
-
-Warm.
-
-Flat.
-
-Normal.
-
-"Three."
-
-"Two."
-
-"One."
-
-The reflected room sharpened.
-
-Too much.
-
-The amber lumen strip became crisp enough to show a tiny dark mark near one end.
-
-Max's worktable snapped into focus.
-
-The wall behind him looked flatter.
-
-Closer.
-
-Lily's own reflection disappeared completely.
-
-For several seconds, the mirror stopped looking like a mirror.
-
-It looked like an opening that had forgotten depth.
-
-Her stomach tightened.
-
-"Max."
-
-"I see it."
-
-"You see what?"
-
-"The reading changed."
-
-No humor in his voice.
-
-Bad sign.
-
-"What changed?"
-
-"Compass response is stronger."
-
-"Directional?"
-
-"Not sure yet."
-
-The key cooled under Lily's fingers.
-
-A little.
-
-Then more.
-
-She looked down.
-
-Still there.
-
-Still unmoving.
-
-"Max."
-
-"I know."
-
-"No. The key."
-
-Cold intensified.
-
-Not cool.
-
-Cold enough to hurt.
-
-Lily's fingers jerked.
-
-For half a second, instinct told her to hold on.
-
-Keep the reference stable.
-
-Finish the reading.
-
-Then the rule caught up.
-
-Observation only.
-
-No reason to keep touching it.
-
-She let go.
-
-The key stayed cold.
-
-A faint white haze formed along one edge.
-
-Lily stared.
-
-This was new.
-
-No ambiguity.
-
-The teeth began to frost.
-
-"Stop."
-
-Max lowered the compass immediately.
-
-"Stopped."
-
-Lily kept her hands away.
-
-The mirror should have returned to normal.
-
-It did not.
-
----
-
-Room 17 vanished.
-
-Unit 4B came back wrong.
-
-Lily stared.
-
-In the reflection, her doorway sat several inches farther left than the actual doorway behind her.
-
-She turned.
-
-Real door.
-
-White frame.
-
-Brass lock.
-
-Normal hall.
-
-Back to the mirror.
-
-Wrong position.
-
-Same door.
-
-Impossible geometry.
-
-The reflected floor line bent at an angle the real room did not have.
-
-Lily's pulse climbed.
-
-"Max?"
-
-Static.
-
-Then:
-
-"I'm here."
-
-"Something didn't reset."
-
-"Same here."
-
-His voice sounded farther away.
-
-Not quieter.
-
-Farther.
-
-The key frosted more heavily.
-
-Lily did not touch it.
-
-"How bad?"
-
-Static hissed.
-
-Then Max said, "My wall is in two places."
-
-Lily swallowed.
-
-"Don't touch anything."
-
-"I know."
-
-"Max."
-
-A beat.
-
-"I'm not touching anything."
-
-"Better answer."
-
-Audio cut.
-
-For one second, the mirror showed the room correctly.
-
-Then the wrong doorway returned.
-
-Her stomach lurched.
-
-The real room had not moved.
-
-That made it worse.
-
-Chair.
-
-Desk.
-
-Door.
-
-All where they belonged.
-
-Only the reflection had decided otherwise.
-
-Lily grabbed the desk edge.
-
-Nausea rose sharply.
-
-Her hands started shaking.
-
-She released the desk.
-
-No new input.
-
-No accidental movement.
-
-The key gave a tiny metallic click.
-
-Lily flinched.
-
-It had not shifted.
-
-Cold contraction.
-
-Normal explanation.
-
-Did not help.
-
-"Max?"
-
-Static.
-
-"Here."
-
-"Still stopped?"
-
-"Still stopped."
-
-Lily closed her eyes for one second.
-
-They had obeyed the rule.
-
-The result had not.
-
-That mattered.
-
-The test was over.
-
-The effect was not.
-
-She opened her eyes.
-
-Frosted key.
-
-Wrong doorway.
-
-No one said what both of them were thinking.
-
-Neither knew what it meant.
-
----
-
-The writing patch flickered on.
-
-The gray letters appeared slightly too low.
-
-**STATUS?**
-
-Lily wrote carefully.
-
-**MIRROR GEOMETRY WRONG. KEY STILL COLD.**
-
-The answer came.
-
-**ROOM 17 ALSO OFFSET.**
-
-The letters vanished.
-
-Reappeared half a line lower.
-
-Lily stopped writing.
-
-That had not happened before.
-
-Not like that.
-
-She watched.
-
-No second copy.
-
-Good.
-
-One weird thing at a time.
-
-Two minutes since stop.
-
-Key still frosted.
-
-Mirror still wrong.
-
-Three minutes.
-
-The frost began thinning.
-
-The doorway shifted closer to its real position.
-
-Not enough.
-
-Lily wrote:
-
-**DO NOT TOUCH THE COMPASS.**
-
-**NOT TOUCHING IT.**
-
-**NO SECOND TRY.**
-
-**AGREED.**
-
-Immediate.
-
-No joke.
-
-That scared her more than one would have.
-
-Lily sat on the floor beside the desk.
-
-Not collapsing.
-
-Just refusing to add falling over to the list.
-
-Hands flat on her knees.
-
-Wait.
-
-Five minutes.
-
-Ten.
-
-The frost finally thinned.
-
-At twelve minutes, she tapped the desk several inches away from the key.
-
-Nothing.
-
-The mirror still showed a small mismatch.
-
-A few inches.
-
-Then one.
-
-Then less.
-
-Still there.
-
-Max's next message appeared.
-
-**HEADACHE. VISION DOUBLED FOR ABOUT TEN SECONDS. BETTER NOW.**
-
-Lily wrote:
-
-**NO MORE INPUT.**
-
-**AGREED.**
-
-A pause.
-
-Then:
-
-**DID I MISS A DIRECTIONAL READING?**
-
-Lily stared.
-
-There it was.
-
-The instinct.
-
-Make danger useful.
-
-Turn cost into data.
-
-She wrote:
-
-**WE STOPPED. THAT MEANS WE STOPPED.**
-
-The answer took longer.
-
-**RIGHT.**
-
-Lily looked at the key.
-
-Warm enough now.
-
-She still did not touch it.
-
-They had asked whether stronger alignment could produce a more stable spatial reading.
-
-They had produced something stronger.
-
-They had also made both rooms wrong.
-
-That was enough.
-
-More than enough.
-
-The patch opened one last time.
-
-**LILY?**
-
-**HERE.**
-
-A pause.
-
-**I'M SORRY.**
-
-Lily looked at the words.
-
-Part of her wanted to make it easy.
-
-*It's fine.*
-
-*We knew the risk.*
-
-*At least we learned something.*
-
-None were true enough.
-
-So:
-
-**WE FIX IT FIRST. THEN WE TALK.**
-
-**AGREED.**
-
-She waited.
-
-Then:
-
-**AND MAX?**
-
-A pause.
-
-**YES?**
-
-**THIS DOES NOT MEAN YOU WERE RIGHT TO PUSH.**
-
-Several seconds.
-
-**I KNOW.**
-
-That answer mattered.
-
-The key was warm again.
-
-Normal color.
-
-No frost.
-
-The mirror was not normal.
-
-Less wrong.
-
-Still wrong.
-
-Lily left everything alone.
-
-The key.
-
-The mirror.
-
-The desk.
-
-They had wanted one stronger test.
-
-They had gotten one.
-
-Now the problem was no longer how to strengthen the connection.
-
-It was how to make the room stop remembering it.
-
-
----
-
-# CH-015 — The Room Moves Wrong
-
-Room 17 had apparently decided corners were optional.
-
-Max stood beside the worktable and stared at the far wall.
-
-The real wall was where it belonged.
-
-The second version, half a handspan to the left, was not.
-
-He blinked.
-
-Both remained.
-
-The false edge did not behave like a reflection.
-
-It did not vanish when he changed angle.
-
-It simply occupied almost the same place as the real wall, like the room had remembered two answers and refused to choose.
-
-"Good," Max said. "We've improved architecture by adding options."
-
-The joke landed badly.
-
-That annoyed him almost as much as the wall.
-
-The writing patch had been quiet for nearly a minute.
-
-Forty-eight seconds.
-
-Lily's last message had taken almost that long.
-
-When gray marks finally appeared, they formed lower than usual.
-
-**DO NOT MOVE ANYTHING.**
-
-A second copy appeared several inches beneath it.
-
-Max froze.
-
-He checked the timestamp.
-
-First message: thirty-eight seconds late.
-
-Duplicate: twelve seconds after that.
-
-Late.
-
-Duplicated.
-
-Still late.
-
-No pre-echo.
-
-At least causality had kept one promise.
-
-He wrote:
-
-**TWO COPIES. FIRST +38. SECOND +50.**
-
-Nothing.
-
-Max looked toward the doorway.
-
-The real frame stayed fixed.
-
-The false one sat left of it.
-
-For half a second, both showed the normal Larkspur corridor.
-
-Then the false opening darkened.
-
-Max shifted one step sideways for a better angle.
-
-The false opening shifted with him.
-
-Not a reflection.
-
-Not good.
-
-A message arrived.
-
-**SAME HERE. DO NOT CORRECT ANYTHING YET.**
-
-Max read it twice.
-
-He should wait.
-
-That was the correct answer.
-
-The compass sat beside his hand.
-
-If he could isolate the offset—
-
-No.
-
-Lily's instruction was clear.
-
-He wrote:
-
-**I'M GOING TO TRY A LOCAL CORRECTION.**
-
-Then waited.
-
-Nothing.
-
-The silence stretched.
-
-The false frame shifted farther left.
-
-Max stared.
-
-"No."
-
-Definitely not opening that.
-
-The writing patch brightened.
-
-One word.
-
-**NO.**
-
-Max looked at the compass.
-
-Then at the word.
-
-"Compelling."
-
-He knew exactly what Lily would say if she could see his face.
-
-That should have stopped him.
-
-It did not.
-
-He picked up the compass.
-
----
-
-The solo correction lasted seven seconds.
-
-Six too many.
-
-Max aligned the compass with the original Room 17 wall grid and ignored the doubled edge in his vision.
-
-He did not strengthen the field.
-
-He did not attempt a full calibration.
-
-Just one local adjustment.
-
-That was how he justified it.
-
-The calibration ring turned beneath his thumb.
-
-The second wall snapped closer.
-
-Max's pulse jumped.
-
-For one hopeful second, the room looked normal.
-
-One wall.
-
-One floor.
-
-One doorway.
-
-"See?"
-
-The room punished the optimism immediately.
-
-The floor tilted sideways without physically moving.
-
-Max's body reacted before his mind did.
-
-His balance failed.
-
-He caught the table.
-
-The compass vibrated hard enough to sting his palm.
-
-A high metallic whine cut through the room.
-
-Max released the ring.
-
-The false floor vanished.
-
-The doubled wall returned.
-
-Pain hit behind both eyes.
-
-He lowered himself into the chair.
-
-The writing patch brightened.
-
-**WHAT DID YOU DO?**
-
-The letters looked darker than usual.
-
-Or his vision was worse.
-
-He wrote:
-
-**SMALL CORRECTION.**
-
-Nothing.
-
-Max rubbed both eyes.
-
-Then Lily's answer appeared.
-
-**THAT WAS NOT THE AGREEMENT.**
-
-He wrote:
-
-**I KNOW.**
-
-Her reply came faster than the others.
-
-**THEN WHY DID YOU DO IT?**
-
-Max's pen hovered.
-
-There were several technically accurate answers.
-
-None of them were good.
-
-He knew that.
-
-He disliked knowing that.
-
-The defense arrived automatically.
-
-He had not opened the door.
-
-Had not increased contact.
-
-Had only tried to reduce the offset.
-
-Reasonable.
-
-Useful.
-
-Exactly the kind of explanation he was very good at producing after a bad decision.
-
-Max wrote:
-
-**I CAN HANDLE MY SIDE. DISCONNECT FOR NOW.**
-
-No answer.
-
-Ten seconds.
-
-Twenty.
-
-Thirty.
-
-He exhaled.
-
-Maybe she had listened.
-
-Maybe less Earth-side activity would make this easier to contain.
-
-Maybe—
-
-**NO.**
-
-Max closed his eyes.
-
-Of course.
-
-Another line arrived much later.
-
-**MY SIDE IS STILL WRONG.**
-
-That ruined the argument.
-
-Logically.
-
-Which was worse.
-
----
-
-Audio opened in fragments.
-
-Static.
-
-Then Lily's voice.
-
-"Max—"
-
-Gone.
-
-He leaned toward the table.
-
-"Lily?"
-
-Nothing.
-
-Ten seconds.
-
-Twenty.
-
-Then:
-
-"—door is wrong."
-
-Max straightened.
-
-"What door?"
-
-No answer.
-
-Thirty seconds.
-
-Forty.
-
-The false doorway shifted again.
-
-For one moment, its interior showed something that was not Larkspur.
-
-A narrow hallway.
-
-Painted walls.
-
-Warm light.
-
-Earth.
-
-Probably.
-
-Every instinct told Max to move closer.
-
-Better angle.
-
-Better observation.
-
-Useful data.
-
-He stayed where he was.
-
-Finally Lily's voice came back.
-
-"Front door. Outline doesn't match the wall."
-
-Max looked at his own doorway.
-
-The false frame had shifted farther from the real one.
-
-"Lily, don't open it."
-
-The audio died.
-
-He wrote the same thing.
-
-**DO NOT OPEN THE DOOR.**
-
-The writing vanished before he knew if it crossed.
-
-Then a new message appeared.
-
-**YOU DON'T GET TO DECIDE THIS ALONE.**
-
-Max stared.
-
-A second line arrived forty-seven seconds later.
-
-**MY ROOM IS STILL WRONG TOO.**
-
-That killed his position.
-
-Not emotionally.
-
-Logically.
-
-If Unit 4B was still unstable after his correction, he had not isolated anything.
-
-He had only changed one part of a shared problem.
-
-**I WAS TRYING TO KEEP IT ON THIS SIDE.**
-
-The answer took almost a minute.
-
-**MAX. THAT IS NOT HOW THIS HAS WORKED ONCE.**
-
-He looked away.
-
-Annoying.
-
-Accurate.
-
-Again.
-
-He wrote:
-
-**IF I FIX ROOM 17, YOUR SIDE MIGHT FOLLOW.**
-
-Lily answered:
-
-**MIGHT.**
-
-Then:
-
-**AND IF YOU MAKE ROOM 17 WORSE?**
-
-Max did not write anything.
-
-A final line appeared.
-
-**MINE MIGHT FOLLOW TOO.**
-
-He hated the word because it was his own logic turned around.
-
-The false hallway flickered.
-
-Earth-side warm light again.
-
-No person.
-
-No movement.
-
-Nothing worth approaching.
-
-Max stepped back.
-
-The patch brightened.
-
-**STOP TRYING TO TAKE THE RISK BY YOURSELF.**
-
-He read it.
-
-Wanted to object.
-
-He had a family.
-
-A reason to be desperate.
-
-A room he had been trapped in longer than Lily had known Unit 4B was strange.
-
-None of that gave him the right to decide what happened to her apartment.
-
-Or her door.
-
-Or her body.
-
-He could not call it responsibility if the other person had no choice.
-
-That was control in better clothing.
-
-Max sat down.
-
-Moved the compass to the far side of the table.
-
-Then farther.
-
-**NO MORE CORRECTIONS.**
-
-Lily answered late.
-
-**GOOD.**
-
-He deserved how satisfying that looked.
-
----
-
-They spent the next half hour doing almost nothing.
-
-That was harder than any experiment.
-
-No adjustment.
-
-No mirror calibration.
-
-No key alignment.
-
-No compass correction.
-
-Only observation.
-
-Max marked the real doorway.
-
-Then the false one.
-
-Measured the offset.
-
-Waited.
-
-Measured again.
-
-Lily sent her own observations whenever the patch cooperated.
-
-**DOOR OUTLINE LEFT OF FRAME.**
-
-Twenty-eight seconds later:
-
-**NOW CLOSER.**
-
-Then:
-
-**LIGHT UNDER DOOR NORMAL. OUTLINE STILL WRONG.**
-
-Max recorded the timestamps.
-
-Delays were awful.
-
-Twenty seconds.
-
-Forty.
-
-Once, more than a minute.
-
-One message arrived twice.
-
-Duplicate after original.
-
-Still no pre-echo.
-
-Time distorted through delay.
-
-Not reversal.
-
-Important later.
-
-Not now.
-
-The geometry stopped getting worse.
-
-Not better.
-
-Just not worse.
-
-That counted.
-
-Max's headache eased.
-
-The false wall edge stopped drifting.
-
-The doorway still sat wrong.
-
-Then Lily wrote:
-
-**NEW RULE.**
-
-Max answered:
-
-**I HAVE SEVERAL SUGGESTIONS.**
-
-**IF A DOOR LOOKS WRONG, DON'T OPEN IT.**
-
-Max looked toward the shifted frame.
-
-**AGREED.**
-
-Another line followed.
-
-**EVEN IF IT LOOKS LIKE MY SIDE.**
-
-His hand stopped.
-
-That one hurt more.
-
-If the doorway ever showed Lily clearly enough—
-
-No.
-
-Rule first.
-
-Curiosity later.
-
-**AGREED.**
-
-The next message appeared almost immediately.
-
-**THAT RULE INCLUDES ME.**
-
-Max frowned.
-
-**I KNOW.**
-
-**YOU PAUSED.**
-
-He stared at the page.
-
-**I WAS THINKING.**
-
-**THAT IS WHAT WORRIES ME.**
-
-Despite everything, a breath of laughter escaped him.
-
-He wrote:
-
-**YOU TOO. IF IT LOOKS LIKE ROOM 17, YOU DON'T OPEN IT.**
-
-A pause.
-
-**AGREED.**
-
-That answer settled something the first rule had not.
-
-The false frame flickered.
-
-For one second, the Earth-side hall appeared again.
-
-Warm light.
-
-Painted wall.
-
-A shape that might have been a coat rack.
-
-Nothing worth breaking the rule.
-
-Max stayed where he was.
-
-Lily wrote:
-
-**WE WATCH. WE DON'T TOUCH.**
-
-**AGREED.**
-
-Max placed both hands flat on the table.
-
-The room remained wrong.
-
-But stable wrong.
-
-For now.
-
-Every part of him wanted to solve it.
-
-Measure it.
-
-Correct it.
-
-Turn the crisis into something useful.
-
-He did none of those things.
-
-The room moved wrong.
-
-Max did not.
-
-
----
-
-# CH-016 — Do Not Open That Door
-
-Lily had spent twenty minutes watching her front door.
-
-That would have been strange even before the door started disagreeing with the hallway.
-
-Most of the time, Unit 4B looked normal.
-
-White-painted frame.
-
-Brass lock.
-
-Small gap beneath the door where the hall light came through.
-
-Then the light changed.
-
-Warm yellow became pale blue.
-
-The line beneath the door stretched wider than the actual gap.
-
-Lily did not move.
-
-Her phone timer ran beside her.
-
-The writing patch on the desk had been unreliable all morning. Max's last message had taken almost a minute to arrive.
-
-**DOOR WRONG AGAIN. STAY BACK.**
-
-She had answered:
-
-**SAME HERE.**
-
-No reply yet.
-
-Lily looked through the peephole.
-
-The Aster House hall was there.
-
-Then it wasn't.
-
-For half a second, the corridor beyond the glass became taller and darker, with a strip of amber light running along the wall.
-
-Larkspur.
-
-Probably.
-
-Lily stepped away immediately.
-
-The rule was simple.
-
-Wrong door.
-
-Do not open it.
-
----
-
-Someone knocked.
-
-Lily nearly jumped.
-
-"Who is it?"
-
-"June."
-
-Of course.
-
-Lily crossed the room but stopped several steps from the door.
-
-"Don't touch the handle."
-
-Silence.
-
-Then June's voice.
-
-"That is a very specific greeting."
-
-"I'm serious."
-
-"I can tell."
-
-Lily looked at the light under the door.
-
-Normal yellow.
-
-Then blue.
-
-"Move back from the door."
-
-Another pause.
-
-"Lily."
-
-"Please."
-
-That changed June's tone.
-
-Footsteps moved away.
-
-Lily waited five seconds, then ten.
-
-The blue line under the door faded.
-
-She looked through the peephole.
-
-June stood across the hall in nursing scrubs, bag over one shoulder, expression flat with exhaustion.
-
-The corridor looked normal.
-
-Lily unlocked the door but opened it only a few inches.
-
-June looked at the chain.
-
-"Are you hiding a tiger?"
-
-"Door problem."
-
-"That was my second guess."
-
-"The frame is acting strange."
-
-June stared at it.
-
-The frame looked perfectly normal.
-
-Lily hated that.
-
-June reached toward the edge.
-
-Lily pulled the door closed.
-
-"Don't."
-
-June's hand stopped.
-
-Her expression sharpened.
-
-"Okay. That's twice."
-
-Lily kept one hand on the lock.
-
-"It's being repaired."
-
-"Then why are you standing guard?"
-
-"Because it isn't repaired yet."
-
-June looked at her for a long moment.
-
-Lily knew how she looked.
-
-Tired.
-
-Probably pale.
-
-Possibly like someone losing an argument with a door.
-
-June sighed.
-
-"Fine. What do you need?"
-
-"Nothing."
-
-June's expression did not change.
-
-Lily corrected herself.
-
-"I need you not to touch it."
-
-"Better."
-
----
-
-They spoke through the mostly closed door.
-
-It was ridiculous.
-
-It was also safer.
-
-June had only stopped because she was returning from clinicals and had seen Lily's handwritten note taped crookedly beside the frame.
-
-**DO NOT USE — REPAIR PENDING**
-
-"You wrote that after I knocked, didn't you?" June asked.
-
-"No."
-
-A beat.
-
-"Yes."
-
-"Thought so."
-
-Lily leaned her forehead briefly against the wall beside the door.
-
-June said, "Is the lock failing?"
-
-"Maybe the frame."
-
-"Maybe?"
-
-"It's hard to explain."
-
-"Try."
-
-Lily considered several versions of the truth.
-
-None were usable.
-
-"The alignment changes."
-
-June was quiet.
-
-"With the wall?"
-
-"Sometimes."
-
-"That sounds bad."
-
-"It is inconvenient."
-
-"Unsafe and inconvenient are different words."
-
-Lily closed her eyes.
-
-June continued, "If the door or frame is unstable, Mrs. Bell needs to know."
-
-"I already reported the mirror."
-
-"The door is not the mirror."
-
-"I know."
-
-"Do you?"
-
-Lily almost laughed.
-
-Apparently everyone in her life had agreed to become practical at her.
-
-The light under the door shifted blue again.
-
-June could not see it from where she stood.
-
-Lily could.
-
-"Go back to your apartment," Lily said.
-
-June's voice hardened. "Why?"
-
-"Please."
-
-A few seconds passed.
-
-Then footsteps moved away.
-
-June called from farther down the hall, "I'm texting you when I get inside."
-
-"Fine."
-
-"And if you don't answer, I'm calling Mrs. Bell."
-
-"Fine."
-
-"That was suspiciously easy."
-
-"Go."
-
-June left.
-
-Lily waited until the hall was quiet.
-
-The blue light disappeared.
-
----
-
-Max's reply arrived at last.
-
-**YOU THERE?**
-
-Lily crossed to the desk.
-
-**HERE. JUNE ALMOST OPENED IT.**
-
-The answer took forty-three seconds.
-
-**IS SHE SAFE?**
-
-**YES.**
-
-Another delay.
-
-**DOOR?**
-
-Lily looked toward it.
-
-Normal for the moment.
-
-**STILL WRONG SOMETIMES.**
-
-Max wrote:
-
-**WE NEED TO FIX THIS NOW.**
-
-Lily stared at the sentence.
-
-Not test.
-
-Fix.
-
-Good.
-
-She picked up her phone and messaged Mrs. Bell.
-
-**Door/frame alignment problem too. Please don't let anyone service 4B without calling me first. I put a warning on it.**
-
-That was not the whole truth.
-
-It was enough to keep someone from casually opening the door while the geometry was wrong.
-
-Mrs. Bell replied:
-
-**I'll have someone look tomorrow. Keep it closed tonight.**
-
-Lily wrote back:
-
-**I will.**
-
-Then she made a second sign and taped it lower on the door.
-
-**DO NOT OPEN. CALL LILY.**
-
-Max's next message appeared.
-
-**PLAN?**
-
-Lily sat down.
-
-They had timing data.
-
-State-change data.
-
-Anchor behavior.
-
-A list of things that made the problem worse.
-
-For once, the next step did not need to be stronger.
-
-It needed to be more careful.
-
-She wrote:
-
-**WE STABILIZE. SAME COUNT. NO NEW VARIABLES.**
-
-The reply came late.
-
-**AGREED.**
-
-Lily looked at the front door.
-
-The hall light remained normal.
-
-She did not trust that.
-
-Not yet.
-
-But June was safe.
-
-The door was closed.
-
-And for the first time since the stronger test, Lily knew exactly what they were trying to do next.
-
-
-
----
-
-# CH-017 — Same Count, Same Time
-
-Max had spent enough time trying to make the connection stronger.
-
-That was probably the problem.
-
-Every timing note sat spread across the worktable.
-
-Old delay measurements.
-
-Mirror calibration marks.
-
-Furniture test.
-
-Failed stronger setup.
-
-The solo correction he had absolutely not been authorized to attempt.
-
-That page sat slightly farther away.
-
-For educational reasons.
-
-Max crossed out the first idea on his new list.
-
-**Increase compass response.**
-
-No.
-
-Second.
-
-**Re-align mirror and compass to strongest P1 setting.**
-
-No.
-
-Third.
-
-**Bring the key back into position.**
-
-"Absolutely not."
-
-He crossed out everything that added something.
-
-No stronger mirror.
-
-No tighter compass field.
-
-No key.
-
-No new variable.
-
-The room had become wrong after they forced too many references into agreement at once.
-
-Trying to repair it by forcing harder was exactly the kind of idea Max would have loved three days ago.
-
-That was not praise.
-
-Room 17 was still wrong.
-
-Less dramatically.
-
-The false doorway no longer drifted.
-
-It sat stubbornly a few inches left of the real frame.
-
-The wall beside it sometimes doubled if Max looked too quickly.
-
-The writing patch remained unreliable.
-
-Not catastrophic.
-
-Just wrong enough to never forget.
-
-Max tapped his pen against the table.
-
-If stronger alignment had worsened things, the opposite question was obvious.
-
-What happened if they made both rooms more neutral?
-
-The patch opened.
-
-**PLAN?**
-
-Max wrote:
-
-**MAKE EVERYTHING BORING.**
-
-Forty-one seconds later:
-
-**FINALLY A FIELD YOU'RE QUALIFIED FOR.**
-
-He laughed before he could stop himself.
-
-Good.
-
-If she could still insult him, things were not completely lost.
-
-He wrote:
-
-**NO NEW VARIABLES. BASELINE POSITIONS. TIMING ONLY.**
-
-A pause.
-
-**THAT SOUNDS SUSPICIOUSLY RESPONSIBLE.**
-
-Max considered denying it.
-
-**I'M TRYING SOMETHING NEW.**
-
-**I NOTICED.**
-
-That felt worse than praise and better than he wanted it to.
-
----
-
-They returned both rooms to known positions.
-
-No experimentation.
-
-Baseline only.
-
-Lily put the dining chair back by the table.
-
-Max returned his stool to the old floor mark.
-
-Lily set the repaired mirror to its ordinary wall angle.
-
-Max laid the compass flat.
-
-Inactive.
-
-The brass key stayed out of Lily's active patch.
-
-No visual window.
-
-No audio.
-
-Only writing.
-
-It felt strange that normal positions now counted as meaningful data.
-
-Chair where chair belonged.
-
-Mirror where mirror belonged.
-
-Compass asleep.
-
-Door closed.
-
-Max wrote:
-
-**BASELINE SET.**
-
-**SAME.**
-
-Thirty-six seconds after Lily's timestamp.
-
-Max recorded it.
-
-Then they measured lag.
-
-One mark.
-
-No complicated instruction.
-
-Max drew a short vertical line.
-
-Lily replied with one when she saw it.
-
-Forty-seven seconds.
-
-Again.
-
-Thirty-two.
-
-Again.
-
-Eleven.
-
-Max stopped.
-
-Lowest delay since the geometry broke.
-
-He stared at the number.
-
-This was the temptation point.
-
-Keep measuring.
-
-Maybe seven.
-
-Five.
-
-Two.
-
-A perfect window.
-
-That was how careful became one more.
-
-He wrote:
-
-**NEXT WINDOW. SAME COUNT.**
-
-**WHAT CHANGES?**
-
-**NOTHING STRONGER. WE BOTH RETURN ONE THING TO FULL NEUTRAL ON THREE.**
-
-For Lily, the last deliberate mirror angle.
-
-For Max, compass orientation.
-
-Small.
-
-Controlled.
-
-A reduction, not an increase.
-
-Lily asked:
-
-**PREDICTION?**
-
-Max smiled faintly.
-
-She had started making him write predictions because he had a bad habit of calling any interesting result useful afterward.
-
-**IF TIMING MISMATCH IS PART OF THE OFFSET, MATCHED NEUTRAL CHANGES SHOULD REDUCE IT.**
-
-**AND IF IT GETS WORSE?**
-
-**STOP. NO SECOND TRY.**
-
-A pause.
-
-**ONE TRY.**
-
-**ONE.**
-
-Max looked toward the false doorway.
-
-Waiting felt harder than doing.
-
-Another lesson he did not want.
-
----
-
-The next stable window came twelve minutes later.
-
-Max spent all twelve doing nothing useful.
-
-No compass.
-
-No checking the doorway from six angles.
-
-No timing optimization.
-
-He sat.
-
-Breathed.
-
-Waited.
-
-At minute nine, he decided this was terrible.
-
-At minute eleven, he decided Lily would probably say that was the point.
-
-The patch brightened.
-
-**READY.**
-
-Max checked the false outline.
-
-Stable.
-
-He put one hand beside the compass.
-
-Did not touch the ring.
-
-Lily's count arrived one number at a time.
-
-**3**
-
-Delay.
-
-**2**
-
-Shorter.
-
-His pulse climbed.
-
-**1**
-
-Max moved the compass to its neutral storage angle.
-
-One movement.
-
-Done.
-
-The false doorway jerked.
-
-He froze.
-
-The doubled edge moved toward the physical frame.
-
-Several inches.
-
-Not closed.
-
-Closer.
-
-Every instinct told Max to check the compass.
-
-He did not.
-
-The patch flickered.
-
-**MINE MOVED TOO.**
-
-Max waited for a duplicate.
-
-None.
-
-Nine seconds.
-
-Still delayed.
-
-Better.
-
-The wall beside him stopped doubling as badly.
-
-A faint ghost edge remained.
-
-Max exhaled.
-
-"All right."
-
-The room said nothing.
-
-Encouraging, for once.
-
-He wrote:
-
-**NO SECOND ACTION. OBSERVE ONLY.**
-
-**ALREADY DOING THAT.**
-
-Max smiled.
-
-He marked the new doorway position.
-
-Waited.
-
-Two minutes.
-
-No drift.
-
-Three.
-
-Stable.
-
-Five.
-
-The false edge moved another fraction toward the real frame without input.
-
-Max did nothing.
-
-That was the hardest part.
-
----
-
-Ten more minutes.
-
-No adjustment.
-
-No second test.
-
-The doorway remained imperfect but stable.
-
-Lily's writing arrived fourteen seconds late.
-
-Worse than nine.
-
-Far better than a minute.
-
-**IT RESPONDS TO COORDINATED NEUTRAL CHANGES.**
-
-Lily answered:
-
-**SO WE DON'T FIX IT BY PUSHING HARDER.**
-
-Max looked at the line.
-
-**APPARENTLY NOT.**
-
-A pause.
-
-**ARE YOU OKAY?**
-
-He blinked.
-
-That was not the joke he had expected.
-
-**YES. OFFENDED BY THE METHOD.**
-
-Lily replied:
-
-**GOOD. THEN I'M ALLOWED TO SAY THIS.**
-
-Another pause.
-
-**DOING LESS WORKED.**
-
-Max placed a hand over his heart.
-
-She could not see it.
-
-Probably why he survived.
-
-**I HAVE ALWAYS SUPPORTED DOING LESS.**
-
-**YOU INVENTED A TEST YESTERDAY.**
-
-Max considered legal arguments.
-
-None strong.
-
-**RECENT PERSONAL GROWTH.**
-
-The humor helped.
-
-More important: the room continued improving without them.
-
-That changed the problem.
-
-The lesson was not stronger alignment.
-
-It was less.
-
-Their strongest conditions had been held together when the geometry broke.
-
-The final move needed to be the opposite.
-
-Release them.
-
-Not pull harder.
-
-Not correct one side first.
-
-Not let Max decide he could carry the dangerous part because he was already trapped.
-
-Together.
-
-Same count.
-
-Same time.
-
-He wrote:
-
-**FINAL STEP: BREAK ACTIVE CONDITIONS TOGETHER. KEY FULLY OUT. COMPASS FULLY NEUTRAL. MIRROR NORMAL.**
-
-Lily replied:
-
-**NOT ANOTHER TEST?**
-
-Good distinction.
-
-**SHUTDOWN. NOT TEST.**
-
-**PREDICTION?**
-
-**WE LOSE STRONG P1/AUDIO CONDITIONS. GEOMETRY SHOULD RETURN TOWARD P0 BASELINE.**
-
-The answer took longer.
-
-**SO WE MAY NOT SEE EACH OTHER.**
-
-Max stared.
-
-There it was.
-
-The cost.
-
-The visual windows were recent.
-
-Brief.
-
-Complicated.
-
-Still, deliberately giving them up felt different from failing to reach them.
-
-**YES.**
-
-Lily answered:
-
-**WORTH IT IF THE DOOR IS SAFE.**
-
-Max looked toward the doorway.
-
-Almost aligned.
-
-Almost was not enough.
-
-**AGREED.**
-
-Then:
-
-**TOMORROW. DAYLIGHT. CLEAR ROOMS.**
-
-**ON THREE?**
-
-Max smiled.
-
-**ON THREE.**
-
-The patch weakened.
-
-Lily added:
-
-**NO IMPROVISING.**
-
-Max wrote:
-
-**OFFENSIVE.**
-
-Then, after a second:
-
-**AGREED.**
-
-The room was still wrong.
-
-But less wrong because they had stopped trying to dominate it.
-
-For the first time since the stronger test, Max could see a way back that did not require more power.
-
-Success, apparently, might mean letting go.
-
-
----
-
-# CH-018 — Let Go on Three
-
-Lily cleared the room before they started.
-
-Chair against the table.
-
-No loose tools.
-
-Nothing near the front door.
-
-Mirror flat against the wall at its normal angle.
-
-Brass key on the desk, outside the strongest part of the writing patch.
-
-She checked the front door twice.
-
-Locked normally.
-
-Frame normal.
-
-Hall light correct.
-
-June was at class.
-
-Mrs. Bell had finished her morning round.
-
-No repair worker expected.
-
-No one had a reason to knock.
-
-Good.
-
-For the first time in days, Unit 4B almost looked like an apartment again.
-
-Almost.
-
-The wrong doorway was still there if Lily looked too long.
-
-Not fully.
-
-Just enough that one edge disagreed with the wall.
-
-She hated how quickly she had learned to see it.
-
-She hated more that part of her would miss the stronger windows once they were gone.
-
-Selfish.
-
-Also true.
-
-The patch opened.
-
-**READY?**
-
-Lily looked around one last time.
-
-Desk.
-
-Chair.
-
-Mirror.
-
-Door.
-
-Key.
-
-Normal objects.
-
-Currently behaving.
-
-**CLEAR HERE.**
-
-Max answered:
-
-**CLEAR HERE.**
-
-Eleven-second delay.
-
-Better.
-
-Not something to trust casually.
-
-Then:
-
-**LAST CHECK. WE BOTH KNOW WHAT WE'RE DOING?**
-
-Lily stared.
-
-They had written the procedure three times.
-
-That was not what he was really asking.
-
-She wrote:
-
-**WE LET GO.**
-
-Twelve seconds.
-
-**ON THREE.**
-
-Lily rested her fingers near the key.
-
-A strange ache sat in her chest.
-
-She ignored it.
-
-They wanted the room safe.
-
-This was the safe decision.
-
-That did not make it easy.
-
----
-
-They waited for the shortest lag window of the afternoon.
-
-One mark.
-
-Nine seconds.
-
-Second.
-
-Seven.
-
-Third.
-
-Six.
-
-Lily stopped.
-
-Good enough.
-
-She could wait for five.
-
-Four.
-
-Some perfect number.
-
-That was how they got into trouble.
-
-Perfect conditions became one more adjustment.
-
-One more reason to keep pushing.
-
-Six seconds was enough.
-
-She slid the key toward the desk edge but kept it out of the active patch.
-
-The plan was simple.
-
-Max would fold the compass receiver flat and break the final active calibration.
-
-Lily would move the key completely away and leave the mirror neutral.
-
-No extra adjustment.
-
-No correction.
-
-No attempt to keep part of the visual window alive.
-
-Just release.
-
-The writing appeared.
-
-**3**
-
-Lily put two fingers on the key.
-
-Normal temperature.
-
-Warm.
-
-**2**
-
-The wall beside the door shimmered.
-
-The false edge separated from the real frame by an inch.
-
-Lily's pulse jumped.
-
-She did not react.
-
-Follow the plan.
-
-**1**
-
-Lily moved the key off the desk and set it on the kitchen counter.
-
-At the same moment, the writing patch flashed gray-white.
-
-Then blank.
-
----
-
-The room went silent.
-
-Not quiet.
-
-Silent.
-
-Writing gone.
-
-Audio hiss gone.
-
-Mirror showing only Lily.
-
-The wrong edge around the doorway snapped inward so fast she flinched.
-
-The doubled wall collapsed.
-
-The floor seam straightened.
-
-The pale light under the door disappeared.
-
-Unit 4B became Unit 4B.
-
-Lily stood still.
-
-Her heart was pounding hard enough to feel stupid.
-
-"Max?"
-
-Nothing.
-
-Of course nothing.
-
-They had just removed the conditions that made voice easier.
-
-She knew that.
-
-Knowledge did not stop fear.
-
-She checked the mirror.
-
-Only herself.
-
-No Room 17.
-
-No amber light.
-
-No Max.
-
-Desk.
-
-Blank paper.
-
-Key on the kitchen counter.
-
-Normal.
-
-For several seconds, the apartment felt exactly like it had before him.
-
-Before the wrong window.
-
-Before gray handwriting.
-
-Before bad kettle jokes.
-
-Before a voice through static.
-
-Before five-second faces in a mirror.
-
-That should have been comforting.
-
-It was not.
-
-The silence felt old.
-
-Familiar in a way Lily no longer wanted.
-
-She went back to the desk.
-
-Did not move the mirror.
-
-Did not bring the key back.
-
-Did not force audio.
-
-That would defeat the point.
-
-One minute.
-
-Nothing.
-
-Two.
-
-Nothing.
-
-Door normal.
-
-Three.
-
-Hallway normal through the peephole.
-
-Four.
-
-No nausea.
-
-No cold.
-
-At five minutes, Lily realized she had been holding the pen without writing.
-
-She put it down.
-
-This was not a disappearance.
-
-P0 could take time.
-
-They had used it long before visual contact.
-
-Writing would return.
-
-Probably.
-
-She hated probably.
-
----
-
-At seven minutes, Lily placed a clean sheet inside the ordinary writing area.
-
-No mirror.
-
-No key.
-
-No calibration.
-
-Almost exactly like the early days.
-
-Before they knew what the other looked like.
-
-Before they had names for half the rules.
-
-She wrote:
-
-**MAX?**
-
-Nothing.
-
-Thirty seconds.
-
-A minute.
-
-Lily exhaled.
-
-"Fine."
-
-Her voice sounded too loud.
-
-Another thirty seconds.
-
-The edge of the patch dimmed.
-
-Lily leaned forward.
-
-Gray letters formed slowly.
-
-**HERE.**
-
-Her shoulders dropped before she could stop them.
-
-She closed her eyes.
-
-Not crying.
-
-Absolutely not.
-
-The last several minutes had simply been annoying.
-
-She opened them again.
-
-**ROOM NORMAL?**
-
-Nearly a minute.
-
-**NORMAL ENOUGH TO BE BORING.**
-
-Lily smiled.
-
-**GOOD.**
-
-A pause.
-
-Then:
-
-**CAN'T SEE YOU.**
-
-Her smile faded.
-
-She looked at the mirror.
-
-Only herself.
-
-**CAN'T SEE YOU EITHER.**
-
-The answer took longer this time.
-
-**I DON'T LIKE THAT.**
-
-Lily's hand tightened around the pen.
-
-Before she could answer, another line appeared.
-
-**STILL WORTH IT.**
-
-She looked at the normal doorway.
-
-Then wrote:
-
-**YEAH.**
-
-A beat.
-
-**I KNOW.**
-
-That one hurt.
-
-Because he was right.
-
-They had worked hard for the visual windows.
-
-Measured them.
-
-Waited for them.
-
-Learned each other's faces in seconds at a time.
-
-Broken a wall bracket.
-
-Turned a key cold.
-
-Nearly made two doors into something nobody should open.
-
-The visual windows had felt like progress because they were more.
-
-More information.
-
-More immediacy.
-
-More of the other person.
-
-Choosing less felt backward.
-
-But the apartment was safe.
-
-June could walk past the door.
-
-Mrs. Bell could send someone upstairs.
-
-Max's wall was no longer in two places.
-
-That mattered more.
-
-Lily wrote:
-
-**WE STAY HERE FOR NOW. BASELINE ONLY.**
-
-**AGREED.**
-
-**NO STRONGER TESTS.**
-
-The reply took nearly a minute.
-
-Lily watched the paper.
-
-She knew exactly how much that sentence cost Max.
-
-Not because stronger contact was only about her.
-
-Because stronger tests felt like action.
-
-Action felt useful.
-
-Useful felt safer than waiting for news about Mina.
-
-The letters finally appeared.
-
-**I HATE THIS RULE.**
-
-Lily let out a breath that almost became a laugh.
-
-She wrote:
-
-**YOU CAN HATE IT AND FOLLOW IT.**
-
-A pause.
-
-Then:
-
-**AGREED.**
-
-No joke after that.
-
-No qualification.
-
-Lily looked at the word for a long moment.
-
-Then:
-
-**P1 ONLY IF WE BOTH CHOOSE IT LATER. CONTROLLED.**
-
-**YES.**
-
-**NOT DEFAULT.**
-
-A pause.
-
-**P0 DEFAULT.**
-
-Lily underlined it once.
-
-Not because the system needed emphasis.
-
-Because they did.
-
-The patch weakened.
-
-Max added one final line.
-
-**STILL HERE.**
-
-Lily stared.
-
-He probably had not meant it dramatically.
-
-He would deny it if accused.
-
-She wrote:
-
-**ME TOO.**
-
-The gray marks faded.
-
-The apartment stayed ordinary.
-
-Nothing moved wrong.
-
-Nothing doubled.
-
-Nothing tried to become another room.
-
-The connection was weaker.
-
-The room was safer.
-
-And the person on the other side was still there.
-
-For now, that was enough.
-
-
----
-
-# CH-019 — Still Here
-
-The corridor was normal again.
-
-Max almost resented it.
-
-No doubled wall.
-
-No false doorway.
-
-No Earth-side hall where Larkspur should have been.
-
-No edge of another room trying to exist inside his own.
-
-Just the same pale corridor he had been unable to cross properly since the accident.
-
-The normality made the problem look smaller.
-
-It was not.
-
-Max stood at the boundary and looked down toward the stairs.
-
-The railing caught ordinary amber light.
-
-Somebody passed two floors below carrying a box.
-
-A door opened.
-
-A door closed.
-
-Life continued with insulting efficiency.
-
-Max took one breath.
-
-Then stepped forward.
-
-Pressure gathered around his chest.
-
-Not the chaotic pull from the crisis.
-
-The old pressure.
-
-Familiar.
-
-Immediate.
-
-The lights stretched.
-
-His stomach tightened.
-
-Max stopped.
-
-The boundary held.
-
-He waited three seconds.
-
-No improvement.
-
-He backed up.
-
-The pressure disappeared.
-
-Still phase-bound.
-
-Still here.
-
-For once, he did not try again.
-
-That felt more significant than it should have.
-
-He stood in the doorway with one hand on the frame.
-
-There had been a time when stopping after one attempt would have felt like failure.
-
-Now it felt like evidence that he had learned something.
-
-Possibly against his will.
-
-"Progress," he said quietly. "Terrible, inconvenient progress."
-
-Room 17 waited behind him.
-
-He went back inside.
-
-The compass sat where he had left it.
-
-Folded.
-
-Neutral.
-
-Max looked at it for several seconds.
-
-Then deliberately did not pick it up.
-
-That was progress too.
-
-Probably.
-
----
-
-The writing patch opened in the afternoon.
-
-**ROOM?**
-
-Max wrote:
-
-**NORMAL.**
-
-A few seconds later:
-
-**YOU?**
-
-He considered several jokes.
-
-One about being emotionally stable.
-
-One about developing a healthy relationship with corridors.
-
-One about starting a career in stationary cartography.
-
-None felt useful.
-
-So he wrote:
-
-**STILL STUCK.**
-
-The answer took longer.
-
-**I'M SORRY.**
-
-Max stared at it.
-
-He hated that sentence.
-
-Not because Lily had done anything wrong.
-
-Because there was nothing either of them could fix with it.
-
-He knew what she meant.
-
-She knew what he meant.
-
-The problem remained.
-
-He wrote:
-
-**I TRIED THE CORRIDOR ONCE. STOPPED WHEN IT PUSHED BACK.**
-
-Her reply:
-
-**ONCE?**
-
-**I'M GROWING.**
-
-**I'M DOCUMENTING THIS HISTORIC EVENT.**
-
-That got a smile out of him.
-
-Small.
-
-Enough.
-
-Max added:
-
-**NO COMPASS. NO SECOND TRY.**
-
-The reply came faster.
-
-**GOOD.**
-
-He almost objected to how satisfying that looked.
-
-Then decided he had earned it.
-
-A new line appeared.
-
-**HOW DOES IT FEEL?**
-
-Max looked toward the corridor.
-
-That was a more difficult question.
-
-Physically?
-
-Emotionally?
-
-He wrote:
-
-**SAME LIMIT. LESS CHAOS.**
-
 Then, after a moment:
 
-**WORSE BECAUSE IT LOOKS NORMAL.**
-
-The patch stayed quiet.
-
-He had not planned to write that.
-
-It was true.
-
-During the crisis, the room had been obviously dangerous.
-
-Wrong walls.
-
-Wrong doors.
-
-Bad timing.
-
-A problem that demanded attention.
-
-Now everything looked safe.
-
-And Max was still trapped.
-
-The response appeared.
-
-**I GET THAT.**
-
-He believed her.
-
-Lily had spent months living inside ordinary-looking grief before Unit 4B became strange.
-
-She knew something about problems that did not look dramatic from the outside.
-
-Max wrote:
-
-**I KNOW YOU DO.**
-
-The window faded.
-
-He sat with that longer than expected.
-
----
-
-A brief audio window opened later.
-
-No mirror.
-
-No visual calibration.
-
-No active receiver setup.
-
-Just P0 conditions behaving well enough for Lily's voice to arrive faintly through the room.
-
-"You sound tired."
-
-Max leaned back in the chair.
-
-"Everyone keeps telling me that."
-
-"Maybe everyone is right."
-
-"Terrible possibility."
-
-Silence followed.
-
-Not awkward.
-
-Different.
-
-The kind of silence people allowed after they stopped assuming every gap needed to be filled.
-
-Then Lily asked, "Why did you really push the stronger test?"
-
-Max looked at the compass.
-
-He knew the easy answer.
-
-Mina.
-
-His family.
-
-The corridor.
-
-All true.
-
-Not complete.
-
-"I thought if I could solve something," he said, "then being stuck here would matter less."
-
-The audio hissed.
-
-Lily did not answer immediately.
-
-Max continued before he could change his mind.
-
-"I keep thinking I should be doing something useful. Finding a route. Finding evidence. Fixing this."
-
-He looked down at his hands.
-
-"Anything that means I'm not just waiting."
-
-Lily's voice came through softly.
-
-"And if you don't?"
-
-Max laughed once.
-
-No humor in it.
-
-"Then I'm just the person everyone has to wait for."
-
-The words sat in Room 17.
-
-He regretted them immediately.
-
-Not because they were false.
-
-Because they were too accurate.
-
-The audio crackled.
-
-Lily said, "You know that's not how people work."
-
-"Very confident statement."
-
-"I'm serious."
-
-"So am I."
-
-Another hiss.
-
-Then Lily said, "Stopping the test kept June from opening the wrong door."
-
-"That was mostly you."
-
-"You stopped too."
-
-"Eventually."
-
-"You agreed to shut the stronger connection down."
-
-Max looked at the folded compass.
-
-"After making the problem."
-
-"Yes."
-
-He winced.
-
-"Thank you."
-
-"You're welcome."
-
-That almost made him laugh.
-
-Lily had become alarmingly good at not softening facts just because they hurt.
-
-He appreciated it.
-
-Most of the time.
-
-Her voice returned.
-
-"You made a bad decision."
-
-Max nodded even though she could not see him.
-
-"Several."
-
-"You also made a good one after."
-
-He leaned back.
-
-"Are you trying to make me feel better?"
-
-"No."
-
-The answer came too quickly.
-
-That pulled a short laugh out of him.
-
-Lily continued, "I'm trying to stop you from turning one bad choice into your whole personality."
-
-Max went quiet.
-
-"That's very specific."
-
-"You make it necessary."
-
-He looked at the folded compass.
-
-"The good choice doesn't erase the first one."
-
-"No."
-
-A pause.
-
-"It doesn't erase itself either."
-
-Max went still.
-
-The room hummed quietly.
-
-Somewhere outside, the archive rail passed.
-
-Lily continued.
-
-"Doing something useful and proving you're worth waiting for are not the same thing."
-
-The audio cracked.
-
-Max leaned forward.
-
-"What?"
-
-A few seconds later, the sentence repeated through the lag.
-
-"Not the same thing."
-
-He heard it clearly that time.
-
-Max looked toward the corridor.
-
-He imagined Mina.
-
-Not what had happened after the accident.
-
-He did not know that.
-
-He imagined before.
-
-Her rolling her eyes at him.
-
-Telling him he was dramatic.
-
-Pretending not to need help with something, then asking badly.
-
-He wondered whether he had learned the habit from her or the other way around.
-
-"If I don't get back soon—"
-
-His voice stopped.
-
-Lily waited.
-
-Max tried again.
-
-"If people are still waiting for me, I don't want them waiting because I failed to try."
-
-Lily answered carefully.
-
-"Trying and destroying every safe option aren't the same thing either."
-
-Max closed his eyes.
-
-Annoying.
-
-Accurate.
-
-Again.
-
-He said, "You have a very repetitive philosophy."
-
-"It keeps being relevant."
-
-That finally got a real laugh out of him.
-
-The audio weakened.
-
-Before it disappeared, Lily added:
-
-"You don't have to earn being missed."
-
-The room went quiet.
-
-Max did not have a joke for that.
-
-Maybe that was fine.
-
----
-
-The writing patch returned before he found a good answer.
-
-Max wrote:
-
-**I STILL WANT TO FIND MINA.**
-
-Lily answered:
-
-**I KNOW.**
-
-**I STILL WANT TO UNDERSTAND LARKSPUR.**
-
-**I KNOW.**
-
-He paused.
-
-Then:
-
-**I DON'T WANT TO BREAK YOUR APARTMENT AGAIN.**
-
-The reply came quickly.
-
-**GOOD. THE LANDLORD IS FEARED ACROSS REALITIES.**
-
-Max smiled.
-
-There she was.
-
-He wrote:
-
-**SO WHAT NOW?**
-
-Lily's answer took almost a minute.
-
-**WE KEEP THE SAFE RULES.**
-
-Another line appeared.
-
-**WE LIVE OUR LIVES.**
-
-Then:
-
-**WE LEARN WITHOUT BEING STUPID.**
-
-Max stared at the last part.
-
-**THAT ONE FEELS PERSONAL.**
-
-**IT IS.**
-
-He laughed.
-
-Then the smile slipped.
-
-His pen hovered before he wrote:
-
-**AND MINA?**
-
-The response took longer.
-
-**WE DON'T PRETEND WE KNOW WHAT WE DON'T KNOW.**
-
-Max's smile faded.
-
-Correct.
-
-Painful.
-
-Necessary.
-
-Lily added:
-
-**WHEN WE HAVE A SAFE QUESTION, WE TEST IT SAFELY. NOT BEFORE.**
-
-Max looked at the compass.
-
-He wanted to argue that safe questions did not always wait politely.
-
-That sometimes people were missing.
-
-That sometimes uncertainty was its own kind of danger.
-
-All true.
-
-None of it made a reckless test smarter.
-
-He wrote:
-
-**AGREED.**
-
-Then:
-
-**I HATE THIS.**
-
-Lily answered:
-
-**ALSO ALLOWED.**
-
-Max leaned back.
-
-Room 17 was quiet.
-
-Still isolated.
-
-Still not home.
-
-Still holding him in place.
-
-But not empty.
-
-That mattered.
-
-He put the compass away in its case instead of leaving it on the table.
-
-A small action.
-
-Almost boring.
-
-Good.
-
-For today, he did not solve Larkspur.
-
-He did not find Mina.
-
-He did not escape.
-
-He also did not make the room worse.
-
-Max looked at the fading writing.
-
-For today, that was enough.
-
-
----
-
-# CH-020 — The Roommate Agreement
-
-Unit 4B was quiet.
-
-Normal quiet.
-
-Not the kind that made Lily stare at the walls and wonder whether another room was about to appear.
-
-The front door opened onto the Aster House hallway.
-
-Only the hallway.
-
-No wrong light.
-
-No second frame.
-
-No impossible corridor.
-
-The wall mirror stayed exactly where Mrs. Bell's repairman had fixed it.
-
-The dining chair was back at the table.
-
-The cardboard under one short leg was still there.
-
-Lily had considered replacing it.
-
-Max had objected on historical grounds.
-
-She had ignored him.
-
-Mostly.
-
-The apartment looked ordinary enough that the past few weeks could almost have been mistaken for a bad stretch of sleep and questionable furniture decisions.
-
-Almost.
-
-There were still too many notebooks on the desk.
-
-Tape marks faintly visible on the floor.
-
-A page near the mirror with calibration numbers Lily had not thrown away.
-
-Evidence that ordinary did not mean nothing had happened.
-
-It meant the room had survived it.
-
-Lily moved through the apartment slowly.
-
-Kitchen.
-
-Window.
-
-Desk.
-
-Door.
-
-She checked things without needing to.
-
-The front lock turned cleanly.
-
-The mirror bracket held.
-
-The key was warm.
-
-The chair rocked exactly once when she touched the back.
-
-"Still terrible."
-
-The writing patch faded into view.
-
-**MORNING.**
-
-Lily sat down.
-
-**YOU'RE EARLY.**
-
-The reply took twenty seconds.
-
-**THAT JOKE BELONGS TO ME.**
-
-She smiled.
-
-Some things had survived stabilization.
-
-Max wrote:
-
-**DOOR?**
-
-**NORMAL.**
-
-**MIRROR?**
-
-**NORMAL.**
-
-**KEY?**
-
-Lily picked it up.
-
-Warm brass.
-
-Nothing else.
-
-**BORING.**
-
-A pause.
-
-**GOOD.**
-
-Lily looked around the room.
-
-She agreed.
-
----
-
-Mrs. Bell had inspected the door that morning.
-
-Nothing wrong with the frame.
-
-Nothing wrong with the lock.
-
-Nothing wrong with the wall.
-
-Lily had nodded like this was expected information.
-
-The insurance inspection had moved on to the next floor without incident.
-
-Nobody had asked why Lily had once taped **DO NOT OPEN** beside a perfectly functional door.
-
-Mrs. Bell had asked.
-
-Lily had said the alignment had looked wrong.
-
-Mrs. Bell had stared at her.
-
-Then at the door.
-
-Then chosen not to continue.
-
-A wise woman.
-
-Nora had stopped asking whether Lily wanted to sleep somewhere else.
-
-Not entirely.
-
-Nora had simply changed the wording to:
-
-**Dinner Sunday?**
-
-Which was harder to reject without sounding unreasonable.
-
-Ava still believed Lily had a very strange private correspondent.
-
-June had stopped looking at Unit 4B's door like it might bite her.
-
-Ordinary life had returned.
-
-Messy, expensive, scheduled ordinary life.
-
-Lily had gone to work.
-
-Bought groceries.
-
-Paid for laundry.
-
-Forgot to buy dish soap.
-
-Remembered that other people had exams, shifts, rent, bad dates, headaches, and problems that had nothing to do with reality splitting.
-
-That helped.
-
-The world had not reorganized itself around Unit 4B.
-
-Good.
-
-Lily stood in the middle of the living room and looked around.
-
-She could leave.
-
-That option had never disappeared.
-
-Nora would make room.
-
-There were other apartments.
-
-Other streets.
-
-Other buildings without cross-reality writing patches.
-
-Probably.
-
-She should not assume too much anymore.
-
-Still, leaving was possible.
-
-That mattered.
-
-Staying only meant something if it was a choice.
-
-Lily looked toward the desk.
-
-Then at the kitchen.
-
-The books she had unpacked.
-
-The mug she always left in the wrong place.
-
-The grocery list on the refrigerator.
-
-The cheap curtain she had bought because the old one made the room feel temporary.
-
-The tiny scratch on the table from moving the chair.
-
-The repaired mirror.
-
-This was still the first home she had chosen for herself.
-
-Before Max.
-
-Before the room became impossible.
-
-Before she knew Rivenhall existed.
-
-Max was part of Unit 4B now.
-
-His writing.
-
-His voice.
-
-His habit of having terrible ideas in technically organized formats.
-
-But he was not the reason Lily had moved here.
-
-He was not the reason she worked.
-
-Not the reason she paid rent.
-
-Not the reason she wanted an adult life that belonged to her.
-
-He was part of that life.
-
-Not the center of it.
-
-There was a difference.
-
-The writing patch opened.
-
-Lily sat down.
-
-She wrote:
-
-**I'M STAYING.**
-
-The answer did not come immediately.
-
-Twenty seconds.
-
-Thirty.
-
-When it arrived, it was only:
-
-**GOOD.**
-
-Then another line appeared.
-
-**FOR YOU, I MEAN.**
-
-Lily raised an eyebrow.
-
-**OBVIOUSLY.**
-
-**I WAS BEING EMOTIONALLY RESPONSIBLE.**
-
-**DON'T OVERDO IT.**
-
-A pause.
-
-Then:
-
-**I WON'T.**
-
-That answer was quieter than the joke.
-
-Lily looked at it longer.
-
-She wrote:
-
-**I'M NOT STAYING BECAUSE OF YOU.**
-
-The response took a while.
-
-**I KNOW.**
-
-Then:
-
-**THAT'S ALSO GOOD.**
-
-Lily relaxed slightly.
-
-She had not realized she needed him to understand that.
-
-Apparently she did.
-
----
-
-They started the agreement because neither of them trusted memory anymore.
-
-Too many rules had been invented during emergencies.
-
-Too many had been written on loose paper.
-
-Some existed only because one of them had shouted something while a doorway was wrong.
-
-That was not a reliable filing system.
-
-Max suggested a title.
-
-**INTERDIMENSIONAL COHABITATION SAFETY PROTOCOL.**
-
-Lily crossed it out.
-
-**NO.**
-
-**WHY?**
-
-**YOU'D FRAME IT.**
-
-**CORRECT.**
-
-She wrote:
-
-**ROOMMATE AGREEMENT.**
-
-There was a long pause.
-
-**WE ARE NOT TECHNICALLY ROOMMATES.**
-
-Lily looked around Unit 4B.
-
-Then wrote:
-
-**YOU HAVE ARGUED ABOUT MY CHAIR, MY MIRROR, MY SLEEP SCHEDULE, MY DOOR, AND MY LANDLORD.**
-
-The reply came faster.
-
-**STRONG EVIDENCE.**
-
-**YOU ALSO DO NOT PAY RENT.**
-
-**TEMPORARY ADMINISTRATIVE ISSUE.**
-
-**REALITY IS NOT A PAYMENT METHOD.**
-
-**YET.**
-
-Lily ignored that.
-
-They made the list properly.
-
-Not as jokes.
-
-Not as vague promises.
-
-Rules earned through actual mistakes.
-
-Lily wrote the first one.
-
-**1. HOME, WORK, AND FAMILY COME BEFORE EXPERIMENTS.**
-
-Max added:
-
-**2. NO TEST WITHOUT BOTH PEOPLE AGREEING.**
-
-Lily wrote:
-
-**3. STOP MEANS STOP. IMMEDIATELY.**
-
-Max answered:
-
-**NO "FIVE MORE SECONDS."**
-
-Lily stared at the line.
-
-He had written it himself.
-
-Growth.
-
-She added:
-
-**4. NO SURPRISE VISUAL CALIBRATION.**
-
-Max wrote:
-
-**5. NO LATE TESTS BEFORE WORK.**
-
-Then another line:
-
-**OR AFTER TERRIBLE CORRIDOR DAYS.**
-
-Lily allowed it.
-
-**6. WRONG DOORS STAY CLOSED.**
-
-That one did not get a joke.
-
-Neither of them wanted one.
-
-Lily wrote:
-
-**7. PUT FURNITURE AND FIXTURES BACK AFTER TESTS.**
-
-Max replied:
-
-**EXCEPT HISTORIC CARDBOARD.**
-
-Lily crossed that out.
-
-He rewrote it.
-
-She crossed it out again.
-
-The third time, he added:
-
-**SHARED CULTURAL OBJECT.**
-
-Lily left it in the margin, where nonsense belonged.
-
-She continued:
-
-**8. RECORD HEADACHES, COLD, NAUSEA, SHAKING, LOST TIME, OR ANY OTHER COST.**
-
-Max added:
-
-**INCLUDING "I FEEL FINE" WHEN CLEARLY NOT FINE.**
-
-Lily frowned.
-
-**THAT RULE APPLIES TO YOU.**
-
-**IT APPLIES TO BOTH OF US.**
-
-Annoying.
-
-Accurate.
-
-She left it.
-
-**9. NO STRONGER TEST WITHOUT A CLEAR QUESTION, EXPECTED RESULT, STOP CONDITION, AND RECOVERY PLAN.**
-
-Max took longer with that one.
-
-Then wrote:
-
-**AGREED.**
-
-They reached the last rule together.
-
-Lily wrote the first half.
-
-**10. EITHER PERSON CAN SAY NO—**
-
-The writing window weakened before she could finish.
-
-It faded.
-
-Lily waited.
-
-Almost a minute later, the patch returned.
-
-Max's handwriting appeared beneath hers.
-
-**—WITHOUT HAVING TO DEFEND IT.**
-
-Lily looked at the line.
-
-That one stayed exactly as written.
-
-She added a note beneath the list.
-
-**DEFAULT STATE: P0.**
-
-Max replied:
-
-**P1 ONLY BY MUTUAL CHOICE.**
-
-Lily wrote:
-
-**CONTROLLED.**
-
-**SEPARATE CALIBRATION.**
-
-**NO ASSUMING.**
-
-There.
-
-Not just rules for experiments.
-
-Rules for living around the impossible.
-
-Lily looked at the title again.
-
-Roommate Agreement.
-
-It felt ridiculous.
-
-It also felt right.
-
-She wrote:
-
-**SO ARE WE ACTUALLY CALLING THIS ROOMMATES?**
-
-Max answered:
-
-**I HAVE BEEN SAYING THAT FOR TEN MINUTES.**
-
-**I WAS CHECKING YOUR COMMITMENT.**
-
-**VERY RESPONSIBLE.**
-
-**THANK YOU.**
-
-Lily smiled.
-
-Then, more seriously:
-
-**R2?**
-
-They had started labeling relationship states because scientific notation was easier than discussing feelings directly.
-
-Max answered:
-
-**CROSS-WORLD ROOMMATES.**
-
-Lily wrote:
-
-**NOTHING WEIRDER.**
-
-A pause.
-
-**DEFINE WEIRDER.**
-
-She ignored him.
-
-R2.
-
-That was enough.
-
----
-
-A weak audio window opened after sunset.
-
-No mirror.
-
-No calibration.
-
-No attempt to see each other.
-
-Just Max's voice, faint and delayed through the safe P0 baseline.
-
-"So."
-
-Lily sat at the desk with the agreement in front of her.
-
-"So."
-
-A pause crossed badly.
-
-Then Max said, "We're roommates now."
-
-"Across two realities."
-
-"You're adding unnecessary qualifiers."
-
-"You don't pay rent."
-
-"I contribute expertise."
-
-"You broke my geometry."
-
-"Temporary administrative—"
-
-"That isn't what administrative means."
-
-The audio hissed.
-
-Several seconds later, Max came back with, "I was improvising."
-
-"That part I believe."
-
-Another delay.
-
-"Do I at least get shelf space?"
-
-Lily looked around Unit 4B as if checking.
-
-"No."
-
-"That sounded premeditated."
-
-"You don't own anything on this side."
-
-"The cardboard."
-
-"The cardboard is not yours."
-
-"It has history."
-
-"It has one job."
-
-"Shared cultural object."
-
-Lily laughed before she could stop herself.
-
-The sound crossed badly.
-
-Max heard it late.
-
-She knew because his answering laugh arrived several seconds after hers.
-
-The delay did not bother her as much as it used to.
-
-They knew some of what it was now.
-
-Not everything.
-
-Enough to live with it safely.
-
-For now.
-
-Max's voice came back.
-
-"What happens next?"
-
-Lily looked at the agreement.
-
-Good question.
-
-There were still too many unknowns.
-
-Max was still phase-bound.
-
-Mina was still unresolved.
-
-Larkspur was still unresolved.
-
-They did not know why the buildings aligned.
-
-They did not know the deeper history.
-
-They did not know whether safe contact could ever become more than writing, clipped audio, and carefully chosen P1 windows.
-
-Lily did not have an answer.
-
-That was fine.
-
-"We go to work," she said.
-
-A pause.
-
-Max laughed softly.
-
-"Very heroic."
-
-"You stay out of bad corridors."
-
-"That sounds targeted."
-
-"It is."
-
-Another crackle.
-
-"And then?"
-
-"We sleep."
-
-"Controversial."
-
-"We eat actual food."
-
-"Now you're just adding rules."
-
-"We don't break reality for at least a few days."
-
-Silence.
-
-Then Max said, "Define a few."
-
-Lily smiled despite herself.
-
-"No."
-
-"Hostile negotiation."
-
-"We figure out the next question when we actually have one."
-
-The audio crackled.
-
-Max was quiet for a moment.
-
-"Okay."
-
-Not a promise that everything would work.
-
-Not a plan for the next arc.
-
-Just okay.
-
-The audio began to fade.
-
-Max said, "Good night, roommate."
-
-Lily looked at the list on the desk.
-
-At the apartment around her.
-
-At the ordinary front door.
-
-At the mirror they had chosen not to use tonight.
-
-At the brass key hanging where keys were supposed to hang.
-
-"Good night."
-
-A pause.
-
-Then she added, "Don't make it weird."
-
-His voice arrived just before the channel closed.
-
-"Too late."
-
-The room went quiet.
-
-Normal quiet.
-
-Lily left the roommate agreement on the desk.
-
-Tomorrow she would go to work.
-
-Max would still be in Room 17.
-
-The questions would still be there.
-
-So would they.
-
-For now, that was where the story needed them.
+**Five seconds.**
 
 
 ---
