@@ -1143,3 +1143,34 @@ Canon unchanged:
 # 80. Next Editorial Step
 
 **Final all-manuscript publication QA → verification pass**
+
+
+# 81. Final All-Manuscript Publication QA
+
+Record:
+`qa/ASTER-HOUSE-FULL-MANUSCRIPT-QA.md`
+
+Result:
+**FINAL PASS — PUBLICATION-FINAL**
+
+Verification:
+- CH-001 through CH-020 present;
+- all Gate 9 records synchronized;
+- all chapter word counts synchronized;
+- all 10 priority revisions revalidated;
+- no draft markers;
+- no canon blockers;
+- no publication blockers.
+
+Final manuscript total:
+**26,584 words**
+
+Final arc state:
+**R2 / P0 baseline / narrow controlled P1 / C0 / X0**
+
+# 82. Next Production Step
+
+Future arc remains:
+**UNSELECTED / UNLOCKED**
+
+**Gate 5 — Next Active Arc Selection QA**
