@@ -64,24 +64,46 @@ Historical but revalidation-required:
 - CH-002 pre-v2 Gate 8/9 — SUPERSEDED
 - CH-002 v2 Gate 8/9 — **PASS / CANON-APPROVED**
 
-# Active Arc
+# Completed Arc — Aster House
 
 **Aster House Arc**
 
 Architecture:
 `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`
 
-Status:
-**ARC COMPLETE — GATE 6/7 LOCKS FULFILLED**
-
 Chapter roadmap:
 `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
 
 Status:
-**GATE 7 v2 QA-LOCKED — 20 CHAPTERS**
+**COMPLETE — PUBLICATION-FINAL**
 
-Active-arc chapter count:
-**20 — GATE 7 QA-LOCKED**
+Final state:
+**R2 / P0 baseline / narrow controlled P1 / C0 / X0**
+
+# Current Active Arc
+
+**Shared Foundations Arc**
+
+Selection:
+`planning/SHARED-FOUNDATIONS-ARC-SELECTION.md`
+
+Gate 5 QA:
+`qa/ACTIVE-ARC-SELECTION-QA-ARC-002.md`
+
+Status:
+**GATE 5 PASS — SELECTED / GATE 6 NEXT**
+
+Primary cluster:
+- LOC-001 Aster House;
+- LOC-002 Unit 4B;
+- LOC-006 East Maintenance Corridor;
+- LOC-007 Larkspur House;
+- LOC-008 Room 17 plus immediately adjoining phase-accessible Larkspur interior.
+
+Starting state:
+**R2 / P0 baseline / narrow controlled P1 / C0 / X0 / K2**
+
+No chapter count is locked at Gate 5.
 
 # Intended v2 Milestones
 
@@ -240,6 +262,6 @@ Future arc:
 
 # Next Authorized Step
 
-**Gate 5 — Next Active Arc Selection QA.**
+**Gate 6 — Shared Foundations Arc Architecture QA.**
 
-Do not draft a future arc before that selection passes.
+Do not create a chapter roadmap or manuscript before Gate 6 passes.
