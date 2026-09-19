@@ -888,7 +888,7 @@ Result:
 **PUBLICATION-READINESS REVISION REQUIRED**
 
 Priority final-prose queue:
-CH-014 → CH-015 → CH-017 → CH-018 → CH-019 → CH-020.
+CH-015 → CH-017 → CH-018 → CH-019 → CH-020.
 
 Canon must remain unchanged during this pass.
 
@@ -914,7 +914,7 @@ Canon unchanged:
 
 # 62. Next Editorial Step
 
-**CH-014 — The Key Goes Cold → Final Prose Development Pass → Gate 9 Revalidation**
+**CH-015 — The Room Moves Wrong → Final Prose Development Pass → Gate 9 Revalidation**
 
 
 # 63. CH-010 Final Prose Revalidation
@@ -992,3 +992,27 @@ Canon unchanged:
 # 68. Next Editorial Step
 
 **CH-014 — The Key Goes Cold → Final Prose Development Pass → Gate 9 Revalidation**
+
+
+# 69. CH-014 Final Prose Revalidation
+
+Chapter:
+`manuscript/CH-014-THE-KEY-GOES-COLD.md`
+
+Gate 9:
+`qa/CH-014-CHAPTER-QA-V2.md`
+
+Result:
+**PASS — PUBLICATION-FINAL**
+
+Current word count:
+**1,606**
+
+Canon unchanged:
+- F-003 PLANTED;
+- M-002 PARTIAL / M-003 ACTIVE / M-004 ACTIVE / M-005 PARTIAL;
+- R1 / narrow P1 / C0 / X0.
+
+# 70. Next Editorial Step
+
+**CH-015 — The Room Moves Wrong → Final Prose Development Pass → Gate 9 Revalidation**
