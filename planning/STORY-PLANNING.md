@@ -465,6 +465,20 @@ Canon changes:
 - R0 / P0 / C0 / X0;
 - no F-ID.
 
-# 26. Next Production Step
+# 26. CH-005 Production Record
 
-**CH-004 — The Other Tenant → Detailed Scene Architecture → Gate 8**
+Gate 8: **PASS**
+Manuscript: `manuscript/CH-005-TAP-TWICE-IF-YOURE-REAL.md`
+Gate 9: **PASS — CANON-APPROVED**
+
+Canon:
+- K2 / R1;
+- first clipped live audio;
+- M-001 RESOLVED;
+- M-002 ACTIVE;
+- P0 / C0 / X0;
+- no F-ID planted.
+
+# 27. Next Production Step
+
+**CH-006 — Normal People Don't Have Cross-Reality Pen Pals → Detailed Scene Architecture → Gate 8**
