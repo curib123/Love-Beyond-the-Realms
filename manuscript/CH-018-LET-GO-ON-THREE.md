@@ -356,15 +356,13 @@ Gray letters formed slowly.
 
 **HERE.**
 
-Her shoulders dropped before she could stop them.
+Her shoulders dropped.
 
 She closed her eyes.
 
-Not crying.
+No. Not crying.
 
-Absolutely not.
-
-The last several minutes had simply been annoying.
+Just seven extremely irritating minutes.
 
 She opened them again.
 
@@ -416,9 +414,7 @@ A beat.
 
 **I KNOW.**
 
-That one hurt.
-
-Because he was right.
+That one hurt because he was right.
 
 They had worked hard for the visual windows.
 
