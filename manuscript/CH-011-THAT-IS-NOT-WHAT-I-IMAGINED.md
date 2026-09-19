@@ -1,8 +1,6 @@
 # CH-011 — That Is Not What I Imagined
 
-Lily had discovered one unfair thing about dimensional physics.
-
-Max was much more confident about experiments that had already worked for him.
+Lily had discovered one unfair thing about dimensional physics: Max was much more confident about experiments that had already worked for him.
 
 His handwriting appeared on the desk.
 
@@ -28,9 +26,7 @@ Lily adjusted the mirror by two degrees.
 
 ---
 
-The first attempt showed Room 17.
-
-That was all.
+The first attempt showed Room 17. That was all.
 
 For five seconds, Lily's mirror stopped reflecting Unit 4B and showed pale stone, an amber light strip, and the edge of a worktable.
 
@@ -44,9 +40,7 @@ His reply:
 
 OFFENSIVE.
 
-The second attempt was worse.
-
-A dark blur appeared near the table, split into two overlapping shapes, then vanished before Lily could decide which version was supposed to be Max.
+The second attempt was worse. A dark blur appeared near the table, split into two overlapping shapes, then vanished before Lily could decide which version was supposed to be Max.
 
 She wrote:
 
@@ -58,9 +52,7 @@ BOTH WERE BLURRY.
 
 THAT'S LESS FLATTERING.
 
-Lily checked the phone timer.
-
-The delay on her side was not the same as his.
+Lily checked the phone timer. The delay on her side was not the same as his.
 
 Of course it wasn't.
 
@@ -68,9 +60,7 @@ She adjusted for the newest interval instead of copying his settings.
 
 ---
 
-The third window opened twenty minutes later.
-
-Lily stood in front of the wall mirror with one hand on its frame.
+The third window opened twenty minutes later. Lily stood in front of the wall mirror with one hand on its frame.
 
 Max had written that he was in position.
 
@@ -84,11 +74,7 @@ One.
 
 The mirror changed.
 
-Room 17 appeared.
-
-The worktable sharpened first.
-
-Then the blur beside it narrowed.
+Room 17 appeared. The worktable sharpened first, then the blur beside it narrowed.
 
 A face resolved.
 
@@ -96,9 +82,7 @@ Lily forgot the timer.
 
 Max was a young man around her age, leaner than she had imagined, with dark hair that looked like it had lost an argument with several different directions. His clothes were unfamiliar without being dramatic: fitted dark layers, practical fastenings, nothing that looked remotely ghost-like.
 
-His eyes looked tired.
-
-That surprised her more than anything else.
+His eyes looked tired. That surprised her more than anything else.
 
 In her head, Max had somehow become permanently confident. A person who wrote jokes while trapped in impossible rooms should not have been allowed to look exhausted.
 
@@ -112,11 +96,7 @@ Max did the same.
 
 This time neither movement arrived as a blur.
 
-The image held for perhaps six seconds.
-
-Then the mirror flickered.
-
-Max became two overlapping versions of himself.
+The image held for perhaps six seconds. Then the mirror flickered, and Max became two overlapping versions of himself.
 
 "That seems bad."
 
@@ -128,9 +108,7 @@ His voice came faintly through the audio channel.
 
 Max grinned.
 
-Then the image vanished.
-
-Unit 4B returned.
+Then the image vanished, and Unit 4B returned.
 
 ---
 
@@ -200,13 +178,9 @@ AGREED.
 
 The window started to close.
 
-Lily looked toward the wall mirror.
+Lily looked toward the wall mirror. It reflected only her apartment again.
 
-It reflected only her apartment again.
-
-For days, Max had been a voice and a handwriting style with bad ideas attached.
-
-Now she knew what face made those bad ideas.
+For days, Max had been a voice and a handwriting style with bad ideas attached. Now she knew what face made those bad ideas.
 
 It changed less than she expected.
 
