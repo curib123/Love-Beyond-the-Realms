@@ -6,11 +6,11 @@ That should have counted as progress.
 
 It did not feel like progress when the wall doubled, his stomach dropped, and the doorway behind him appeared in two places at once.
 
-He stopped before the pressure became pain.
+He stopped before pressure became pain.
 
-That part, at least, had improved.
+That part had improved.
 
-Weeks ago, he would have pushed until the room forced him back.
+Weeks ago, he would have kept going until Room 17 made the decision for him.
 
 Now he stood still, breathed through the nausea, and waited for the corridor to decide which version of itself it preferred.
 
@@ -20,17 +20,17 @@ The floor straightened.
 
 Max backed toward Room 17.
 
-"Excellent," he muttered. "I have conquered almost two additional meters."
+"Excellent. Almost two additional meters."
 
 The corridor did not applaud.
 
-Beyond the nearest opening, Rivenhall continued without him.
+Beyond the nearest opening, Rivenhall continued.
 
-A railcar passed between archive towers.
+Railcar between archive towers.
 
-Someone shouted from the market level below.
+Someone shouting below.
 
-A delivery cart rattled over stone.
+A delivery cart rattling over stone.
 
 Ordinary movement.
 
@@ -40,15 +40,13 @@ He could see all of it.
 
 That was the worst part.
 
-If the outside world had vanished completely, maybe being trapped would have felt simpler.
+If the city had vanished completely, being trapped might have been simpler.
 
-Instead, Rivenhall remained close enough to hear.
+Instead, Rivenhall stayed close enough to hear.
 
-Close enough to watch.
+Too far to reach.
 
-Far enough to remain unreachable.
-
-Max leaned against the doorframe until the pressure behind his eyes faded.
+Max leaned against the doorframe until the pressure behind his eyes eased.
 
 He had promised Lily he would stop treating every limit like a personal insult.
 
@@ -62,17 +60,15 @@ The writing patch was already open.
 
 **MIRROR FIXED.**
 
-Max smiled before he could stop himself.
+Max smiled.
 
 **GOOD. LANDLORD STILL TERRIFYING?**
 
-Lily's reply arrived quickly.
+Lily answered quickly.
 
 **MORE THAN DIMENSIONAL PHYSICS.**
 
-That seemed fair.
-
-He wrote:
+Fair.
 
 **DID SHE SAY ANYTHING ABOUT THE TAPE MARKS?**
 
@@ -100,19 +96,19 @@ Nothing stronger.
 
 Nothing experimental.
 
-Just enough to confirm the repair had not changed the visual setup.
+Just enough to confirm the repair had not changed the setup.
 
-Max saw Lily glance at the edge of the mirror, then at something below the frame.
+Lily glanced at the mirror edge, then below the frame.
 
-Probably checking the new mount.
+Checking the new mount.
 
-He adjusted the compass by a fraction.
+Max adjusted the compass by a fraction.
 
 Her eyes narrowed.
 
-"You're doing it again," she said through the weak audio channel.
+"You're doing it again."
 
-Max looked innocent.
+Max arranged his face into innocence.
 
 "Doing what?"
 
@@ -120,7 +116,7 @@ Max looked innocent.
 
 "It could work better."
 
-"That sentence is how my wall got repaired."
+"That sentence is why my wall needed repairs."
 
 Max stopped touching the compass.
 
@@ -134,25 +130,21 @@ Lily looked satisfied.
 
 The image flickered.
 
-Max almost reached for the calibration ring.
+Max's hand moved toward the calibration ring.
 
-He caught himself.
+Stopped.
+
+He left it alone.
 
 The visual window collapsed on its own.
 
-Unit 4B disappeared from the polished surface.
+Unit 4B disappeared.
 
 Room 17 returned.
 
 The silence afterward felt heavier than it should have.
 
 Max looked at the compass.
-
-The repaired mirror had worked.
-
-Their visual method still worked.
-
-They had a safe version of contact now.
 
 Writing.
 
@@ -164,19 +156,21 @@ Rules.
 
 Stop conditions.
 
-Everything they had spent the last several chapters learning to protect.
+A safe version of contact.
 
 That should have been enough.
 
-It was enough, if the only question was Lily.
+It was enough if Lily was the only question.
 
-The corridor outside Room 17 existed.
+She wasn't.
+
+The corridor existed.
 
 Mina existed.
 
 His family existed.
 
-At least, they had existed before the accident.
+At least, they had before the accident.
 
 The thought returned before he could stop it.
 
@@ -184,19 +178,17 @@ Max picked up the pen.
 
 **I NEED TO TRY SOMETHING STRONGER.**
 
-The response did not come immediately.
-
-He watched the empty paper.
+Nothing.
 
 Five seconds.
 
 Ten.
 
-Then Lily wrote:
+Then:
 
 **WHY?**
 
-Max had several answers prepared.
+Max had several answers ready.
 
 Better measurements.
 
@@ -206,9 +198,7 @@ Phase-bound geometry.
 
 Useful data.
 
-None of them survived the question.
-
-He stared at the word.
+None survived the question.
 
 Why?
 
@@ -220,13 +210,13 @@ Why.
 
 Max set the pen down.
 
-The next writing window closed before he answered.
+The window closed before he answered.
 
 ---
 
 He sat through the silence.
 
-That was unusual for him.
+That was unusual.
 
 Room 17 had trained him to fill silence with something.
 
@@ -236,13 +226,13 @@ A measurement.
 
 A joke.
 
-An unnecessary attempt to improve a device that did not need improvement.
+An unnecessary adjustment.
 
 This time he did nothing.
 
 The next window opened faintly.
 
-Max wrote slowly enough that the words would fit.
+Max wrote slowly.
 
 **THE ACCIDENT AT LARKSPUR WASN'T RANDOM FOR ME.**
 
@@ -250,63 +240,57 @@ Lily answered:
 
 **WHAT DOES THAT MEAN?**
 
-Max looked toward the corridor.
+Memory came in pieces.
 
-Memory arrived in pieces.
-
-Not useful pieces.
-
-A warning tone.
+Warning tone.
 
 People running.
 
-Someone dropping a metal case hard enough that one corner split.
+A metal case hitting the floor hard enough to split at one corner.
 
 Light bending near the restricted section.
 
 Mina somewhere ahead of him.
 
-He remembered her turning her head.
+He remembered her turning.
 
-Or maybe he remembered wanting her to.
+Or remembered wanting her to turn.
 
 That part had become unreliable.
 
-The last clear thing was movement.
-
-Max running toward the unstable area instead of away from it.
+The last clear thing was Max running toward the unstable area instead of away from it.
 
 He wrote:
 
 **MY SISTER WAS THERE. MINA.**
 
-The marks blurred at the edge.
+The marks blurred.
 
-A new coherence window formed before Lily answered.
+A new window formed.
 
 **YOUNGER?**
 
-Max wrote:
-
 **YES. FIFTEEN.**
 
-He hesitated, then added:
+He hesitated.
+
+Then:
 
 **SHE WOULD HATE THAT I TOLD YOU HER AGE BEFORE ANYTHING INTERESTING.**
 
-Lily's reply:
+Lily replied:
 
 **WHAT IS INTERESTING?**
 
-Max looked at the paper.
+Max looked at the page.
 
-There were hundreds of possible answers.
+Hundreds of answers.
 
 Mina arguing with adults twice her age because she had already decided they were wrong.
 
-Mina taking apart a broken lumen toy and refusing to admit she could not reassemble it.
+Taking apart broken lumen toys and refusing to admit she could not rebuild them.
 
-Mina appearing in doorways only when Max was doing something she wanted to criticize.
+Appearing in doorways only when Max was doing something worth criticizing.
 
 Normal things.
 
@@ -324,35 +308,29 @@ Max almost laughed.
 
 **UNFORTUNATELY.**
 
-The humor helped for exactly one line.
+The humor lasted one line.
 
-Then he wrote:
+Then:
 
 **I WAS TRYING TO REACH HER WHEN THE PLACE COLLAPSED.**
 
-The sentence sat on the page.
+The sentence sat there.
 
 Gray.
 
 Temporary.
 
-Too small for the memory behind it.
-
-He continued:
+Too small for what sat behind it.
 
 **I WOKE UP LIKE THIS.**
-
-The pressure in his chest had nothing to do with the corridor.
 
 His pen stopped.
 
 The last part was harder.
 
-He knew the safe version.
+There was no safer version.
 
-He knew the honest version.
-
-They were the same.
+Only the honest one.
 
 **I DON'T KNOW WHAT HAPPENED TO HER AFTER.**
 
@@ -360,47 +338,39 @@ Nothing appeared.
 
 Max waited.
 
-The writing patch stayed open.
+The patch stayed open.
 
 Lily was there.
-
-He knew she was there.
 
 She simply did not answer immediately.
 
 For once, he was grateful.
 
-A fast response would have felt wrong.
-
 Then:
 
 **YOU NEVER TOLD ME.**
 
-Max almost wrote a joke.
+A joke tried to arrive.
 
-Something about terrible timing.
+Bad timing.
 
-Something about not wanting to ruin the furniture conversations.
+Did not want to ruin furniture conversations.
 
-Instead:
+Max let both die.
 
 **I KNOW.**
 
-A pause.
-
-He wrote:
+Then:
 
 **I THOUGHT IF I UNDERSTOOD THIS FIRST, I'D HAVE SOMETHING USEFUL TO SAY.**
 
 The sentence looked worse once it existed.
 
-Lily's answer came slowly.
+Lily asked:
 
 **TO WHO?**
 
 Max stopped.
-
-He had not expected that question.
 
 His family, obviously.
 
@@ -408,17 +378,15 @@ Mina, if—
 
 No.
 
-He did not let himself finish that thought.
-
-He wrote:
+He cut that thought off.
 
 **MY FAMILY.**
 
-Then, after a moment:
+Then:
 
 **MYSELF, MAYBE.**
 
-The gray letters faded around the edges.
+The gray letters faded at the edges.
 
 Lily wrote:
 
@@ -430,21 +398,15 @@ Annoying sentence.
 
 Accurate sentence.
 
-Those were often the worst kind.
-
-He wrote:
+The worst kind.
 
 **I DIDN'T SAY THAT.**
-
-Her response:
 
 **YOU DIDN'T HAVE TO.**
 
 Max leaned back.
 
-He looked at the compass beside his hand.
-
-For days, the instrument had given him something to do.
+The compass sat beside his hand.
 
 Measure.
 
@@ -460,11 +422,7 @@ Useful had steps.
 
 Fear mostly had waiting.
 
-He wrote:
-
 **IF I CAN FIND A DIRECTION, THAT'S SOMETHING.**
-
-Lily answered:
 
 **MAYBE.**
 
@@ -474,53 +432,49 @@ Then:
 
 Max looked away.
 
-He could hear her voice in the sentence even without audio.
-
-Dry.
-
-Direct.
-
 No pity.
+
+No dramatic speech.
+
+Just Lily.
 
 That helped.
 
-He wrote:
-
 **I KNOW.**
 
-This time he meant it enough to be uncomfortable.
+This time, the words cost something.
+
+Good.
 
 ---
 
 He waited until the next stable window before showing her the plan.
 
-Not a crossing attempt.
+Not crossing.
 
 Not contact.
 
-Not a stronger visual window for its own sake.
+Not stronger sight for its own sake.
 
 A spatial reading.
 
-Max wrote the purpose first.
+He wrote the question first.
 
 **QUESTION: DOES MY PHASE-BOUND STATE HAVE A CONSISTENT DIRECTION?**
 
-Lily's answer:
+Lily answered:
 
 **BETTER.**
 
-Max smiled slightly.
+Max smiled.
 
-Apparently, formal scientific procedure had become emotional supervision.
+Apparently, scientific procedure had become emotional supervision.
 
-He continued.
+His compass provided a known reference on the Room 17 side.
 
-His compass already provided a known measurement reference on the Room 17 side.
+The repaired mirror provided a known P1 reference on Lily's.
 
-The repaired mirror provided a known P1 reference on Lily's side.
-
-They needed one small Earth-side object that could be placed and removed without moving furniture or changing the room.
+They needed one small Earth-side object Lily could place and remove without moving furniture.
 
 The brass apartment key was practical.
 
@@ -532,29 +486,25 @@ Easy to take away.
 
 Nothing more.
 
-Max was careful about that.
+Max was careful with that.
 
 He did not call it an anchor.
 
-He did not claim it had done anything unusual before.
+He did not pretend it had behaved strangely before.
 
-It was simply a stable object tied to Unit 4B that Lily could control precisely.
+Just a stable object tied to Unit 4B.
 
 He wrote the short version.
 
 **COMPASS + MIRROR + KEY POSITION. SAME COUNT. OBSERVATION ONLY.**
 
-Lily took longer to answer.
+Lily took longer.
 
 **WHAT DO YOU EXPECT?**
 
 Good question.
 
-Max wrote:
-
 **IF THE PHASE BINDING HAS DIRECTIONAL STRUCTURE, COMPASS RESPONSE MAY SHIFT CONSISTENTLY WHEN THE REFERENCES ALIGN.**
-
-Her reply:
 
 **AND IF IT DOESN'T?**
 
@@ -572,13 +522,13 @@ A new line appeared.
 
 He frowned.
 
-That was unfairly specific.
+Unfairly specific.
 
 **YES.**
 
 **WRITE THE RULES.**
 
-Max stared at the page.
+Max stared.
 
 Then obeyed.
 
@@ -594,17 +544,15 @@ Lily added:
 
 Max hesitated.
 
-The hesitation lasted long enough that Lily wrote:
+Long enough.
 
 **MAX.**
 
 He looked toward the corridor.
 
-One attempt was bad experimental design.
+One attempt was terrible experimental design.
 
-One attempt was also the agreement.
-
-He wrote:
+It was also the agreement.
 
 **AGREED.**
 
@@ -618,33 +566,25 @@ Then:
 
 **IF EITHER OF US SAYS STOP, WE STOP.**
 
-Max looked at that one longer.
+Max stared at that one.
 
-He wanted to argue for a controlled finish.
+Five more seconds would be reasonable.
 
-Five extra seconds.
+Enough time to finish a reading.
 
-Enough time to record whatever the compass was doing.
+Enough time to make danger useful.
 
-Enough time to make the risk useful.
-
-He knew exactly how reasonable he could make that sound.
+He knew exactly how convincing that argument could sound.
 
 That was the problem.
 
-Max wrote:
-
 **STOP MEANS STOP.**
-
-The reply came quickly.
 
 **GOOD.**
 
-They waited.
-
 The window weakened.
 
-Before it closed, Lily wrote:
+Before it closed:
 
 **THIS IS NOT YOU SAVING EVERYONE.**
 
@@ -654,29 +594,21 @@ He wished she were wrong.
 
 That would have been easier.
 
-He looked at the compass.
-
-At the corridor.
-
-At the last fading trace of Lily's handwriting.
-
 One stronger test.
 
-A controlled one.
+Controlled.
 
-A useful one.
+Useful.
 
-Those words still sounded comforting.
+Those words still felt comforting.
 
 Max understood now that comfort was not evidence.
 
-The patch almost vanished.
-
-He wrote one final line before it did.
+He wrote one final line.
 
 **ONE TEST. THEN WE REVIEW.**
 
-Lily's answer appeared faintly.
+Lily answered faintly.
 
 **TOGETHER.**
 
@@ -694,4 +626,4 @@ Tomorrow, they would test the question.
 
 Today, he had already answered a harder one.
 
-He did not have to know what happened to Mina before admitting that not knowing hurt.
+He did not need to know what happened to Mina before admitting that not knowing hurt.
