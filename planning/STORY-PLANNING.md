@@ -753,3 +753,23 @@ Canon:
 # 49. Next Production Step
 
 **CH-016 — Do Not Open That Door → Detailed Scene Architecture → Gate 8**
+
+
+# 50. CH-016 Canon Record
+
+Gate 9:
+`qa/CH-016-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- June protected from wrong-door event;
+- local spill reaches doorway/hall seam only;
+- safety/reporting chosen over secrecy;
+- next objective becomes stabilization;
+- R1 / narrow P1 / C0 / X0.
+
+# 51. Next Production Step
+
+**CH-017 — Same Count, Same Time → Detailed Scene Architecture → Gate 8**
