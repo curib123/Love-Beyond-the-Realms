@@ -61,9 +61,9 @@ The connection can exchange more than people:
 
 Lily and Max do not gain magic from falling in love.
 
-Their choices, experiments, mistakes, and use of the overlap change the connection.
+Their experiments help them learn the connection, but important consequences and deeper mechanics are deliberately protected as story mysteries.
 
-The deeper history of the two realities is deliberately protected as a long-term mystery.
+The deeper history of the two realities is also protected as a long-term mystery.
 
 ## Studio Pipeline
 
