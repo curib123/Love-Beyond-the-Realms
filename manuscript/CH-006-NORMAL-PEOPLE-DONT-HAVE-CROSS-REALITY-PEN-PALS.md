@@ -130,7 +130,7 @@ Lily stood and carried the towels to the sink.
 
 Ava followed her.
 
-"There is a person."
+"There is someone."
 
 Lily paused.
 
@@ -138,9 +138,9 @@ Half a second.
 
 Too long.
 
-Ava pointed.
+Ava pointed at her.
 
-"Person."
+"There. That face."
 
 "Congratulations."
 
@@ -328,6 +328,10 @@ Ava: liar
 
 Lily put the phone face down.
 
-She checked the clock once.
+Her eyes drifted toward the clock.
 
-Only once.
+She caught herself halfway there.
+
+"No."
+
+Dinner first.
