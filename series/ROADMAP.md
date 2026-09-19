@@ -91,7 +91,7 @@ Gate 5 QA:
 `qa/ACTIVE-ARC-SELECTION-QA-ARC-002.md`
 
 Status:
-**GATE 5 PASS — SELECTED / GATE 6 NEXT**
+**GATE 6 PASS — ARCHITECTURE QA-LOCKED / GATE 7 NEXT**
 
 Primary cluster:
 - LOC-001 Aster House;
@@ -103,7 +103,7 @@ Primary cluster:
 Starting state:
 **R2 / P0 baseline / narrow controlled P1 / C0 / X0 / K2**
 
-No chapter count is locked at Gate 5.
+Chapter count remains **UNLOCKED** until Gate 7.
 
 # Intended v2 Milestones
 
@@ -265,6 +265,33 @@ Later arcs:
 
 # Next Authorized Step
 
-**Gate 6 — Shared Foundations Arc Architecture QA.**
+**Gate 7 — Shared Foundations Arc Chapter Roadmap QA.**
 
-Do not create a chapter roadmap or manuscript before Gate 6 passes.
+Gate 7 may now set the active-arc chapter count. Do not draft manuscript prose before Gate 7 and chapter-level Gate 8 work.
+
+
+# Shared Foundations Gate 6 Architecture
+
+Architecture:
+`planning/SHARED-FOUNDATIONS-ARC-ARCHITECTURE.md`
+
+QA:
+`qa/ACTIVE-ARC-ARCHITECTURE-QA-ARC-002.md`
+
+Result:
+**PASS — QA-LOCKED**
+
+Locked:
+- Inez-authorized East Corridor access;
+- Max Room 17 + adjoining service passage + first structural junction range;
+- asynchronous fieldwork;
+- passive structural mapping;
+- F-005-only new foreshadow candidate;
+- shared-mark midpoint;
+- synchronized-mapping reversal;
+- blind-survey climax;
+- R2 → target R3;
+- P0 / narrow controlled P1 / C0 / X0 ceiling.
+
+Chapter count:
+**UNLOCKED — GATE 7 ONLY**
