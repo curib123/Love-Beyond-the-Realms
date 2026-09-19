@@ -1,8 +1,6 @@
 # CH-005 — Tap Twice If You're Real
 
-Max arrived at the worktable ten minutes early.
-
-This was unnecessary. The room had no clock appointment system, the strange writing did not care about manners, and Lily could not see him waiting.
+Max arrived at the worktable ten minutes early. This was unnecessary. The room had no clock appointment system, the strange writing did not care about manners, and Lily could not see him waiting.
 
 He still arrived early.
 
@@ -12,9 +10,7 @@ The lumen strip above him remained steady.
 
 "Fine. Be dramatic."
 
-Nothing answered.
-
-Max sat.
+Nothing answered, so Max sat.
 
 When the light finally dipped, a gray line appeared almost immediately.
 
@@ -44,11 +40,11 @@ I TAP TWICE. YOU WRITE ANY NUMBER 1–9.
 
 A pause.
 
-THEN YOU TAP?
+THEN I TAP THREE TIMES. YOU WRITE A DIFFERENT NUMBER?
 
 Max wrote:
 
-YES. I ANSWER DIFFERENT NUMBER.
+YES.
 
 The light flickered. The window would not stay open long.
 
@@ -78,21 +74,13 @@ The gray seven faded while his two remained.
 
 Another line appeared.
 
-NOW ME.
+MY TURN.
 
-A moment later, something knocked against the room.
+A moment later, something knocked against the room. Not the table exactly; the sound seemed to come from inside the wood.
 
-Not the table exactly.
+Tap. Tap. Tap.
 
-The sound seemed to come from inside the wood.
-
-Tap. Tap.
-
-Max went very still.
-
-He had expected the mark exchange.
-
-He had not expected that.
+Max went still. He had expected mark exchange. He had not expected the taps themselves to cross.
 
 He wrote the first number that came into his head.
 
@@ -100,29 +88,21 @@ He wrote the first number that came into his head.
 
 Lily answered:
 
-I PICKED 4.
+4.
 
-Max frowned.
+Then:
 
-Then another line appeared.
+GOOD. YOU DIDN'T COPY ME.
 
-YOU FAILED YOUR OWN TEST.
+Max laughed. "Finally, professional recognition."
 
-He laughed.
+The writing window closed. For once, he did not mind.
 
-"That's not how this works."
-
-The writing window closed.
-
-For once, Max did not mind.
-
-The sound of those two taps remained in his head.
+The three taps remained in his head.
 
 ---
 
-The next window took almost an hour.
-
-Max used the time badly.
+The next window took almost an hour. Max used the time badly.
 
 He tried the corridor again, made it three steps farther than usual, and came back with enough pressure behind his eyes to make the walls pulse. Then he drank water, sat on the floor for several minutes, and told himself that testing two impossible things on the same day was efficient.
 
@@ -174,13 +154,7 @@ It helped more than it should have.
 
 Max rested his hand beside the page.
 
-A living person would have a kettle.
-
-A fabricated message could also mention a kettle.
-
-He knew that.
-
-Still, the growing collection of useless details felt harder to dismiss than any single impressive answer.
+A living person would have a kettle. A fabricated message could also mention a kettle; he knew that. Still, the growing collection of useless details felt harder to dismiss than any single impressive answer.
 
 Different weather. Different city. Different room. Bad kettle.
 
@@ -198,9 +172,7 @@ Then a voice said, very faintly:
 
 "Max?"
 
-He stopped breathing.
-
-The sound was thin, almost buried beneath static.
+He stopped breathing. The sound was thin, almost buried beneath static.
 
 A girl's voice.
 
@@ -244,27 +216,15 @@ Silence returned so completely it felt physical.
 
 Max stared at the worktable.
 
-The whole exchange could not have lasted more than ten seconds.
+The whole exchange could not have lasted more than ten seconds, maybe less. But there had been a voice, a breath, and a reaction he had not predicted.
 
-Maybe less.
-
-But there had been a voice.
-
-A breath.
-
-A reaction he had not predicted.
-
-Not writing.
-
-Not a delayed mark.
+Not writing. Not a delayed mark.
 
 Someone had heard him and answered.
 
 ---
 
-The next written window was weak.
-
-Only part of the page responded.
+The next written window was weak. Only part of the page responded.
 
 Max wrote:
 
