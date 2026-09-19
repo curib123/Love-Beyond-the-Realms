@@ -616,3 +616,31 @@ Canon:
 # 37. Next Production Step
 
 **CH-012 — Rent, Repairs, and Other Horrors → Detailed Scene Architecture → Gate 8**
+
+
+# 38. CH-012 Gate 8 Record
+
+Architecture:
+`planning/CH-012-SCENE-ARCHITECTURE-V2.md`
+
+Gate 8:
+`qa/CH-012-PRE-MANUSCRIPT-SCENE-QA-V2.md`
+
+Status:
+**PASS — MANUSCRIPT AUTHORIZED**
+
+Key locks:
+- Lily-only POV;
+- no new dimensional phenomenon;
+- ordinary mirror-mount repair only;
+- Inez pressure stays practical;
+- Nora offers support without control;
+- both leads retain narrow P1 capability;
+- Lily-side receiver may be temporarily unavailable during repair;
+- R1 remains;
+- no M/F state change;
+- C0 / X0.
+
+# 39. Next Production Step
+
+**CH-012 — Rent, Repairs, and Other Horrors → Manuscript Draft**
