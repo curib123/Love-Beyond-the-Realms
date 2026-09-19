@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** ORIGINALITY REVISION v2 — GATE 6 REVALIDATION PASS — GATE 7 NEXT
+**Status:** ORIGINALITY REVISION v2 — GATE 7 PASS — CH-001 GATE 8 NEXT
 
 # Series Length
 
@@ -58,7 +58,7 @@ Historical but revalidation-required:
 - Gate 4 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 5 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 6 — **PASS v2 REVALIDATION — 2026-09-19**
-- Gate 7 — SUPERSEDED by v2 candidate roadmap
+- Gate 7 — **PASS v2 REVALIDATION — 20 CHAPTERS LOCKED — 2026-09-19**
 - CH-001 Gate 8/9 — SUPERSEDED
 - CH-002 Gate 8/9 — SUPERSEDED
 
@@ -76,10 +76,10 @@ Chapter roadmap:
 `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
 
 Status:
-**v2 CANDIDATE — GATE 7 REVALIDATION REQUIRED**
+**GATE 7 v2 QA-LOCKED — 20 CHAPTERS**
 
-Provisional chapter count:
-**20**
+Active-arc chapter count:
+**20 — GATE 7 QA-LOCKED**
 
 # Intended v2 Milestones
 
@@ -113,7 +113,7 @@ No revised chapter is canon-approved yet.
 
 # Next Authorized Step
 
-**Gate 7 — Chapter Roadmap QA Revalidation for Originality Revision v2.**
+**CH-001 — A Place of My Own → Detailed Scene Architecture → Gate 8.**
 
 Gate 1 v2 record:
 `qa/FOUNDATION-QA-V2.md`
