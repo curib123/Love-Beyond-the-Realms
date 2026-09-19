@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** ASTER HOUSE ARC CANON-COMPLETE — FULL MANUSCRIPT QA: EDITORIAL REVISION REQUIRED
+**Status:** ASTER HOUSE ARC PUBLICATION-FINAL — FULL MANUSCRIPT QA PASS
 
 # Series Length
 
@@ -220,3 +220,26 @@ Priority prose revision queue:
 
 Next editorial step:
 **Final all-manuscript publication QA → verification pass**
+
+
+# Final Aster House Publication QA
+
+Record:
+`qa/ASTER-HOUSE-FULL-MANUSCRIPT-QA.md`
+
+Result:
+**FINAL PASS — PUBLICATION-FINAL**
+
+CH-001 through CH-020 are publication-ready.
+
+Final arc state:
+**R2 / P0 baseline / narrow controlled P1 / C0 / X0**
+
+Future arc:
+**UNSELECTED / UNLOCKED**
+
+# Next Authorized Step
+
+**Gate 5 — Next Active Arc Selection QA.**
+
+Do not draft a future arc before that selection passes.
