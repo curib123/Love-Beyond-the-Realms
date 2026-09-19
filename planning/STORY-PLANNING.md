@@ -1253,7 +1253,7 @@ Locked:
 `qa/SHARED-FOUNDATIONS-PRODUCTION-LEDGER.md`
 
 Status:
-**ACTIVE PRODUCTION — CH-021 GATE 8 NEXT**
+**ACTIVE PRODUCTION — CH-022 GATE 8 NEXT**
 
 # 88. Next Production Step
 
@@ -1309,3 +1309,30 @@ Canon status:
 # 92. Next Production Step
 
 **CH-021 — The Inspection Notice → Gate 9 Chapter QA**
+
+
+# 93. CH-021 — The Inspection Notice — Gate 9 Record
+
+Gate 9:
+`qa/CH-021-CHAPTER-QA.md`
+
+Result:
+**PASS — CANON-APPROVED**
+
+Continuity:
+`continuity/SHARED-FOUNDATIONS-ARC-CONTINUITY.md`
+
+Canon additions:
+- supervised East-side inspection at 10:30 a.m. next morning;
+- Lily's 1:00 p.m. Paper Moon shift remains binding;
+- Inez retains all access authority;
+- inspection is observation-only;
+- no P1 / no experiment / no M-ID or F-ID state change;
+- Max must define his safe Larkspur survey boundary first.
+
+Current state:
+**R2 / P0 baseline / narrow controlled P1 / C0 / X0 / K2**
+
+# 94. Next Production Step
+
+**CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
