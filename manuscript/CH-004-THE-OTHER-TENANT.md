@@ -82,15 +82,31 @@ The response appeared almost immediately.
 
 THAT'S YOUR NAME?
 
-Lily frowned.
+Her pen stopped halfway back to the desk.
 
-YES.
+She wrote:
+
+NO. I PANICKED AND PICKED ONE.
 
 A pause.
 
+Then:
+
 GOOD. CHECKING.
 
-She leaned back.
+Lily stared at the words.
+
+"You're the one haunting my stationery and somehow I'm the suspicious one."
+
+She added:
+
+YOUR TURN. IS MAX ACTUALLY YOUR NAME?
+
+The answer came just before the gray letters began to thin.
+
+PROBABLY.
+
+Lily leaned back.
 
 "Very reassuring, Max."
 
@@ -138,7 +154,7 @@ By the time she reached the chair, a line was waiting.
 
 WHERE ARE YOU?
 
-Lily sat.
+Lily dropped into the chair.
 
 MY APARTMENT.
 
@@ -146,17 +162,27 @@ The reply came eight seconds later.
 
 THIS IS MY ROOM.
 
-Lily stared at the sentence.
-
-Then at her apartment.
+Lily looked slowly around Unit 4B.
 
 Then back at the page.
 
-NO. THIS IS MY APARTMENT.
+She wrote:
 
-A longer pause.
+YOU'RE VERY CONFIDENT FOR SOMEONE WHO ISN'T HERE.
 
-THIS IS ROOM 17.
+A pause.
+
+Then:
+
+I AM HERE.
+
+Another line followed.
+
+ROOM 17.
+
+Lily frowned and wrote beneath it:
+
+THAT DID NOT HELP.
 
 Lily looked around Unit 4B.
 
