@@ -180,6 +180,8 @@ Check:
 # Gate 8 — Pre-Manuscript Scene QA
 
 Check:
+- scene dialogue plan satisfies the actor-speak / movie-like English standard;
+- technical conversations include reaction, friction, subtext, or physical business rather than only question/answer exchange;
 - one POV per scene;
 - clear scene purpose;
 - dialogue purpose defined;
@@ -193,6 +195,18 @@ Check:
 - scene ending causes the next beat.
 
 # Gate 9 — Chapter QA
+
+## Movie-Like English / Actor-Speak
+- could a good actor say the dialogue naturally?
+- do characters interrupt, hesitate, redirect, or go quiet when appropriate?
+- are important lines simple and playable rather than literary speeches?
+- does physical action/reaction carry part of the conversation?
+- is exposition broken into conflict, correction, consequence, or visual action?
+- are redundant emotion explanations removed after strong dialogue/action?
+- do written cross-world exchanges feel like Lily and Max talking rather than a debug console?
+- is the prose still novel prose rather than screenplay formatting?
+
+If dialogue is technically correct but consistently sounds written, formal, robotic, or exposition-first: **REVISE.**
 
 ## POV
 - close third-person?
