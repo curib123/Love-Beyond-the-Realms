@@ -1,10 +1,15 @@
+> **SUPERSEDED — ORIGINALITY REVISION v2**  
+> This QA record belongs to the pre-v2 opening where Lily directly saw Max.  
+> It is retained only as historical production evidence and must not authorize current manuscript work.  
+> See: `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`
+
 # Gate 8 — Pre-Manuscript Scene QA — CH-002
 
 **Project:** Love Beyond the Realms  
 **Date:** 2026-09-19  
 **Gate:** 8 — Pre-Manuscript Scene QA  
 **Chapter:** CH-002 — There Is a Boy in My Apartment  
-**Final Result:** **PASS**  
+**Final Result:** **HISTORICAL PASS — SUPERSEDED**  
 **Blocking Issues:** 0  
 **Major Issues:** 0  
 **Minor Notes:** 2
