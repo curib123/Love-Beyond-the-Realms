@@ -44,6 +44,22 @@ Gate 7 roadmap:
 Gate 7 QA:
 `qa/SHARED-FOUNDATIONS-CHAPTER-ROADMAP-QA.md`
 
+# Arc 2 Genre Production Lock
+
+Required hierarchy:
+**Romantic Comedy / Romance first → Slice of Life → Mystery → Sci-Fi**
+
+From CH-022 onward, every Gate 8 and Gate 9 must explicitly verify:
+- Lily/Max relationship or chemistry movement;
+- ordinary-life/personal stakes where appropriate;
+- character-based comedy when the scene allows it;
+- technical exposition remains subordinate;
+- no investigation-only chapter.
+
+Danger may reduce comedy, but it must deepen emotional/relationship consequence.
+
+CH-021 has been reviewed against this rule and remains compliant.
+
 # Current Canon Entry State
 
 Latest Arc 2 canon:
