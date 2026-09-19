@@ -256,13 +256,21 @@ Twenty seconds.
 
 Thirty.
 
-When it arrived, it was only:
+Lily tapped the pen once.
+
+"Don't make this weird."
+
+The reply appeared.
 
 **GOOD.**
 
-Then another line appeared.
+Then, almost immediately:
 
 **FOR YOU, I MEAN.**
+
+Lily closed her eyes.
+
+"Too late."
 
 Lily raised an eyebrow.
 
@@ -632,25 +640,29 @@ Max's voice came back.
 
 Lily looked at the agreement.
 
+Then at the kitchen.
+
+Then at the laundry she still had not folded.
+
+"Tomorrow?"
+
+"Generally, yes."
+
+She smiled.
+
 Good question.
 
-There were still too many unknowns.
+Max was still stuck.
 
-Max was still phase-bound.
+Mina was still missing.
 
-Mina was still unresolved.
+The buildings still made no sense.
 
-Larkspur was still unresolved.
+And neither of them knew whether five-second faces in a mirror were the closest they would ever get.
 
-They did not know why the buildings aligned.
+Lily looked down at the agreement.
 
-They did not know the deeper history.
-
-They did not know whether safe contact could ever become more than writing, clipped audio, and carefully chosen P1 windows.
-
-Lily did not have an answer.
-
-That was fine.
+Tonight, none of that needed an answer.
 
 "We go to work," she said.
 
@@ -698,11 +710,11 @@ Max was quiet for a moment.
 
 "Okay."
 
-Not a promise that everything would work.
+No promise.
 
-Not a plan for the next arc.
+No grand plan.
 
-Just okay.
+Just, "Okay."
 
 The audio began to fade.
 
