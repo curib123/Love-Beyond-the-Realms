@@ -4,7 +4,7 @@
 **Locked Chapter Count:** 20  
 **Gate 6:** PASS v2  
 **Gate 7:** PASS v2  
-**Status:** ARC COMPLETE — ALL 20 CHAPTERS CANON-APPROVED
+**Status:** ARC COMPLETE — POST-ARC FULL MANUSCRIPT QA IN PROGRESS — ALL 20 CHAPTERS CANON-APPROVED
 
 | Chapter | Gate 8 | Manuscript | Gate 9 | Canon |
 |---|---|---|---|---|
