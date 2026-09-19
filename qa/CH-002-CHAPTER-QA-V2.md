@@ -43,3 +43,14 @@ M-002 onward unchanged.
 # Next
 
 **CH-003 — The Note That Shouldn't Exist → Gate 8**
+
+
+# Full-manuscript audit correction
+
+Post-arc audit found that the prose contained all four Gate-8 scene functions but only three explicit manuscript sections.
+
+Correction:
+- restored the scene break between **SC-002-03 — Fine. Answer This.** and **SC-002-04 — The Reply**;
+- no prose facts, dialogue, system state, or mystery state changed.
+
+Gate 9 remains **PASS / CANON-APPROVED**.
