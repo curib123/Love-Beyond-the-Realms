@@ -585,3 +585,34 @@ Canon:
 # 35. Next Production Step
 
 **CH-011 — That Is Not What I Imagined → Detailed Scene Architecture → Gate 8**
+
+
+# 36. CH-011 Production Record
+
+Architecture:
+`planning/CH-011-SCENE-ARCHITECTURE-V2.md`
+
+Gate 8:
+`qa/CH-011-PRE-MANUSCRIPT-SCENE-QA-V2.md`
+
+Manuscript:
+`manuscript/CH-011-THAT-IS-NOT-WHAT-I-IMAGINED.md`
+
+Gate 9:
+`qa/CH-011-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- Lily independently reaches narrow receiver-specific P1;
+- both leads now have separately calibrated P1;
+- M-002 remains PARTIAL;
+- visual consent/privacy rules become canon;
+- R1 remains formal relationship state;
+- C0 / X0;
+- no new F-ID.
+
+# 37. Next Production Step
+
+**CH-012 — Rent, Repairs, and Other Horrors → Detailed Scene Architecture → Gate 8**
