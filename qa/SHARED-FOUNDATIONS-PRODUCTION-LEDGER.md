@@ -7,13 +7,13 @@
 **Gate 5:** PASS  
 **Gate 6:** PASS — QA-LOCKED  
 **Gate 7:** PASS — QA-LOCKED  
-**Status:** ACTIVE PRODUCTION — CH-022 GATE 8 NEXT  
+**Status:** ACTIVE PRODUCTION — CH-022 MANUSCRIPT NEXT  
 **Date:** 2026-09-19
 
 | Chapter | Title | Gate 8 | Manuscript | Gate 9 | Canon |
 |---|---|---|---|---|---|
 | CH-021 | The Inspection Notice | **PASS** | **complete — 1,993 words** | **PASS** | **YES** |
-| CH-022 | The Safe Distance | pending | pending | pending | NO |
+| CH-022 | The Safe Distance | **PASS** | pending | pending | NO |
 | CH-023 | Behind the East Door | pending | pending | pending | NO |
 | CH-024 | Your Measurements Are Wrong | pending | pending | pending | NO |
 | CH-025 | Not to Scale | pending | pending | pending | NO |
@@ -101,6 +101,20 @@ Result:
 Continuity:
 `continuity/SHARED-FOUNDATIONS-ARC-CONTINUITY.md`
 
+# CH-022 Gate 8 Record
+
+Architecture:
+`planning/CH-022-SCENE-ARCHITECTURE.md`
+
+QA:
+`qa/CH-022-PRE-MANUSCRIPT-SCENE-QA.md`
+
+Result:
+**PASS — MANUSCRIPT AUTHORIZED**
+
+Genre lock:
+**PASS — romance/romcom-first execution preserved**
+
 # Next Authorized Step
 
-**CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
+**CH-022 — The Safe Distance → Manuscript Draft**
