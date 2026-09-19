@@ -1,9 +1,14 @@
+> **HISTORICAL RECORD — SUPERSEDED BY ORIGINALITY REVISION v2**  
+> This Gate 1 PASS applied to the pre-v2 opening foundation.  
+> Current production uses `qa/FOUNDATION-QA-V2.md`.  
+> See `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`.
+
 # Gate 1 — Foundation QA
 
 **Project:** Love Beyond the Realms  
 **Date:** 2026-09-19  
 **Gate:** 1 — Foundation QA  
-**Result:** **PASS**  
+**Result:** **HISTORICAL PASS — SUPERSEDED**  
 **Blocking Issues:** 0  
 **Major Issues:** 0  
 **Minor Notes:** 2
