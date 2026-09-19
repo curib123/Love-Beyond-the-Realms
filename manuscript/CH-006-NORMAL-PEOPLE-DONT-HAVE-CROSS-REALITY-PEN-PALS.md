@@ -245,3 +245,4 @@ Normal life had survived contact with the impossible.
 For one day, at least.
 
 Lily carried her dinner to the small table and checked the clock only once.
+
