@@ -46,3 +46,18 @@ room reflection crosses first, while Lily-associated distortion moves several se
 # Next
 
 **CH-010 — I Can See You → Detailed Scene Architecture → Gate 8**
+
+
+# Post-Arc Publication Verification
+
+**Publication Readiness:** **FINAL-PASS**  
+**Verified Current Word Count:** **661**
+
+Verified against the publication-final Aster House full-manuscript QA:
+- current manuscript contains no draft/TODO/placeholder markers;
+- four-scene structure remains intact;
+- Gate 9 canon approval remains valid;
+- no prose/canon change is required for publication;
+- any historical commit message containing "Draft" is superseded by later Gate 9/full-manuscript approval.
+
+**CURRENT STATUS — PUBLICATION-FINAL**
