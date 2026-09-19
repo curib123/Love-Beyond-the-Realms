@@ -153,7 +153,7 @@ CH-005 final prose revalidation:
 **PASS — PUBLICATION-FINAL**
 
 Next editorial step:
-**CH-020 — The Roommate Agreement → Final Prose Development Pass → Gate 9 Revalidation**
+**Final all-manuscript publication QA → verification pass.**
 
 
 CH-010 final prose revalidation:
@@ -210,3 +210,13 @@ CH-019 final prose revalidation:
 
 Next editorial step:
 **CH-020 — The Roommate Agreement → Final Prose Development Pass → Gate 9 Revalidation**
+
+
+CH-020 final prose revalidation:
+**PASS — PUBLICATION-FINAL**
+
+Priority prose revision queue:
+**COMPLETE — 10/10**
+
+Next editorial step:
+**Final all-manuscript publication QA → verification pass**
