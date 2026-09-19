@@ -1279,3 +1279,33 @@ No F-ID or M-ID state changes occur at planning stage.
 # 90. Next Production Step
 
 **CH-021 — The Inspection Notice → Manuscript Draft**
+
+
+# 91. CH-021 — The Inspection Notice — Manuscript Record
+
+Manuscript:
+`manuscript/CH-021-THE-INSPECTION-NOTICE.md`
+
+Status:
+**COMPLETE**
+
+Current word count:
+**1,993**
+
+Manuscript preserves:
+- Lily-only close-third POV;
+- ordinary-life opening;
+- Inez-controlled supervised access;
+- P0-only active communication;
+- no corridor entry;
+- no F-005 planting;
+- no M-007 activation;
+- no relationship-state change;
+- direct CH-022 safe-range handoff.
+
+Canon status:
+**PENDING GATE 9**
+
+# 92. Next Production Step
+
+**CH-021 — The Inspection Notice → Gate 9 Chapter QA**
