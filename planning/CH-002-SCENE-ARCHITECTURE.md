@@ -1,564 +1,414 @@
-> **SUPERSEDED — ORIGINALITY REVISION v2**  
-> This scene architecture belongs to the pre-v2 one-way visual opening.  
-> It is historical only and cannot authorize current manuscript work.  
-> See `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`.
-
-> **SUPERSEDED — ORIGINALITY REVISION v2**  
-> This scene architecture belongs to the pre-v2 opening where Lily directly saw Max.  
-> It is retained only as historical production evidence and must not authorize current manuscript work.  
-> See: `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`
-
-# CH-002 — There Is a Boy in My Apartment — Detailed Scene Architecture
+# CH-002 — Someone Else Is Using My Room — Detailed Scene Architecture v2
 
 **Chapter ID:** CH-002  
 **Arc:** AH-ARC-001 — Aster House Arc  
+**Revision:** ORIGINALITY REVISION v2  
 **Gate:** 8 — Pre-Manuscript Scene QA  
-**Architecture Status:** SUPERSEDED — NOT ACTIVE  
+**Architecture Status:** GATE 8 CANDIDATE  
 **POV Owner:** **LILY ONLY**  
-**Primary Location:** LOC-002 Unit 4B / correlated visual of Max  
+**Primary Location:** LOC-002 Unit 4B  
 **Relationship State:** R0 — Unknown Presence  
-**System State:** P0 Bleed / C0 No Contact / X0 Observation  
-**Manuscript Status:** **SUPERSEDED — NOT CANON**
+**System State:** P0 Echo Trace / C0 No Contact / X0 Observation  
+**Knowledge Stage:** K0  
+**Incoming Canon:** CH-001 v2 CANON-APPROVED
 
 # 1. Chapter Function
 
-CH-002 begins at the exact instant CH-001 ends.
+CH-002 converts Lily's first impossible environmental anomaly into the first evidence that an **intentional intelligence** may exist on the other side of Unit 4B.
 
 The chapter must:
-- preserve Lily's immediate belief that a real intruder may be inside her apartment;
-- show Lily handling fear through practical observation rather than panic;
-- establish that Max does not visually react to Lily even when she is clearly in front of him;
-- let Lily hear Max enough to know he behaves like an ordinary young man, not a horror apparition;
-- create the first romantic-comedy embarrassment from the perception imbalance;
-- move M-001 from UNASKED to ACTIVE through actual on-page evidence;
-- end when Lily speaks and Max reacts to her voice rather than her visible body.
+- continue naturally from the wrong-city/window event;
+- let Lily try ordinary explanations before accepting anything impossible;
+- use Correlation Patch A for the first limited written-state event;
+- establish that the writing is not Lily's;
+- let Lily choose to answer;
+- end with a meaningful independent reply;
+- deepen M-001 without resolving it;
+- preserve room-before-person discovery.
 
-The chapter must **not** decide what Max is.
+The chapter must **not** prove yet that the correspondent is:
+- Max;
+- male;
+- nineteen;
+- alive;
+- from Velaire;
+- physically located in Room 17.
 
-# 2. Canon Handoff From CH-001
+# 2. Canon Dependencies
 
-At chapter start Lily knows:
-- Unit 4B was locked;
-- windows were closed;
-- an unknown young man is visible inside the apartment;
-- the earlier cabinet-door inconsistency had a mundane explanation available.
+Required higher-canon facts:
+- CH-001 ended with Lily seeing the wrong-city/window state for several seconds;
+- Unit 4B east-side desk/table is already physically established;
+- Correlation Patch A is approximately 40 cm × 60 cm;
+- fresh mark-state may cross at P0;
+- early written windows last roughly 20–90 seconds;
+- early local lag is roughly 1–12 seconds;
+- about six short lines / 120 characters is the safe early ceiling;
+- moving outside the patch weakens/breaks transfer;
+- ordinary short writing is mutually intelligible across Earth/Velaire due shared linguistic ancestry;
+- language similarity itself does not reveal MT-001.
 
-Lily does not know:
-- the young man's name;
-- whether he is an intruder, hallucination, prank, ghost, or something else;
-- whether he can see her;
-- whether he can hear her;
-- whether he is physically occupying Unit 4B;
-- anything about Velaire or dimensional mechanics.
+# 3. Knowledge Ceiling
 
-Max's on-page knowledge has not yet advanced in Lily's POV.
+## Lily may know by chapter end
+- Unit 4B has produced more than one impossible event;
+- unfamiliar writing can appear on a surface at her desk;
+- the writing appears to respond to what she writes;
+- the response is independent enough that a prank/self-generated explanation becomes harder to maintain;
+- someone or something may be deliberately answering.
 
-# 3. Knowledge / Mystery Ceiling
-
-## M-001 — Is Max a ghost?
-
-CH-002 may make M-001 **ACTIVE**.
-
-Allowed Lily hypotheses:
-- intruder;
-- prank;
-- exhaustion/stress;
-- hallucination;
-- ghost.
-
-None may be confirmed.
-
-## M-002 — Why can Lily see Max while Max cannot see Lily?
-
-CH-002 may generate the **first observable asymmetry**:
-- Lily sees him;
-- Max fails to visually track her;
-- Max reacts only after Lily speaks.
-
-M-002 should **not** be formally solved or technically explained.
-
-## Protected
-
-Do not introduce:
-- M-003 Echo Exchange mechanics;
-- M-004 measurable Phase Lag;
-- M-005 details of the Larkspur incident;
-- Mina;
-- Twinfall;
-- Velaire;
+## Lily must NOT know
+- Max's name;
+- Max's age/sex;
+- Max is alive;
+- Velaire exists;
+- Room 17 exists;
+- Echo Exchange;
+- Phase Lag;
 - mirrorstone;
+- Twinfall;
 - deliberate reactivation;
-- historical building alignment.
+- why the language is understandable.
 
-# 4. Foreshadowing Ceiling
+## Reader
+Reader remains at **K0** throughout CH-002.
 
-**No F-ID is assigned to CH-002.**
+First Max POV is reserved for CH-003.
 
-Therefore all F-IDs remain:
+# 4. Mystery / Twist State
+
+Incoming:
+- M-001 ACTIVE from CH-001 environmental anomaly.
+
+CH-002:
+- M-001 **DEEPENS** through evidence of an intentional responder.
+- M-001 does **not** resolve.
+- M-002 remains UNASKED.
+- M-003 through M-011 remain UNASKED/protected.
+
+No F-ID is assigned.
+
+All F-IDs remain:
 **PLANNED — NOT YET PLANTED**
 
-Do not accidentally introduce:
-- F-001 mirror delay;
-- F-002 wrong furniture;
-- F-003 cold brass key;
-- F-004 pre-echo;
-- F-005 shared mark;
-- F-006 missing minutes;
-- F-007 map similarity;
-- F-008 Mina trace.
+No MT-001 / MT-002 / MT-003 setup may become explicit enough to reveal those truths.
 
 # 5. System Ceiling
 
-Allowed P0 observations:
-- Lily sees Max;
-- Lily hears Max if he speaks/mutters;
-- Max does not visually track Lily;
-- Max reacts to Lily's spoken voice at the chapter ending.
-
-Not allowed:
-- P1 indirect sight;
-- Max seeing Lily in a mirror;
-- contact/pressure/touch;
-- Lily attempting to walk through or touch Max;
-- objects crossing or changing state;
-- measurable Phase Lag;
-- deliberate experiments;
-- crossing;
-- room transformation;
-- scientific terminology.
-
-C0 and X0 remain unchanged.
-
-# 6. Scene Count
-
-**Four scenes.**
-
-1. SC-002-01 — Intruder
-2. SC-002-02 — He Isn't Looking at Me
-3. SC-002-03 — The World's Worst Burglar
-4. SC-002-04 — Can You Hear Me?
-
-# 7. Scene Architecture
-
-## SC-002-01 — Intruder
-
-**POV:** Lily  
-**Location:** Unit 4B — living room / bedroom threshold  
-**Present Characters:** Lily; unknown young man visible  
-**Function:** Immediate threat assessment
-
-### Opening Continuity
-
-Begin directly from CH-001:
-- Lily has just seen the young man;
-- front door is locked;
-- he is looking away from her.
-
-Do not repeat CH-001's entire ending.
-
-### Immediate Want
-
-Lily wants to determine whether she is in immediate physical danger.
-
-### Obstacle
-
-Nothing about the situation fits:
-- she did not hear a door;
-- the lock is still set;
-- he is already well inside the apartment;
-- he is behaving far too casually for someone who broke in.
-
-Lily's fear should remain believable.
-
-### Lily Action
-
-Without announcing herself:
-- she keeps distance;
-- keeps her phone accessible;
-- mentally checks the route to the door;
-- watches his hands and body language;
-- considers whether to call emergency services.
-
-She does **not** approach within touching distance.
-
-### Dialogue Purpose
-
-No Lily/Max conversation.
-
-Max may mutter one ordinary line to himself, but it must not contain lore.
-
-Example category:
-- complaining about a small personal inconvenience;
-- telling himself to concentrate;
-- reacting to something Lily cannot identify.
-
-### Comedy Opportunity
-
-Very light contrast only:
-Lily is treating him like a dangerous intruder while he appears preoccupied with something completely unrelated to burglary.
-
-Do not make Lily unserious about safety.
-
-### Character Movement
-
-Lily's practical instincts take control of her fear.
-
-Her first response is:
-**observe, verify, decide.**
-
-### Mystery Information
-
-He appears physically real.
-
-No visual ghost effects.
-
-### Sci-Fi Rule
-
-Only P0 visibility/audio from Lily's side.
-
-### Physical Change
-
-None.
-
-### Exit Condition
-
-Max turns or moves in a way that should put Lily plainly in his line of sight—
-
-and shows no reaction.
-
-That causes SC-002-02.
-
----
-
-## SC-002-02 — He Isn't Looking at Me
-
-**POV:** Lily  
-**Location:** Unit 4B living room  
-**Present Characters:** Lily; unknown young man  
-**Function:** Establish visual asymmetry
-
-### Immediate Want
-
-Lily wants to know whether he is pretending not to notice her.
-
-### Obstacle
-
-Max's lack of reaction is too consistent to read easily:
-- his eyes do not settle on her;
-- he does not change posture when she shifts position;
-- he behaves as though the space she occupies is empty.
-
-### Lily Action
-
-Lily performs **informal observation, not a formal experiment**.
-
 Allowed:
-- move several steps within safe distance;
-- cross his general line of sight;
-- lift a hand once as an obvious visual gesture;
-- stop and watch whether his gaze tracks her.
+- P0 Echo Trace;
+- wrong/light room-state aftereffects only if brief;
+- fresh written marks crossing inside Correlation Patch A;
+- one short response sequence;
+- marks arriving with a few seconds of delay;
+- fading/fragmentation after the window closes.
 
 Not allowed:
-- touch him;
-- throw objects at him;
-- deliberately manipulate overlap mechanics;
-- call this a test using scientific language.
+- audio;
+- taps used as a formal reality test;
+- person-image data;
+- mirror person-image anomaly;
+- P1;
+- contact;
+- crossing;
+- object transfer;
+- pre-echo;
+- Shared Minute;
+- unlimited note exchange.
 
-### Dialogue Purpose
+# 6. Experiment Status
 
-Lily remains silent.
+CH-002 contains an **informal communication probe**, not a formal scientific experiment.
 
-Max may speak to himself in short ordinary fragments.
+Lily does not yet use technical terms or a written hypothesis sheet.
 
-Those lines should establish personality without explaining his world.
+Her sequence is:
+1. notice impossible writing;
+2. check obvious mundane explanations;
+3. write one direct question;
+4. wait;
+5. observe whether an independent answer appears.
+
+This is character-driven caution, not a fully designed experiment.
+
+# 7. Scene Set
+
+Four scenes:
+
+1. SC-002-01 — Same Window, Normal City
+2. SC-002-02 — Not My Handwriting
+3. SC-002-03 — One Question
+4. SC-002-04 — I Was About to Ask You That
+
+# 8. Detailed Scene Architecture
+
+## SC-002-01 — Same Window, Normal City
+
+**POV:** Lily  
+**Location:** Unit 4B — living room / window / desk  
+**Present:** Lily only  
+**Function:** aftermath, rationalization, normality pressure
+
+### Immediate Want
+Lily wants the apartment to become ordinary again so CH-001 can remain a strange one-time event.
+
+### Action
+- directly after CH-001, Lily checks the street again;
+- Bellweather remains normal;
+- she checks reflection angles/window latch without turning it into a formal test;
+- she considers fatigue, rain, electrical flicker, reflection;
+- she does not call Nora because she does not want "move back home" to become the answer to one unexplained event;
+- she eventually sleeps badly.
+
+The scene may move into the next morning if needed for rhythm.
 
 ### Character Beat
+Lily's independence becomes a pressure:
+she wants evidence before asking anyone else to take the problem seriously.
 
-Lily begins feeling less certain that "intruder" fits.
-
-This does not make her immediately comfortable.
+### Comedy
+Very light:
+she may make a dry promise to the window that it has used up its one weird event.
 
 ### Mystery
+No new clue beyond CH-001.
+Do not explain the wrong-city view.
 
-**M-001 becomes ACTIVE** because normal explanations begin competing.
-
-First observation relevant to M-002:
-he does not visually react to Lily.
-
-### Sci-Fi Rule
-
-P0 asymmetry only.
-
-### Physical Change
-
-None.
-
-### Exit Condition
-
-Max begins doing something private or mildly embarrassing that he clearly would not do if he knew an unfamiliar girl was watching.
-
-That causes SC-002-03.
+### Exit
+Lily chooses to continue normal life and treats the apartment as usable unless something happens again.
 
 ---
 
-## SC-002-03 — The World's Worst Burglar
+## SC-002-02 — Not My Handwriting
 
 **POV:** Lily  
-**Location:** Unit 4B living room  
-**Present Characters:** Lily; unknown young man  
-**Function:** Romantic-comedy beat + humanize Max
+**Location:** Unit 4B — east-side desk / Correlation Patch A  
+**Present:** Lily only  
+**Function:** first intentional-looking information event
 
 ### Immediate Want
+Lily wants to do an ordinary desk task:
+- write a short to-do list;
+- sort work schedule;
+- note groceries;
+- or check expenses.
 
-Lily wants to keep observing long enough to decide whether to run, call someone, or speak.
+### Trigger
+A blank or newly exposed area of paper inside Correlation Patch A gains fresh marks that Lily did not make.
 
-### Approved Embarrassing Beat
+Approved first crossed message:
+**WHY IS THIS ON MY TABLE?**
 
-Max, unaware Lily can see him, quietly rehearses an overly confident explanation or argument to himself and repeatedly restarts it when it sounds bad.
+Alternative wording may be slightly fragmented if prose rhythm needs it, but:
+- it must remain short;
+- readable;
+- clearly not Lily's handwriting;
+- within bandwidth.
 
-For example, the behavior can communicate:
-- he is trying to sound calm;
-- he makes one dramatic gesture;
-- he immediately realizes the gesture was ridiculous;
-- he drops it and tries again.
+### Observation Rules
+- marks may arrive in strokes/letters rather than appearing instantly;
+- Lily sees enough formation to rule out having simply overlooked old writing;
+- she does not see the writer;
+- no voice accompanies it;
+- no paper crosses.
 
-Important:
-- no sexualized embarrassment;
-- no undressing;
-- no humiliation cruelty;
-- no lore-heavy speech;
-- no explicit reference to Velaire institutions, Mina, mirrorstone, or the incident.
+### Mundane Checks
+Lily checks:
+- her pen;
+- whether ink transferred from another page;
+- whether the paper already had writing;
+- whether someone entered;
+- whether the door remains locked.
 
-### Comedy Purpose
+Do not overdo forensic behavior.
 
-The humor comes from Lily's position:
-she is frightened by a stranger who is behaving like someone who believes he is completely alone.
+### Character Beat
+Fear shifts toward irritated curiosity.
 
-Her dry interpretation may shift from:
-"difficult intruder"
-toward:
-"possibly the least convincing burglar in Bellweather."
+### Mystery
+M-001 gains evidence of possible intentional intelligence.
 
-This is not attraction yet.
-
-### Character Movement
-
-Max becomes harder for Lily to treat as a simple threat.
-
-Lily still does not trust him.
-
-### Mystery Information
-
-His unguarded behavior supports the possibility that:
-- he genuinely cannot see Lily;
-- he may not understand that he is in her apartment.
-
-Neither is confirmed.
-
-### Sci-Fi Rule
-
-No new mechanic beyond P0 asymmetry.
-
-### Physical Change
-
-None.
-
-### Exit Condition
-
-Max moves close enough to Lily's normal line of sight that his failure to acknowledge her becomes impossible to ignore.
-
-Lily decides silence is no longer giving her enough information.
-
-That causes SC-002-04.
+### Exit
+The writing begins fading or the coherence window closes before Lily can get more from it.
 
 ---
 
-## SC-002-04 — Can You Hear Me?
+## SC-002-03 — One Question
 
 **POV:** Lily  
-**Location:** Unit 4B living room  
-**Present Characters:** Lily; unknown young man  
-**Function:** Minor twist / chapter endpoint
+**Location:** Unit 4B — desk / nearby living room  
+**Present:** Lily only  
+**Function:** Lily chooses agency
 
 ### Immediate Want
+Determine whether the writing can respond to her deliberately.
 
-Lily wants one answer:
+### Action
+Lily places a fresh sheet inside the same desk area.
 
-**Can he perceive her at all?**
+She writes one short question:
 
-### Obstacle
+**WHO ARE YOU?**
 
-Speaking could:
-- alert a real intruder;
-- confirm to a hallucination that she is engaging with it;
-- make an already impossible situation worse.
+She may add no more than one tiny qualifier if needed, but keep the probe short.
 
-Lily has to choose uncertainty or action.
+### Guardrails
+- no technical language;
+- no "parallel universe";
+- no "ghost";
+- no long introduction;
+- no name exchange yet;
+- no more than one question in the active window.
 
-### Dialogue Purpose
+### Comedy
+Lily realizes she is leaving a note to an apartment.
 
-Lily's first line to Max should be:
-- short;
-- practical;
-- cautious;
-- natural for her voice.
+A restrained dry line is allowed.
 
-Recommended form:
-**"Can you hear me?"**
+### Relationship
+Still R0.
 
-A similarly concise line is acceptable during manuscript drafting only if it preserves the same function.
+This is not flirtation.
 
-### Max Reaction
+### Exit
+Nothing immediately answers.
 
-After Lily speaks:
-- Max stops;
-- his attention snaps toward the sound;
-- he looks toward the general source;
-- his eyes still do not visually settle on Lily.
+Lily steps away, deciding either:
+- the first writing was random;
+- the window closed;
+- or whoever/whatever wrote it is gone.
 
-He may begin to react verbally, but **the chapter should end before a full conversation starts**.
+---
 
-Preferred ending function:
-Lily realizes he reacted to her voice without reacting to her visible body.
+## SC-002-04 — I Was About to Ask You That
 
-### Minor Twist
+**POV:** Lily  
+**Location:** Unit 4B — desk  
+**Present:** Lily only  
+**Function:** independent-response proof / chapter hook
 
-What looked like total non-perception becomes:
-**he can hear her even though he apparently cannot see her.**
+### Trigger
+After a short interval or a new brief coherence window, Lily notices new handwriting forming beneath or near her question.
 
-This changes Lily's next decision and directly creates CH-003.
+Required final response:
 
-### Mystery State
+**I WAS ABOUT TO ASK YOU THAT.**
 
-M-001:
-**ACTIVE**
+The exact capitalization may follow handwriting style, but wording is locked.
 
-M-002:
-first observable evidence, unresolved.
+### Effect
+This does **not** prove a living person.
 
-### Sci-Fi Rule
+It proves something much stronger than CH-001:
+- the writing is responsive;
+- the responder has independent intent;
+- the responder also lacks Lily's identity.
 
-P0 asymmetry confirmed observationally:
-- Lily sees/hears Max;
-- Max hears Lily;
-- Max does not see Lily.
+### Lily Reaction
+Keep it restrained:
+- surprise;
+- fear;
+- dry disbelief;
+- immediate awareness that the mystery is now two-sided.
 
-No technical name is used.
+No lore inference.
 
-### Relationship Movement
+### Exit
+End shortly after Lily understands that the unknown responder is asking the same question about her.
 
-Still:
+# 9. Dialogue / Written Voice Guard
+
+No spoken Lily/Max dialogue.
+
+Written exchange is intentionally sparse.
+
+The unknown handwriting may feel:
+- direct;
+- slightly more expressive than Lily's;
+- readable but visually distinct.
+
+Do not fully establish Max's written personality yet; CH-003/CH-004 will do that.
+
+# 10. Language Guard
+
+Lily notices the wording is understandable.
+
+She may notice one small unusual spelling/shape only if subtle.
+
+She must not infer:
+- same-origin worlds;
+- foreign country;
+- dimensional history.
+
+Language similarity remains an unresolved oddity.
+
+# 11. Relationship Movement
+
+Start:
 **R0 — Unknown Presence**
 
-They are now mutually aware at the sensory level, but they have not yet completed a reality test.
+End:
+**R0 — Unknown Presence, intentional correspondent suspected**
 
-### Physical Change
+Do not advance to R1 before the mutual reality test in CH-005.
 
-None required.
-
-### Exit Condition
-
-End immediately after Max's reaction demonstrates:
-**sound reaches him; Lily's visible presence does not.**
-
-CH-003 begins from Max POV with the problem:
-**The Voice That Shouldn't Be Here.**
-
-# 8. Dialogue Guard
-
-CH-002 should contain:
-- little Lily dialogue before the final scene;
-- limited Max self-talk;
-- no sustained two-way conversation.
-
-Max self-talk must:
-- sound playful/expressive enough to preview his voice;
-- avoid lore;
-- avoid explaining his condition;
-- avoid revealing his name unless Gate 9 later proves it unavoidable. Default: **do not reveal his name yet**.
-
-# 9. Romantic-Comedy Guard
-
-The chapter's comedy is based on:
-- perception imbalance;
-- Max behaving unguardedly because he believes he is unseen;
-- Lily's dry interpretation.
-
-Do not turn the chapter into flirting.
-
-Lily is still evaluating a possible threat.
-
-# 10. Experiment Check
-
-**No formal experiment occurs in CH-002.**
-
-Lily's movement/waving is ordinary threat/perception checking.
-
-It must not be written as:
-- hypothesis;
-- controlled setup;
-- repeated measurement;
-- scientific testing.
-
-Formal mutual reality testing belongs later.
-
-# 11. Continuity Handoff to CH-003
+# 12. Continuity Handoff to CH-003
 
 At CH-002 end:
 
 ## Lily knows
-- the unknown young man appears physically real to her;
-- he does not visually react to her;
-- he behaves as though he does not know she is present;
-- he can hear her spoken voice;
-- he reacts toward sound rather than toward her visible body.
+- Unit 4B has produced repeated impossible effects;
+- unfamiliar handwriting can appear at her desk;
+- her own short written question received a semantically relevant answer;
+- the responder does not know who Lily is either.
 
-## Lily still does not know
-- his name;
-- where he is from;
-- whether he is alive;
-- whether he is a ghost;
-- whether he is physically inside Unit 4B;
-- why perception is asymmetric;
-- any dimensional terminology.
+## Lily does not know
+- Max's identity;
+- whether the responder is living;
+- whether the responder is human;
+- where the responder is;
+- what world/mechanism is involved.
 
-## Max on-page knowledge available to CH-003
-Through his reaction only:
-- he has heard an unexpected voice;
-- the voice has an apparent direction/source;
-- he has not visually identified Lily.
+## Reader
+Still K0.
 
-CH-003 may develop his interpretation from his own POV.
-
-## Mystery states
-- M-001: **ACTIVE**
-- M-002: observable question introduced, not resolved
-- M-003 through M-011: unchanged/protected
-
-## F-ID states
-All remain:
-**PLANNED — NOT YET PLANTED**
+## Mystery
+- M-001 ACTIVE — strengthened by intentional-response evidence.
+- M-002–M-011 unchanged.
+- all F-IDs NOT YET PLANTED.
 
 ## System
-- P0
-- C0
-- X0
+- P0;
+- C0;
+- X0.
 
-# 12. Manuscript Guardrails
+## CH-003 cause
+CH-003 may begin from Max's side **after** this exchange.
 
-When CH-002 manuscript becomes authorized:
-- continue directly from CH-001 without recap-heavy repetition;
-- use Lily close third only;
-- preserve natural multi-sentence paragraphs;
-- keep Lily cautious enough for a possible intruder;
-- let humor emerge only after Max's behavior undermines the intruder theory;
-- do not overdescribe Max's attractiveness;
-- do not use ghostly visual effects;
-- do not let Lily touch or throw objects at Max;
-- do not use the mirror as a perception test;
-- do not explain the cabinet;
-- stop before a sustained Lily/Max conversation.
+It must not replay CH-002 scene-for-scene.
 
-Suggested manuscript length:
-- approximately 1,400–2,000 words if naturally supported;
-- not a quota.
+It should reveal:
+- Max is alive;
+- he received impossible writing too;
+- his independent intent;
+- his own fear/humor;
+while preserving protected truths.
+
+# 13. Manuscript Guardrails
+
+When authorized:
+- simple close-third Lily POV;
+- natural paragraphs;
+- restrained tension;
+- no lore terms;
+- no face/person-image;
+- no voice;
+- no physical attraction;
+- no formal experiment language;
+- no F-ID;
+- no explanation of CH-001's wrong-city event;
+- keep written exchange bandwidth narrow;
+- end on the required response.
+
+Suggested length:
+approximately 1,400–1,900 words if natural; not a quota.
