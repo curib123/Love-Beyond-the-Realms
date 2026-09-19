@@ -188,6 +188,51 @@ Their romance grows through:
 - learning each other's routines;
 - defending the other's life even when they cannot enter it.
 
+## Appearance-Independent Attraction Rule
+
+Before first sight, Lily and Max may become:
+- curious about each other;
+- emotionally invested;
+- protective;
+- amused;
+- irritated in a personal way;
+- disappointed when communication fails;
+- aware that the other person's attention matters.
+
+They must **not** be written as physically attracted before they have visual information.
+
+Early romantic tension comes from:
+- handwriting;
+- word choice;
+- timing;
+- remembered details;
+- voice;
+- reliability;
+- vulnerability;
+- anticipation.
+
+The first visual reveal may add physical attraction, but it cannot replace the bond already earned.
+
+## Anonymous-Stage Agency Rule
+
+The room-before-person opening must preserve equal agency.
+
+Lily may:
+- initiate or refuse written exchanges;
+- set practical boundaries;
+- test claims;
+- stop responding;
+- prioritize Earth life over the anomaly.
+
+Max may:
+- initiate or refuse written exchanges;
+- challenge Lily's assumptions;
+- propose tests from his own knowledge;
+- withhold unsafe information;
+- prioritize family/recovery goals over conversation.
+
+Neither becomes a passive mystery object waiting for the other to investigate.
+
 ## Dynamic
 
 Lily often grounds Max's impulsive decisions.
