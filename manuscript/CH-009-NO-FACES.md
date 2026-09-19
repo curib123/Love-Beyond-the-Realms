@@ -22,6 +22,14 @@ Max looked at the mirror-bright metal face.
 
 NO.
 
+Three seconds.
+
+MAX.
+
+He sighed and wrote:
+
+IT NEEDED MAINTENANCE.
+
 LIAR.
 
 "Excellent," he said. "Strong foundation of trust."
@@ -204,17 +212,25 @@ Lily replied:
 
 SO I'M A SMUDGE.
 
+Max looked back at the empty reflection.
+
 CURRENTLY.
+
+A pause.
 
 I HATE THIS EXPERIMENT.
 
-Max smiled.
+He smiled despite the pressure building above his eye.
 
-Then rubbed the ache above his eye.
+YOU'RE A VERY CONSISTENT SMUDGE.
+
+MAX.
+
+SORRY.
+
+Another beat.
 
 THE ROOM CROSSES CLEANER THAN YOU DO.
-
-A pause.
 
 THAT SOUNDS PERSONAL AGAIN.
 
@@ -226,15 +242,23 @@ Max looked at the compass.
 
 She was wrong less often than was comfortable.
 
+His hand moved toward the adjustment screw.
+
+He stopped halfway.
+
 ONE MORE TEST. DIFFERENT SETUP.
+
+The answer came before he could add anything else.
 
 NOT TODAY.
 
-Max stopped.
+Max stared at the line.
 
-His fingers hovered over the pen.
+His first instinct was to argue.
 
-Then:
+His second was to notice the headache.
+
+He lowered the pen.
 
 NOT TODAY.
 
