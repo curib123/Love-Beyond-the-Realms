@@ -3,8 +3,8 @@
 **Arc ID:** AH-ARC-001  
 **Revision:** ORIGINALITY REVISION v2  
 **Previous Gate 7 Lock:** SUPERSEDED  
-**Roadmap Status:** CANDIDATE — REQUIRES GATE 7 REVALIDATION  
-**Chapter Count:** **20 PROVISIONAL**  
+**Roadmap Status:** GATE 7 v2 QA-LOCKED  
+**Chapter Count:** **20 — ACTIVE ARC QA-LOCKED**  
 **Manuscript Canon:** RESET FOR CH-001/CH-002 REWRITE
 
 # 1. Roadmap Law
@@ -109,10 +109,12 @@ M-001 deepens.
 
 They establish written communication.
 
-They exchange:
+Across multiple short coherence windows, they exchange:
 - first names;
-- basic facts;
-- rules for using corresponding surfaces.
+- a few basic facts;
+- rules for using the paired writing surfaces.
+
+No single window exceeds the Gate 6 written-bandwidth limit.
 
 Romcom:
 both insist the other is occupying the wrong room.
@@ -130,12 +132,15 @@ they agree to prove they are both real living people.
 
 First controlled mutual reality test.
 
-A brief audio/knock bridge becomes possible.
+They begin with timed taps/marks, then achieve a brief 3–15 second audio bridge.
 
-They hear each other clearly enough to confirm independent presence but still cannot see each other.
+The voice window is clipped and short but, combined with independent written responses, is enough for both to accept that a real living correspondent is intentionally responding.
 
-M-001 moves toward local resolution.
-M-002 becomes active.
+**M-001 RESOLVES locally.**
+**M-002 becomes ACTIVE.**
+
+P0 remains.
+No person-image access.
 
 ---
 
@@ -199,7 +204,10 @@ Midpoint.
 
 First true **P1 Indirect Sight**.
 
-Max receives the first reliable visual image of Lily.
+This is **receiver-specific**:
+Max receives the first reliable visual image of Lily through the approved reflective/instrument setup.
+
+Lily still does not receive Max's image in this chapter.
 
 The emotional beat works because he already knows:
 - her voice;
@@ -207,15 +215,17 @@ The emotional beat works because he already knows:
 - humor;
 - habits.
 
-M-001 locally resolves: Lily and Max accept each other as living people.
-M-002 becomes partial.
+M-002 becomes PARTIAL:
+person-image data can cross under stronger, receiver-specific conditions.
 
 ---
 
 ## CH-011 — That Is Not What I Imagined
 **POV:** Lily
 
-Lily gains/experiences reciprocal or near-reciprocal indirect visual access under the approved P1 condition.
+Lily performs the separate reverse calibration and gains her own narrow **P1 Indirect Sight** of Max.
+
+This is not automatic reciprocity from CH-010.
 
 Romcom:
 their mental images were wrong in specific non-cruel ways.
@@ -241,6 +251,13 @@ P1 remains narrow.
 **POV:** Max
 
 Max pushes for a stronger setup because better contact may help his family problem.
+
+He discloses a controlled part of what happened at Larkspur:
+- he became trapped/phase-bound during an accident;
+- he had been trying to reach someone important to him;
+- he does not know what happened afterward.
+
+This gives **M-005 a PARTIAL path** without revealing Mina's survival, deliberate reactivation, or full cause.
 
 His usefulness false belief drives the decision.
 
@@ -329,11 +346,11 @@ Future arc remains unlocked.
 
 | Mystery | Planned v2 Progression |
 |---|---|
-| M-001 Who is changing the room? | CH-001/2 active → locally resolved by CH-010 |
-| M-002 Why can information cross before sight? | CH-005 onward active → partial by CH-010 |
+| M-001 Who is changing the room? | CH-001/2 active → strengthened CH-003/4 → **RESOLVED CH-005** through mutual reality evidence |
+| M-002 Why can information cross before sight? | CH-005 active → failed visual transfer CH-009 → **PARTIAL CH-010/11** through receiver-specific P1 |
 | M-003 Why do object states change? | CH-008 active/partial |
 | M-004 Why does timing drift? | CH-007 active/partial |
-| M-005 What happened to Max? | partial later in arc |
+| M-005 What happened to Max? | **PARTIAL CH-013** through Max's controlled incident disclosure; full cause protected |
 | M-006–M-011 | protected/unresolved per Mystery Bible |
 
 # 6. Foreshadowing Candidates
@@ -345,15 +362,19 @@ Future arc remains unlocked.
 All:
 **PLANNED — NOT YET PLANTED**
 
-# 7. Revalidation Rule
+# 7. Gate 7 Lock
 
-This roadmap is not Gate 7 approved yet.
+This roadmap is **Gate 7 v2 QA-LOCKED**.
 
-Before new manuscript canon:
-1. rerun Gate 1 Foundation QA on v2;
-2. propagate/revalidate downstream gates;
-3. rebuild CH-001/CH-002 scene architecture against v2;
-4. run Gate 8;
-5. run revised manuscripts through Gate 9.
+Active-arc chapter count:
+**20**
 
-Old CH-001/CH-002 Gate 8/9 approvals are historical and superseded.
+This does not lock the final series length.
+
+Old pre-v2 CH-001/CH-002 Gate 8/9 approvals remain historical and superseded.
+
+Each chapter still requires its own:
+- Gate 8 scene architecture;
+- manuscript draft;
+- Gate 9 chapter QA;
+- canon update.
