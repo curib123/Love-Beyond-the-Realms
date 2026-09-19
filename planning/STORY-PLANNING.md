@@ -175,117 +175,51 @@ A chapter normally changes at least one:
 
 Not every chapter needs a cliffhanger.
 
-# 13. Current Active Arc
+# 13. Current Active Arc — v2 Production State
 
 **Aster House Arc**
 
-**Selection Status:** **GATE 5 PASS — LOCKED AS SINGLE ACTIVE ARC**
-
-**Architecture Status:** **GATE 6 PASS — QA-LOCKED**
-
-Approved primary cluster:
+Selection cluster remains provisionally:
 - LOC-001 Aster House;
 - LOC-002 Unit 4B;
-- controlled LOC-007 Larkspur House POV scenes;
-- controlled LOC-008 Room 17 POV scenes.
+- controlled LOC-007 Larkspur House;
+- controlled LOC-008 Room 17.
 
-Supporting ordinary-life locations may be used when Gate 6 architecture requires them.
-
-The selection is approved because it can simultaneously support:
-- both protagonists;
-- romantic-comedy interaction;
-- ordinary-life consequences;
-- early mystery;
-- basic sci-fi experimentation;
-- a locally resolvable opening conflict.
-
-## Selection-Level Starting Envelope
-
-The story begins around:
+Current opening baseline:
 - R0 Unknown Presence;
-- P0 Bleed;
+- **P0 Echo Trace**;
 - C0 No Contact;
 - X0 Observation.
 
-The arc may naturally move beyond R0 if earned, but Gate 5 does not lock the relationship endpoint.
-
-## Local Resolution Envelope
-
-The Aster House Arc may resolve local questions such as:
-- whether Lily and Max are real to each other;
-- whether they can communicate and cooperate;
-- how to coexist across the overlapping rooms;
-- what basic observable rules govern the overlap;
-- whether Max is a conventional ghost.
-
-The arc is not required or authorized by selection alone to resolve:
-- MT-001;
-- MT-002;
-- MT-003;
-- stable passage between worlds;
-- the full Twinfall history;
-- the final romance;
-- the final series route.
-
-## Future Arc Rule
-
-No future location is selected as the required next arc.
-
-The next arc remains:
-
-**UNSELECTED / UNLOCKED**
-
-It must emerge from the completed canon of the active arc.
-
-# 14. Gate 6 Architecture Record
-
-Formal architecture:
-
+Current v2 architecture:
 `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`
 
-Gate 6 approved:
-- exact opening Lily/Max states;
-- concrete local goals;
-- romantic-comedy engine;
-- ordinary-life pressure;
-- central local mystery;
-- P0/Phase Lag/Echo Exchange/P1 science focus;
-- supporting-cast functions;
-- midpoint P1 breakthrough;
-- overconfidence reversal;
-- causally earned stabilization climax;
-- aftermath;
-- local R2 resolution;
-- strict MT/F-ID ceiling.
+Status:
+**CANDIDATE — GATE 6 REVALIDATION REQUIRED**
 
-**Chapter Count:** **20 — GATE 7 QA-LOCKED**
-
-Gate 6 approval now authorizes setting the active arc chapter count during Gate 7 chapter-roadmap construction.
-
-# 15. Gate 7 Chapter Roadmap Record
-
-Formal roadmap:
-
+Current v2 roadmap:
 `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
 
-Formal QA:
+Status:
+**CANDIDATE — GATE 7 REVALIDATION REQUIRED**
 
-`qa/CHAPTER-ROADMAP-QA.md`
+Provisional active-arc chapter count:
+**20 — NOT QA-LOCKED**
 
-Gate 7 approved:
-- **20 active-arc chapters**;
-- Lily 11 / Max 9 planned POV ownership;
-- unique chapter functions;
-- CH-010 first P1 midpoint;
-- CH-014–015 reversal;
-- CH-017–018 climax;
-- CH-019–020 aftermath;
-- F-001/F-002/F-003 planning candidates only;
-- no MT-001/002/003 reveal;
-- no P2/P3, C1+, or X1+;
-- future arc still unlocked.
+The old Gate 5/6/7 planning language is superseded where it conflicts with Originality Revision v2.
 
-# 16. Originality Revision v2 Production Reset
+Local opening questions now include:
+- who is changing the room;
+- whether another independent living person exists at the correlated coordinate;
+- why information crosses before person-image data;
+- how written/audio contact can become repeatable.
+
+The old opening question "is Max a conventional ghost?" is no longer the primary local mystery.
+
+Future arc:
+**UNSELECTED / UNLOCKED**
+
+# 14. Originality Revision v2 Production Reset
 
 Revision record:
 
@@ -306,7 +240,7 @@ Current active documents:
 - `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md` — v2 candidate
 - `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md` — v2 candidate
 
-# 17. Gate 1 v2 Revalidation Record
+# 15. Gate 1 v2 Revalidation Record
 
 Formal QA:
 
@@ -320,7 +254,7 @@ Foundation corrections:
 - Phase Lag wording now cannot imply early direct person sight;
 - Gate 1 permanently checks room-before-person, P0 Echo Trace, and the prohibition on the superseded one-way visual hook.
 
-# 18. Next Production Step
+# 16. Next Production Step
 
 **Gate 2 — Character QA Revalidation for Originality Revision v2**
 
