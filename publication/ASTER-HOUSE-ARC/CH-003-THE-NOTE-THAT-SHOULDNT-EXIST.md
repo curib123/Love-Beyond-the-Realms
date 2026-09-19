@@ -316,9 +316,11 @@ That would make it worse.
 
 Max leaned back and covered his face with one hand.
 
-Somewhere, in a place with rain, brick walls, tram wires, and a blue pharmacy sign, someone had just received his first serious attempt at cross-space investigation.
+Rain. Brick walls. Tram wires. Blue pharmacy sign.
 
-And somehow he'd managed to make it sound like flirting.
+And somewhere in all of that, someone had just read **YOU'RE INTERESTING** from a stranger in another room.
+
+He had made first contact sound like flirting.
 
 "Excellent," he muttered into his palm.
 
