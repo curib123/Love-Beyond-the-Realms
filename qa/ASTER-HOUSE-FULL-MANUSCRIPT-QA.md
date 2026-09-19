@@ -144,6 +144,6 @@ No chapter is missing.
 
 No current manuscript is literally marked DRAFT.
 
-However, ten milestone/climax/aftermath chapters require a final prose-development pass before this QA can be upgraded to:
+However, nine milestone/climax/aftermath chapters still require a final prose-development pass before this QA can be upgraded to:
 
 **FULL MANUSCRIPT QA — FINAL PASS**
