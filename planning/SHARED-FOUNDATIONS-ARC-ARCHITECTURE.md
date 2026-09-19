@@ -29,6 +29,106 @@ The arc may NOT answer:
 
 **why the two worlds share that structure.**
 
+# 1A. Genre Priority Rule — HARD LOCK
+
+The Shared Foundations Arc is **not** a mystery-first or science-fiction-first arc.
+
+Its required genre hierarchy is:
+
+**1. Romantic Comedy / Romance**  
+**2. Slice of Life / Character Life**  
+**3. Mystery**  
+**4. Science Fiction**
+
+Operational story formula:
+
+**romantic comedy first → relationship growth → ordinary life → mystery → sci-fi escalation**
+
+This is a production rule, not a suggestion.
+
+Every chapter must use the structural mystery primarily to create:
+- Lily/Max interaction;
+- chemistry;
+- banter or situational comedy when appropriate;
+- emotional understanding;
+- trust/boundary development;
+- ordinary-life pressure or contrast.
+
+Mystery may provide the question.
+
+Sci-fi may provide the rules, danger, and escalation.
+
+Neither may replace the relationship story.
+
+## Required Chapter Test
+
+Every Arc 2 chapter must materially advance at least one of:
+- Lily/Max chemistry;
+- Lily/Max trust;
+- Lily/Max understanding of each other's habits, fears, limits, or ordinary lives;
+- romantic-comedy situation;
+- slice-of-life responsibility;
+- emotional consequence between the leads.
+
+Investigation-only chapters are **not authorized**.
+
+A chapter may carry heavy mystery or danger, but it must still remain emotionally attached to Lily and Max.
+
+## Balance Rule for Technical Chapters
+
+For CH-023 through CH-033 especially:
+
+Do not let:
+- measurements;
+- maps;
+- geometry;
+- structural marks;
+- dimensional terminology;
+- protocols;
+- system explanations;
+
+become the chapter's emotional center.
+
+Technical material should stay readable, concise, and tied to:
+- disagreement;
+- cooperation;
+- humor;
+- worry;
+- restraint;
+- trust;
+- ordinary consequences.
+
+## Serious-Scene Rule
+
+During dangerous or emotional scenes, comedy may reduce or stop.
+
+The genre remains romance-led through:
+- concern;
+- consent;
+- boundaries;
+- choices;
+- consequences;
+- how Lily and Max respond to each other.
+
+Romantic comedy does **not** mean every chapter must contain flirting or jokes.
+
+## Gate Enforcement
+
+Gate 8 must reject a scene architecture if:
+- it is primarily technical exposition;
+- Lily and Max function only as investigators;
+- ordinary life disappears without story reason;
+- relationship movement is absent across the chapter;
+- comedy/chemistry opportunities are systematically removed.
+
+Gate 9 must reject or revise a manuscript if:
+- mystery/sci-fi overwhelms character interaction;
+- technical explanation reads like a report instead of a story;
+- Lily and Max could be replaced by generic investigators without changing the chapter;
+- the chapter advances data but not character/relationship/ordinary-life state.
+
+CH-021 already satisfies this rule and remains unchanged.
+
 # 2. Starting Canon State
 
 Relationship:
