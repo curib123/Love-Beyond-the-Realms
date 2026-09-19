@@ -307,10 +307,23 @@ Locked CH-001 scene sequence:
 
 No F-ID is assigned to CH-001.
 
-# 17. Next Production Step
+# 17. CH-001 Manuscript Draft Record
 
-**CH-001 — A Place of My Own → Manuscript Draft**
+Manuscript:
 
-After drafting:
-- run **CH-001 → Gate 9 Chapter QA**;
-- do not begin CH-002 manuscript drafting before CH-002 receives its own Gate 8 scene approval.
+`manuscript/CH-001-A-PLACE-OF-MY-OWN.md`
+
+Status:
+
+**DRAFT COMPLETE — GATE 9 NOT YET RUN**
+
+Draft length:
+- approximately 1,900 words;
+- within the flexible chapter-length guideline;
+- not padded to hit a quota.
+
+# 18. Next Production Step
+
+**CH-001 → Gate 9 Chapter QA**
+
+Do not revise CH-001 into canon or begin CH-002 manuscript drafting before the required QA/scene gates are completed.
