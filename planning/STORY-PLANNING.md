@@ -392,8 +392,32 @@ Scene compliance:
 - no F-ID assignment;
 - endpoint is Max reacting to Lily's voice without seeing her.
 
-# 21. Next Production Step
+# 21. CH-002 Gate 9 Record
 
-**CH-002 → Gate 9 Chapter QA**
+Formal QA:
 
-Do not mark CH-002 canon-approved or begin CH-003 manuscript drafting before the required QA/scene gates are completed.
+`qa/CH-002-CHAPTER-QA.md`
+
+Status:
+
+**PASS — CANON-APPROVED**
+
+Canonical manuscript:
+
+`manuscript/CH-002-THERE-IS-A-BOY-IN-MY-APARTMENT.md`
+
+Gate 9 required:
+- paragraph-flow revision.
+
+Final manuscript remains approximately 1334 words.
+
+Canon mystery-state result:
+- M-001 ACTIVE;
+- M-002 ACTIVE with first observable asymmetry;
+- all F-IDs remain PLANNED — NOT YET PLANTED.
+
+# 22. Next Production Step
+
+**CH-003 — The Voice That Shouldn't Be Here → Detailed Scene Architecture → Gate 8**
+
+CH-003 manuscript drafting remains unauthorized until its Gate 8 scene architecture passes.
