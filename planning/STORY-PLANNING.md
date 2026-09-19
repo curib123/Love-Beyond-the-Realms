@@ -312,8 +312,26 @@ Location corrections:
 - later P1 reflective/instrument surfaces established without early activation;
 - ordinary-life and reveal-protection rules preserved.
 
-# 19. Next Production Step
+# 19. Gate 5 v2 Revalidation Record
 
-**Gate 5 — Active Arc Selection QA Revalidation for Originality Revision v2**
+Formal QA:
 
-Do not draft revised CH-001 or CH-002 until the affected gates are revalidated in order.
+`qa/ACTIVE-ARC-SELECTION-QA-V2.md`
+
+Status:
+
+**PASS — 2026-09-19**
+
+Selection result:
+- Aster House Arc remains the single active opening arc;
+- primary cluster is Aster House / Unit 4B with controlled Larkspur House / Room 17;
+- R0 / P0 Echo Trace / C0 / X0 opening envelope retained;
+- supporting ordinary-life locations remain available;
+- future arc remains unlocked;
+- Gate 5 does not authorize the current 20-chapter candidate structure.
+
+# 20. Next Production Step
+
+**Gate 6 — Active Arc Architecture QA Revalidation for Originality Revision v2**
+
+Do not draft revised CH-001 or CH-002 until Gate 6/7 and chapter-level gates are revalidated.
