@@ -2,21 +2,33 @@
 
 Max had a clock problem.
 
-Not the normal kind, where a clock was wrong.
+Not the useful kind where a clock was wrong.
 
-That would have been useful.
+His problem was Lily.
 
-His problem was that Lily's messages seemed to arrive at different speeds depending on when the room decided to cooperate.
+More specifically, Lily's messages.
 
-He had noticed it before. A line might appear almost immediately after he wrote. Another might take ten seconds. Her voice had broken through in pieces. The taps from the table had felt delayed, though he had been too busy being surprised to measure them.
+They arrived at different speeds depending on when Room 17 decided to cooperate.
 
-Surprise was a poor instrument.
+A line might appear almost immediately.
+
+Another might take ten seconds.
+
+Her voice had broken through in pieces.
+
+Even the taps from the table had felt delayed.
+
+Surprise was a terrible measuring instrument.
 
 Today, Max intended to be less surprised.
 
-He set his spatial compass beside the writing patch and turned the small timing dial until the needle rested at zero. The dial was meant for survey intervals, not impossible conversations, but tools rarely got to choose their careers.
+He set his spatial compass beside the writing patch and turned the timing dial to zero.
 
-When the light dimmed, Lily's handwriting appeared.
+The dial was meant for survey intervals, not impossible conversations.
+
+Tools rarely got to choose their careers.
+
+The light dimmed.
 
 READY?
 
@@ -32,17 +44,17 @@ He smiled.
 
 COUNT 3. TAP ON ZERO. I TIME ARRIVAL.
 
-Her answer came back:
+Lily answered:
 
 YOU MEAN COUNT DOWN FROM 3.
 
-Max stared at it.
+Max stared at the line.
 
-YES.
-
-THAT WAS IMPLIED.
+YES. THAT WAS IMPLIED.
 
 NO IT WASN'T.
+
+"Hostile interpretation."
 
 The window closed.
 
@@ -53,8 +65,6 @@ Max leaned back.
 ---
 
 The next window opened twenty-three minutes later.
-
-They kept the test simple.
 
 Max wrote:
 
@@ -70,15 +80,13 @@ Max stopped the dial.
 
 A little over two seconds.
 
-He wrote the result.
-
 2 SEC HERE.
 
-Lily's answer arrived:
+Lily replied:
 
 MINE FELT IMMEDIATE.
 
-Max's smile faded.
+His smile faded.
 
 That mattered.
 
@@ -88,11 +96,11 @@ Second trial: almost five seconds.
 
 Third: just over eight.
 
-The direction stayed the same from Max's point of view. Lily acted; Max received it later.
+Same direction.
 
-But the size changed.
+Different delay.
 
-He wrote:
+Max wrote:
 
 NOT CONSTANT.
 
@@ -100,35 +108,47 @@ Lily answered:
 
 NOTHING ABOUT THIS IS CONVENIENT.
 
-Max tapped the table once in agreement.
+Max tapped the table once.
 
-The headache started behind his left eye after the third trial. Mild, but familiar enough that he stopped pretending it was unrelated.
+Agreement.
 
-He drank water and waited for the next window.
+The headache started behind his left eye after the third trial.
+
+Mild.
+
+Familiar.
+
+He stopped pretending it was unrelated.
+
+Water first.
+
+Then notes.
+
+For once, he did not bargain with himself.
 
 ---
 
-Audio came unexpectedly.
+Audio came without warning.
 
-Max was still looking at his notes when Lily's voice broke through near the table.
+Max was looking at the dial when Lily's voice broke through.
 
 "Three, two—"
 
 Static.
 
-He reached for the dial.
+He grabbed the compass.
 
 "—one."
 
-Max started it.
+Max started the timer.
 
 Silence.
 
-Then, several seconds later, he heard the knock that should have followed immediately.
+Then:
 
 Tap.
 
-He stopped the dial.
+He stopped it.
 
 Six seconds.
 
@@ -136,9 +156,11 @@ Six seconds.
 
 "What?"
 
-Her answer arrived almost four seconds after his question.
+Her answer arrived four seconds late.
 
-Max laughed once. "This is terrible."
+Max laughed once.
+
+"This is terrible."
 
 "What is?"
 
@@ -146,13 +168,13 @@ Max laughed once. "This is terrible."
 
 A pause.
 
-Then her voice returned, irritated and delayed.
+Then her voice returned, delayed and offended.
 
 "My timing is fine."
 
-The sentence arrived so late that Max had already started writing down the previous interval.
+Max had already begun writing down the interval.
 
-He looked at the empty air above the desk.
+He looked at the empty air over the table.
 
 "That sounded personal."
 
@@ -160,21 +182,25 @@ Static swallowed whatever she said next.
 
 The channel vanished.
 
-Max wrote in his notes:
+Max wrote:
 
 Audio delay varies too.
 
-Then below it:
+Then, under it:
 
 Do not tell Lily her timing is bad.
 
-He underlined that once.
+He underlined that.
+
+Once.
+
+Then twice.
 
 ---
 
-The final writing window was weak enough that only part of the paper responded.
+The final writing window was weak.
 
-Max copied his results into short lines.
+Max kept it short.
 
 2 sec.
 5 sec.
@@ -187,17 +213,21 @@ SO THE ROOMS AREN'T KEEPING THE SAME TIME.
 
 Max considered that.
 
-Not exactly. Their clocks could still be normal. The connection between them was what seemed to slip.
+Not exactly.
+
+Their clocks might still be normal.
+
+The connection was what seemed to slip.
 
 He wrote:
 
 THE CONNECTION IS LATE. SOMETIMES MORE LATE.
 
-Her answer did not come.
+No answer.
 
-The gray edge of the patch faded.
+The gray edge faded.
 
-Max waited another fifteen seconds.
+Max waited.
 
 Nothing.
 
@@ -207,31 +237,36 @@ He closed the compass.
 
 He stood.
 
-A line appeared on the paper behind him.
+A line appeared behind him.
 
 YOU'RE EARLY.
 
-Max turned back.
+Max turned.
 
-The writing had arrived after the rest of the window looked finished.
+The message had arrived after the window looked finished.
 
-He stared at it, then laughed.
+He stared.
+
+Then laughed.
 
 "Fine."
 
-He added one last note to his page:
+He wrote in his notes:
 
 Even the goodbye can be late.
 
-The headache behind his eye pulsed once.
+The headache pulsed once.
 
 Max stopped there.
 
-They had learned something useful.
+Useful result.
 
-Messages did not simply cross space.
+Enough for one day.
 
-Sometimes they crossed the wrong few seconds too.
+He looked at Lily's delayed sentence one last time.
 
-That was enough discovery for one day.
+"You're early," he repeated.
 
+For some reason, it sounded less like data than the others.
+
+That was probably also a problem.
