@@ -313,6 +313,78 @@ When a test requires concise messages, keep the test concise but make the surrou
 
 The writing channel must feel like **Lily and Max talking**, not a debug console.
 
+
+# 7E. Movie-Like English / Cinematic Dialogue Rule — HARD LOCK
+
+The series should read like a strong modern film or streaming-series scene translated naturally into prose.
+
+This does **not** mean screenplay formatting.
+
+It means:
+- dialogue sounds like real people speaking;
+- characters rarely deliver perfectly complete explanations;
+- reactions often come before answers;
+- people interrupt, restart, dodge, tease, misunderstand, or go quiet;
+- emotional meaning is carried through timing, body language, and what is not said;
+- exposition is broken into conflict, questions, corrections, consequences, and visual action;
+- important lines are simple enough that an actor could say them naturally;
+- jokes come from personality and timing rather than setup/punchline writing;
+- serious scenes are allowed to become plain and quiet.
+
+Prefer:
+"You're going back in?"
+Max reached for the compass.
+Lily's next message appeared before his fingers touched it.
+**DON'T.**
+He stopped.
+"Right," he muttered. "That was fast."
+
+Avoid:
+"Are you planning to conduct another investigation?"
+"Yes. I believe another investigation would provide useful information."
+"I disagree because it may be dangerous."
+
+## Cinematic Scene Flow
+
+Scenes should usually move through:
+**visual action → reaction → dialogue → interruption/choice → changed situation**
+
+Do not pause the scene for large explanation blocks when the same information can emerge through what the characters are doing.
+
+Use concrete visual behavior:
+- a hand stopping over a compass;
+- a half-written reply;
+- a kettle boiling over;
+- someone rereading one short message;
+- a smile disappearing;
+- a door staying closed;
+- a character choosing not to touch something.
+
+## Actor-Speak Test
+
+Before approving dialogue, imagine two good actors performing it aloud.
+
+Revise if:
+- the line sounds written rather than spoken;
+- it is too formal for the character;
+- it says information both characters already know;
+- it explains the emotion after the scene already showed it;
+- the same meaning can be said with fewer, more natural words.
+
+## Cinematic Restraint
+
+Do not make every line witty.
+Do not make every beat dramatic.
+Do not turn the prose into constant one-line paragraphs.
+
+The goal is:
+**natural, specific, visual, emotionally playable dialogue.**
+
+This rule applies to:
+- Arc 1 publication prose;
+- Arc 2;
+- every future arc and chapter.
+
 # 8. Lily and Max Dialogue
 
 Their chemistry develops through contrast.
