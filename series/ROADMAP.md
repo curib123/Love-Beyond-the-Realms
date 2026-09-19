@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** ORIGINALITY REVISION v2 — GATE 5 REVALIDATION PASS — GATE 6 NEXT
+**Status:** ORIGINALITY REVISION v2 — GATE 6 REVALIDATION PASS — GATE 7 NEXT
 
 # Series Length
 
@@ -57,7 +57,7 @@ Historical but revalidation-required:
 - Gate 3 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 4 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 5 — **PASS v2 REVALIDATION — 2026-09-19**
-- Gate 6 — SUPERSEDED by v2 candidate architecture
+- Gate 6 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 7 — SUPERSEDED by v2 candidate roadmap
 - CH-001 Gate 8/9 — SUPERSEDED
 - CH-002 Gate 8/9 — SUPERSEDED
@@ -70,7 +70,7 @@ Architecture:
 `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`
 
 Status:
-**v2 CANDIDATE — GATE 6 REVALIDATION REQUIRED**
+**GATE 6 v2 QA-LOCKED**
 
 Chapter roadmap:
 `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
@@ -113,7 +113,7 @@ No revised chapter is canon-approved yet.
 
 # Next Authorized Step
 
-**Gate 6 — Active Arc Architecture QA Revalidation for Originality Revision v2.**
+**Gate 7 — Chapter Roadmap QA Revalidation for Originality Revision v2.**
 
 Gate 1 v2 record:
 `qa/FOUNDATION-QA-V2.md`
