@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GATE 2 CHARACTER QA PASS — GATE 3 MYSTERY/TWIST QA NEXT
+**Status:** GATE 3 MYSTERY/TWIST QA PASS — GATE 4 LOCATION QA NEXT
 
 # Series Length
 
@@ -49,23 +49,36 @@ Formal record:
 
 `qa/CHARACTER-QA.md`
 
-Gate 2 required one pre-pass Character Bible correction:
-- recurring supporting characters were given explicit independent goals and agency.
+Gate 3 — Mystery/Twist QA:
 
-Final Gate 2 confirms:
-- Lily has an independent series goal;
-- Max has an independent series goal;
-- both can drive plot;
-- both have distinct flaws and wounds;
-- comedy styles differ;
-- dialogue voices differ;
-- supporting cast has independent lives;
-- romance boundaries reject coercive/toxic shortcuts;
-- neither lead exists only to rescue or complete the other.
+**PASS — 2026-09-19**
+
+Formal record:
+
+`qa/MYSTERY-TWIST-QA.md`
+
+Gate 3 required pre-pass corrections:
+- added an explicit initial knowledge matrix;
+- added an initial M-ID state ledger;
+- made every F-ID status explicit;
+- strengthened MT reveal guards and required post-reveal choices;
+- added no-retcon controls;
+- removed a README hint that approached MT-003 leakage;
+- clarified MT-003 environmental escalation versus personal recovery.
+
+Final Gate 3 confirms:
+- Writer Truth is separated from Lily/Max/supporting knowledge;
+- M-001 through M-011 are controlled;
+- F-001 through F-008 remain PLANNED — NOT YET PLANTED;
+- MT-001/002/003 have multiple setup paths;
+- protected twists do not leak early;
+- major twists create choices and consequences;
+- retcon safeguards exist;
+- sci-fi mystery logic matches Realm Systems.
 
 Non-blocking notes:
-- vary Lily/Max comedy roles to prevent formula;
-- give Lily a concrete local objective during Gate 6.
+- final marketing copy must decide whether Max being alive is openly spoiled;
+- pre-echo must remain rare.
 
 # Active Arc
 
@@ -110,6 +123,6 @@ Intentionally not fixed.
 
 # Next Authorized Step
 
-**Run Gate 3 — Mystery/Twist QA.**
+**Run Gate 4 — Location QA.**
 
-Do not lock the Aster House Arc architecture, assign its chapter count, create chapter/scene architecture, or draft manuscript prose until Gate 3 passes.
+Do not lock the Aster House Arc architecture, assign its chapter count, create chapter/scene architecture, plant F-IDs, or draft manuscript prose until Gate 4 passes.
