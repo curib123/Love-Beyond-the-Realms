@@ -144,11 +144,17 @@ Lily looked back.
 
 Mrs. Bell raised one eyebrow.
 
-"Can you?"
+Lily looked at the tape.
 
-"Most of it."
+Then the mirror.
 
-"That is not the reassuring version of that sentence."
+"Some of it."
+
+"That's already worse."
+
+"Probably."
+
+Mrs. Bell sighed through her nose.
 
 She crossed to the mirror and checked the bracket.
 
@@ -324,19 +330,21 @@ Lily looked at the tape on the floor.
 
 "I'm fine."
 
-The words came out automatically.
-
-Too quickly.
+Too fast.
 
 Nora went quiet.
 
-Not angry.
-
-Worse.
-
-Patient.
-
 Lily closed her eyes.
+
+"Okay," Lily said before Nora could. "That sounded fake."
+
+"A little."
+
+"Don't enjoy this."
+
+"I wasn't."
+
+"You were."
 
 Nora said, "I'm not asking you to move home."
 
