@@ -198,17 +198,16 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-008 v2
+# 16. Current Canon State — Through CH-009 v2
 
-**Latest Canon Chapter:** CH-008 — That Was My Chair
+**Latest Canon Chapter:** CH-009 — No Faces
 
 ## Shared Knowledge
-Lily and Max now know:
-- communication can be delayed;
-- furniture/object state can partially overlap without the object physically crossing;
-- their furniture remained in place while temporary hybrid details appeared.
-
-They do not know why.
+Lily and Max know:
+- reflective room-state information can cross;
+- person-associated information behaves differently;
+- Lily's movement can create delayed reflective distortion without a usable person image;
+- current reflective setup is insufficient for sight.
 
 ## Reader Knowledge
 **K2**
@@ -216,44 +215,44 @@ They do not know why.
 ## Relationship
 **R1 — Mutual Reality Test**
 
-Cooperative experiment boundaries deepen trust.
-
 ## System
 - **P0 Echo Trace**
 - **C0**
 - **X0**
 
 Observed:
-- environmental bleed;
-- bounded writing/taps/audio;
+- environment/writing/taps/audio;
 - Phase Lag;
-- temporary furniture-state overlap.
+- furniture-state overlap;
+- reflective room-state transfer;
+- delayed person-associated blur.
 
 Still unavailable:
-- person-image;
+- reliable person-image;
 - P1;
 - contact;
 - crossing.
 
 ## Mystery
-- **M-001 RESOLVED locally**
-- **M-002 ACTIVE**
-- **M-003 ACTIVE**
-- **M-004 ACTIVE**
-- M-005 onward unchanged.
+- M-001 RESOLVED locally
+- **M-002 ACTIVE — strengthened**
+- M-003 ACTIVE
+- M-004 ACTIVE
+- M-005 onward unchanged
 
 ## Foreshadowing
+- **F-001 Mirror Delay — PLANTED**
 - **F-002 Wrong Furniture — PLANTED**
-- F-001, F-003–F-008 — PLANNED / NOT YET PLANTED
+- F-003–F-008 — NOT YET PLANTED
 
 ## Cost
-Lily experienced:
-- cold fingertips;
-- brief nausea.
+Max experiences eye/head pressure after reflective testing.
 
-## CH-009 Guard
-CH-009 must test person-image transfer and fail.
+## CH-010 Guard
+CH-010 may attempt a receiver-specific calibration for Max.
 
-It may plant F-001 only if the approved reflective anomaly appears in Gate-9-approved prose.
-
-No P1 yet.
+If successful:
+- Max alone may reach P1;
+- Lily remains without P1 until CH-011;
+- no direct naked-eye sight;
+- M-002 may become PARTIAL, not resolved.
