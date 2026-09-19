@@ -144,6 +144,13 @@ Result:
 **CANON PASS / PUBLICATION-READINESS REVISION REQUIRED**
 
 Priority final-prose queue:
-CH-005, CH-010, CH-011, CH-013, CH-014, CH-015, CH-017, CH-018, CH-019, CH-020.
+CH-010, CH-011, CH-013, CH-014, CH-015, CH-017, CH-018, CH-019, CH-020.
 
 Future arc selection remains unlocked until the user chooses to proceed; this editorial pass does not alter canon.
+
+
+CH-005 final prose revalidation:
+**PASS — PUBLICATION-FINAL**
+
+Next editorial step:
+**CH-010 — I Can See You → Final Prose Development Pass → Gate 9 Revalidation**
