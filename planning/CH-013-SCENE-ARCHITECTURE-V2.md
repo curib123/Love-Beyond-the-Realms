@@ -28,11 +28,14 @@ He may NOT reveal:
 This moves **M-005 to PARTIAL** after Gate 9.
 
 # Proposed Stronger Setup
-Combine already-known anchors:
-- Lily's brass apartment key;
-- repaired Unit 4B mirror;
-- Max's spatial compass;
+Combine established reference tools with one **untested apartment-bound reference object**:
+- Lily's brass apartment key — **untested by the characters as a stabilizer/anchor at this point**;
+- repaired Unit 4B mirror — known P1 reference;
+- Max's spatial compass — known measurement/reference tool;
 - paired timing counts.
+
+Writer-side note:
+the Systems Bible classifies the brass key as an anchor, but Lily and Max have not yet earned that knowledge in prose. CH-013 may choose the key as a practical reference object; CH-014 provides the first anomalous key behavior.
 
 Goal:
 not touch/crossing, but a stronger stable spatial reference that might tell Max whether his phase-bound state has a directional structure.
