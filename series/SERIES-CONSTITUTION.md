@@ -2,207 +2,298 @@
 
 **Title:** Love Beyond the Realms  
 **Author:** minuszeroo  
-**Genres:** Young Adult • Supernatural Romance • Urban Fantasy • Mystery • Drama  
+**Genres:** Young Adult • Romantic Comedy • Mystery • Science Fiction • Supernatural  
 **Primary Audience:** Teen and young-adult female readers  
 **Status:** LOCKED FOUNDATION
 
-## 1. Core Premise
+# 1. Core Premise
 
-After the death of her parents, eighteen-year-old **Lily Marlowe** moves into Unit 4B of Aster House to begin living on her own.
+Eighteen-year-old **Lily Marlowe** moves into Unit 4B of Aster House after the death of her parents.
 
-The apartment is spatially paired with another version of the same room in a parallel realm.
+Nineteen-year-old **Max Arden** occupies Room 17 of Larkspur House in another reality.
 
-Its other occupant is **Max Arden**, nineteen.
+Both rooms exist at the same dimensional coordinate.
 
-To Lily, Max appears like a handsome ghost: visible, audible, translucent at the edges, and impossible to touch. To Max, Lily is initially an unseen presence. He can hear her imperfectly and perceive the effects of her actions, but he cannot normally see her.
+Lily can see Max.
 
-They are separated by a dimensional boundary called **the Veil**.
+Max can hear Lily but initially cannot see her.
 
-Their relationship begins with fear, irritation, curiosity, and negotiated coexistence. It develops through trust, vulnerability, shared danger, and deliberate choice—not instant attraction or destiny.
+They cannot touch.
 
-## 2. Series Identity
+At first each thinks the other is some kind of haunting.
 
-This is primarily a **romance about two young people learning how to live after loss while loving someone who physically exists beyond reach**.
+They slowly discover that both are alive, both rooms are real, and their worlds are leaking into each other.
 
-The supernatural mystery strengthens the romance. It must not replace it.
+# 2. Dual Main Character Law
 
-The story should deliver:
-- emotional intimacy;
-- slow-burn romantic progression;
-- atmospheric supernatural mystery;
-- female-led agency;
-- friendship and found-family support;
-- grief and healing without treating love as a cure;
-- escalating dimensional stakes;
-- satisfying romantic milestones earned through action and trust.
+Lily and Max are **equal main characters**.
 
-## 3. Lily Law
+Neither exists only to complete the other's romance.
 
-Lily is the principal protagonist.
+Both must have:
+- independent goals;
+- friendships and family;
+- personal problems;
+- secrets;
+- mistakes;
+- victories;
+- emotional development;
+- chapters from their own POV.
 
-She must remain:
-- emotionally believable;
-- intelligent without being infallible;
-- kind without becoming passive;
-- lonely without being defined only by loneliness;
-- grieving without having every scene revolve around grief;
-- capable of humor, embarrassment, anger, jealousy, fear, courage, and ordinary teenage wants;
-- responsible for major decisions that alter the plot.
+Lily remains the primary audience-entry character at the beginning, but Max is not an occasional interlude character.
 
-Max may protect Lily, but he may not replace her agency.
+# 3. Genre Priority
 
-Lily's life on Earth continues to matter independently of Max.
+The intended balance is:
 
-## 4. Max Law
+**Romantic Comedy → Character Drama → Mystery → Science Fiction / Supernatural Stakes**
 
-Max is the primary romantic lead and a co-driver of the supernatural plot.
+The story should regularly provide:
+- funny everyday situations;
+- teasing and banter;
+- awkward attraction;
+- two-world misunderstandings;
+- small emotional wins;
+- mystery clues;
+- sci-fi discoveries;
+- occasional danger.
 
-He must remain:
-- charming but not perfect;
-- protective without becoming controlling;
-- emotionally guarded for understandable reasons;
-- capable of teasing and warmth;
-- independently motivated;
-- willing to disagree with Lily;
-- frightened of being forgotten or left behind;
-- committed to solving his own realm crisis, not simply waiting for Lily.
+Mystery and sci-fi may become serious, but the series must not lose its romantic-comedy identity for long stretches without reason.
 
-Max is not initially a conventional dead ghost.
+# 4. Unique Series Law
 
-He is **phase-displaced** from a parallel realm and appears ghostlike because the two apartments overlap imperfectly.
+Earth and Velaire are not unrelated universes.
 
-## 5. Romance Law
+Writer truth: **they are two stable histories created when one original reality split approximately 140 years ago.**
 
-Romantic escalation follows earned stages:
+The apartment overlap is not a standard portal.
 
-1. **Strangers / Threat Assessment**
-2. **Negotiated Coexistence**
-3. **Curiosity**
-4. **Friendship**
-5. **Emotional Reliance**
-6. **Romantic Awareness**
-7. **Denial / Fear of Impossibility**
-8. **Mutual Choice**
-9. **First Stable Mutual Sight**
-10. **First Touch**
-11. **Relationship Under Consequence**
-12. **Love Tested Across Realms**
+It can exchange:
+- object states;
+- room details;
+- sound;
+- light;
+- short time offsets;
+- information residue;
+- eventually people.
 
-Stages may overlap naturally but major milestones cannot be skipped solely for pacing.
+This phenomenon is called **Echo Exchange**.
 
-No love-at-first-sight declaration.
+The connection becomes more unstable through repeated use and physical resonance—not because love itself powers it.
 
-No forced jealousy triangle as the main engine.
+# 5. Lily Law
 
-No abusive behavior reframed as romantic intensity.
+Lily is:
+- practical;
+- observant;
+- stubborn;
+- kind;
+- quietly funny;
+- awkward when directly flirted with;
+- uncomfortable with pity;
+- capable of bad decisions when afraid of losing someone.
 
-No permanent sacrifice may be erased immediately by a convenient supernatural reset.
+Her parents' deaths remain important but do not define every scene.
 
-## 6. Grief Law
+Her life on Earth must continue to matter.
 
-Lily's parents are dead before Chapter 1.
+# 6. Max Law
 
-Their deaths are emotionally important but are **not secretly caused by Max**.
+Max is:
+- charming;
+- playful;
+- curious;
+- inventive;
+- protective without ownership;
+- good at hiding fear with jokes;
+- capable of being wrong;
+- independently driven to return to his family and solve the dimensional incident.
 
-Romance does not cure Lily's grief.
+He may tease Lily, but he does not become a generic perfect boyfriend.
 
-Healing appears through:
-- routines;
-- friendships;
-- accepting help;
-- making decisions;
-- remembering without collapsing;
-- building a home;
-- allowing happiness without feeling she betrayed her parents.
+# 7. Romance Law
 
-## 7. Supernatural Law
+The romance is slow-burn but not painfully static.
 
-The Veil has consistent rules.
+Progression should come through:
+- shared routines;
+- jokes;
+- trust;
+- small jealousy without toxic ownership;
+- embarrassing misunderstandings;
+- late-night talks;
+- protecting each other's ordinary lives;
+- conflict and repair;
+- longing created by physical separation;
+- eventually learning how to see and touch each other.
 
-Every crossing must have:
-- a trigger;
-- an anchor;
-- a duration or stability limit;
-- a cost;
-- an observable consequence.
+No instant love declaration.
 
-Dimensional mechanics may become more complex, but later revelations cannot invalidate earlier physical rules without explanation.
+No forced love triangle as the main engine.
 
-## 8. Mystery Law
+No abusive behavior framed as romance.
 
-Writer Truth must remain separate from character knowledge.
+No breakup inserted only to extend chapter count.
 
-Foreshadowing IDs begin as:
+# 8. Comedy Law
 
-**PLANNED — NOT YET PLANTED**
+Romantic comedy is a core genre, not decoration.
 
-They become **PLANTED** only when corresponding manuscript prose exists.
+Comedy may come from:
+- two people trying to use the same room in different realities;
+- Max hearing Lily while unable to see her;
+- Lily seeing Max do something embarrassing before he knows she can;
+- exchanged objects;
+- cultural misunderstandings;
+- failed experiments;
+- friends misunderstanding Lily or Max;
+- badly timed Veil events;
+- jealous but non-toxic reactions;
+- sincere romantic moments ruined by practical problems.
 
-Late-series truths may not leak into dialogue or narration merely because the author knows them.
+Do not force jokes into grief, danger, or major emotional revelations.
 
-## 9. Consequence Law
+# 9. POV Law
 
-Romantic and supernatural choices have consequences.
+Use **simple close third-person narration**.
 
-Consequences may include:
-- missed school or work;
-- damaged friendships;
-- family concern;
-- physical exhaustion;
-- memory distortion;
+Both main POVs are canonical:
+
+- **Lily POV**
+- **Max POV**
+
+One scene should normally stay inside one POV.
+
+No uncontrolled head-hopping.
+
+POV may alternate by chapter or by clearly separated scene.
+
+The reader should understand who owns the POV within the opening lines.
+
+# 10. Language Law
+
+Use simple, natural English.
+
+Prefer:
+- clear sentences;
+- concrete description;
+- understandable emotion;
+- natural speech;
+- light internal thoughts;
+- readable paragraphs.
+
+Do not confuse sophistication with difficult vocabulary.
+
+# 11. Dialogue Law
+
+Dialogue is one of the main strengths of the story.
+
+Lily and Max must not sound identical.
+
+Their conversations should contain:
+- interruption;
+- teasing;
+- hesitation;
+- unfinished thoughts;
+- subtext;
+- callbacks;
+- misunderstandings;
+- sincere moments;
+- occasional silence.
+
+Characters should rarely explain information both speakers already know.
+
+# 12. Mystery and Plot-Twist Law
+
+Mysteries use controlled setup and payoff.
+
+There are two twist classes:
+
+**Minor twists**
+- may occur frequently;
+- change the meaning of a local scene, clue, character assumption, or small mystery;
+- should create surprise without rewriting canon.
+
+**Major twists**
+- are rare;
+- must be foreshadowed;
+- must change how readers understand the worlds, characters, or central conflict;
+- cannot exist only for shock value.
+
+Every major twist requires evidence planted before reveal.
+
+# 13. Science-Fiction Law
+
+Dimensional behavior must follow understandable rules.
+
+The story may use fictional science, but it must remain internally consistent.
+
+No solution can suddenly appear because "quantum" is used as a magic word.
+
+Experiments should:
+- have a hypothesis;
+- produce observable results;
+- sometimes fail;
+- create consequences;
+- improve Lily and Max's understanding.
+
+# 14. Grief Law
+
+Lily's parents died in an ordinary road accident.
+
+Their deaths were not secretly caused by Max, Velaire, Aster House, or a dimensional conspiracy.
+
+Romance does not cure grief.
+
+# 15. Consequence Law
+
+Choices matter.
+
+Repeated cross-world experiments may cause:
+- exhaustion;
 - lost time;
-- realm instability;
+- swapped objects;
+- damaged rooms;
+- memory confusion;
+- social problems;
 - mistrust;
-- broken anchors;
-- temporary separation;
-- irreversible choices.
+- accidental exposure;
+- larger overlap instability.
 
-The story may be hopeful without becoming consequence-free.
+Comedy does not erase consequences.
 
-## 10. Structural Law
+# 16. Open-Ended Series Law
 
-**Character truth first. Relationship progression second. Supernatural mystery third. Realm escalation fourth.**
+There is **no fixed final chapter count**.
+
+There is no required total number of volumes.
+
+The series grows through completed arcs.
+
+Only active arcs receive detailed roadmaps.
+
+Future arcs must remain provisional until current canon creates a natural reason for them.
+
+Do not stretch a solved conflict only to keep the series running.
+
+# 17. Structural Law
+
+**Character → Relationship/Comedy → Mystery → Sci-Fi Escalation → Consequence**
 
 Production order:
 
-**Series → World → Systems → Characters → Mysteries → Locations → Volume → Chapters → Scenes → Manuscript → QA → Canon**
+**Series → World → Systems → Characters → Mysteries/Twists → Locations → Active Arc → Chapters → Scenes → Manuscript → QA → Canon**
 
-Lower layers cannot silently contradict higher layers.
+# 18. Originality Law
 
-## 11. POV Law
+Do not copy scenes, dialogue, lore, character dynamics, or twist structures from existing two-world romances.
 
-Default prose is **close third-person limited through Lily**.
-
-Max may receive specifically authorized interlude chapters when a volume requires his independent perspective.
-
-No casual head-hopping.
-
-Direct internal thoughts may be used selectively for emotional immediacy.
-
-## 12. Originality Law
-
-The series may use familiar supernatural-romance ingredients—haunted apartments, parallel worlds, impossible touch, dimensional crossings—but characters, realm rules, scenes, dialogue, history, visual identity, and mystery solutions must remain original.
-
-## 13. Audience and Content Boundary
-
-The core cast is late-teen/young-adult.
-
-Romance emphasizes:
-- emotional intimacy;
-- longing;
-- handholding/touch as meaningful milestones;
-- kissing only when earned;
-- non-explicit physical affection.
-
-The story does not require explicit sexual content to create romantic intensity.
-
-## 14. Foundation Gate
-
-Long-form manuscript production should not begin until:
-- World Bible is coherent;
-- Realm Systems are coherent;
-- Character Bible is coherent;
-- Mystery Bible defines Writer Truth;
-- Volume 1 architecture and roadmap pass their gates.
+Familiar romance tropes are allowed only when transformed through:
+- asymmetric perception;
+- Echo Exchange;
+- dual POV;
+- split-world science;
+- separate social lives;
+- consequence-based crossing.
 
 **Status: LOCKED.**
