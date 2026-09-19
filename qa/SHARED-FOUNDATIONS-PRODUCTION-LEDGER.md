@@ -118,3 +118,21 @@ Genre lock:
 # Next Authorized Step
 
 **CH-022 — The Safe Distance → Manuscript Draft**
+
+
+# CH-021 Movie-Like English Revalidation
+
+QA:
+`qa/CH-021-MOVIE-ENGLISH-REVALIDATION.md`
+
+Result:
+**PASS — CANON-APPROVED / PROSE REVALIDATED**
+
+Canon state:
+**UNCHANGED**
+
+All existing series manuscripts CH-001–CH-021 now use the locked movie-like English / actor-speak prose baseline.
+
+# Current Next Authorized Step
+
+**CH-022 — The Safe Distance → Manuscript Draft**
