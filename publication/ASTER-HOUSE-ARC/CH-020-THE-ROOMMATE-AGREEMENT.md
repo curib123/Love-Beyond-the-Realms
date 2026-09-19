@@ -562,11 +562,13 @@ Lily sat at the desk with the agreement in front of her.
 
 "So."
 
-"We're roommates now."
+A pause crossed badly.
+
+Then Max said, "We're roommates now."
 
 "Across two realities."
 
-"Still roommates."
+"You're adding unnecessary qualifiers."
 
 "You don't pay rent."
 
@@ -574,29 +576,35 @@ Lily sat at the desk with the agreement in front of her.
 
 "You broke my geometry."
 
-"Temporary error."
+"Temporary administrative—"
 
-"You insulted my chair."
-
-"Accurate observation."
-
-Lily leaned back.
+"That isn't what administrative means."
 
 The audio hissed.
 
-Max's voice returned several seconds late.
+Several seconds later, Max came back with, "I was improvising."
+
+"That part I believe."
+
+Another delay.
 
 "Do I at least get shelf space?"
 
+Lily looked around Unit 4B as if checking.
+
 "No."
 
-"Unreasonable."
+"That sounded premeditated."
 
 "You don't own anything on this side."
 
 "The cardboard."
 
 "The cardboard is not yours."
+
+"It has history."
+
+"It has one job."
 
 "Shared cultural object."
 
@@ -654,19 +662,35 @@ Max laughed softly.
 
 "You stay out of bad corridors."
 
-"Less heroic."
+"That sounds targeted."
+
+"It is."
+
+Another crackle.
+
+"And then?"
 
 "We sleep."
 
 "Controversial."
 
+"We eat actual food."
+
+"Now you're just adding rules."
+
 "We don't break reality for at least a few days."
 
-"Extremely restrictive."
+Silence.
 
-Lily smiled.
+Then Max said, "Define a few."
 
-Then she said, "We figure out the next question when we actually have one."
+Lily smiled despite herself.
+
+"No."
+
+"Hostile negotiation."
+
+"We figure out the next question when we actually have one."
 
 The audio crackled.
 
