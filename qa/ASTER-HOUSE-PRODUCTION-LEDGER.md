@@ -1,0 +1,30 @@
+# Aster House Arc — Production Ledger
+
+**Arc:** AH-ARC-001  
+**Locked Chapter Count:** 20  
+**Gate 6:** PASS v2  
+**Gate 7:** PASS v2  
+**Status:** ACTIVE PRODUCTION
+
+| Chapter | Gate 8 | Manuscript | Gate 9 | Canon |
+|---|---|---|---|---|
+| CH-001 | pending | pending | pending | no |
+| CH-002 | pending | pending | pending | no |
+| CH-003 | pending | pending | pending | no |
+| CH-004 | pending | pending | pending | no |
+| CH-005 | pending | pending | pending | no |
+| CH-006 | pending | pending | pending | no |
+| CH-007 | pending | pending | pending | no |
+| CH-008 | pending | pending | pending | no |
+| CH-009 | pending | pending | pending | no |
+| CH-010 | pending | pending | pending | no |
+| CH-011 | pending | pending | pending | no |
+| CH-012 | pending | pending | pending | no |
+| CH-013 | pending | pending | pending | no |
+| CH-014 | pending | pending | pending | no |
+| CH-015 | pending | pending | pending | no |
+| CH-016 | pending | pending | pending | no |
+| CH-017 | pending | pending | pending | no |
+| CH-018 | pending | pending | pending | no |
+| CH-019 | pending | pending | pending | no |
+| CH-020 | pending | pending | pending | no |
