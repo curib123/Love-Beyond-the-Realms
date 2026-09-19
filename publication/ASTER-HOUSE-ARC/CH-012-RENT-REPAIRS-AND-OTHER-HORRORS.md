@@ -1,80 +1,112 @@
 # CH-012 — Rent, Repairs, and Other Horrors
 
-Lily woke up eleven minutes after her alarm. That was not a disaster.
+Lily woke up eleven minutes after her alarm.
+
+That was not a disaster.
 
 It only felt like one because she had spent the past week becoming the kind of person who measured delays in seconds.
 
-She stared at the ceiling, reached blindly for her phone, and saw the time.
+She stared at the ceiling.
+
+Reached blindly for her phone.
+
+Saw the time.
 
 "Oh, come on."
 
-The apartment offered no sympathy.
+Unit 4B remained unsympathetic.
 
-She got up, stepped over the notebook she had left beside the bed, and nearly walked into the chair she had moved away from the wall after the furniture test.
+Lily got up, stepped over a notebook beside the bed, and nearly walked into the dining chair she had moved after the furniture test.
 
-Her first thought was that something had shifted again. Her second was more embarrassing.
+Her first thought was immediate.
 
-No. She had moved it herself.
+*It shifted.*
 
-Apparently, normal bad decisions still existed.
+Her second was worse.
 
-Lily washed her face, tied her hair back, and opened her banking app while waiting for the kettle.
+No.
 
-Rent was still due on the same date, still requiring actual money, and still somehow more reliable than dimensional physics.
+She had moved it.
 
-She paid it, watched the balance update, and felt the familiar small drop in her stomach.
+"Right. Normal bad decisions still exist."
 
-Independent adulthood remained deeply committed to being expensive.
+She washed her face, tied her hair back, and opened her banking app while the kettle heated.
+
+Rent was due on the same date as always.
+
+Actual money.
+
+No dimensional delay.
+
+No mysterious gray handwriting.
+
+She paid it and watched her balance drop.
+
+Independent adulthood remained much more reliable than physics and considerably more expensive.
 
 The kettle clicked off.
 
-Lily took her mug into the living room and started putting things back where they belonged. Tape marks remained near the desk from the timing tests. The chair was slightly crooked. Her notes had multiplied across the small table.
+Lily took her mug into the living room and started putting things back where they belonged.
 
-The wall mirror caught her attention. It sat at the angle she had used for the last calibration with Max.
+Tape marks near the desk.
+
+Chair slightly crooked.
+
+Notes multiplying across every flat surface.
+
+Then the wall mirror caught her eye.
+
+Still angled from the last calibration.
 
 Lily crossed the room and put one hand on the frame.
 
 The mirror shifted.
 
-Not much. Enough.
+Barely.
+
+Enough.
 
 She froze.
 
-Then she touched the lower edge again.
+Touched the lower edge again.
 
-A faint scraping sound came from the upper bracket.
+A faint scrape came from the upper bracket.
 
-Lily stepped back.
+For one terrible second, Lily's brain produced three different dimensional explanations.
 
-For one terrible second, her mind supplied three possibilities involving dimensional instability.
+Then she looked closer.
 
-Then she looked more closely.
+Cracked plaster around the screw.
 
-The plaster around one screw had cracked.
+Old wall.
 
-She stared at it.
+Heavy mirror.
+
+Repeated adjustments.
+
+She stared.
 
 "That's it?"
 
-The mirror had not become cold. The reflection had not changed. No second room appeared. No writing crossed the glass.
+No cold.
 
-The wall was simply old, the mirror was heavy, and Lily had spent several days adjusting it over and over like a person who had forgotten that screws were physical objects.
+No second room.
 
-She reached for the frame again, stopped, and lowered her hand.
+No wrong reflection.
 
-No more mirror until it was fixed.
+Just ordinary damage caused by repeatedly moving an object that had never asked to become laboratory equipment.
 
-Lily looked toward the desk.
+Lily reached toward the bracket.
 
-The writing patch was quiet.
+Stopped.
 
-For a moment, she considered tightening the bracket herself.
+"No."
 
-It did not look difficult.
+The last several weeks had taught her one useful rule.
 
-That was exactly the kind of thought that usually happened right before something became more difficult.
+Whenever she thought, *That doesn't look difficult,* difficulty was already on its way.
 
-She picked up her phone and messaged Mrs. Bell.
+She took out her phone and messaged Mrs. Bell.
 
 The reply came four minutes later.
 
@@ -84,49 +116,69 @@ Lily looked at the mirror.
 
 "Everyone is very controlling today."
 
-The mirror remained innocent.
+The mirror, correctly, said nothing.
 
 ---
 
-Mrs. Bell arrived at one thirty carrying a screwdriver, a small flashlight, and the expression of someone who had already repaired three things she had not expected to repair that day.
+Mrs. Bell arrived at one-thirty with a screwdriver, flashlight, and the expression of someone who had already repaired three things she had not planned to repair.
 
 Lily opened the door.
 
-Mrs. Bell stepped inside, looked toward the living room, and stopped.
+Mrs. Bell stepped inside.
 
-There was tape on the floor, the dining chair sat farther from the table than normal, and the wall mirror was angled strangely.
+Stopped.
 
-Mrs. Bell looked at Lily.
+Her gaze moved across the living room.
 
-Lily looked at Mrs. Bell.
+Tape on the floor.
+
+Dining chair out of place.
+
+Mirror angled strangely.
+
+Then she looked at Lily.
+
+Lily looked back.
 
 "I can explain."
 
-"Can you?"
+Mrs. Bell raised one eyebrow.
 
-"Most of it."
+Lily looked at the tape.
 
-Mrs. Bell made a small sound that suggested this was not the answer she had hoped for.
+Then the mirror.
 
-She crossed to the mirror and checked the upper bracket without touching the frame too hard.
+"Some of it."
 
-"Old plaster," she said.
+"That's already worse."
 
-Lily relaxed slightly.
+"Probably."
 
-Mrs. Bell pointed the flashlight along the edge. "And somebody has been moving this more than it was designed to be moved."
+Mrs. Bell sighed through her nose.
 
-Lily did not relax.
+She crossed to the mirror and checked the bracket.
+
+"Old plaster."
+
+Lily relaxed.
+
+A little.
+
+Mrs. Bell aimed the flashlight along the edge.
+
+"And somebody has been moving this more than it was designed to be moved."
+
+Lily stopped relaxing.
 
 "I needed a different angle."
+
+Mrs. Bell looked over her shoulder.
 
 "For what?"
 
 Lily looked at the mirror.
 
 "Lighting."
-
-Mrs. Bell turned to her.
 
 "Lighting."
 
@@ -138,7 +190,7 @@ Lily folded her arms.
 
 Mrs. Bell examined the bracket again.
 
-"This isn't serious. But the anchor needs replacing, and I want the wall checked before I put the weight back on it."
+"This isn't serious. Anchor needs replacing. Wall needs checking before I put the weight back."
 
 "When?"
 
@@ -146,31 +198,39 @@ Mrs. Bell examined the bracket again.
 
 Lily nodded.
 
-Mrs. Bell straightened and noticed the tape marks.
+Mrs. Bell straightened.
 
-"And the floor?"
+Her flashlight beam landed on the tape marks.
+
+"And that?"
 
 "Measurements."
 
-"Of what?"
+"Of?"
 
-Lily paused.
+Lily glanced at the chair.
 
 "Furniture."
 
-Mrs. Bell looked at the chair, then at Lily, then back at the chair.
+Mrs. Bell followed her gaze.
 
-"I don't want to know."
+Looked at Lily.
 
-"That's probably best."
+Looked at the chair again.
 
-Mrs. Bell sighed, but there was no real suspicion in it. Only the tired patience of a landlord whose building had survived more than one strange tenant.
+"I have decided not to ask."
 
-"There's an insurance inspection next week," she said. "Not just your unit. The whole building. I need access points clear, fixtures secure, nothing blocking the hall, and no furniture experiments that end with me explaining anything to an inspector."
+"Good decision."
+
+"I make several a day."
+
+Mrs. Bell sighed and closed the toolbox.
+
+"Insurance inspection next week. Whole building. I need access points clear, fixtures secure, hallways empty, and no furniture experiments that end with me explaining anything to an inspector."
 
 "They're not really furniture experiments."
 
-Mrs. Bell gave her a look.
+Mrs. Bell looked at her.
 
 Lily corrected herself.
 
@@ -180,23 +240,25 @@ Lily corrected herself.
 
 "Good."
 
-"Yes. That's usually the preferred outcome."
+"Yes. Landlords tend to prefer that."
 
 Lily almost smiled.
 
-Mrs. Bell gathered her tools. "You don't need to panic. Just don't use the mirror until it's repaired."
+Mrs. Bell gathered her tools.
+
+"Don't use the mirror until it's repaired."
 
 "I wasn't going to."
 
 "Good."
 
-At the door, Mrs. Bell stopped.
+At the door, Mrs. Bell paused.
 
 "You look tired."
 
 Lily opened her mouth.
 
-Mrs. Bell raised one hand.
+Mrs. Bell lifted one hand.
 
 "That wasn't a question."
 
@@ -210,19 +272,21 @@ Apparently, landlords had discovered direct communication before dimensional sci
 
 Nora called at six.
 
-Lily considered ignoring the phone for exactly two rings.
+Lily let it ring twice.
 
-Then she answered.
+Three would have become a statement.
+
+She answered.
 
 "Hi."
 
 "You're tired."
 
-Lily frowned. "That's an impressive thing to know from one word."
+Lily frowned. "You got that from one word?"
 
 "You sounded tired in your message this morning."
 
-"I didn't send you a message this morning."
+"I didn't message you this morning."
 
 A pause.
 
@@ -230,29 +294,31 @@ A pause.
 
 Lily looked at the time.
 
-That was not helping her argument.
+That was not helping her case.
 
-Nora continued, "Mrs. Bell called me."
+Nora continued.
 
-"What?"
+"Mrs. Bell called me."
+
+Lily sat up. "What?"
 
 "Not about you."
 
-Lily relaxed.
+She relaxed immediately.
 
-"She asked if I still knew the electrician who looked at her kitchen wiring last year. Then she mentioned there was an inspection coming up."
+"She asked if I still had the electrician's number from last year. Then mentioned the inspection."
 
 "That is a very indirect way to worry about me."
 
 "I'm talented."
 
-Lily sat down at the table.
+Lily sat at the table.
 
-"The mirror bracket is loose. That's all."
+"The mirror bracket is loose. Old plaster. That's all."
 
 "The mirror bracket?"
 
-"Old plaster."
+"Yes."
 
 "Are you moving furniture around at midnight now?"
 
@@ -264,11 +330,21 @@ Lily looked at the tape on the floor.
 
 "I'm fine."
 
-The words came out automatically.
+Too fast.
 
-She hated that Nora went quiet after them.
+Nora went quiet.
 
-Not angry. Just quiet.
+Lily closed her eyes.
+
+"Okay," Lily said before Nora could. "That sounded fake."
+
+"A little."
+
+"Don't enjoy this."
+
+"I wasn't."
+
+"You were."
 
 Nora said, "I'm not asking you to move home."
 
@@ -278,11 +354,7 @@ Nora said, "I'm not asking you to move home."
 
 Lily rubbed her forehead.
 
-Nora continued before she could answer.
-
-"If the repair gets annoying, you can sleep here for one night. If you don't want that, fine. I can bring dinner. Or groceries. Or nothing."
-
-Lily stared at the wall.
+"If the repair is annoying, you can sleep here one night. If you don't want that, fine. I can bring dinner. Or groceries. Or nothing."
 
 "I'm not falling apart."
 
@@ -298,11 +370,25 @@ Nora's voice softened.
 
 "Handling it doesn't mean doing every single thing alone."
 
-Lily did not answer immediately.
+Lily looked around.
 
-The old reflex was there: say no, prove it, make the problem smaller until nobody could help.
+Mirror.
 
-She looked at the mirror, the notes, the coffee mug she had forgotten to wash, and the clock.
+Notes.
+
+Unwashed mug.
+
+Half-folded laundry.
+
+The old instinct arrived immediately.
+
+Make the problem smaller.
+
+Say no.
+
+Prove independence by refusing everything.
+
+She was tired of that instinct making decisions for her.
 
 "Dinner," she said.
 
@@ -310,9 +396,9 @@ She looked at the mirror, the notes, the coffee mug she had forgotten to wash, a
 
 "You can bring dinner."
 
-Nora was quiet for half a second.
+Nora paused.
 
-"All right."
+Then, very carefully, "All right."
 
 "Not because I can't cook."
 
@@ -326,9 +412,7 @@ Nora was quiet for half a second.
 
 "It wasn't."
 
-It definitely was.
-
-Lily leaned back in the chair.
+It absolutely was.
 
 "Tomorrow?"
 
@@ -340,57 +424,61 @@ Lily leaned back in the chair.
 
 "I'll tell you."
 
-Another pause.
+A small silence.
 
 "Good."
 
-Lily smiled a little.
+Lily leaned back.
 
-It felt strange that accepting dinner could feel like losing an argument she had never needed to win.
+Accepting dinner should not have felt like losing an argument.
+
+Maybe that was because it was not one.
 
 ---
 
-The writing patch opened at eight seventeen.
+The writing patch opened at eight-seventeen.
 
-Lily noticed the first gray line while she was putting away the last of her notes.
+Lily noticed the first gray line while stacking her notes.
 
 **MIRROR TONIGHT?**
 
-She sat down.
+She sat.
 
 **NO.**
 
-The answer came quickly.
+The answer arrived quickly.
 
 **BAD NO OR NORMAL NO?**
 
-Lily looked toward the wall mirror.
+Lily looked at the mirror.
 
 **NORMAL NO. MOUNT IS LOOSE. LANDLORD IS REPAIRING IT.**
 
-The next line took a few seconds.
+A pause.
 
 **DID WE BREAK IT?**
 
-She considered that.
+Lily considered.
 
 **WE MOVED IT TOO MUCH. OLD WALL.**
 
-**THAT SOUNDS LIKE A YES WITH EXTRA STEPS.**
+**THAT SOUNDS LIKE YES WITH EXTRA STEPS.**
 
-Lily wrote:
+She wrote:
 
 **NO VISUAL TESTS UNTIL IT'S FIXED.**
 
 **AGREED.**
 
-That part came without argument.
+No argument.
+
+Good.
 
 Lily added:
 
-**AND NO MORE LATE TESTS BEFORE WORK DAYS.**
+**AND NO LATE TESTS BEFORE WORK DAYS.**
 
-There was a longer pause.
+A longer pause.
 
 **DEFINE LATE.**
 
@@ -400,35 +488,47 @@ There was a longer pause.
 
 **EFFECTIVE STANDARD.**
 
-Another line appeared.
+Another line:
 
 **AGREED.**
 
 Lily looked at it.
 
-She had expected at least one more joke.
+She expected another joke.
 
-Instead Max wrote:
+Instead:
 
 **YOUR HOME COMES FIRST.**
 
-Her hand stopped over the page.
+Her hand stopped.
 
-The sentence was simple.
+Simple sentence.
 
-That somehow made it worse.
+Worse that way.
 
-For days, Unit 4B had become a test site: a writing surface, a timing reference, a place where one mirror could show another world.
+For days, Unit 4B had become a test site.
 
-But it was still where she slept, where she paid rent, where her clothes were hanging in the bedroom, where Nora would bring dinner tomorrow, and where Mrs. Bell would send someone to fix a bracket because Lily had been moving a heavy mirror too often.
+Writing surface.
+
+Timing reference.
+
+Mirror station.
+
+But it was still where she slept.
+
+Where she paid rent.
+
+Where her clothes hung.
+
+Where Nora would bring dinner.
+
+Where Mrs. Bell would repair a wall because Lily had been moving a heavy mirror too often.
 
 Home.
 
 Lily wrote:
 
 **ALSO WE PUT EVERYTHING BACK AFTER TESTS.**
-
-Max replied:
 
 **INCLUDING THE CHAIR?**
 
@@ -440,32 +540,38 @@ Max replied:
 
 **YOU HAVE NO RESPECT FOR HISTORY.**
 
-Lily smiled despite herself.
+Lily smiled.
 
-Then she wrote:
+Then:
 
 **I'M SERIOUS.**
 
-The answer came back slower.
+The reply came slower.
 
 **I KNOW.**
 
-A second line followed.
+A second line.
 
 **I'M SERIOUS TOO.**
 
-The coherence window began to weaken.
+The window weakened.
 
-Lily looked at the old mirror across the room.
+For the next few days, Lily probably would not see Max.
 
-For the next few days, she probably would not see Max. She disliked that more than she wanted to examine.
+She disliked that more than she wanted to examine.
 
-But the disappointment did not change the answer.
+That changed nothing.
 
 The apartment came first.
 
-Without Unit 4B, there was no mirror, no writing patch, no place for any of this to happen.
+Without Unit 4B, there was no mirror, no patch, no place for any of this to happen.
 
 The gray marks faded.
 
-Lily gathered her notes into one stack, turned off the desk lamp, and left the mirror exactly where it was.
+Lily gathered her notes into one stack.
+
+Turned off the lamp.
+
+Left the mirror exactly where it was.
+
+For once, doing nothing was the responsible experiment.
