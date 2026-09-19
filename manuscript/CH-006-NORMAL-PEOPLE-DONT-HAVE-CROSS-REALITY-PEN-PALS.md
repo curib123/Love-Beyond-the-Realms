@@ -90,13 +90,15 @@ Lily nearly dropped the towel.
 
 "No."
 
-Ava's face changed instantly.
+Ava went still.
+
+Then her eyebrows climbed.
 
 "Oh, wow."
 
 "It is not."
 
-"That was a very fast no."
+"That was so fast I almost believe you."
 
 "It was also correct."
 
@@ -210,11 +212,13 @@ Ava: DON'T RUN FOR YOUR MYSTERY PERSON
 
 Lily typed:
 
-I am standing still.
+I am literally standing still.
+
+The reply came before she could lock the screen.
 
 Ava: emotionally counts
 
-Lily put the phone away.
+Lily stared at it, then put the phone away.
 
 She was annoyed.
 
