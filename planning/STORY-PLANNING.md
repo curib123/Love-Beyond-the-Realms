@@ -1397,3 +1397,30 @@ Execution lock:
 # 98. Next Production Step
 
 **CH-022 — The Safe Distance → Manuscript Draft**
+
+
+# 99. Arc 1 Dialogue Vitality Revalidation
+
+Record:
+`qa/ASTER-HOUSE-DIALOGUE-VITALITY-REVALIDATION.md`
+
+Result:
+**PASS — PUBLICATION-FINAL**
+
+Targeted dialogue revisions:
+CH-004, CH-005, CH-007, CH-008, CH-009, CH-013, CH-014, CH-015, CH-017, CH-018, CH-019, CH-020.
+
+Reviewed and retained as already strong:
+CH-001, CH-002, CH-003, CH-006, CH-010, CH-011, CH-012, CH-016.
+
+Canon remains unchanged.
+
+Current Arc 1 publish master:
+`publication/ASTER-HOUSE-ARC-PUBLISH-MANUSCRIPT.md`
+
+Future chapters inherit the Cross-World Writing Channel Vitality Rule from:
+`manuscript/WRITING-RULES.md`
+
+# 100. Current Next Production Step
+
+**CH-022 — The Safe Distance → Manuscript Draft**
