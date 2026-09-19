@@ -264,3 +264,26 @@ Current publication master:
 `publication/ASTER-HOUSE-ARC-PUBLISH-MANUSCRIPT.md`
 
 This revalidation is the current prose baseline for Arc 1.
+
+
+# Movie-Like English Revalidation
+
+A later prose-only publication pass supersedes the earlier dialogue-vitality baseline.
+
+Record:
+`qa/ASTER-HOUSE-MOVIE-ENGLISH-REVALIDATION.md`
+
+Result:
+**PASS — PUBLICATION-FINAL**
+
+All CH-001–CH-020 were revised/revalidated under:
+**Movie-Like English / Cinematic Dialogue Rule**
+
+Canon, mystery, system, POV, and relationship milestones remain unchanged.
+
+Current publication master:
+`publication/ASTER-HOUSE-ARC-PUBLISH-MANUSCRIPT.md`
+
+Earlier exact word counts in historical Gate 9 records may differ slightly after this prose-only pass and should be treated as historical metadata.
+
+The movie-English revalidation is the current Arc 1 publication prose baseline.
