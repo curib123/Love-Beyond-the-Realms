@@ -9,8 +9,6 @@
 
 **Final volume count: UNLOCKED**
 
-The story remains open-ended.
-
 # Current Story Identity
 
 Genre:
@@ -53,15 +51,14 @@ Opening system:
 
 # QA State After Revision
 
-The following previous results remain as historical records but are **not sufficient for v2 production**:
-
-- Gate 1 — SUPERSEDED / REVALIDATION REQUIRED
-- Gate 2 — REVALIDATION REQUIRED where opening character dynamics changed
-- Gate 3 — REVALIDATION REQUIRED
-- Gate 4 — likely reusable, but must be checked against v2
-- Gate 5 — likely reusable, but must be checked against v2
+Historical but revalidation-required:
+- Gate 1 — REVALIDATE
+- Gate 2 — REVALIDATE
+- Gate 3 — REVALIDATE
+- Gate 4 — CHECK / REVALIDATE
+- Gate 5 — CHECK / REVALIDATE
 - Gate 6 — SUPERSEDED by v2 candidate architecture
-- Gate 7 — SUPERSEDED by v2 candidate chapter roadmap
+- Gate 7 — SUPERSEDED by v2 candidate roadmap
 - CH-001 Gate 8/9 — SUPERSEDED
 - CH-002 Gate 8/9 — SUPERSEDED
 
@@ -83,8 +80,6 @@ Status:
 
 Provisional chapter count:
 **20**
-
-This number is no longer QA-locked until Gate 6/7 pass again.
 
 # Intended v2 Milestones
 
@@ -112,9 +107,7 @@ MT-003 Their Experiments Strengthen the Leak:
 
 # Manuscript State
 
-Previous active CH-001 and CH-002 manuscript files have been removed from the active manuscript set.
-
-Git history preserves them.
+Pre-v2 CH-001/CH-002 are superseded.
 
 No revised chapter is canon-approved yet.
 
@@ -122,6 +115,4 @@ No revised chapter is canon-approved yet.
 
 **Gate 1 — Foundation QA Revalidation for Originality Revision v2.**
 
-Do not advance to CH-003.
-
-Do not draft the new opening until the affected gates are revalidated in production order.
+Do not advance to CH-003 and do not draft the new opening until affected gates are revalidated in production order.
