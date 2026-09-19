@@ -3,7 +3,7 @@
 **Chapter:** Tap Twice If You're Real
 **Result:** **PASS**
 **Canon Status:** **APPROVED**
-**Word Count:** 838
+**Word Count:** 839
 **Major Issues:** 0 after correction
 
 Corrections before pass:
@@ -29,3 +29,11 @@ Canon changes:
 
 # Next
 **CH-006 — Normal People Don't Have Cross-Reality Pen Pals → Gate 8**
+
+
+# Post-arc metadata audit
+
+Current manuscript word count rechecked:
+**839**
+
+Prior QA count was off by one after manuscript revision. No story/canon change.
