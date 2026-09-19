@@ -16,7 +16,12 @@ Check:
 - Max is alive;
 - Lily's parents remain outside the conspiracy;
 - no final series chapter count is locked;
-- future arcs remain open.
+- future arcs remain open;
+- **room-before-person discovery** is locked;
+- P0 is **Echo Trace**, not direct person sight;
+- environmental information/writing may cross before person-image information;
+- first visual access requires a later P1+ condition;
+- the superseded one-way opening hook is explicitly prohibited.
 
 If critical items fail: **FAIL — RETURN TO FOUNDATION.**
 
