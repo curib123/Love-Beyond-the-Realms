@@ -6,23 +6,25 @@ That would have been strange even before the door started disagreeing with the h
 
 Most of the time, Unit 4B looked normal.
 
-White-painted frame.
+White frame.
 
 Brass lock.
 
-Small gap beneath the door where the hall light came through.
+Thin line of hallway light beneath it.
 
 Then the light changed.
 
 Warm yellow became pale blue.
 
-The line beneath the door stretched wider than the actual gap.
+The gap looked wider than the real gap.
 
 Lily did not move.
 
 Her phone timer ran beside her.
 
-The writing patch on the desk had been unreliable all morning. Max's last message had taken almost a minute to arrive.
+The writing patch had been unreliable all morning.
+
+Max's last message had taken almost a minute.
 
 **DOOR WRONG AGAIN. STAY BACK.**
 
@@ -34,29 +36,33 @@ No reply yet.
 
 Lily looked through the peephole.
 
-The Aster House hall was there.
+Aster House hallway.
 
-Then it wasn't.
+Then, for half a second, not Aster House.
 
-For half a second, the corridor beyond the glass became taller and darker, with a strip of amber light running along the wall.
+Taller corridor.
+
+Darker walls.
+
+Amber strip of light.
 
 Larkspur.
 
 Probably.
 
-Lily stepped away immediately.
-
-The rule was simple.
+Lily stepped back immediately.
 
 Wrong door.
 
-Do not open it.
+Do not open.
+
+Simple rule.
 
 ---
 
 Someone knocked.
 
-Lily nearly jumped.
+Lily nearly jumped out of her skin.
 
 "Who is it?"
 
@@ -64,27 +70,27 @@ Lily nearly jumped.
 
 Of course.
 
-Lily crossed the room but stopped several steps from the door.
+Lily crossed the room and stopped several steps from the door.
 
 "Don't touch the handle."
 
 Silence.
 
-Then June's voice.
+Then June:
 
 "That is a very specific greeting."
 
 "I'm serious."
 
-"I can tell."
+"I noticed."
 
-Lily looked at the light under the door.
+Lily watched the light under the door.
 
-Normal yellow.
+Yellow.
 
-Then blue.
+Blue.
 
-"Move back from the door."
+"Move back."
 
 Another pause.
 
@@ -96,15 +102,19 @@ That changed June's tone.
 
 Footsteps moved away.
 
-Lily waited five seconds, then ten.
+Lily waited.
 
-The blue line under the door faded.
+Five seconds.
 
-She looked through the peephole.
+Ten.
 
-June stood across the hall in nursing scrubs, bag over one shoulder, expression flat with exhaustion.
+The blue line faded.
 
-The corridor looked normal.
+She checked the peephole.
+
+June stood across the hall in nursing scrubs, bag over one shoulder, looking like she had slept exactly enough to remain legally functional.
+
+The corridor was normal.
 
 Lily unlocked the door but opened it only a few inches.
 
@@ -118,13 +128,11 @@ June looked at the chain.
 
 "The frame is acting strange."
 
-June stared at it.
-
-The frame looked perfectly normal.
+June stared at the perfectly normal frame.
 
 Lily hated that.
 
-June reached toward the edge.
+June reached toward it.
 
 Lily pulled the door closed.
 
@@ -140,19 +148,21 @@ Lily kept one hand on the lock.
 
 "It's being repaired."
 
-"Then why are you standing guard?"
+"Then why are you guarding it?"
 
 "Because it isn't repaired yet."
 
-June looked at her for a long moment.
+June looked at her.
 
-Lily knew how she looked.
+Long enough.
+
+Lily knew what she saw.
 
 Tired.
 
-Probably pale.
+Pale.
 
-Possibly like someone losing an argument with a door.
+Possibly losing an argument with a door.
 
 June sighed.
 
@@ -160,7 +170,7 @@ June sighed.
 
 "Nothing."
 
-June's expression did not change.
+June's face did not change.
 
 Lily corrected herself.
 
@@ -170,17 +180,17 @@ Lily corrected herself.
 
 ---
 
-They spoke through the mostly closed door.
+They spoke through a mostly closed door.
 
-It was ridiculous.
+Ridiculous.
 
-It was also safer.
+Safer.
 
-June had only stopped because she was returning from clinicals and had seen Lily's handwritten note taped crookedly beside the frame.
+June had stopped because she was coming back from clinicals and saw Lily's handwritten sign taped crookedly beside the frame.
 
 **DO NOT USE — REPAIR PENDING**
 
-"You wrote that after I knocked, didn't you?" June asked.
+June asked, "You wrote that after I knocked, didn't you?"
 
 "No."
 
@@ -190,9 +200,9 @@ A beat.
 
 "Thought so."
 
-Lily leaned her forehead briefly against the wall beside the door.
+Lily rested her forehead against the wall beside the door.
 
-June said, "Is the lock failing?"
+"Is the lock failing?" June asked.
 
 "Maybe the frame."
 
@@ -208,7 +218,7 @@ None were usable.
 
 "The alignment changes."
 
-June was quiet.
+June went quiet.
 
 "With the wall?"
 
@@ -222,7 +232,7 @@ June was quiet.
 
 Lily closed her eyes.
 
-June continued, "If the door or frame is unstable, Mrs. Bell needs to know."
+"If the door or frame is unstable, Mrs. Bell needs to know."
 
 "I already reported the mirror."
 
@@ -238,41 +248,43 @@ Apparently everyone in her life had agreed to become practical at her.
 
 The light under the door shifted blue again.
 
-June could not see it from where she stood.
+June could not see it.
 
 Lily could.
 
-"Go back to your apartment," Lily said.
+"Go back to your apartment."
 
 June's voice hardened. "Why?"
 
 "Please."
 
-A few seconds passed.
+A few seconds.
 
-Then footsteps moved away.
+Then footsteps retreated.
 
-June called from farther down the hall, "I'm texting you when I get inside."
+June called from farther down the hall.
+
+"I'm texting you when I get inside."
 
 "Fine."
 
-"And if you don't answer, I'm calling Mrs. Bell."
+"If you don't answer, I'm calling Mrs. Bell."
 
 "Fine."
 
 "That was suspiciously easy."
 
-"Go."
+"June."
 
-June left.
+"I'm going."
 
-Lily waited until the hall was quiet.
+The hall quieted.
 
 The blue light disappeared.
 
 ---
 
-Max's reply arrived at last.
+Max's reply finally arrived.
 
 **YOU THERE?**
 
@@ -280,7 +292,7 @@ Lily crossed to the desk.
 
 **HERE. JUNE ALMOST OPENED IT.**
 
-The answer took forty-three seconds.
+Forty-three seconds.
 
 **IS SHE SAFE?**
 
@@ -292,7 +304,9 @@ Another delay.
 
 Lily looked toward it.
 
-Normal for the moment.
+Normal.
+
+For the moment.
 
 **STILL WRONG SOMETIMES.**
 
@@ -300,7 +314,7 @@ Max wrote:
 
 **WE NEED TO FIX THIS NOW.**
 
-Lily stared at the sentence.
+Lily stared at that.
 
 Not test.
 
@@ -312,9 +326,9 @@ She picked up her phone and messaged Mrs. Bell.
 
 **Door/frame alignment problem too. Please don't let anyone service 4B without calling me first. I put a warning on it.**
 
-That was not the whole truth.
+Not the whole truth.
 
-It was enough to keep someone from casually opening the door while the geometry was wrong.
+Enough to keep someone from casually opening it.
 
 Mrs. Bell replied:
 
@@ -324,7 +338,7 @@ Lily wrote back:
 
 **I will.**
 
-Then she made a second sign and taped it lower on the door.
+Then she made a second sign.
 
 **DO NOT OPEN. CALL LILY.**
 
@@ -338,15 +352,11 @@ They had timing data.
 
 State-change data.
 
-Anchor behavior.
-
-A list of things that made the problem worse.
+A list of what made the problem worse.
 
 For once, the next step did not need to be stronger.
 
 It needed to be more careful.
-
-She wrote:
 
 **WE STABILIZE. SAME COUNT. NO NEW VARIABLES.**
 
@@ -356,9 +366,9 @@ The reply came late.
 
 Lily looked at the front door.
 
-The hall light remained normal.
+Hall light normal.
 
-She did not trust that.
+She did not trust it.
 
 Not yet.
 
@@ -367,4 +377,3 @@ But June was safe.
 The door was closed.
 
 And for the first time since the stronger test, Lily knew exactly what they were trying to do next.
-
