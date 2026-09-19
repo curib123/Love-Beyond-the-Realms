@@ -1,7 +1,7 @@
 # Aster House Arc — Chapter Roadmap
 
 **Arc ID:** AH-ARC-001  
-**Roadmap Status:** GATE 7 CANDIDATE — NOT YET QA-LOCKED  
+**Roadmap Status:** GATE 7 PASS — QA-LOCKED  
 **Chapter Count:** **20**  
 **Architecture Source:** `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`  
 **Manuscript Status:** NOT AUTHORIZED
