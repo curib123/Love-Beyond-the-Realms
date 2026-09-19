@@ -289,8 +289,25 @@ Mystery corrections:
 - F-001 tightened against early visual leakage;
 - Twist Registry aligned with v2 non-leak rules.
 
-# 18. Next Production Step
+# 18. Gate 4 v2 Revalidation Record
 
-**Gate 4 — Location QA Revalidation for Originality Revision v2**
+Formal QA:
+
+`qa/LOCATION-QA-V2.md`
+
+Status:
+
+**PASS — 2026-09-19**
+
+Location corrections:
+- removed pre-v2 P0 visual/auditory location asymmetry;
+- Unit 4B and Room 17 now support environment-first clues;
+- correlated writable surfaces established;
+- later P1 reflective/instrument surfaces established without early activation;
+- ordinary-life and reveal-protection rules preserved.
+
+# 19. Next Production Step
+
+**Gate 5 — Active Arc Selection QA Revalidation for Originality Revision v2**
 
 Do not draft revised CH-001 or CH-002 until the affected gates are revalidated in order.
