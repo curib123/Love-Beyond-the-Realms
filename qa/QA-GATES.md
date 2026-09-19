@@ -109,26 +109,50 @@ Apply after the opening arc has completed:
 
 # Gate 6 — Active Arc Architecture QA
 
-Before chapter roadmap:
-- opening state clear;
-- Lily and Max both have arc goals;
-- comedy engine defined;
-- central local mystery defined;
-- scientific mechanic focus defined;
+Before chapter roadmap, universal checks:
+- opening/start-of-arc state is clear;
+- Lily and Max both have independent arc goals;
+- comedy engine is defined;
+- central local mystery is defined;
+- scientific mechanic focus is defined;
 - ordinary-life pressure exists;
 - supporting cast matters;
 - midpoint shift exists;
 - meaningful mistake/reversal exists;
 - climax is causally earned;
 - aftermath exists;
-- major twist ceiling defined;
+- relationship trajectory fits the current state;
+- major-twist ceiling is defined;
+- M-ID/F-ID authorization ceiling is defined;
 - final series ending remains unlocked;
+- future arcs remain open;
+- current communication limits are explicit;
+- Max's current mobility limit is explicit;
+- chapter count remains unlocked until Gate 7.
+
+## Opening-Arc Additional Checks
+
+Apply only to the opening arc:
 - exact early writing-surface pair is locked;
 - written-channel bandwidth/duration limits are defined;
-- audio progression is bounded;
+- early audio progression is bounded;
 - P1 reciprocity/directionality is defined;
-- Max's phase-bound mobility is explicit;
 - no architecture claim treats one note as proof of a living person.
+
+## Post-Opening Additional Checks
+
+Apply after the opening arc:
+- inherit established communication mechanics unless a separately authorized system update changes them;
+- do not reset Lily and Max to opening relationship/knowledge states;
+- specify where P0 writing/audio and P1 can actually be used;
+- do not invent portable cross-world communication merely because the protagonists are investigating away from the original patch;
+- define any new active-location access path and safety boundary;
+- define Max's exact arc-specific phase-accessible range inside the existing system ceiling;
+- define which unresolved M-IDs may activate/progress and which remain protected;
+- define exactly which F-IDs may be planned for possible planting; all others remain blocked;
+- no new perception/contact/crossing tier is granted merely by architecture;
+- no reserved location may leak protected information outside its location rules;
+- local resolution must stop short of protected major-twist truth.
 
 Only after Gate 6 may the active arc chapter count be set.
 
