@@ -260,24 +260,25 @@ A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story eve
 
 # 6A. Current On-Page Mystery State
 
-**Through canonical CH-011 v2**
+**Through canonical CH-013 v2**
 
 | Mystery | State | Canon Basis |
 |---|---|---|
-| M-001 — Who is changing the room? | **RESOLVED locally** | Mutual reality evidence establishes two living correspondents. |
-| M-002 — Why can information cross before sight? | **PARTIAL** | CH-010 and CH-011 prove person-image data can cross under stronger, receiver-specific reflective calibration, but the full rule and broader limits remain unresolved. |
-| M-003 — Why do exchanged objects change? | **ACTIVE** | CH-008 furniture-state overlap. |
-| M-004 — Why does timing drift? | **ACTIVE** | CH-007 measured delayed arrivals; no pre-echo observed. |
-| M-005–M-011 | UNASKED / protected as applicable | No canonical event has advanced them yet. |
+| M-001 | RESOLVED locally | mutual reality evidence |
+| M-002 | PARTIAL | receiver-specific P1 |
+| M-003 | ACTIVE | temporary furniture-state overlap |
+| M-004 | ACTIVE | measured Phase Lag |
+| M-005 — What happened to Max? | **PARTIAL** | Max discloses that he was caught in the Larkspur collapse while trying to reach Mina and became phase-bound afterward; full cause and aftermath remain protected |
+| M-006–M-011 | protected/unresolved | no authorized advancement |
 
-Knowledge stage: **K2**  
+Knowledge: **K2**  
 Relationship: **R1**  
-Perception: **Lily P1 / Max P1 / C0 / X0**
+System: narrow P1 / C0 / X0
 
 Foreshadowing:
-- **F-001 Mirror Delay — PLANTED CH-009**
-- **F-002 Wrong Furniture — PLANTED CH-008**
-- F-003–F-008 remain **PLANNED — NOT YET PLANTED**
+- F-001 PLANTED
+- F-002 PLANTED
+- F-003–F-008 NOT YET PLANTED
 
 # 7. Foreshadowing IDs
 
