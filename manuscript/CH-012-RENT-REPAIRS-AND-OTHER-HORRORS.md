@@ -1,8 +1,6 @@
 # CH-012 — Rent, Repairs, and Other Horrors
 
-Lily woke up eleven minutes after her alarm.
-
-That was not a disaster.
+Lily woke up eleven minutes after her alarm. That was not a disaster.
 
 It only felt like one because she had spent the past week becoming the kind of person who measured delays in seconds.
 
@@ -14,9 +12,7 @@ The apartment offered no sympathy.
 
 She got up, stepped over the notebook she had left beside the bed, and nearly walked into the chair she had moved away from the wall after the furniture test.
 
-Her first thought was that something had shifted again.
-
-Her second was more embarrassing.
+Her first thought was that something had shifted again. Her second was more embarrassing.
 
 No. She had moved it herself.
 
@@ -24,13 +20,7 @@ Apparently, normal bad decisions still existed.
 
 Lily washed her face, tied her hair back, and opened her banking app while waiting for the kettle.
 
-Rent.
-
-Still due on the same date.
-
-Still requiring actual money.
-
-Still somehow more reliable than dimensional physics.
+Rent was still due on the same date, still requiring actual money, and still somehow more reliable than dimensional physics.
 
 She paid it, watched the balance update, and felt the familiar small drop in her stomach.
 
@@ -40,17 +30,13 @@ The kettle clicked off.
 
 Lily took her mug into the living room and started putting things back where they belonged. Tape marks remained near the desk from the timing tests. The chair was slightly crooked. Her notes had multiplied across the small table.
 
-The wall mirror caught her attention.
-
-It sat at the angle she had used for the last calibration with Max.
+The wall mirror caught her attention. It sat at the angle she had used for the last calibration with Max.
 
 Lily crossed the room and put one hand on the frame.
 
 The mirror shifted.
 
-Not much.
-
-Enough.
+Not much. Enough.
 
 She froze.
 
@@ -70,21 +56,13 @@ She stared at it.
 
 "That's it?"
 
-The mirror had not become cold.
-
-The reflection had not changed.
-
-No second room appeared.
-
-No writing crossed the glass.
+The mirror had not become cold. The reflection had not changed. No second room appeared. No writing crossed the glass.
 
 The wall was simply old, the mirror was heavy, and Lily had spent several days adjusting it over and over like a person who had forgotten that screws were physical objects.
 
 She reached for the frame again, stopped, and lowered her hand.
 
-No more mirror.
-
-Not until it was fixed.
+No more mirror until it was fixed.
 
 Lily looked toward the desk.
 
@@ -116,11 +94,7 @@ Lily opened the door.
 
 Mrs. Bell stepped inside, looked toward the living room, and stopped.
 
-There was tape on the floor.
-
-The dining chair sat farther from the table than normal.
-
-The wall mirror was angled strangely.
+There was tape on the floor, the dining chair sat farther from the table than normal, and the wall mirror was angled strangely.
 
 Mrs. Bell looked at Lily.
 
@@ -184,11 +158,7 @@ Lily paused.
 
 "Furniture."
 
-Mrs. Bell looked at the chair.
-
-Then at Lily.
-
-Then back at the chair.
+Mrs. Bell looked at the chair, then at Lily, then back at the chair.
 
 "I don't want to know."
 
@@ -298,9 +268,7 @@ The words came out automatically.
 
 She hated that Nora went quiet after them.
 
-Not angry.
-
-Just quiet.
+Not angry. Just quiet.
 
 Nora said, "I'm not asking you to move home."
 
@@ -332,21 +300,9 @@ Nora's voice softened.
 
 Lily did not answer immediately.
 
-The old reflex was there.
+The old reflex was there: say no, prove it, make the problem smaller until nobody could help.
 
-Say no.
-
-Prove it.
-
-Make the problem smaller until nobody could help.
-
-She looked at the mirror.
-
-At the notes.
-
-At the coffee mug she had forgotten to wash.
-
-At the clock.
+She looked at the mirror, the notes, the coffee mug she had forgotten to wash, and the clock.
 
 "Dinner," she said.
 
@@ -462,23 +418,9 @@ The sentence was simple.
 
 That somehow made it worse.
 
-For days, Unit 4B had become a test site.
+For days, Unit 4B had become a test site: a writing surface, a timing reference, a place where one mirror could show another world.
 
-A writing surface.
-
-A timing reference.
-
-A place where one mirror could show another world.
-
-But it was still where she slept.
-
-Where she paid rent.
-
-Where her clothes were hanging in the bedroom.
-
-Where Nora would bring dinner tomorrow.
-
-Where Mrs. Bell would send someone to fix a bracket because Lily had been moving a heavy mirror too often.
+But it was still where she slept, where she paid rent, where her clothes were hanging in the bedroom, where Nora would bring dinner tomorrow, and where Mrs. Bell would send someone to fix a bracket because Lily had been moving a heavy mirror too often.
 
 Home.
 
@@ -516,19 +458,13 @@ The coherence window began to weaken.
 
 Lily looked at the old mirror across the room.
 
-For the next few days, she probably would not see Max.
-
-She disliked that more than she wanted to examine.
+For the next few days, she probably would not see Max. She disliked that more than she wanted to examine.
 
 But the disappointment did not change the answer.
 
 The apartment came first.
 
-Without Unit 4B, there was no mirror.
-
-No writing patch.
-
-No place for any of this to happen.
+Without Unit 4B, there was no mirror, no writing patch, no place for any of this to happen.
 
 The gray marks faded.
 
