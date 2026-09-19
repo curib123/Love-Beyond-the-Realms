@@ -356,15 +356,13 @@ Gray letters formed slowly.
 
 **HERE.**
 
-Her shoulders dropped before she could stop them.
+Her shoulders dropped.
 
 She closed her eyes.
 
-Not crying.
+No. Not crying.
 
-Absolutely not.
-
-The last several minutes had simply been annoying.
+Just seven extremely irritating minutes.
 
 She opened them again.
 
@@ -398,7 +396,11 @@ The answer took longer this time.
 
 Lily's hand tightened around the pen.
 
-Before she could answer, another line appeared.
+She started to write **ME NEITHER**.
+
+Stopped.
+
+Before she could decide whether to send it, another line appeared.
 
 **STILL WORTH IT.**
 
@@ -412,9 +414,7 @@ A beat.
 
 **I KNOW.**
 
-That one hurt.
-
-Because he was right.
+That one hurt because he was right.
 
 They had worked hard for the visual windows.
 
@@ -478,13 +478,21 @@ The letters finally appeared.
 
 Lily let out a breath that almost became a laugh.
 
-She wrote:
-
-**YOU CAN HATE IT AND FOLLOW IT.**
+**GOOD.**
 
 A pause.
 
+**GOOD?**
+
+**YOU CAN HATE IT AND STILL FOLLOW IT.**
+
+Longer pause.
+
 Then:
+
+**THAT'S ANNOYINGLY REASONABLE.**
+
+**AGREED?**
 
 **AGREED.**
 
