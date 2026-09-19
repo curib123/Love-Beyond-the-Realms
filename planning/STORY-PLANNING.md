@@ -399,9 +399,27 @@ Canon change:
 - K0 / R0 / P0 / C0 / X0;
 - no F-ID planted.
 
-# 24. Next Production Step
+# 24. CH-003 Production Record
 
-**CH-003 — The Note That Shouldn't Exist → Detailed Scene Architecture → Gate 8**
+Gate 8:
+**PASS**
+
+Manuscript:
+`manuscript/CH-003-THE-NOTE-THAT-SHOULDNT-EXIST.md`
+
+Gate 9:
+**PASS — CANON-APPROVED**
+
+Canon change:
+- first Max POV;
+- reader K1: Max alive and phase-bound;
+- independent responder evidence strengthened;
+- M-001 remains ACTIVE;
+- no F-ID planted.
+
+# 25. Next Production Step
+
+**CH-004 — The Other Tenant → Detailed Scene Architecture → Gate 8**
 
 # 21. CH-002 Gate 8 v2 Record
 
