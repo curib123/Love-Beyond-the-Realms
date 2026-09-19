@@ -14,11 +14,11 @@ Mrs. Bell stood beside her with one hand resting on a box marked KITCHEN and the
 
 The elevator gave another shudder.
 
-Lily waited.
+Lily looked at Mrs. Bell. "That wasn't the question."
 
 Mrs. Bell finally glanced at the ceiling. "Probably."
 
-"Excellent. I feel much safer."
+"Great. Much better."
 
 "You wanted cheap."
 
@@ -372,13 +372,15 @@ A beat.
 
 "Yeah, it does."
 
-"Staying there tonight?"
+"You're staying there tonight?"
 
-Lily leaned against the counter. "That is normally how moving works."
+Lily leaned against the counter. "I did move all my things in."
 
 "Lily."
 
-"Yes. I'm staying."
+She looked down at the chipped lemon spoon rest.
+
+"Yeah," she said. "I'm staying."
 
 Nora went quiet.
 
