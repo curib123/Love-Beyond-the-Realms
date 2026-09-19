@@ -712,3 +712,23 @@ Canon:
 # 45. Next Production Step
 
 **CH-014 — The Key Goes Cold → Detailed Scene Architecture → Gate 8**
+
+
+# 46. CH-014 Canon Record
+
+Gate 9:
+`qa/CH-014-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- one stronger anchor attempt only;
+- F-003 Cold Brass Key PLANTED;
+- local geometry fails to reset cleanly;
+- R1 / narrow P1 / C0 / X0;
+- no MT-003 inference.
+
+# 47. Next Production Step
+
+**CH-015 — The Room Moves Wrong → Detailed Scene Architecture → Gate 8**
