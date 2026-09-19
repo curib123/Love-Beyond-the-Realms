@@ -2,9 +2,9 @@
 
 Max had spent twenty minutes polishing a compass that was already polished.
 
-He knew this was not useful.
+He knew this was useless.
 
-It was, however, something his hands could do while he waited for the writing patch to open.
+His hands disagreed.
 
 When the light above the worktable dimmed, Lily's first message appeared.
 
@@ -22,17 +22,19 @@ Max looked at the mirror-bright metal face.
 
 NO.
 
-The answer arrived a few seconds later.
-
 LIAR.
 
-"Excellent," he said. "We are beginning from a place of trust."
+"Excellent," he said. "Strong foundation of trust."
 
 ---
 
 They had agreed on the setup the night before.
 
-Lily would angle the old wall mirror toward the east side of Unit 4B. Max would place the polished measurement face beside Correlation Patch A and keep it fixed. Neither would change position once the test started.
+Lily would angle the old wall mirror toward the east side of Unit 4B.
+
+Max would place the polished measurement face beside Correlation Patch A.
+
+Neither would move once the test started.
 
 The first goal was not Lily.
 
@@ -44,29 +46,35 @@ LIGHT ON?
 
 ON.
 
-He watched the compass face.
+He watched the metal surface.
 
-At first it reflected Room 17 exactly as it should: amber lumen strip, pale stone wall, the corner of the worktable.
+At first, Room 17 reflected normally.
 
-Then the metal surface rippled.
+Amber lumen strip.
 
-The amber light became warmer.
+Pale stone.
 
-A different wall appeared behind it.
+Corner of the worktable.
+
+Then the surface rippled.
+
+The amber light warmed.
+
+A different wall appeared.
 
 Paint instead of stone.
 
-A narrow desk lamp.
+A desk lamp.
 
 The edge of a curtain.
 
-Max stopped breathing for one second.
+Max forgot to breathe.
 
 Not Lily.
 
-But not Room 17 either.
+But not Room 17.
 
-He wrote quickly:
+He wrote quickly.
 
 I CAN SEE YOUR ROOM.
 
@@ -76,11 +84,11 @@ CAN YOU SEE ME?
 
 Max looked again.
 
-The reflected room was empty.
+Empty room.
 
 NO.
 
-There was a longer pause before her next message.
+A longer pause.
 
 RUDE.
 
@@ -90,29 +98,25 @@ NOT MY DECISION.
 
 ---
 
-They tried the movement test anyway.
-
-Lily wrote:
+They tried movement anyway.
 
 I'M IN FRONT OF THE MIRROR.
 
-Max checked the metal reflection.
+Max checked the reflection.
 
-Empty room.
+Desk.
 
-He could see the desk. He could see part of the curtain. He could see a pale rectangle that had to be Lily's wall mirror.
+Curtain.
+
+Wall mirror.
 
 No Lily.
 
-Max wrote:
-
 RAISE RIGHT HAND ON 3.
-
-The answer came:
 
 READY.
 
-He counted against the compass dial.
+He counted against the dial.
 
 Three.
 
@@ -120,13 +124,17 @@ Two.
 
 One.
 
-For several seconds, nothing changed.
+Nothing.
 
-Then the empty space in the reflected room bent.
+Then the empty space in the reflection bent.
 
 Not a person.
 
-A vertical blur, darker at the center, as though the reflection had forgotten how to finish one part of the image.
+A vertical blur.
+
+Darkest at the center.
+
+Like the image had forgotten how to finish one part of itself.
 
 The blur shifted upward.
 
@@ -134,25 +142,23 @@ Late.
 
 Max's pulse jumped.
 
-He wrote:
-
 DID YOU MOVE?
 
 YES. HAND UP THEN DOWN.
 
 WHEN?
 
-A timestamp followed.
+A timestamp appeared.
 
 Max checked his dial.
 
-The distortion had moved several seconds after Lily's reported motion.
+Several seconds late.
 
-He stared at the reflection.
+He stared.
 
 "Again."
 
-They repeated it once.
+They repeated it.
 
 Lily moved left.
 
@@ -166,11 +172,11 @@ No clothes.
 
 No body he could honestly call a body.
 
-Just an absence that behaved like someone was supposed to be there.
+Just an absence behaving as if someone belonged there.
 
-The pressure behind Max's eyes sharpened.
+Pressure sharpened behind his eyes.
 
-He stopped the test.
+Max stopped.
 
 STOP.
 
@@ -178,15 +184,15 @@ Lily answered almost immediately.
 
 AGREED.
 
-The reflected Earth-side room dissolved from the metal surface.
+The Earth-side reflection dissolved.
 
 Room 17 returned.
 
 ---
 
-The next writing window was short.
+The next window was short.
 
-Max wrote his result in the fewest words he could manage.
+Max wrote:
 
 ROOM VISIBLE.
 
@@ -194,7 +200,7 @@ YOU NOT VISIBLE.
 
 MOVEMENT SHOWS AS DELAYED BLUR.
 
-Lily's answer:
+Lily replied:
 
 SO I'M A SMUDGE.
 
@@ -202,9 +208,9 @@ CURRENTLY.
 
 I HATE THIS EXPERIMENT.
 
-Max smiled, then rubbed the ache above his left eye.
+Max smiled.
 
-He wrote:
+Then rubbed the ache above his eye.
 
 THE ROOM CROSSES CLEANER THAN YOU DO.
 
@@ -218,27 +224,27 @@ THAT'S WHAT PEOPLE SAY BEFORE SOMETHING BREAKS.
 
 Max looked at the compass.
 
-She was not wrong often enough to be irritating.
-
-He wrote:
+She was wrong less often than was comfortable.
 
 ONE MORE TEST. DIFFERENT SETUP.
 
 NOT TODAY.
 
-He stopped.
+Max stopped.
 
-Then answered:
+His fingers hovered over the pen.
+
+Then:
 
 NOT TODAY.
 
 The gray marks began to fade.
 
-Before they disappeared, Lily added:
+Lily added:
 
 NEXT TIME, NO GUESSING.
 
-Max looked at the polished metal face.
+Max sat back.
 
 A room had crossed.
 
@@ -248,11 +254,22 @@ But the delayed blur had moved when Lily moved.
 
 That was not a face.
 
-It was not even close.
+It was not close.
 
-It was enough to tell him where the next problem was.
+It was enough to tell him what the next problem was.
 
-Max opened his notebook and wrote a new heading.
+He opened his notebook.
+
+At the top of a clean page, he wrote:
 
 **Receiver calibration.**
 
+Then, underneath:
+
+Also: Lily is apparently a smudge.
+
+He looked at that.
+
+Crossed it out.
+
+Then wrote it again smaller.
