@@ -76,9 +76,7 @@ Lily crossed the room and stopped several steps from the door.
 
 Silence.
 
-Then June:
-
-"That is a very specific greeting."
+Then June said, "Hi to you too."
 
 "I'm serious."
 
@@ -90,7 +88,11 @@ Yellow.
 
 Blue.
 
-"Move back."
+"June. Back up."
+
+The joke disappeared from the other side.
+
+Footsteps moved away.
 
 Another pause.
 
@@ -166,17 +168,25 @@ Possibly losing an argument with a door.
 
 June sighed.
 
-"Fine. What do you need?"
+"Okay. What do you need?"
 
 "Nothing."
 
-June's face did not change.
+June just looked at her.
 
-Lily corrected herself.
+Lily lasted two seconds.
 
 "I need you not to touch it."
 
 "Better."
+
+"And maybe don't ask why yet."
+
+"Much worse."
+
+"June."
+
+"Fine."
 
 ---
 
