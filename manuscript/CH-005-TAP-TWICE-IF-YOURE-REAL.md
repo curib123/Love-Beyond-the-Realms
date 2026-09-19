@@ -52,6 +52,8 @@ START?
 
 YES.
 
+---
+
 Max lifted two fingers and tapped the center of the worktable twice.
 
 Tap. Tap.
