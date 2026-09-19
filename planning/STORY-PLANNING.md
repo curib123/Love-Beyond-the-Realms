@@ -402,3 +402,28 @@ Canon change:
 # 24. Next Production Step
 
 **CH-003 — The Note That Shouldn't Exist → Detailed Scene Architecture → Gate 8**
+
+# 21. CH-002 Gate 8 v2 Record
+
+Formal architecture:
+`planning/CH-002-SCENE-ARCHITECTURE.md`
+
+Formal QA:
+`qa/CH-002-PRE-MANUSCRIPT-SCENE-QA-V2.md`
+
+Status:
+**PASS — MANUSCRIPT AUTHORIZED**
+
+Key locks:
+- Lily-only POV;
+- P0/C0/X0;
+- Correlation Patch A writing only;
+- no voice;
+- no person-image;
+- M-001 deepens but does not resolve;
+- no F-ID;
+- final response: **I WAS ABOUT TO ASK YOU THAT.**
+
+# 22. Next Production Step
+
+**CH-002 — Someone Else Is Using My Room → Manuscript Draft**
