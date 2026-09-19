@@ -39,8 +39,8 @@
 - CH-014 — **FINAL-PASS / GATE 9 REVALIDATED**
 - CH-015 — **FINAL-PASS / GATE 9 REVALIDATED**
 - CH-017 — **FINAL-PASS / GATE 9 REVALIDATED**
-- CH-018 — REVISION REQUIRED
+- CH-018 — **FINAL-PASS / GATE 9 REVALIDATED**
 - CH-019 — REVISION REQUIRED
 - CH-020 — REVISION REQUIRED
 
-**Progress:** 7/10 priority editorial revisions complete.
+**Progress:** 8/10 priority editorial revisions complete.
