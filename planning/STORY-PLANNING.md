@@ -1336,3 +1336,34 @@ Current state:
 # 94. Next Production Step
 
 **CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
+
+
+# 95. Arc 2 Genre Priority Lock
+
+Shared Foundations must preserve the series genre identity:
+
+**Romantic Comedy / Romance first → Slice of Life → Mystery → Science Fiction**
+
+This is a hard production rule for CH-021–CH-034.
+
+Mystery and sci-fi are supporting engines.
+
+Every chapter must also move at least one of:
+- Lily/Max chemistry;
+- trust;
+- emotional understanding;
+- ordinary-life responsibility;
+- situational comedy;
+- relationship state.
+
+Technical-only chapter execution is not authorized.
+
+Danger may reduce comedy but must still deepen character or relationship consequence.
+
+CH-021 has been checked against this rule and remains canon-approved.
+
+From CH-022 onward, Gate 8 and Gate 9 must explicitly enforce this genre hierarchy.
+
+# 96. Current Next Production Step
+
+**CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
