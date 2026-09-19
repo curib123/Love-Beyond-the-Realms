@@ -4,139 +4,187 @@
 
 # 1. Planning Order
 
-**Location → Volume → Chapter → Scene → Manuscript**
+**Canon → Active Arc → Chapter → Scene → Manuscript**
 
-Do not reverse this order for major canon events.
+Do not pre-plan the entire series to a fixed ending count.
 
-# 2. Volume Record
+# 2. Open-Ended Rule
 
-Every volume architecture must define:
-- volume number;
-- arc/location;
-- starting character states;
-- starting relationship stage;
+There is no locked final chapter count.
+
+There is no required total volume count.
+
+Only the **active arc** should receive detailed chapter planning.
+
+Future arcs may have:
+- ideas;
+- destination candidates;
+- mystery dependencies;
+- provisional character goals.
+
+They should not be locked prematurely.
+
+# 3. Active Arc Record
+
+Every active arc defines:
+- location cluster;
+- starting Lily state;
+- starting Max state;
+- starting relationship state;
+- comedy engine;
 - ordinary-life pressure;
-- supernatural pressure;
-- primary emotional conflict;
-- primary mystery use;
-- supporting cast focus;
-- romantic progression;
-- midpoint shift;
+- central mystery;
+- sci-fi mechanic focus;
+- supporting cast;
+- midpoint change;
+- minor twist opportunities;
+- major twist ceiling;
 - major mistake/reversal;
 - climax;
 - local resolution;
 - consequence;
-- ending relationship state;
-- protected future reveals.
+- next-story possibilities without locking a final route.
 
-# 3. Chapter Sheet
+# 4. Chapter Roadmap Rule
 
-Every planned chapter should define:
+The chapter count is locked **only for the active arc when needed for production**.
 
-- Chapter ID:
-- Volume:
-- Working title:
-- POV:
-- Location:
-- Present characters:
-- Opening situation:
-- Lily's immediate goal:
-- Max's immediate goal:
-- Primary conflict:
-- Ordinary-life beat:
-- Relationship beat:
-- Supernatural mechanic:
-- Mystery/F-ID use:
-- Continuity dependencies:
-- Knowledge dependencies:
-- Relationship-stage dependency:
-- What changes:
-- Ending beat:
-- Hook strength:
-- Prohibited reveal:
+It is not the final series chapter count.
 
-# 4. Scene Architecture
+If the arc needs more or fewer chapters during architecture, revise before manuscript lock rather than padding.
 
-Each scene must define:
+# 5. Chapter Sheet
+
+Each chapter defines:
+- Chapter ID;
+- Working title;
+- POV: Lily or Max;
+- Location;
+- Present characters;
+- Opening problem;
+- POV character goal;
+- Romantic-comedy beat;
+- Character beat;
+- Mystery clue/question;
+- Sci-fi mechanic;
+- Minor twist if any;
+- Major-twist foreshadowing if authorized;
+- Continuity dependency;
+- Knowledge dependency;
+- What changes;
+- Ending beat;
+- Prohibited reveal.
+
+# 6. POV Distribution
+
+Lily and Max are both regular POVs.
+
+Do not force exact 50/50 chapter alternation.
+
+Choose the POV with:
+- more to lose;
+- less information;
+- stronger emotional contradiction;
+- better comedy;
+- more useful mystery limitation.
+
+Avoid replaying the same full scene from both POVs unless the second version reveals genuinely new information.
+
+# 7. Scene Architecture
+
+Each scene defines:
 - Scene ID;
+- POV owner;
 - purpose;
 - location;
-- POV owner;
 - participants;
 - immediate want;
 - obstacle;
-- emotional movement;
+- dialogue purpose;
+- comedy opportunity;
 - relationship movement;
-- supernatural rule in use;
-- information gained/lost;
-- what physically changes;
+- mystery information;
+- sci-fi rule;
+- physical change;
 - exit condition.
 
-If a scene changes nothing, remove or rebuild it.
+# 8. Romantic Comedy Planning
 
-# 5. Relationship Planning
+Every chapter does not need a joke.
 
-Romance is not measured by number of flirt lines.
+Across an arc, protect recurring room for:
+- banter;
+- ordinary routines;
+- awkward attraction;
+- failed experiments;
+- friends/family;
+- cultural differences;
+- embarrassing overlap events.
 
-Track:
-- trust;
-- vulnerability;
-- mutual knowledge;
-- physical possibility;
-- willingness to risk;
-- conflict repair;
-- future imagination.
+Do not let lore consume the romance.
 
-A romantic milestone is earned when prior behavior supports it.
+# 9. Mystery Planning
 
-# 6. Mystery Planning
+Every clue must have:
+- ID;
+- actual observation;
+- current interpretation;
+- hidden truth;
+- planned payoff.
 
-Every M-ID use must specify:
-- what can be learned now;
-- what remains protected;
-- whose knowledge changes;
-- whether an F-ID is actually planted in prose.
+F-IDs become **PLANTED** only after manuscript prose exists.
 
-Planning an F-ID does not make it planted.
+# 10. Twist Planning
 
-# 7. Supernatural Planning
+Minor twists can be flexible.
 
-Any scene using a Veil event must specify:
-- current perception mode;
-- anchor;
-- trigger;
-- duration;
+Major twists require:
+- a Twist ID;
+- writer truth;
+- at least two independent setup paths;
+- protected reveal window;
+- emotional consequence;
+- plot consequence.
+
+Do not reveal two major twists back-to-back unless the arc climax specifically earns it.
+
+# 11. Sci-Fi Experiment Planning
+
+Experiments should specify:
+- question;
+- hypothesis;
+- tools;
+- test;
+- expected result;
+- actual result;
 - cost;
-- aftermath.
+- what Lily learns;
+- what Max learns.
 
-No unexplained convenience portal.
+Wrong hypotheses are useful.
 
-# 8. Web-Novel Chapter Rhythm
+# 12. Web-Novel Rhythm
 
-A chapter should normally provide at least one meaningful movement:
-- emotional;
-- romantic;
-- supernatural;
+A chapter normally changes at least one:
+- relationship;
+- comedy situation;
+- character;
 - mystery;
-- ordinary-life consequence.
+- scientific understanding;
+- consequence.
 
 Not every chapter needs a cliffhanger.
 
-Endings may use:
-- question;
-- reveal;
-- decision;
-- emotional reversal;
-- interruption;
-- dangerous change;
-- tender unresolved beat.
+# 13. Current Arc
 
-# 9. Current Authorized Artifact
+**Aster House Arc** is the opening active arc.
 
-Volume 1: **Aster House Arc**
+Its purpose is to:
+- establish both protagonists;
+- establish the romcom roommate dynamic;
+- prove Max is not a conventional ghost;
+- establish simple repeatable overlap rules;
+- seed the deeper split-world mystery;
+- keep the first major truth protected until earned.
 
-After Volume 1 architecture and Chapter Roadmap pass QA, the next production artifact is:
-
-**CH-001 Detailed Scene Architecture → Gate 8**
-
-Do not draft CH-001 manuscript before Gate 8 passes.
+Detailed chapter count remains **UNLOCKED** until Gate 6 Active Arc QA passes.
