@@ -198,65 +198,38 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-005 v2
+# 16. Current Canon State — Through CH-006 v2
 
-**Latest Canon Chapter:** CH-005 — Tap Twice If You're Real
+**Latest Canon Chapter:** CH-006 — Normal People Don't Have Cross-Reality Pen Pals
 
 ## Lily
-Knows:
-- the correspondent identifies himself as Max;
-- Max claims Room 17 / Rivenhall;
-- bounded writing/tap responses behave independently;
-- she heard Max's live voice during a brief clipped bridge;
-- Max heard her;
-- both now accept that an independent living correspondent is responding.
+Knows everything earned through CH-005 and has now tested one important social boundary:
+- ordinary work obligations can make her miss a coherence window;
+- missing a window is not an emergency;
+- Max accepts that Lily has a life outside the overlap.
 
-Still does not know:
-- Max's appearance;
-- Velaire as a named world;
-- why the rooms correlate;
-- why information crosses while person-image does not;
-- protected MT-001/002/003 truths.
+Ava now suspects Lily has a private correspondent / possible online boy or new friend, but does not know dimensional truth.
 
 ## Max
 Knows:
-- the correspondent identifies herself as Lily;
-- Lily claims Unit 4B / Bellweather;
-- bounded writing/taps behave independently;
-- he heard Lily's live voice and she heard him;
-- both now accept the other as a living correspondent.
-
-Still does not know:
-- Lily's appearance;
-- Earth as a named world;
-- why the rooms correlate;
-- why person-image remains unavailable;
-- protected MT-001/002/003 truths.
+- Lily has ordinary work obligations;
+- missed windows can be caused by normal life;
+- communication should not require either person to abandon responsibilities.
 
 ## Reader Knowledge
 **K2**
 
-Mutual reality-test knowledge has been earned.
-
 ## Relationship
 **R1 — Mutual Reality Test**
+
+R1 deepens through healthy boundary-setting.
 
 ## System
 - **P0 Echo Trace**
 - **C0**
 - **X0**
 
-Observed capabilities:
-- environmental state bleed;
-- bounded fresh-mark writing;
-- crossed tap/impact information;
-- short live audio bridge lasting under 15 seconds.
-
-Still unavailable:
-- person-image;
-- P1;
-- touch;
-- crossing.
+No new system capability was added in CH-006.
 
 ## Mystery
 - **M-001 RESOLVED locally**
@@ -267,11 +240,13 @@ Still unavailable:
 All F-IDs remain:
 **PLANNED — NOT YET PLANTED**
 
-## CH-006 Guard
-CH-006 should shift pressure outward into Lily's ordinary life.
+## CH-007 Guard
+CH-007 may measure communication timing drift.
 
-It must not:
-- grant new perception levels;
-- turn Ava into an exposition shortcut;
-- let a social misunderstanding replace the dimensional mystery;
-- plant any F-ID not assigned by the locked roadmap.
+It must:
+- use a clear timing question/setup/result;
+- activate M-004 only through observed lag;
+- avoid pre-echo;
+- remain P0/C0/X0;
+- preserve Max's phase-bound mobility;
+- plant no F-ID.
