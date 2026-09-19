@@ -3,239 +3,231 @@
 **Owners:** A040-A047  
 **Status:** CANON — FOUNDATION
 
-# 1. Lily Marlowe
+# 1. Dual-Protagonist Rule
+
+**Lily Marlowe and Max Arden are both main characters.**
+
+Lily is the opening audience-entry POV.
+
+Max becomes a regular POV once his side of the mystery can be shown without spoiling protected truth.
+
+Both must carry:
+- plot;
+- comedy;
+- romance;
+- mystery;
+- independent character arcs.
+
+# 2. Lily Marlowe
 
 **Age:** 18  
-**Role:** Primary protagonist  
 **Realm:** Earth  
-**POV Priority:** Primary
+**Role:** Main Character / Female Lead
 
 ## External Life
 
-Lily has recently finished secondary school and is taking a delayed start before committing to college.
+Lily recently finished secondary school and has not yet decided exactly what she wants to study.
 
 She works part-time at **Paper Moon Books & Café**.
 
-She moves into Aster House after eight months living with her aunt following her parents' deaths.
-
-## Appearance
-
-Keep visual details flexible until an art lock exists.
-
-Textual baseline:
-- dark brown hair, usually practical rather than styled elaborately;
-- expressive brown eyes;
-- average height;
-- comfortable contemporary clothes;
-- favors oversized sweaters, jeans, simple dresses, sneakers, and her mother's old silver pendant.
-
-The pendant is sentimental only. It is not secretly a magical key.
+Eight months after her parents' deaths, she leaves her aunt's home and moves into Aster House.
 
 ## Personality
 
 Lily is:
-- observant;
 - practical;
+- observant;
 - empathetic;
 - stubborn;
 - quietly funny;
-- easily embarrassed by sincere attention;
-- uncomfortable being pitied;
-- braver when someone else needs help than when she needs help herself.
+- independent;
+- easily embarrassed by direct romance;
+- uncomfortable when people treat her as fragile.
+
+## Comedy Profile
+
+Lily is usually the straight-faced half of the comedy.
+
+She is funniest when:
+- she treats impossible things like annoying practical problems;
+- she catches Max doing something he does not know she can see;
+- she tries to stay serious while obviously flustered;
+- her plans are ruined by overlap effects.
 
 ## Flaws
 
-- refuses help until overwhelmed;
-- hides distress behind “I'm fine” behavior;
-- assumes leaving first hurts less than being left;
-- can become controlling when frightened by uncertainty;
-- delays difficult conversations.
+- refuses help too long;
+- hides distress behind "I'm fine";
+- overplans when scared;
+- can assume the worst before asking;
+- may retreat emotionally when she expects loss.
 
 ## Wound
 
-Her parents' sudden deaths destroyed her expectation that ordinary life remains stable.
+Her parents' sudden deaths made ordinary happiness feel unsafe.
 
 ## False Belief
 
-“If I depend on someone, losing them will destroy me again.”
+"If I need someone too much, losing them will break me."
 
 ## Need
 
-To learn that attachment always contains risk, and choosing connection is not weakness.
+To understand that connection is worth choosing even when permanence is impossible to guarantee.
 
 ## Independent Goal
 
-Build a life that belongs to her rather than living only inside grief.
+Build an adult life that feels like hers.
 
-## Romance Boundary
-
-Lily may love Max deeply without abandoning:
-- friendships;
-- education;
-- work;
-- self-respect;
-- safety concerns;
-- personal future.
-
-# 2. Max Arden
+# 3. Max Arden
 
 **Age:** 19  
-**Role:** Primary romantic lead / supernatural co-protagonist  
-**Realm:** Velaire
+**Realm:** Velaire  
+**Role:** Main Character / Male Lead
 
 ## External Life
 
-Max is a junior map apprentice attached to a Rivenhall civic archive.
+Max is a junior spatial-cartography apprentice working with the Rivenhall Civic Archive.
 
-He specializes in:
+His work combines:
+- city maps;
 - old building plans;
-- transit maps;
-- boundary-era records.
+- transit geometry;
+- restricted historical anomalies.
 
-This gives him useful knowledge without making him an expert on every mystery.
-
-## Appearance
-
-Textual baseline:
-- black hair;
-- gray-green eyes;
-- lean build;
-- expressive face;
-- layered Velaire street clothing;
-- long dark coat used during archive work.
-
-In Lily's apartment, his outline sometimes appears translucent at the edges.
+He has enough knowledge to investigate but not enough to know the answers.
 
 ## Personality
 
 Max is:
 - charming;
 - curious;
-- teasing;
-- protective;
+- playful;
 - inventive;
-- socially confident until feelings become serious;
-- more frightened than he likes to admit.
+- impulsive;
+- loyal;
+- socially confident;
+- uncomfortable admitting fear.
+
+## Comedy Profile
+
+Max is usually the instigator.
+
+He is funniest when:
+- he confidently tries an experiment that immediately goes wrong;
+- he teases Lily before realizing she has better information;
+- he treats Earth objects as bizarre technology;
+- his dramatic idea meets Lily's practical response.
 
 ## Flaws
 
-- hides fear behind humor;
-- takes dangerous risks alone;
-- assumes he must protect family without asking what they want;
-- avoids admitting helplessness;
-- becomes secretive when he thinks truth may push Lily away.
+- hides fear with humor;
+- takes risks alone;
+- becomes secretive when afraid;
+- tries to solve problems before asking permission;
+- assumes being useful is how he proves he matters.
 
 ## Wound
 
-Max became trapped while trying to reach his younger sister during the boundary incident.
+Max became phase-bound during the Larkspur incident while trying to reach his younger sister Mina.
 
-He does not know whether his family believes he is dead.
+He does not initially know whether she survived.
 
 ## False Belief
 
-“If I stop being useful, people will stop waiting for me.”
+"If I stop being useful, people will stop waiting for me."
 
 ## Need
 
-To accept that love is not earned through constant usefulness or sacrifice.
+To accept being loved without having to earn it through sacrifice.
 
 ## Independent Goal
 
-Escape the phase lock, return to his family, and understand why Larkspur House's threshold failed.
+Return to his family, learn what really caused the overlap, and prevent another collapse.
 
-## Romance Boundary
-
-Max may protect Lily but must not:
-- isolate her;
-- make decisions about her life without her;
-- treat jealousy as ownership;
-- use danger to force closeness.
-
-# 3. Relationship: Lily + Max
+# 4. Lily + Max Relationship
 
 ## Starting Dynamic
 
-Lily believes Max is a ghost.
+Lily thinks Max is a very attractive ghost with terrible boundaries.
 
-Max believes Lily may be:
-- another trapped consciousness;
-- a Veil echo;
-- a hallucination caused by phase damage.
+Max thinks Lily may be:
+- an invisible resident;
+- a boundary echo;
+- a stress-induced voice;
+- or the world's rudest haunting.
 
-They begin by trying to prove the other is real.
+Both try to prove the other is real.
 
-## Chemistry Sources
+## Core Chemistry
 
-- impossible domestic coexistence;
-- teasing through objects;
-- Max hearing Lily before seeing her;
-- Lily seeing expressions he does not realize she can see;
-- arguments over risk;
+Their romance grows through:
+- shared apartment problems;
+- verbal teasing;
+- failed experiments;
 - late-night conversations;
-- ordinary routines shared across impossible space;
-- showing each other their worlds.
+- small acts of care;
+- cultural comparison;
+- frustration at being unable to touch;
+- learning each other's routines;
+- defending the other's life even when they cannot enter it.
 
-## Core Romantic Question
+## Dynamic
 
-**Can two people build a real relationship when reality itself refuses to let them occupy the same place?**
+Lily grounds Max.
 
-## Non-Negotiable Progression
+Max pulls Lily out of emotional overcontrol.
 
-Trust before confession.
+Neither "fixes" the other.
 
-Mutual sight before first kiss.
+## Romantic Progression
 
-Actual touch must remain rare and important until later progression authorizes stability.
+Use flexible stages rather than a rigid chapter schedule:
 
-# 4. Ava Chen
+- suspicious strangers;
+- unwilling cross-world roommates;
+- friends;
+- favorite person;
+- attraction they do not want to admit;
+- mutual romantic awareness;
+- chosen relationship;
+- relationship tested by physical/world separation.
+
+Major physical milestones remain earned by both relationship and realm mechanics.
+
+# 5. Ava Chen
 
 **Age:** 18  
 **Realm:** Earth  
 **Role:** Lily's best friend
 
-Ava is energetic, skeptical, practical, and socially bold.
+Ava is:
+- energetic;
+- socially bold;
+- skeptical;
+- caring;
+- difficult to scare.
 
-She:
-- checks on Lily without treating her as fragile;
-- challenges Lily's secrecy;
-- initially assumes “Max” is stress, a prank, or a dangerous person;
-- becomes one of the first Earth-side allies after evidence becomes undeniable.
+She should create both comedy and pressure.
 
-Independent goal:
-- prepare for university and maintain a life that does not revolve around Lily's supernatural crisis.
+She has her own university plans and relationships.
 
-Ava is not comic relief only.
+She does not exist only to ship Lily and Max.
 
-# 5. June Morales
+# 6. June Morales
 
 **Age:** 20  
 **Realm:** Earth  
 **Role:** Neighbor / older-sister presence
 
-June lives in Unit 4A and works irregular shifts while studying nursing.
+June studies nursing and works irregular shifts.
 
-She is:
-- calm;
-- blunt;
-- observant;
-- difficult to fool.
+She notices:
+- sleep deprivation;
+- injuries;
+- strange sounds;
+- Lily apparently arguing with an empty apartment.
 
-She notices Lily's sleep deprivation and apartment disturbances before learning the truth.
-
-# 6. Inez Bell
-
-**Age:** 63  
-**Realm:** Earth  
-**Role:** Aster House landlord
-
-Mrs. Bell inherited partial ownership of Aster House.
-
-She knows:
-- tenants have complained about 4B for years;
-- the east maintenance corridor was sealed after foundation damage;
-- old building records are incomplete.
-
-She does not initially know about Velaire.
+She is blunt enough to create funny misunderstandings but responsible enough to matter during real danger.
 
 # 7. Nora Marlowe
 
@@ -243,71 +235,101 @@ She does not initially know about Velaire.
 **Realm:** Earth  
 **Role:** Lily's aunt
 
-Nora loves Lily but worries that Lily is becoming isolated.
+Nora loves Lily and worries about her independence.
 
-She offered Lily a permanent home.
+Their conflicts come from different definitions of safety, not cruelty.
 
-Their conflict is based on:
-- love;
-- grief;
-- different ideas of safety;
-- Lily's desire for independence.
+# 8. Inez Bell
 
-Nora is not an obstacle villain.
+**Age:** 63  
+**Realm:** Earth  
+**Role:** Landlord of Aster House
 
-# 8. Mina Arden
+Mrs. Bell knows 4B has had strange tenant reports for years.
+
+She initially treats them as old-building nonsense.
+
+She has more useful building history than she realizes.
+
+# 9. Mina Arden
 
 **Age:** 15  
 **Realm:** Velaire  
 **Role:** Max's younger sister
 
-Mina is clever, impatient, and fascinated by forbidden archive stories.
+Mina is:
+- clever;
+- impatient;
+- fearless around forbidden information;
+- annoyed when Max acts like a second parent.
 
-During the incident that traps Max, Mina is endangered but survives.
+She survives the Larkspur incident.
 
-Max does not know this at first.
+Max does not know this early.
 
-Mina later becomes essential to investigating the Velaire side.
+Later, she can become a Velaire-side ally with her own POV only if explicitly authorized.
 
-# 9. Elara Arden
+# 10. Elara Arden
 
 **Age:** 44  
 **Realm:** Velaire  
 **Role:** Max's mother
 
-Elara is a repair craftswoman who works with lumen fixtures and transit instruments.
+Elara repairs precision instruments and lumen-grid equipment.
 
-She believes Max disappeared in the Larkspur incident.
+She believes Max disappeared during the Larkspur incident.
 
-Her grief mirrors Lily's from the opposite side: Lily lost parents; Elara believes she lost a son.
-
-# 10. Corven Hale
+# 11. Corven Hale
 
 **Age:** 32  
 **Realm:** Velaire  
-**Role:** Recurring opposing force
+**Role:** Recurring opposing force / investigator
 
-Corven is a boundary archivist connected to the remains of the Threshold Keeper bureaucracy.
+Corven studies dimensional containment.
 
-He believes unstable overlaps must be sealed before they expand.
+He believes unstable overlaps must be sealed before they spread.
 
-He is not needlessly cruel.
+He is not the hidden evil mastermind.
 
-His priorities:
-1. protect Rivenhall;
-2. prevent uncontrolled crossings;
-3. preserve restricted knowledge;
-4. recover Max if possible;
-5. seal the threshold if recovery becomes too dangerous.
+His goals may oppose Lily and Max while remaining reasonable.
 
-This can place him directly against Lily and Max without making him evil.
+# 12. Character Dialogue Identity
 
-# 11. Supporting-Cast Law
+Lily:
+- concise;
+- dry;
+- practical;
+- more honest when angry than when affectionate.
 
-Every recurring character must have:
-- a life outside the central couple;
-- a goal;
-- a limit to what they know;
-- a believable reaction to supernatural evidence.
+Max:
+- playful;
+- expressive;
+- likes exaggeration;
+- uses jokes to hide fear;
+- becomes plain and sincere when emotionally exposed.
 
-No friend exists only to say “you two should kiss.”
+Ava:
+- fast;
+- blunt;
+- curious;
+- comfortable saying what Lily avoids.
+
+June:
+- calm;
+- sharp;
+- minimal patience for nonsense.
+
+Mina:
+- quick;
+- challenging;
+- hates being underestimated.
+
+# 13. Supporting-Cast Law
+
+Every recurring character needs:
+- an independent goal;
+- a believable schedule/life;
+- information limits;
+- opinions that may disagree with both protagonists.
+
+No supporting character exists only to create jealousy or tell the leads to date.
