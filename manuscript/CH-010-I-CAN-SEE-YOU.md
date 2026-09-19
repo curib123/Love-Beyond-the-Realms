@@ -448,7 +448,7 @@ Her voice came through.
 
 Max opened his mouth.
 
-For once, no joke arrived.
+Nothing useful came out.
 
 The image shook.
 
@@ -464,7 +464,7 @@ He did not touch the receiver.
 
 He had promised one attempt.
 
-"Lily, I—"
+"Yeah. I can—"
 
 The image collapsed.
 
@@ -578,11 +578,13 @@ Max wrote:
 
 VERY MEMORABLE FIVE SECONDS.
 
-The regret arrived before the answer.
+Max stared at what he had written.
+
+"Oh, no."
 
 Silence.
 
-Long enough for Max to consider voluntarily entering another reality just to escape.
+Long enough for him to consider whether Room 17 could kindly fold him out of existence.
 
 Then:
 
