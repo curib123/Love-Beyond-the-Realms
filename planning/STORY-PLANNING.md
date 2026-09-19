@@ -521,3 +521,25 @@ Canon:
 # 29. Next Production Step
 
 **CH-008 — That Was My Chair → Detailed Scene Architecture → Gate 8**
+
+
+# 30. CH-008 Production Record
+
+Architecture: `planning/CH-008-SCENE-ARCHITECTURE-V2.md`  
+Gate 8: `qa/CH-008-PRE-MANUSCRIPT-SCENE-QA-V2.md`  
+Manuscript: `manuscript/CH-008-THAT-WAS-MY-CHAIR.md`  
+Gate 9: `qa/CH-008-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- M-003 ACTIVE;
+- F-002 PLANTED;
+- temporary hybrid furniture state without matter swap;
+- Lily cold/nausea cost;
+- K2 / R1 / P0 / C0 / X0.
+
+# 31. Next Production Step
+
+**CH-009 — No Faces → Detailed Scene Architecture → Gate 8**
