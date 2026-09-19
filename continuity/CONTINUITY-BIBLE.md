@@ -198,60 +198,52 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-014 v2
+# 16. Current Canon State — Through CH-015 v2
 
-**Latest Canon Chapter:** CH-014 — The Key Goes Cold
+**Latest Canon Chapter:** CH-015 — The Room Moves Wrong
 
-## Shared State
-A single stronger anchor test used:
-- Lily's brass apartment key;
-- repaired Unit 4B mirror;
-- Max's spatial compass;
-- synchronized timing.
-
-They stopped immediately when Lily called stop.
-
-## Consequence
-Stopping active input did not immediately reset the rooms.
+## Shared Situation
+Local geometry remains unstable after CH-014.
 
 Observed:
-- Lily's brass key became painfully cold and briefly frosted;
-- reflected Unit 4B doorway/floor geometry stayed misaligned;
-- Max reported Room 17 spatially offset;
-- writing position briefly shifted;
-- both experienced physical strain.
+- doubled/offset wall and floor geometry;
+- severe delayed/duplicated message arrivals;
+- wrong doorway outlines;
+- brief views of the other branch's hallway through misaligned door geometry.
+
+No message has arrived before its source event.
+
+## Max
+Attempted one local solo correction.
+It worsened the spatial mismatch.
+He accepts that he cannot isolate the risk to Room 17.
+
+## Lily
+Refuses Max's unilateral sacrifice logic because Unit 4B remains affected.
 
 ## Relationship
-**R1**
-
-The stop rule was respected.
+R1.
 
 ## System
-- both retain narrow P1 capability
-- local room geometry is unstable
+- narrow P1 retained
 - C0
 - X0
 - no P2/P3
+- no Hollow traversal
+
+## Emergency Rule
+**Do not open any doorway that does not match the room around it.**
 
 ## Mystery
-- M-001 RESOLVED locally
 - M-002 PARTIAL
 - M-003 ACTIVE
-- M-004 ACTIVE
+- M-004 ACTIVE / severe lag
 - M-005 PARTIAL
 
 ## Foreshadowing
-- F-001 PLANTED
-- F-002 PLANTED
-- **F-003 Cold Brass Key — PLANTED**
-- F-004–F-008 NOT YET PLANTED
+F-001, F-002, F-003 PLANTED.
 
-## Protected
-Characters know this specific combined setup caused acute instability.
+## CH-016 Guard
+One specific ordinary-life person may approach the danger.
 
-They do NOT know the broader cumulative MT-003 truth.
-
-## CH-015 Guard
-CH-015 continues the same unresolved mismatch.
-
-No new crossing, Hollow entry, P2/P3, or major-twist reveal.
+Lily must prioritize that person's safety without exposing protected cosmology.
