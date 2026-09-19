@@ -175,16 +175,72 @@ A chapter normally changes at least one:
 
 Not every chapter needs a cliffhanger.
 
-# 13. Current Arc
+# 13. Current Active Arc
 
-**Aster House Arc** is the opening active arc.
+**Aster House Arc**
 
-Its purpose is to:
-- establish both protagonists;
-- establish the romcom roommate dynamic;
-- prove Max is not a conventional ghost;
-- establish simple repeatable overlap rules;
-- seed the deeper split-world mystery;
-- keep the first major truth protected until earned.
+**Selection Status:** **GATE 5 PASS — LOCKED AS SINGLE ACTIVE ARC**
 
-Detailed chapter count remains **UNLOCKED** until Gate 6 Active Arc QA passes.
+**Architecture Status:** **NOT YET LOCKED**
+
+Approved primary cluster:
+- LOC-001 Aster House;
+- LOC-002 Unit 4B;
+- controlled LOC-007 Larkspur House POV scenes;
+- controlled LOC-008 Room 17 POV scenes.
+
+Supporting ordinary-life locations may be used when Gate 6 architecture requires them.
+
+The selection is approved because it can simultaneously support:
+- both protagonists;
+- romantic-comedy interaction;
+- ordinary-life consequences;
+- early mystery;
+- basic sci-fi experimentation;
+- a locally resolvable opening conflict.
+
+## Selection-Level Starting Envelope
+
+The story begins around:
+- R0 Unknown Presence;
+- P0 Bleed;
+- C0 No Contact;
+- X0 Observation.
+
+The arc may naturally move beyond R0 if earned, but Gate 5 does not lock the relationship endpoint.
+
+## Local Resolution Envelope
+
+The Aster House Arc may resolve local questions such as:
+- whether Lily and Max are real to each other;
+- whether they can communicate and cooperate;
+- how to coexist across the overlapping rooms;
+- what basic observable rules govern the overlap;
+- whether Max is a conventional ghost.
+
+The arc is not required or authorized by selection alone to resolve:
+- MT-001;
+- MT-002;
+- MT-003;
+- stable passage between worlds;
+- the full Twinfall history;
+- the final romance;
+- the final series route.
+
+## Future Arc Rule
+
+No future location is selected as the required next arc.
+
+The next arc remains:
+
+**UNSELECTED / UNLOCKED**
+
+It must emerge from the completed canon of the active arc.
+
+# 14. Next Production Step
+
+**Gate 6 — Active Arc Architecture QA**
+
+Gate 6 may build the detailed arc architecture.
+
+Detailed chapter count remains **UNLOCKED** until Gate 6 passes.
