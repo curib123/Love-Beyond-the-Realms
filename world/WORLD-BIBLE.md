@@ -279,6 +279,25 @@ Neither is "the fake world."
 
 Neither is "the original" in a morally superior sense.
 
+# 7A. Language Continuity
+
+Earth and Velaire inherited major languages from the same pre-Twinfall world.
+
+Because the split occurred approximately 140 years ago, everyday language has diverged but remains broadly mutually intelligible for Lily and Max.
+
+Writer-side rule:
+- ordinary short writing and speech can be understood across the overlap;
+- spelling, slang, technical vocabulary, idioms, and some object names may differ;
+- neither Lily nor Max initially knows why the other person's language is so understandable;
+- occasional unfamiliar words may create comedy or clues;
+- language similarity alone is **not** sufficient proof of MT-001.
+
+Publication convention:
+- mutually understandable dialogue/writing is rendered in natural English;
+- meaningful Velaire-specific terms may remain distinct when the difference matters.
+
+Do not use language as an effortless lore dump.
+
 # 8. The Veil
 
 The **Veil** is the phase boundary separating the two branches.
