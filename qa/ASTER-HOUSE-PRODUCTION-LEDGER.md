@@ -4,7 +4,7 @@
 **Locked Chapter Count:** 20  
 **Gate 6:** PASS v2  
 **Gate 7:** PASS v2  
-**Status:** ARC CANON-COMPLETE — FULL MANUSCRIPT QA: EDITORIAL REVISION REQUIRED
+**Status:** ARC COMPLETE — FULL MANUSCRIPT QA: FINAL PASS — PUBLICATION-FINAL
 
 | Chapter | Gate 8 | Manuscript | Gate 9 | Canon |
 |---|---|---|---|---|
@@ -44,3 +44,17 @@
 - CH-020 — **FINAL-PASS / GATE 9 REVALIDATED**
 
 **Progress:** 10/10 priority editorial revisions complete.
+
+
+# Final Publication Verification
+
+**FULL MANUSCRIPT QA — FINAL PASS**
+
+- 20/20 manuscripts complete;
+- 20/20 Gate 9 records pass;
+- 20/20 canon-approved;
+- 10/10 priority final-prose revisions revalidated;
+- 0 remaining editorial blockers;
+- current manuscript total: **26,584 words**.
+
+**Arc publication status: FINAL**
