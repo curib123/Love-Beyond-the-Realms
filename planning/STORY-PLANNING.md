@@ -438,3 +438,33 @@ Canon change:
 # 26. Next Production Step
 
 **CH-005 — Tap Twice If You're Real → Detailed Scene Architecture → Gate 8**
+
+
+# 25. CH-003 Canon Record
+
+Architecture:
+`planning/CH-003-SCENE-ARCHITECTURE.md`
+
+Gate 8:
+`qa/CH-003-PRE-MANUSCRIPT-SCENE-QA-V2.md`
+
+Manuscript:
+`manuscript/CH-003-THE-NOTE-THAT-SHOULDNT-EXIST.md`
+
+Gate 9:
+`qa/CH-003-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon changes:
+- first truthful Max POV;
+- reader K1;
+- Max alive / phase-bound shown honestly;
+- M-001 deepened by independent-location information;
+- R0 / P0 / C0 / X0;
+- no F-ID.
+
+# 26. Next Production Step
+
+**CH-004 — The Other Tenant → Detailed Scene Architecture → Gate 8**
