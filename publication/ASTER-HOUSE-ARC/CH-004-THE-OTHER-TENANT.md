@@ -336,9 +336,7 @@ One final reply squeezed through.
 
 RUDE.
 
-Lily smiled before she could stop herself.
-
-Lily laughed.
+Lily laughed before she could stop herself.
 
 The sound surprised her enough that she stopped.
 
@@ -356,7 +354,7 @@ She knew he claimed to be in a place called Rivenhall, inside something called R
 
 She knew he thought her apartment was the strange one.
 
-And somehow, between all the impossible parts, she had also learned that he was irritating on purpose.
+And, somehow, she already knew he was irritating on purpose.
 
 None of that proved he was real.
 
