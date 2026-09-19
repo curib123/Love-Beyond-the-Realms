@@ -417,31 +417,24 @@ Canon change:
 - M-001 remains ACTIVE;
 - no F-ID planted.
 
-# 25. Next Production Step
+# 25. CH-004 Production Record
 
-**CH-004 — The Other Tenant → Detailed Scene Architecture → Gate 8**
+Gate 8: **PASS**
 
-# 21. CH-002 Gate 8 v2 Record
+Manuscript:
+`manuscript/CH-004-THE-OTHER-TENANT.md`
 
-Formal architecture:
-`planning/CH-002-SCENE-ARCHITECTURE.md`
+Gate 9:
+**PASS — CANON-APPROVED**
 
-Formal QA:
-`qa/CH-002-PRE-MANUSCRIPT-SCENE-QA-V2.md`
+Canon change:
+- Lily/Max names and claimed local locations exchanged;
+- multiple writing windows remain bounded;
+- mutual reality test scheduled;
+- M-001 ACTIVE / near resolution;
+- K1 / R0 / P0 / C0 / X0;
+- no F-ID planted.
 
-Status:
-**PASS — MANUSCRIPT AUTHORIZED**
+# 26. Next Production Step
 
-Key locks:
-- Lily-only POV;
-- P0/C0/X0;
-- Correlation Patch A writing only;
-- no voice;
-- no person-image;
-- M-001 deepens but does not resolve;
-- no F-ID;
-- final response: **I WAS ABOUT TO ASK YOU THAT.**
-
-# 22. Next Production Step
-
-**CH-002 — Someone Else Is Using My Room → Manuscript Draft**
+**CH-005 — Tap Twice If You're Real → Detailed Scene Architecture → Gate 8**
