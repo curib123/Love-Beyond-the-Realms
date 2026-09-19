@@ -270,8 +270,27 @@ Character corrections:
 - stale pre-v2 active-arc planning language removed;
 - written and spoken chemistry remain distinct stages.
 
-# 17. Next Production Step
+# 17. Gate 3 v2 Revalidation Record
 
-**Gate 3 — Mystery/Twist QA Revalidation for Originality Revision v2**
+Formal QA:
+
+`qa/MYSTERY-TWIST-QA-V2.md`
+
+Status:
+
+**PASS — 2026-09-19**
+
+Mystery corrections:
+- replaced static initial knowledge with K0/K1/K2 staged knowledge;
+- reader knowledge separated from M-ID state;
+- M-001/M-002 rebuilt around room → writing → voice → sight;
+- opening evidence ladder added;
+- writing-before-voice fairness rule added;
+- F-001 tightened against early visual leakage;
+- Twist Registry aligned with v2 non-leak rules.
+
+# 18. Next Production Step
+
+**Gate 4 — Location QA Revalidation for Originality Revision v2**
 
 Do not draft revised CH-001 or CH-002 until the affected gates are revalidated in order.
