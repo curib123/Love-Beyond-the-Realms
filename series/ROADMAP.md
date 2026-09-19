@@ -376,3 +376,27 @@ No M-ID or F-ID changed in CH-021.
 # Current Next Authorized Step
 
 **CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
+
+
+# Shared Foundations Genre Lock
+
+Arc 2 must remain:
+
+**Romantic Comedy / Romance first → Slice of Life → Mystery → Sci-Fi**
+
+The structural investigation supports the Lily/Max relationship story.
+
+For CH-022–CH-034:
+- no investigation-only chapter;
+- technical exposition stays subordinate to character;
+- each chapter must move relationship/chemistry/emotion/ordinary life as well as plot where applicable;
+- comedy comes from character and circumstance;
+- danger may suppress comedy but must deepen trust, boundaries, care, or conflict.
+
+This rule is enforced at Gate 8 and Gate 9.
+
+CH-021 remains compliant and canon-approved.
+
+# Current Next Authorized Step
+
+**CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
