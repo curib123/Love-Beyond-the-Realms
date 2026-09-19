@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GATE 7 CHAPTER ROADMAP QA PASS — GATE 8 PRE-MANUSCRIPT SCENE QA NEXT
+**Status:** CH-001 GATE 8 PRE-MANUSCRIPT SCENE QA PASS — CH-001 MANUSCRIPT NEXT
 
 # Series Length
 
@@ -54,6 +54,10 @@ Record: `qa/ACTIVE-ARC-ARCHITECTURE-QA.md`
 Gate 7 — Chapter Roadmap QA: **PASS — 2026-09-19**  
 Record: `qa/CHAPTER-ROADMAP-QA.md`
 
+CH-001 Gate 8 — Pre-Manuscript Scene QA: **PASS — 2026-09-19**  
+Record: `qa/CH-001-PRE-MANUSCRIPT-SCENE-QA.md`  
+Scene architecture: `planning/CH-001-SCENE-ARCHITECTURE.md`
+
 Architecture: `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`  
 Chapter roadmap: `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
 
@@ -92,9 +96,19 @@ Gate 7 confirms:
 - MT-001/002/003 remain unrevealed;
 - future arc remains unlocked.
 
-Non-blocking Gate 7 notes:
-- manuscript length follows chapter function, not equal-size padding;
-- Gate 8 must choose the specific ordinary-life participant for CH-016 rather than crowding the scene.
+CH-001 Gate 8 confirms:
+- four Lily-only scenes;
+- no Max dialogue;
+- no experiment;
+- no F-ID assignment;
+- one deliberately ambiguous cabinet inconsistency;
+- first unequivocal impossible event is Lily seeing Max;
+- chapter ends before communication;
+- P0/C0/X0 preserved.
+
+Non-blocking CH-001 notes:
+- avoid overplaying grief in the opening;
+- keep the cabinet anomaly mundane enough to dismiss.
 
 # Active Arc
 
@@ -102,7 +116,7 @@ Non-blocking Gate 7 notes:
 
 Status:
 
-**GATE 7 CHAPTER ROADMAP APPROVED — GATE 8 SCENE QA NEXT**
+**CH-001 GATE 8 APPROVED — CH-001 MANUSCRIPT AUTHORIZED**
 
 Approved primary cluster:
 - Aster House;
@@ -149,10 +163,12 @@ MT-003 Their Experiments Strengthen the Leak:
 
 # Next Authorized Step
 
-**Gate 8 — Pre-Manuscript Scene QA for CH-001.**
+**CH-001 — A Place of My Own → Manuscript Draft.**
 
-Gate 8 must define and review CH-001 scene architecture before manuscript drafting.
+Only CH-001 manuscript prose is currently authorized.
 
-Do not draft CH-001 prose until its Gate 8 review passes.
+After the draft is completed, run:
 
-Do not mark any F-ID PLANTED until matching prose actually exists.
+**CH-001 → Gate 9 Chapter QA.**
+
+CH-002 still requires its own Gate 8 scene architecture before its manuscript may be drafted.
