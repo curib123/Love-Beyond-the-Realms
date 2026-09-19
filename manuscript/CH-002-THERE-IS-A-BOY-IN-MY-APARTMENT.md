@@ -10,9 +10,7 @@ But screaming would also tell him exactly where she was.
 
 So Lily stayed still.
 
-Her phone was on the small table beside the bedroom door. Two steps away.
-
-The apartment suddenly felt much smaller than it had ten minutes ago.
+Her phone was on the small table beside the bedroom door, two steps away. The apartment suddenly felt much smaller than it had ten minutes ago.
 
 The young man stood near the far side of the living room, looking toward the window. He was around her age, maybe a little older. Dark hair. Lean build. Clothes that looked normal at first glance and slightly wrong at second—not costume wrong, just unfamiliar enough that Lily could not place them.
 
@@ -22,19 +20,7 @@ Empty.
 
 Good.
 
-Her eyes moved to the front door.
-
-Still locked.
-
-She had checked it.
-
-Twice.
-
-The windows were closed.
-
-There was no balcony.
-
-The young man had not appeared from the bathroom because Lily had been standing where she could see the hallway.
+Her eyes moved to the front door. Still locked. She had checked it twice. The windows were closed. There was no balcony. The young man had not appeared from the bathroom because Lily had been standing where she could see the hallway.
 
 Which left several possibilities.
 
@@ -50,25 +36,15 @@ No.
 
 She was not adding ghosts to the list yet.
 
-The young man sighed.
-
-Lily's shoulders tightened.
-
-He rubbed one hand over his face and muttered, "This is going very well."
+The young man sighed, and Lily's shoulders tightened. He rubbed one hand over his face and muttered, "This is going very well."
 
 His voice sounded normal.
 
-That did not help.
-
-Burglars could have normal voices.
+That did not help. Burglars could have normal voices.
 
 Probably.
 
-Lily slowly reached for her phone.
-
-The young man did not turn.
-
-Her fingers closed around it.
+Lily slowly reached for her phone. The young man did not turn. Her fingers closed around it.
 
 Still nothing.
 
@@ -78,15 +54,11 @@ The order felt sensible.
 
 She did not press anything yet.
 
-Observe first.
-
-Decide second.
+Observe first. Decide second.
 
 Panic later.
 
-The young man shifted his weight and looked across the living room.
-
-His gaze moved toward Lily.
+The young man shifted his weight and looked across the living room. His gaze moved toward Lily.
 
 Straight toward her.
 
@@ -98,9 +70,7 @@ Then kept going.
 
 He looked at the wall behind her.
 
-No pause.
-
-No surprise.
+No pause. No surprise.
 
 Nothing.
 
@@ -112,13 +82,9 @@ That was worse.
 
 Maybe he was pretending.
 
-It was possible.
+It was possible. A strange, complicated, deeply stupid prank was still technically possible.
 
-A strange, complicated, deeply stupid prank was still technically possible.
-
-Lily moved one step to the side.
-
-The young man's attention stayed on the far wall.
+Lily moved one step to the side. The young man's attention stayed on the far wall.
 
 She moved another step.
 
@@ -126,19 +92,13 @@ Nothing.
 
 Her pulse was beating hard enough that she could feel it in her throat, but her fear had changed shape. It was still there. It just had a new problem to solve.
 
-She stopped near the edge of the living room.
-
-He turned again.
+She stopped near the edge of the living room. He turned again.
 
 This time Lily was directly in front of him.
 
 There was no way he could miss her.
 
-She lifted one hand.
-
-Not a wave exactly.
-
-More like a cautious test of whether reality was still participating.
+She lifted one hand. Not a wave exactly. More like a cautious test of whether reality was still participating.
 
 His eyes moved through the space beside her shoulder.
 
@@ -150,19 +110,9 @@ She stopped herself.
 
 Not yet.
 
-The young man frowned at something she could not see.
+The young man frowned at something she could not see, then took three steps across the room. Lily moved back automatically, keeping distance between them.
 
-Then he took three steps across the room.
-
-Lily moved back automatically, keeping distance between them.
-
-He still did not react.
-
-No change in expression.
-
-No glance.
-
-No sign that he had noticed an eighteen-year-old girl backing away from him in her own apartment.
+He still did not react. No change in expression. No glance. No sign that he had noticed an eighteen-year-old girl backing away from him in her own apartment.
 
 Either he was an incredible actor—
 
@@ -182,17 +132,11 @@ He could see.
 
 Just apparently not her.
 
-That moved ghost back onto the list.
-
-Not to the top.
-
-But definitely higher than before.
+That moved ghost back onto the list. Not to the top, but definitely higher than before.
 
 Hallucination was still available too.
 
-Lily considered that possibility carefully.
-
-If she were hallucinating him, would her hallucination be this bad at noticing her?
+Lily considered that possibility carefully. If she were hallucinating him, would her hallucination be this bad at noticing her?
 
 That seemed like an unnecessarily specific feature for her brain to invent.
 
@@ -204,17 +148,13 @@ The young man did not look at her.
 
 Lily's eyes narrowed.
 
-"Are you serious?" she thought.
-
 He continued ignoring her with impressive commitment.
 
 If this was a prank, someone had put far too much work into it.
 
 ---
 
-The stranger took a slow breath.
-
-Then he straightened.
+The stranger took a slow breath, then straightened.
 
 "All right," he said to the empty room. "Calm. Simple. Start with the facts."
 
@@ -224,17 +164,13 @@ He lifted one hand like he was about to give a speech.
 
 "Hello. There has been a minor—"
 
-He stopped.
-
-His face tightened.
+He stopped, his face tightening.
 
 "No. Absolutely not."
 
 Lily blinked.
 
-The young man dropped his hand.
-
-A few seconds passed.
+The young man dropped his hand. A few seconds passed.
 
 He tried again.
 
@@ -262,13 +198,7 @@ A pause.
 
 Lily pressed her lips together.
 
-This was becoming difficult to categorize.
-
-Dangerous intruder was still on the table.
-
-So was hallucination.
-
-Ghost remained annoying but possible.
+This was becoming difficult to categorize. Dangerous intruder was still on the table. So was hallucination. Ghost remained annoying but possible.
 
 World's least prepared home invader had become a serious contender.
 
@@ -278,9 +208,7 @@ The young man ran a hand through his hair and tried again.
 
 Lily's eyebrows rose.
 
-He nodded to himself.
-
-"Excellent. Very achievable."
+He nodded to himself. "Excellent. Very achievable."
 
 Then, after half a second, he added, "Probably."
 
@@ -288,17 +216,9 @@ Lily nearly laughed.
 
 Nearly.
 
-The situation was still too strange for that.
+The situation was still too strange for that, but something in her chest loosened anyway. Not much. Enough.
 
-But something in her chest loosened anyway.
-
-Not much.
-
-Enough.
-
-He did not sound threatening.
-
-He sounded like someone trying very hard to convince himself that he had a plan.
+He did not sound threatening. He sounded like someone trying very hard to convince himself that he had a plan.
 
 Lily knew what that looked like.
 
@@ -308,9 +228,7 @@ The thought was not comforting.
 
 It was just familiar.
 
-The young man turned again and walked closer.
-
-Lily stepped back.
+The young man turned again and walked closer. Lily stepped back.
 
 He kept coming.
 
@@ -318,15 +236,11 @@ Not toward her.
 
 Through her general direction.
 
-His eyes stayed fixed on some point beyond her.
-
-Lily moved aside before he got too close.
+His eyes stayed fixed on some point beyond her. Lily moved aside before he got too close.
 
 He passed within a few feet of her without the slightest reaction.
 
-No glance.
-
-No startled breath.
+No glance. No startled breath.
 
 Nothing.
 
@@ -336,21 +250,13 @@ If he could see her, he was either the best actor Lily had ever met—
 
 or the rudest person alive.
 
-She watched him stop near the wall.
+She watched him stop near the wall. Her phone was still in her hand.
 
-Her phone was still in her hand.
-
-She could leave.
-
-Call Mrs. Bell.
-
-Call the police and try to explain that a young man had entered her locked apartment but might also be unable to see her.
+She could leave. Call Mrs. Bell. Call the police and try to explain that a young man had entered her locked apartment but might also be unable to see her.
 
 That conversation would go extremely well.
 
-Lily looked at the stranger again.
-
-He was muttering another version of his speech.
+Lily looked at the stranger again. He was muttering another version of his speech.
 
 Still alone.
 
@@ -368,9 +274,7 @@ Speaking was a bad idea.
 
 Probably.
 
-If he was a real intruder, speaking told him where she was.
-
-If he was a hallucination, speaking to him felt like admitting defeat.
+If he was a real intruder, speaking told him where she was. If he was a hallucination, speaking to him felt like admitting defeat.
 
 If he was a ghost—
 
@@ -378,19 +282,13 @@ She stopped there.
 
 No.
 
-She was not going to stand in her living room and calmly organize ghost possibilities.
+She was not going to stand in her living room and calmly organize ghost possibilities. There had to be another explanation.
 
-There had to be another explanation.
-
-The young man turned slightly.
-
-Again, his gaze passed over her without landing.
+The young man turned slightly. Again, his gaze passed over her without landing.
 
 Lily watched his face.
 
-No recognition.
-
-No reaction.
+No recognition. No reaction.
 
 Nothing.
 
@@ -400,9 +298,7 @@ One question.
 
 That was all.
 
-Short.
-
-Useful.
+Short. Useful.
 
 If the situation got worse, the front door was still only a few steps behind her.
 
