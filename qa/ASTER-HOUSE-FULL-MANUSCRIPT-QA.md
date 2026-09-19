@@ -19,10 +19,10 @@ The arc is structurally complete and all 20 chapters have canonical story conten
 - 20/20 v2 Gate 9 records present.
 - 20/20 chapters now contain the intended four scene sections / three explicit scene breaks.
 - 0 manuscript files contain DRAFT, TODO, TBD, PLACEHOLDER, or INSERT HERE markers.
-- Total current manuscript size by repository tokenized word-count method: approximately **21,508 words**.
+- Total current manuscript size by repository tokenized word-count method: approximately **22,423 words**.
 - Writing Rules default: approximately **1,400–2,400 words per chapter**, explicitly flexible and not a quota.
-- 14/20 chapters are below 1,400 words.
-- 11/20 chapters are below 900 words.
+- 13/20 chapters are below 1,400 words.
+- 10/20 chapters are below 900 words.
 
 Length alone is **not** a failure. The concern is where a major emotional/relationship/mystery milestone is compressed enough that it reads more like a finished scene sequence than a fully developed web-novel chapter.
 
@@ -76,7 +76,7 @@ Old CH-012 draft-stage records and pre-Gate-7 provisional language are now expli
 | CH-011 | 1,816 | **PASS — REVALIDATED** | **FINAL-PASS** | Reciprocal P1 sight, mental-image correction, and privacy rules now have full emotional and consent weight without canon drift. |
 | CH-012 | 1,644 | PASS | **FINAL-PASS** | Ordinary-life consequence chapter is fully developed and balanced. |
 | CH-013 | 1,737 | **PASS — REVALIDATED** | **FINAL-PASS** | Mina disclosure, usefulness wound, and stronger-test decision now have full emotional and procedural development without exposing protected truths. |
-| CH-014 | 691 | PASS | **REVISION REQUIRED — MILESTONE COMPRESSION** | Arc reversal and F-003 plant are correct but too compressed for the danger shift. |
+| CH-014 | 1,606 | **PASS — REVALIDATED** | **FINAL-PASS** | Arc reversal, first F-003 behavior, and persistent geometry mismatch now carry full physical and procedural weight without canon drift. |
 | CH-015 | 729 | PASS | **REVISION REQUIRED — MILESTONE COMPRESSION** | Crisis continuation and Max/Lily agency conflict need fuller escalation and aftermath. |
 | CH-016 | 905 | PASS | **PASS — SHORT FORM** | June safety event is focused and complete; expansion optional, not required. |
 | CH-017 | 630 | PASS | **REVISION REQUIRED — CLIMAX SETUP COMPRESSION** | Stabilization breakthrough is mechanically clear but emotionally/physically underdeveloped. |
@@ -144,11 +144,18 @@ Major twists:
 - publication readiness: **FINAL-PASS**;
 - canon unchanged.
 
+## CH-014 Final Prose Revalidation
+- reversal-compression issue corrected;
+- current manuscript: **1,606 words**;
+- Gate 9 revalidation: **PASS**;
+- publication readiness: **FINAL-PASS**;
+- canon unchanged.
+
 # Required Final-Prose Revision Queue
 
 Priority revision chapters:
 
-**CH-014 → CH-015 → CH-017 → CH-018 → CH-019 → CH-020**
+**CH-015 → CH-017 → CH-018 → CH-019 → CH-020**
 
 Revision rule:
 - preserve canon exactly;
@@ -165,6 +172,6 @@ No chapter is missing.
 
 No current manuscript is literally marked DRAFT.
 
-However, six milestone/climax/aftermath chapters still require a final prose-development pass before this QA can be upgraded to:
+However, five milestone/climax/aftermath chapters still require a final prose-development pass before this QA can be upgraded to:
 
 **FULL MANUSCRIPT QA — FINAL PASS**
