@@ -260,15 +260,15 @@ NOT TODAY.
 
 Max stared at it.
 
-His hand was already halfway to the adjustment screw.
+His fingers were already on their way to the adjustment screw.
 
-He looked at his hand.
+He stopped.
 
-Then at the message.
+Looked at the message again.
 
 "Right."
 
-He lowered both.
+His hand dropped back to the table.
 
 NOT TODAY.
 
@@ -286,11 +286,13 @@ A person had not.
 
 But the delayed blur had moved when Lily moved.
 
-That was not a face.
+It wasn't a face.
 
-It was not close.
+Not even close.
 
-It was enough to tell him what the next problem was.
+But it moved when Lily moved.
+
+That was enough.
 
 He opened his notebook.
 
