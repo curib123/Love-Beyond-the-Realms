@@ -132,4 +132,4 @@ Gate 4 v2 record:
 Gate 5 v2 record:
 `qa/ACTIVE-ARC-SELECTION-QA-V2.md`
 
-Do not draft the new opening until Gate 6/7 and chapter-level gates are revalidated.
+Aster House Arc production is complete. Any new active arc must begin through the normal selection and QA gate process.
