@@ -354,23 +354,29 @@ A joke tried to arrive.
 
 Bad timing.
 
-Did not want to ruin furniture conversations.
-
-Max let both die.
+Max let it die before it reached the pen.
 
 **I KNOW.**
 
-Then:
+Nothing came back.
 
-**I THOUGHT IF I UNDERSTOOD THIS FIRST, I'D HAVE SOMETHING USEFUL TO SAY.**
+That silence was worse than an accusation.
 
-The sentence looked worse once it existed.
+He wrote:
 
-Lily asked:
+**I KEPT THINKING I'D TELL YOU WHEN I UNDERSTOOD MORE.**
 
-**TO WHO?**
+Still nothing.
 
-Max stopped.
+Max added:
+
+**WHEN I HAD SOMETHING USEFUL TO SAY.**
+
+Lily's answer finally appeared.
+
+**USEFUL TO WHO?**
+
+His hand stopped.
 
 His family, obviously.
 
@@ -382,9 +388,11 @@ He cut that thought off.
 
 **MY FAMILY.**
 
-Then:
+The pen stayed against the paper.
 
-**MYSELF, MAYBE.**
+Then he added:
+
+**ME, MAYBE.**
 
 The gray letters faded at the edges.
 
@@ -544,17 +552,25 @@ Lily added:
 
 Max hesitated.
 
-Long enough.
+A new line appeared before he decided whether the hesitation counted as an answer.
 
 **MAX.**
 
-He looked toward the corridor.
+He stared at his name.
 
 One attempt was terrible experimental design.
 
 It was also the agreement.
 
-**AGREED.**
+**I KNOW.**
+
+Lily answered:
+
+**THAT WASN'T YES.**
+
+Max exhaled through his nose.
+
+**YES. ONE ATTEMPT.**
 
 Lily added:
 
