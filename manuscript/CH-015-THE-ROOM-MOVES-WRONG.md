@@ -202,9 +202,27 @@ He wrote:
 
 **SMALL CORRECTION.**
 
-The answer took nearly a minute.
+Nothing.
+
+Max rubbed both eyes.
+
+Then Lily's answer appeared.
 
 **THAT WAS NOT THE AGREEMENT.**
+
+He wrote:
+
+**I KNOW.**
+
+Her reply came faster than the others.
+
+**THEN WHY DID YOU DO IT?**
+
+Max's pen hovered.
+
+There were several technically accurate answers.
+
+None of them were good.
 
 He knew that.
 
@@ -362,9 +380,9 @@ He had only changed one part of a shared problem.
 
 The answer took almost a minute.
 
-**THAT IS NOT HOW THIS HAS WORKED ONCE.**
+**MAX. THAT IS NOT HOW THIS HAS WORKED ONCE.**
 
-Max looked away.
+He looked away.
 
 Annoying.
 
@@ -372,11 +390,25 @@ Accurate.
 
 Again.
 
-**IF I CAN FIX ROOM 17, YOUR SIDE MAY FOLLOW.**
+He wrote:
 
-**AND IF YOU MAKE ROOM 17 WORSE, MINE MAY FOLLOW.**
+**IF I FIX ROOM 17, YOUR SIDE MIGHT FOLLOW.**
 
-He did not answer.
+Lily answered:
+
+**MIGHT.**
+
+Then:
+
+**AND IF YOU MAKE ROOM 17 WORSE?**
+
+Max did not write anything.
+
+A final line appeared.
+
+**MINE MIGHT FOLLOW TOO.**
+
+He hated the word because it was his own logic turned around.
 
 The false hallway flickered.
 
@@ -518,11 +550,11 @@ Max looked toward the shifted frame.
 
 **AGREED.**
 
-Another line:
+Another line followed.
 
-**EVEN IF IT LOOKS LIKE THE OTHER ROOM.**
+**EVEN IF IT LOOKS LIKE MY SIDE.**
 
-He hesitated.
+His hand stopped.
 
 That one hurt more.
 
@@ -536,19 +568,33 @@ Curiosity later.
 
 **AGREED.**
 
-Then:
+The next message appeared almost immediately.
 
-**YOU TOO.**
+**THAT RULE INCLUDES ME.**
 
-**OBVIOUSLY.**
+Max frowned.
 
-Max stared.
+**I KNOW.**
 
-**I'M SERIOUS.**
+**YOU PAUSED.**
+
+He stared at the page.
+
+**I WAS THINKING.**
+
+**THAT IS WHAT WORRIES ME.**
+
+Despite everything, a breath of laughter escaped him.
+
+He wrote:
+
+**YOU TOO. IF IT LOOKS LIKE ROOM 17, YOU DON'T OPEN IT.**
 
 A pause.
 
-**SO AM I.**
+**AGREED.**
+
+That answer settled something the first rule had not.
 
 The false frame flickered.
 
