@@ -148,11 +148,17 @@ His compass rested beside one hand.
 
 "Immediately."
 
-Max gave her a look through the mirror.
+Max looked at her through the mirror.
 
 "Lily."
 
-"That was not an answer."
+She waited.
+
+He sighed.
+
+"Immediately."
+
+"Better."
 
 His mouth tightened.
 
@@ -348,6 +354,10 @@ Then:
 
 "Something didn't reset."
 
+Static swallowed half a second.
+
+Then Max came back.
+
 "Same here."
 
 His voice sounded farther away.
@@ -356,9 +366,11 @@ Not quieter.
 
 Farther.
 
-The key frosted more heavily.
+Lily stared at the frosting key.
 
-Lily did not touch it.
+"Max."
+
+"I'm here."
 
 "How bad?"
 
