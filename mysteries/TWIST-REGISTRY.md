@@ -48,6 +48,10 @@ Required setup paths:
 Reveal window:
 - only after readers understand basic overlap rules.
 
+Required post-reveal choice:
+- Lily and Max must reconsider whether increasing contact is safe;
+- investigation shifts toward why the split happened and what reconnection would mean.
+
 Effect:
 - changes the story question from "How do we cross to another universe?" to "Why was one world split, and should the branches reconnect?"
 
@@ -59,15 +63,21 @@ The current connection was strengthened by a deliberate Velaire-side experiment.
 
 The experiment did not intend to trap Max.
 
-Required setup:
+Required setup paths:
 - active instrument residue;
 - missing archive record;
 - evidence that the overlap began too cleanly to be random.
 
+Reveal guard:
+- responsible researcher must be formally locked before reveal;
+- motive must pass Character/Mystery review;
+- Max's POV knowledge must be audited before the reveal.
+
+Required post-reveal choice:
+- Lily and Max must decide whether to expose, confront, cooperate with, or work around the responsible party/institution.
+
 Effect:
 - creates a human mystery and responsibility question.
-
-Do not lock the responsible character until Character/Mystery QA approves the motive.
 
 ## MT-003 — Their Experiments Strengthen the Leak
 
@@ -77,10 +87,17 @@ Lily and Max believe repeated tests are only helping them understand the overlap
 
 In reality, repeated coherence tests also strengthen the local correlation.
 
-Required setup:
-- Shared Minutes slowly lengthen;
-- object exchanges become easier after tests;
-- recovery periods shorten while instability spreads outward.
+Required setup paths:
+- Shared Minutes slowly lengthen after repeated testing;
+- object exchanges become easier or broader after similar tests;
+- quiet intervals between coherence disturbances shorten even when Lily and Max physically recover;
+- effects begin spreading beyond the original room boundary.
+
+Required post-reveal choice:
+- reduce or stop risky testing;
+- continue because urgent information is needed;
+- develop a safer stabilization method;
+- accept a relationship cost to protect other people.
 
 Effect:
 - their progress creates the problem they later must help solve.
@@ -149,10 +166,24 @@ Major twists need breathing room afterward.
 Before a major reveal:
 - at least two independent clue paths;
 - at least one clue readers could notice without specialist knowledge;
-- no false narration from a truthful POV solely to hide the answer.
+- no false narration from a truthful POV solely to hide the answer;
+- relevant POV knowledge must be audited against the Continuity Bible.
 
 # 7. Emotional Requirement
 
 A major twist is incomplete until it changes a relationship or choice.
 
 Knowledge alone is not enough.
+
+# 8. No-Retcon Rule
+
+A twist may reinterpret established facts.
+
+It may not:
+- contradict an established physical rule without prior exception support;
+- erase an earlier consequence;
+- invent hidden knowledge for a POV character after the fact;
+- convert a previously ordinary event into conspiracy solely for shock;
+- override Lily's parents' protected ordinary deaths.
+
+If a twist requires one of those actions, revise the twist instead of the canon.
