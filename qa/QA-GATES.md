@@ -53,7 +53,12 @@ Check:
 - MT-001/002/003 do not leak early;
 - twists change choices, not only information;
 - no random retcons;
-- sci-fi explanation remains internally consistent.
+- sci-fi explanation remains internally consistent;
+- v2 staged reader/character knowledge is explicit;
+- Max POV may honestly reveal Max is alive without giving Lily that knowledge;
+- M-001/M-002 follow room → writing → voice → sight evidence progression;
+- writing-before-voice does not become unlimited exposition;
+- opening clues do not leak MT-001/002/003.
 
 # Gate 4 — Location QA
 
