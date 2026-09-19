@@ -19,10 +19,10 @@ The arc is structurally complete and all 20 chapters have canonical story conten
 - 20/20 v2 Gate 9 records present.
 - 20/20 chapters now contain the intended four scene sections / three explicit scene breaks.
 - 0 manuscript files contain DRAFT, TODO, TBD, PLACEHOLDER, or INSERT HERE markers.
-- Total current manuscript size by repository tokenized word-count method: approximately **25,666 words**.
+- Total current manuscript size by repository tokenized word-count method: approximately **26,584 words**.
 - Writing Rules default: approximately **1,400–2,400 words per chapter**, explicitly flexible and not a quota.
 - 9/20 chapters are below 1,400 words.
-- 8/20 chapters are below 900 words.
+- 5/20 chapters are below 900 words.
 
 Length alone is **not** a failure. The concern is where a major emotional/relationship/mystery milestone is compressed enough that it reads more like a finished scene sequence than a fully developed web-novel chapter.
 
@@ -82,7 +82,7 @@ Old CH-012 draft-stage records and pre-Gate-7 provisional language are now expli
 | CH-017 | 1,470 | **PASS — REVALIDATED** | **FINAL-PASS** | Stabilization logic, patience, and shutdown preparation now have full procedural and emotional development without canon drift. |
 | CH-018 | 1,420 | **PASS — REVALIDATED** | **FINAL-PASS** | Deliberate loss of strongest contact, silent gap, and return to P0 now carry full emotional weight without changing mechanics. |
 | CH-019 | 1,360 | **PASS — REVALIDATED** | **FINAL-PASS** | Phase-bound aftermath and usefulness/waiting conflict now have full character weight without reopening the crisis. |
-| CH-020 | 811 | PASS | **REVISION REQUIRED — ARC-FINALE COMPRESSION** | R2 and Lily's choice to stay are correct, but the arc resolution should breathe more before publication. |
+| CH-020 | 1,729 | **PASS — REVALIDATED** | **FINAL-PASS** | Lily's independent choice, roommate agreement, R2 formalization, and open-ended arc resolution now have full weight without closing the series. |
 
 # Canon State After Audit
 
@@ -179,11 +179,18 @@ Major twists:
 - publication readiness: **FINAL-PASS**;
 - canon unchanged.
 
+## CH-020 Final Prose Revalidation
+- arc-finale compression corrected;
+- current manuscript: **1,729 words**;
+- Gate 9 revalidation: **PASS**;
+- publication readiness: **FINAL-PASS**;
+- canon unchanged.
+
 # Required Final-Prose Revision Queue
 
 Priority revision chapters:
 
-**CH-020**
+**NONE — PRIORITY REVISION QUEUE COMPLETE**
 
 Revision rule:
 - preserve canon exactly;
@@ -200,6 +207,6 @@ No chapter is missing.
 
 No current manuscript is literally marked DRAFT.
 
-However, one arc-finale chapter still requires a final prose-development pass before this QA can be upgraded to:
+All priority milestone/climax/aftermath revisions are complete. This audit is ready for final all-manuscript verification before upgrade to:
 
 **FULL MANUSCRIPT QA — FINAL PASS**
