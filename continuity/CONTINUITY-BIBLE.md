@@ -198,74 +198,76 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-002 v2
+# 16. Current Canon State — Through CH-003 v2
 
-**Latest Canon Chapter:** CH-002 — Someone Else Is Using My Room
+**Latest Canon Chapter:** CH-003 — The Note That Shouldn't Exist
 
 ## Lily
 Knows:
-- Unit 4B briefly showed an impossible wrong-city/window state;
-- unfamiliar fresh handwriting can appear on the east-side desk correlation area;
-- her written question received a semantically relevant reply;
-- the unknown responder also does not know who Lily is.
+- Unit 4B produced an impossible wrong-city/window state;
+- a responder can answer through fresh writing at the desk patch;
+- during CH-003's written exchange, the responder asked what was outside her window;
+- she supplied rain / brick building / blue pharmacy sign / tram wires;
+- she received the responder's brief reaction, including **YOU'RE INTERESTING**.
 
-Does not know:
+Still does not know:
 - Max's name, age, sex, appearance, or living status;
-- Velaire;
-- Room 17;
-- Echo Exchange terminology;
-- Phase Lag;
-- mirrorstone;
-- Twinfall;
-- why the language is understandable.
+- Velaire / Room 17;
+- system terminology or cosmology.
 
 ## Max
-No on-page POV knowledge has yet been canonically exposed to the reader.
+Knows:
+- he is alive and phase-bound around Room 17;
+- limited adjoining movement fails unpredictably;
+- a written source at the correlated table can answer with information absent from his surroundings;
+- the source describes rain, brick building, blue pharmacy sign, and tram wires;
+- the source is not merely copying his visible room.
 
-Writer-side continuity:
-- Max is alive and phase-bound around Room 17;
-- Max has not visually perceived Lily.
+Still does not know:
+- Lily's name, age, appearance, living status with certainty;
+- Earth as a named world;
+- why the correlation exists;
+- MT-001/002/003.
 
 ## Reader Knowledge
-**K0**
+**K1**
 
-The reader has not yet entered Max POV.
+Reader knows Max is alive and phase-bound through truthful Max POV.
 
 ## Relationship
 **R0 — Unknown Presence**
 
-An intentional correspondent is suspected, but mutual living-person reality has not been established.
+Mutual curiosity exists, but living-person reality is not yet proven.
 
-## Perception / Contact / Crossing
-- **P0 — Echo Trace**
-- **C0 — None**
-- **X0 — Observation**
+## System
+- **P0 Echo Trace**
+- **C0**
+- **X0**
 
-Observed P0 capabilities so far:
-- wrong light/window state;
-- fresh mark-state transfer at Correlation Patch A.
+Observed:
+- environmental bleed;
+- bounded writing;
+- independent information response.
 
 No:
 - audio;
-- person-image;
+- P1;
 - touch;
 - crossing.
 
 ## Mystery
-- **M-001 ACTIVE — strengthened**
-- M-002 through M-011 unchanged/unasked/protected as applicable.
+- **M-001 ACTIVE — DEEPENED**
+- M-002 onward unchanged.
 
 ## Foreshadowing
 All F-IDs remain:
 **PLANNED — NOT YET PLANTED**
 
-## CH-003 Guard
-CH-003 is the first truthful Max POV.
+## CH-004 Guard
+CH-004 must move forward into:
+- names;
+- basic facts;
+- correspondence rules across multiple bounded windows.
 
-It may move reader knowledge to **K1** by honestly showing facts Max knows, including that he is alive.
-
-It must not:
-- give Lily that knowledge automatically;
-- replay CH-002 scene-for-scene;
-- grant voice or person-image data;
-- reveal MT-001/002/003.
+Do not replay CH-003's window test.
+Do not advance to voice before CH-005.
