@@ -732,3 +732,24 @@ Canon:
 # 47. Next Production Step
 
 **CH-015 — The Room Moves Wrong → Detailed Scene Architecture → Gate 8**
+
+
+# 48. CH-015 Canon Record
+
+Gate 9:
+`qa/CH-015-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- severe lag but no pre-echo;
+- wrong doorway geometry;
+- Max's solo correction fails;
+- Lily refuses unilateral sacrifice;
+- emergency wrong-door rule;
+- R1 / narrow P1 / C0 / X0.
+
+# 49. Next Production Step
+
+**CH-016 — Do Not Open That Door → Detailed Scene Architecture → Gate 8**
