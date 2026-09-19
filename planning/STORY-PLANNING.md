@@ -479,6 +479,16 @@ Canon:
 - P0 / C0 / X0;
 - no F-ID planted.
 
-# 27. Next Production Step
+# 27. CH-006 Production Record
+Gate 8: **PASS**
+Manuscript: `manuscript/CH-006-NORMAL-PEOPLE-DONT-HAVE-CROSS-REALITY-PEN-PALS.md`
+Gate 9: **PASS — CANON-APPROVED**
 
-**CH-006 — Normal People Don't Have Cross-Reality Pen Pals → Detailed Scene Architecture → Gate 8**
+Canon:
+- ordinary-life boundary established;
+- Ava suspects a private correspondent only;
+- K2 / R1 / P0 / C0 / X0 unchanged;
+- no M/F advancement.
+
+# 28. Next Production Step
+**CH-007 — You're Early → Detailed Scene Architecture → Gate 8**
