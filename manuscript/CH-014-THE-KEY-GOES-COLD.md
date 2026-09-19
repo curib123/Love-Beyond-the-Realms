@@ -10,7 +10,7 @@ Mirror repaired.
 
 Chair back where it belonged.
 
-Front door unlocked normally.
+Front door normal.
 
 Phone charged.
 
@@ -18,13 +18,11 @@ Water on the table.
 
 One attempt.
 
-She had written the rules on paper even though she already knew them.
+She had written the rules even though she already knew them.
 
-That was partly for Max.
+Partly for Max.
 
-Mostly, it was for herself.
-
-The page sat beside the writing patch.
+Mostly for herself.
 
 **ONE ATTEMPT.**
 
@@ -36,7 +34,7 @@ The page sat beside the writing patch.
 
 **STOP MEANS STOP.**
 
-Lily looked at the list.
+Lily looked at the page.
 
 Reasonable.
 
@@ -44,11 +42,9 @@ Boring.
 
 Good.
 
-After the last several weeks, boring had become an underrated scientific quality.
+After the last few weeks, boring had become underrated.
 
 The writing patch brightened.
-
-Max's reply appeared beside the list.
 
 **YOU FORGOT ONE.**
 
@@ -58,13 +54,11 @@ Lily frowned.
 
 **NO HEROICS.**
 
-She stared at the line.
+She stared.
 
-Then wrote:
+Then:
 
 **THAT RULE IS FOR YOU.**
-
-The answer came back quickly.
 
 **RUDE.**
 
@@ -78,81 +72,73 @@ Lily stopped smiling.
 
 So was she.
 
-She wrote:
-
 **ME TOO.**
 
-The gray letters faded.
+The marks faded.
 
 For a moment, Unit 4B looked completely ordinary.
 
-Morning light at the window.
+Morning light.
 
-The repaired mirror secured to the wall.
+Repaired mirror.
 
-The desk with too many notes.
+Too many notes.
 
-The brass apartment key lying beside her hand.
+Brass apartment key beside her hand.
 
-It had never done anything strange.
+The key had never done anything strange.
 
 That mattered.
 
-The key had not become cold before.
+No cold.
 
-Had not moved.
+No movement.
 
-Had not glowed.
+No glow.
 
-Had not behaved like anything except a key.
+Nothing except being a key.
 
-They were using it because it was small, tied to the apartment, easy to place, and easy to remove.
+They were using it because it was small, tied to the apartment, easy to place, easy to remove.
 
 Nothing more.
 
 Lily picked it up.
 
-Warm from the room.
+Warm brass.
 
-Ordinary brass.
+Put it back down.
 
-She put it back down.
+"Stay boring."
 
-"Stay that way."
+The key cooperated.
 
-The key did not respond.
-
-Good.
+For now.
 
 ---
 
 The brass key lay in the center of the desk patch.
 
-It looked completely ordinary.
+The repaired mirror faced the same angle used for narrow P1.
 
-That made Lily suspicious anyway.
-
-The repaired mirror faced the desk at the same angle that had worked for narrow P1. On Max's side, his compass would be aligned to the corresponding point.
+On Max's side, his compass would align to the corresponding point.
 
 They opened the visual window first.
 
-Not the stronger test.
-
-Just the normal P1 calibration.
+Normal calibration.
 
 Room 17 appeared in Lily's mirror.
 
-Max stood beside his worktable.
+Max stood beside his table.
 
-He looked more serious than usual.
+More serious than usual.
 
 Not dramatic.
 
-Just focused.
+Focused.
 
-His compass rested flat beside one hand.
+His compass rested beside one hand.
 
-"Still one attempt," Lily said when the audio channel opened.
+"Still one attempt," Lily said when the weak audio opened.
 
 "One."
 
@@ -168,7 +154,7 @@ His compass rested flat beside one hand.
 
 Max's mouth tightened.
 
-That had been exactly specific enough to bother him.
+Exactly specific enough.
 
 "Agreed."
 
@@ -176,7 +162,7 @@ Lily watched him.
 
 "Actually agreed?"
 
-He sighed.
+He exhaled.
 
 "Actually agreed."
 
@@ -184,13 +170,9 @@ He sighed.
 
 The audio crackled.
 
-Their visual link remained narrow but unusually clear.
+The visual link was narrow but unusually clear.
 
-Max's face held steady.
-
-The edge of his table did not double.
-
-Room 17 looked almost too crisp through the mirror.
+Too clear.
 
 Lily did not like that.
 
@@ -202,17 +184,13 @@ Lily did not like that.
 
 Max lifted the compass.
 
-Lily placed two fingers lightly against the brass key.
+Lily placed two fingers on the brass key.
 
-Nothing happened.
+Warm.
 
-Warm metal.
-
-Flat desk.
+Flat.
 
 Normal.
-
-They counted together.
 
 "Three."
 
@@ -220,23 +198,21 @@ They counted together.
 
 "One."
 
-Lily held still.
-
 The reflected room sharpened.
 
 Too much.
 
-The amber lumen strip in Room 17 became precise enough that Lily could see a tiny dark mark near one end.
+The amber lumen strip became crisp enough to show a tiny dark mark near one end.
 
 Max's worktable snapped into focus.
 
-The wall behind him seemed flatter, cleaner, almost closer.
+The wall behind him looked flatter.
 
-Even the small measurement marks beside his compass looked more distinct than they had during any previous P1 window.
+Closer.
 
-Lily's own reflection disappeared completely from the glass.
+Lily's own reflection disappeared completely.
 
-For a few seconds, the mirror did not look like a mirror.
+For several seconds, the mirror stopped looking like a mirror.
 
 It looked like an opening that had forgotten depth.
 
@@ -250,9 +226,9 @@ Her stomach tightened.
 
 "The reading changed."
 
-His voice had lost its humor.
+No humor in his voice.
 
-That was never encouraging.
+Bad sign.
 
 "What changed?"
 
@@ -262,19 +238,17 @@ That was never encouraging.
 
 "Not sure yet."
 
-Lily's fingers stayed on the key.
+The key cooled under Lily's fingers.
 
-The metal cooled.
+A little.
 
-At first she thought she imagined it.
-
-A small drop in temperature.
-
-Then another.
+Then more.
 
 She looked down.
 
-The key had not moved.
+Still there.
+
+Still unmoving.
 
 "Max."
 
@@ -282,19 +256,21 @@ The key had not moved.
 
 "No. The key."
 
-The cold intensified.
+Cold intensified.
 
 Not cool.
 
-Cold.
-
-The kind of cold that stopped feeling like temperature and started feeling like pain.
+Cold enough to hurt.
 
 Lily's fingers jerked.
 
-She almost pulled away.
+For half a second, instinct told her to hold on.
 
-Then remembered the rule.
+Keep the reference stable.
+
+Finish the reading.
+
+Then the rule caught up.
 
 Observation only.
 
@@ -302,7 +278,7 @@ No reason to keep touching it.
 
 She let go.
 
-The metal stayed cold.
+The key stayed cold.
 
 A faint white haze formed along one edge.
 
@@ -310,13 +286,9 @@ Lily stared.
 
 This was new.
 
-First anomalous key behavior.
-
-No argument.
-
 No ambiguity.
 
-The key's surface frosted at the teeth.
+The teeth began to frost.
 
 "Stop."
 
@@ -324,7 +296,7 @@ Max lowered the compass immediately.
 
 "Stopped."
 
-Lily did not touch the key again.
+Lily kept her hands away.
 
 The mirror should have returned to normal.
 
@@ -332,41 +304,41 @@ It did not.
 
 ---
 
-Room 17 vanished from the glass.
+Room 17 vanished.
 
-Unit 4B did not come back correctly.
+Unit 4B came back wrong.
 
 Lily stared.
 
-Her reflected doorway sat several inches farther left than the real doorway behind her.
+In the reflection, her doorway sat several inches farther left than the actual doorway behind her.
 
 She turned.
 
 Real door.
 
-Normal.
-
 White frame.
 
 Brass lock.
 
-Hall beyond it.
+Normal hall.
 
-She looked back at the mirror.
-
-Wrong door.
-
-Same shape.
+Back to the mirror.
 
 Wrong position.
 
-The floor line in the reflection bent at an angle that did not exist in the room.
+Same door.
 
-Lily's pulse accelerated.
+Impossible geometry.
+
+The reflected floor line bent at an angle the real room did not have.
+
+Lily's pulse climbed.
 
 "Max?"
 
-The audio crackled.
+Static.
+
+Then:
 
 "I'm here."
 
@@ -380,23 +352,17 @@ Not quieter.
 
 Farther.
 
-Lily looked at the desk.
+The key frosted more heavily.
 
-The key had begun frosting more heavily around its edge.
-
-A thin pale layer spread over the brass.
-
-She did not touch it.
+Lily did not touch it.
 
 "How bad?"
 
-Max answered after a pause.
+A pause.
 
 "My wall is in two places."
 
 Lily swallowed.
-
-That was worse than she had hoped.
 
 "Don't touch anything."
 
@@ -404,31 +370,33 @@ That was worse than she had hoped.
 
 "Good."
 
-The audio cut out.
+Audio cut.
 
-For one second, the mirror showed Lily's normal room.
+For one second, the mirror showed the room correctly.
 
 Then the wrong doorway returned.
 
 Her stomach lurched.
 
-The room itself had not moved.
+The real room had not moved.
 
 That made it worse.
 
-The chair was where it belonged.
+Chair.
 
-The desk was where it belonged.
+Desk.
 
-The real door was where it belonged.
+Door.
 
-Only the reflected geometry had decided otherwise.
+All where they belonged.
+
+Only the reflection had decided otherwise.
 
 Lily grabbed the desk edge.
 
-Nausea rose sharply enough that she had to breathe through it.
+Nausea rose sharply.
 
-Her hands had started shaking.
+Her hands started shaking.
 
 She released the desk.
 
@@ -436,23 +404,21 @@ No new input.
 
 No accidental movement.
 
-The key gave a tiny metallic click against the wood.
+The key gave a tiny metallic click.
 
 Lily flinched.
 
 It had not shifted.
 
-The metal was contracting in the cold.
+Cold contraction.
 
-That explanation should have helped.
+Normal explanation.
 
-It did not.
+Did not help.
 
 "Max?"
 
 Static.
-
-Then his voice.
 
 "Here."
 
@@ -462,25 +428,25 @@ Then his voice.
 
 Lily closed her eyes for one second.
 
-They had followed the rule.
+They had obeyed the rule.
 
 The result had not.
 
-That was the important part.
+That mattered.
 
-The active test was over.
+The test was over.
 
 The effect was not.
 
 She opened her eyes.
 
-The key was still frosted.
+Frosted key.
 
-The doorway in the mirror was still wrong.
+Wrong doorway.
 
-No one said the obvious thing.
+No one said what both of them were thinking.
 
-Neither of them knew what it meant.
+Neither knew what it meant.
 
 ---
 
@@ -494,15 +460,13 @@ Lily wrote carefully.
 
 **MIRROR GEOMETRY WRONG. KEY STILL COLD.**
 
-She waited.
-
 The answer came.
 
 **ROOM 17 ALSO OFFSET.**
 
 The letters vanished.
 
-Then reappeared half a line lower.
+Reappeared half a line lower.
 
 Lily stopped writing.
 
@@ -510,27 +474,25 @@ That had not happened before.
 
 Not like that.
 
-She watched the patch.
+She watched.
 
-A second copy did not appear.
+No second copy.
 
 Good.
 
 One weird thing at a time.
 
-She looked at the phone timer.
-
 Two minutes since stop.
 
-The key still frosted.
+Key still frosted.
 
-The mirror still wrong.
+Mirror still wrong.
 
 Three minutes.
 
-The pale frost began thinning.
+The frost began thinning.
 
-The reflected doorway shifted closer to its real position.
+The doorway shifted closer to its real position.
 
 Not enough.
 
@@ -538,51 +500,41 @@ Lily wrote:
 
 **DO NOT TOUCH THE COMPASS.**
 
-Max replied:
-
 **NOT TOUCHING IT.**
-
-She added:
 
 **NO SECOND TRY.**
 
-His answer came immediately.
-
 **AGREED.**
 
-No argument.
+Immediate.
 
 No joke.
 
-That frightened her more than one would have.
+That scared her more than one would have.
 
 Lily sat on the floor beside the desk.
 
-Not because she was collapsing.
+Not collapsing.
 
-Because standing while nauseated was a bad decision, and she had already had enough of those.
+Just refusing to add falling over to the list.
 
-She put both hands flat against her knees.
+Hands flat on her knees.
 
-The shaking slowly eased.
+Wait.
 
-Five minutes passed.
+Five minutes.
 
-Then ten.
+Ten.
 
-The key finally lost most of its frost.
+The frost finally thinned.
 
-Lily tested the air above it without touching.
+At twelve minutes, she tapped the desk several inches away from the key.
 
-Cold, but less.
+Nothing.
 
-At twelve minutes, she tapped the desk several inches away from it.
+The mirror still showed a small mismatch.
 
-Nothing strange happened.
-
-The mirror still showed a slight mismatch at the doorway.
-
-A few inches now.
+A few inches.
 
 Then one.
 
@@ -590,7 +542,7 @@ Then less.
 
 Still there.
 
-Max's next message arrived.
+Max's next message appeared.
 
 **HEADACHE. VISION DOUBLED FOR ABOUT TEN SECONDS. BETTER NOW.**
 
@@ -600,21 +552,21 @@ Lily wrote:
 
 **AGREED.**
 
-Another pause.
+A pause.
 
 Then:
 
 **DID I MISS A DIRECTIONAL READING?**
 
-Lily stared at the sentence.
+Lily stared.
 
 There it was.
 
-The temptation.
+The instinct.
 
-Turn the disaster into data.
+Make danger useful.
 
-Make the risk useful.
+Turn cost into data.
 
 She wrote:
 
@@ -626,29 +578,23 @@ The answer took longer.
 
 Lily looked at the key.
 
-Warm enough now to touch.
+Warm enough now.
 
-She still did not.
+She still did not touch it.
 
-They had asked a specific question.
-
-Could stronger alignment produce a more stable spatial reading?
-
-The answer was not clean.
+They had asked whether stronger alignment could produce a more stable spatial reading.
 
 They had produced something stronger.
 
-They had also made the rooms wrong.
+They had also made both rooms wrong.
 
-That was enough information for today.
+That was enough.
 
 More than enough.
 
-The writing patch opened one last time.
+The patch opened one last time.
 
 **LILY?**
-
-She wrote:
 
 **HERE.**
 
@@ -660,27 +606,23 @@ Lily looked at the words.
 
 Part of her wanted to make it easy.
 
-**It's fine.**
+*It's fine.*
 
-**We knew the risk.**
+*We knew the risk.*
 
-**At least we learned something.**
+*At least we learned something.*
 
-All technically possible sentences.
+None were true enough.
 
-None true enough.
-
-So she wrote:
+So:
 
 **WE FIX IT FIRST. THEN WE TALK.**
-
-The answer came back.
 
 **AGREED.**
 
 She waited.
 
-Then added:
+Then:
 
 **AND MAX?**
 
@@ -690,17 +632,13 @@ A pause.
 
 **THIS DOES NOT MEAN YOU WERE RIGHT TO PUSH.**
 
-The reply took several seconds.
+Several seconds.
 
 **I KNOW.**
 
 That answer mattered.
 
-Lily looked at the brass key.
-
-It was warm again.
-
-Normal temperature.
+The key was warm again.
 
 Normal color.
 
@@ -708,19 +646,17 @@ No frost.
 
 The mirror was not normal.
 
-The doorway still sat slightly wrong in the reflection.
-
 Less wrong.
 
 Still wrong.
 
-Lily did not touch anything.
+Lily left everything alone.
 
-She left the key where it was.
+The key.
 
-Left the mirror alone.
+The mirror.
 
-Left the room as still as possible.
+The desk.
 
 They had wanted one stronger test.
 
