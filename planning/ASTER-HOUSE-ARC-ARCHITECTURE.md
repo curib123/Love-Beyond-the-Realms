@@ -3,8 +3,8 @@
 **Arc ID:** AH-ARC-001  
 **Revision:** ORIGINALITY REVISION v2  
 **Previous Gate 6 Lock:** SUPERSEDED  
-**Architecture Status:** CANDIDATE — REQUIRES GATE 6 REVALIDATION  
-**Chapter Count:** PROVISIONAL 20 — NOT QA-LOCKED
+**Architecture Status:** GATE 6 v2 QA-LOCKED  
+**Chapter Count:** UNLOCKED AT GATE 6 — GATE 7 MAY SET
 
 # 1. Arc Identity
 
@@ -191,7 +191,9 @@ Communication must feel earned.
 No deliberate communication.
 
 ### Stage B — Shared Writing
-A written mark/response proves another intelligence is present.
+A written mark/response provides the first strong evidence of another intelligence.
+
+One response is **not** enough to prove a living independent person.
 
 ### Stage C — Named Correspondence
 They exchange names and basic facts through writing.
@@ -203,6 +205,94 @@ Short voice communication becomes possible but may lag/drop.
 They finally receive an indirect visual image.
 
 The first visual image should matter because they already know and care about the unseen person.
+
+# 10A. Correlation Patch A — Gate 6 Lock
+
+The early writing channel is physically locked to:
+
+### Unit 4B
+Lily's small desk/table area against the interior east-side living-room wall.
+
+### Room 17
+Max's worktable at the corresponding local coordinate.
+
+Usable patch:
+approximately **40 cm × 60 cm**.
+
+At P0:
+- only fresh mark-state crosses;
+- the paper/object itself does not cross;
+- one active writing surface per side;
+- roughly six short lines / about 120 characters per early coherence window;
+- normal early window: 20–90 seconds;
+- normal local delay: 1–12 seconds;
+- marks may fade/fragment after closure;
+- moving more than ~30 cm outside the patch breaks or weakens transfer.
+
+The exact numbers are writer-side production controls, not required exposition dialogue.
+
+This prevents unlimited written lore exchange.
+
+# 10B. Audio Progression Lock
+
+Audio is not available as a permanent open channel.
+
+First useful audio:
+- strongest near Correlation Patch A;
+- 3–15 second windows;
+- may be one-way or two-way;
+- clipped/delayed phrases are allowed;
+- no long calls at first.
+
+Audio may become more reliable through measured timing later in the arc.
+
+Audio does not grant P1.
+
+# 10C. P1 Reciprocity Lock
+
+P1 is **receiver-specific**.
+
+First successful P1 may show:
+- Lily to Max;
+or
+- Max to Lily;
+
+but does not automatically show both.
+
+Architecture default:
+1. first receiver-specific P1 succeeds for Max;
+2. Lily's reciprocal P1 requires a separate reverse calibration;
+3. both may eventually possess narrow P1 methods by the arc endpoint.
+
+Allowed surfaces:
+- Lily's old wall mirror;
+- Max's spatial compass / polished measurement surface.
+
+A P1 sender must occupy the known correlated visual line.
+
+No direct naked-eye sight is authorized.
+
+# 10D. Max Mobility Lock
+
+Max remains phase-bound.
+
+Allowed:
+- Room 17;
+- limited adjoining Larkspur interior space;
+- observation of distant ordinary Velaire life/signs;
+- local search/containment consequences.
+
+Not allowed without Systems revision:
+- unrestricted Rivenhall travel;
+- normal work shifts at Civic Archive;
+- routine physical meetings with Elara/Mina/Corven.
+
+Max's ordinary-life pressure must therefore appear through:
+- interrupted routines;
+- memory/identity;
+- visible or audible signs of the life he cannot rejoin;
+- family/search consequences reaching the Larkspur area;
+- later information paths only when separately authorized.
 
 # 11. Experiment Classes
 
@@ -343,8 +433,8 @@ End state:
 
 1. Room becomes impossible.
 2. Another intelligence is proven.
-3. Writing proves intentional response.
-4. Reality tests prove two living people.
+3. Repeated writing proves an independent responder.
+4. Reality tests support two living people.
 5. Voice contact creates stronger cooperation.
 6. Timing/state rules become measurable.
 7. P1 gives first sight.
