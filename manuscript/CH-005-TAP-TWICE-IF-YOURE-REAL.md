@@ -64,27 +64,43 @@ Max stared at the line.
 
 He wrote:
 
-I TAP TWICE. YOU PICK ANY NUMBER 1–9 AFTER.
+I TAP TWICE. AFTER THAT, PICK ANY NUMBER 1–9.
 
 Lily answered:
 
-THEN I TAP 3 TIMES. YOU PICK A DIFFERENT NUMBER?
+AFTER?
 
 YES.
 
-DON'T PICK EARLY.
+NOT BEFORE?
 
-Her reply came fast.
+Max narrowed his eyes at the page.
+
+THAT IS WHAT AFTER MEANS.
+
+A beat.
+
+JUST CHECKING. YOU LIKE SHORTCUTS.
+
+He laughed under his breath.
+
+THEN YOU TAP 3 TIMES. I PICK A DIFFERENT NUMBER.
+
+DON'T PICK EARLY.
 
 OBVIOUSLY.
 
-Max looked at it.
+Max added:
 
-YOU TOO.
+THAT WORD IS DOING A LOT OF WORK.
 
-He laughed.
+The light flickered.
 
-"Hostile methodology."
+Lily managed one last reply:
+
+START BEFORE YOU GET WORSE.
+
+"Hostile methodology," Max said, smiling.
 
 The light flickered.
 
@@ -350,7 +366,7 @@ But a voice.
 
 "Can you hear me?"
 
-Max leaned toward the worktable.
+Max leaned so close to the worktable that his knee hit the underside.
 
 "Yes."
 
@@ -362,29 +378,33 @@ A sharp breath came through.
 
 "Oh."
 
-Max almost laughed from nerves.
+He laughed once, because apparently that was what his body had chosen to do with panic.
 
-"Strong reaction."
+"That's all I get?"
 
 "What did—"
 
 Her voice vanished.
 
-Then returned.
+Max sat forward. "Lily?"
 
 "—say?"
 
-"I said yes."
+"I said that's all I get."
+
+A pause.
+
+Then, delayed and faint:
+
+"You sound disappointed."
+
+He opened his mouth.
 
 The table shivered under his hand.
 
 The lumen strips stretched in his vision for half a second.
 
-He gripped the chair.
-
-Lily's voice came back.
-
-"You're actually—"
+"You're actually—" Lily started.
 
 Gone.
 
