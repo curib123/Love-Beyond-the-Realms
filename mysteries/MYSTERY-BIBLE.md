@@ -19,6 +19,8 @@ Keep separate:
 
 No character knows writer truth without an information path.
 
+No lower-level planning file may convert Writer Truth into character knowledge merely because the information exists in this repository.
+
 # 2. Reveal Windows
 
 **RW-0 — Opening**  
@@ -113,7 +115,37 @@ Stable branch contact may eventually be possible, but it will require technical,
 
 Do not promise an easy ending early.
 
-# 4. Mystery IDs
+# 4. Initial Knowledge Matrix
+
+This matrix defines the baseline **before Lily and Max complete their first successful mutual reality test**.
+
+Later knowledge must be updated through scene/chapter continuity records.
+
+| Truth | Reader | Lily | Max | Supporting Cast |
+|---|---|---|---|---|
+| WT-001 Max is alive | UNKNOWN / ghost assumption allowed | UNKNOWN | KNOWS he is alive | Velaire family knows Max was alive before disappearance; Earth cast does not know Max |
+| WT-002 Lily is not chosen | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN |
+| WT-003 parents are outside conspiracy | ordinary accident is the known explanation | believes ordinary accident | no knowledge of Lily's parents | Nora knows ordinary accident; no dimensional link |
+| WT-004 worlds were once one | PROTECTED | UNKNOWN | UNKNOWN | PROTECTED |
+| WT-005 buildings share pre-Twinfall origin | PROTECTED | UNKNOWN | UNKNOWN | PROTECTED |
+| WT-006 Echo Exchange is state leakage | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN |
+| WT-007 Max's binding was accidental | UNKNOWN | UNKNOWN | knows he did not intend to become phase-bound, but does not know full cause | Mina/Elara know he disappeared during an incident, not the full mechanism |
+| WT-008 Mina survived | PROTECTED from Max | no knowledge of Mina | UNKNOWN / fears she may be dead | Mina and Elara know Mina survived |
+| WT-009 Corven is not mastermind | UNKNOWN | UNKNOWN | may distrust containment authorities but has no proof of a mastermind | Corven knows his own actions only |
+| WT-010 reactivation was deliberate | PROTECTED | UNKNOWN | knows equipment was active during the incident but **does not know deliberate restart or responsible person** | Corven may suspect a technical cause; exact restricted knowledge must be locked before any disclosure |
+| WT-011 their experiments strengthen leak | PROTECTED | UNKNOWN | UNKNOWN | UNKNOWN |
+| WT-012 no simple one-world choice | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN |
+
+## Knowledge-Lock Rule
+
+Until a knowledge update is explicitly earned:
+- Lily cannot infer Velaire history from writer notes;
+- Max cannot know Earth history merely because Room 17 overlaps Unit 4B;
+- Corven cannot reveal MT-001, MT-002, or MT-003 unless his exact evidence and authorization are recorded;
+- Mina cannot function as an exposition shortcut;
+- reader knowledge follows published prose, not repository metadata.
+
+# 5. Mystery IDs
 
 **M-001 — Is Max a ghost?**  
 Truth: No.
@@ -148,37 +180,67 @@ Truth: local histories begin overwriting physical states and geometry.
 **M-011 — Can they build safe contact between worlds?**  
 Truth: potentially, but not through romance alone.
 
-# 5. Foreshadowing IDs
+# 6. Initial Mystery-State Ledger
 
-All begin:
+Before manuscript prose exists:
+
+| Mystery | State |
+|---|---|
+| M-001 | UNASKED |
+| M-002 | UNASKED |
+| M-003 | UNASKED |
+| M-004 | UNASKED |
+| M-005 | UNASKED |
+| M-006 | UNASKED |
+| M-007 | UNASKED |
+| M-008 | UNASKED |
+| M-009 | UNASKED |
+| M-010 | UNASKED |
+| M-011 | UNASKED |
+
+A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story events.
+
+# 7. Foreshadowing IDs
+
+Every F-ID currently has the status:
 
 **PLANNED — NOT YET PLANTED**
 
+No F-ID may become PLANTED until matching manuscript prose exists.
+
 **F-001 — Mirror Delay**  
+Status: **PLANNED — NOT YET PLANTED**  
 Lily's reflection and Max's room do not align at the same instant.
 
 **F-002 — Wrong Furniture**  
+Status: **PLANNED — NOT YET PLANTED**  
 A piece of furniture briefly appears with details neither room currently has.
 
 **F-003 — Cold Brass Key**  
+Status: **PLANNED — NOT YET PLANTED**  
 Lily's key reacts during coherence spikes.
 
 **F-004 — Pre-Echo Sentence**  
+Status: **PLANNED — NOT YET PLANTED**  
 Max hears part of a sentence just before Lily says it.
 
 **F-005 — Shared Foundation Mark**  
+Status: **PLANNED — NOT YET PLANTED**  
 Both find the same old construction mark in different buildings.
 
 **F-006 — Missing Minutes**  
+Status: **PLANNED — NOT YET PLANTED**  
 Max loses a short period after a strong event.
 
 **F-007 — Map Similarity**  
+Status: **PLANNED — NOT YET PLANTED**  
 Two city maps are different but share impossible old geometry beneath later streets.
 
 **F-008 — Mina Trace**  
+Status: **PLANNED — NOT YET PLANTED**  
 An echo suggests Mina remained alive after Max disappeared.
 
-# 6. Minor Twist Rule
+# 8. Minor Twist Rule
 
 A minor twist should:
 - resolve or redirect a local question;
@@ -191,7 +253,7 @@ Examples:
 - Lily thinks Max ignored her, but phase lag delayed her message;
 - a scary "ghost" sound is Max's family searching his room.
 
-# 7. Major Twist Rule
+# 9. Major Twist Rule
 
 A major twist must:
 - have multiple earlier clues;
@@ -205,10 +267,51 @@ Major truths currently protected include:
 - modern reactivation was deliberate;
 - Lily and Max's own experiments increase coherence.
 
-# 8. Fair-Mystery Rule
+# 10. Major-Twist Reveal Guards
+
+## MT-001 — Worlds Were Once One
+
+May not be revealed until:
+- basic Echo Exchange and Phase Lag are understandable;
+- at least two independent setup paths exist in actual prose;
+- at least one clue is understandable without specialist knowledge;
+- the reveal creates a decision about further contact, investigation, or branch stability.
+
+## MT-002 — Present Overlap Was Reactivated
+
+May not be revealed until:
+- the responsible researcher is formally locked;
+- motive is approved;
+- at least two independent setup paths exist in prose;
+- Max's existing knowledge is checked so his POV does not hide information dishonestly;
+- the reveal creates a human responsibility/conflict decision.
+
+## MT-003 — Their Experiments Strengthen the Leak
+
+May not be revealed until:
+- multiple experiments have occurred;
+- worsening effects can be compared against a prior baseline;
+- at least two independent clue paths exist;
+- Lily and Max must choose between continued risky contact, reduced testing, or a safer stabilization strategy.
+
+# 11. Fair-Mystery Rule
 
 Before a reveal, readers should have enough evidence to say:
 
 "I didn't know, but that makes sense."
 
 Avoid twists whose only setup is hidden writer information.
+
+No truthful close POV may deliberately think around information solely to trick the reader.
+
+# 12. Retcon Rule
+
+If a planned reveal conflicts with:
+- a higher canon file;
+- an established system limit;
+- an earlier on-page observation;
+- a character's recorded knowledge;
+
+the reveal must be revised before use.
+
+Do not redefine an earlier event after publication merely to manufacture surprise.
