@@ -3,8 +3,8 @@
 **Arc ID:** SF-ARC-002  
 **Working Name:** Shared Foundations Arc  
 **Production Level:** Gate 6 Architecture  
-**Status:** GATE 6 QA-LOCKED  
-**Chapter Count:** UNLOCKED — GATE 7 ONLY  
+**Status:** GATE 6 QA-LOCKED / GATE 7 ROADMAP QA-LOCKED  
+**Chapter Count:** **14 — GATE 7 QA-LOCKED**  
 **Date:** 2026-09-19
 
 # 1. Arc Identity
@@ -839,6 +839,32 @@ Gate 7 may NOT change without returning to Gate 6:
 - MT ceiling;
 - system ceiling.
 
-# Gate 6 Candidate Decision
+# Gate 6 Decision
 
-**ARCHITECTURE COMPLETE — SUBMIT FOR GATE 6 QA**
+**PASS — QA-LOCKED**
+
+QA:
+`qa/ACTIVE-ARC-ARCHITECTURE-QA-ARC-002.md`
+
+# Gate 7 Production Lock
+
+Roadmap:
+`planning/SHARED-FOUNDATIONS-CHAPTER-ROADMAP.md`
+
+QA:
+`qa/SHARED-FOUNDATIONS-CHAPTER-ROADMAP-QA.md`
+
+Result:
+**PASS — QA-LOCKED**
+
+Locked:
+- 14 chapters;
+- CH-021–CH-034;
+- midpoint CH-027;
+- reversal CH-029;
+- blind-survey climax CH-032–CH-033;
+- aftermath CH-034.
+
+# Next Authorized Step
+
+**CH-021 — The Inspection Notice → Detailed Scene Architecture → Gate 8**
