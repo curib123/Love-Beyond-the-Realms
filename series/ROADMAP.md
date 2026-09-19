@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-002 MANUSCRIPT DRAFT COMPLETE — GATE 9 CHAPTER QA NEXT
+**Status:** CH-002 GATE 9 PASS — CH-003 GATE 8 SCENE ARCHITECTURE NEXT
 
 # Series Length
 
@@ -129,10 +129,12 @@ CH-002 Gate 8 confirms:
 - chapter ends when Max reacts to Lily's voice, not her visible body.
 
 CH-002 manuscript:
-- **DRAFT COMPLETE**
+- **GATE 9 PASS — CANON-APPROVED**
 - path: `manuscript/CH-002-THERE-IS-A-BOY-IN-MY-APARTMENT.md`
-- approximately 1,340 words
-- Gate 9 not yet run.
+- approximately 1334 words
+- Gate 9 record: `qa/CH-002-CHAPTER-QA.md`
+- required pre-pass correction: natural paragraph flow.
+- canon mystery state: M-001 ACTIVE; M-002 ACTIVE with first observed asymmetry.
 
 Non-blocking CH-002 notes:
 - keep Max's embarrassing rehearsal short;
@@ -144,7 +146,7 @@ Non-blocking CH-002 notes:
 
 Status:
 
-**CH-002 MANUSCRIPT DRAFT COMPLETE — GATE 9 NEXT**
+**CH-002 GATE 9 PASS — CH-003 GATE 8 NEXT**
 
 Approved primary cluster:
 - Aster House;
@@ -191,10 +193,8 @@ MT-003 Their Experiments Strengthen the Leak:
 
 # Next Authorized Step
 
-**CH-002 → Gate 9 Chapter QA.**
+**CH-003 — The Voice That Shouldn't Be Here → Detailed Scene Architecture → Gate 8.**
 
-CH-001 remains canon-approved.
+CH-001 and CH-002 are canon-approved.
 
-CH-002 now has a completed manuscript draft but is not yet canon-approved.
-
-CH-003 still requires its own Gate 8 scene architecture before its manuscript may be drafted.
+CH-003 manuscript drafting remains unauthorized until its Gate 8 scene architecture passes.
