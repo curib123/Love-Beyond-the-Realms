@@ -7,12 +7,12 @@
 **Gate 5:** PASS  
 **Gate 6:** PASS — QA-LOCKED  
 **Gate 7:** PASS — QA-LOCKED  
-**Status:** ACTIVE PRODUCTION — CH-021 GATE 9 NEXT  
+**Status:** ACTIVE PRODUCTION — CH-022 GATE 8 NEXT  
 **Date:** 2026-09-19
 
 | Chapter | Title | Gate 8 | Manuscript | Gate 9 | Canon |
 |---|---|---|---|---|---|
-| CH-021 | The Inspection Notice | **PASS** | **complete — 1,993 words** | pending | NO |
+| CH-021 | The Inspection Notice | **PASS** | **complete — 1,993 words** | **PASS** | **YES** |
 | CH-022 | The Safe Distance | pending | pending | pending | NO |
 | CH-023 | Behind the East Door | pending | pending | pending | NO |
 | CH-024 | Your Measurements Are Wrong | pending | pending | pending | NO |
@@ -46,10 +46,10 @@ Gate 7 QA:
 
 # Current Canon Entry State
 
-Arc 2 manuscript canon:
-**NONE YET**
+Latest Arc 2 canon:
+**CH-021 — The Inspection Notice**
 
-Starting inherited state:
+Current state:
 **R2 / P0 baseline / narrow controlled P1 / C0 / X0 / K2**
 
 # CH-021 Gate 8 Record
@@ -74,6 +74,17 @@ Status:
 Canon:
 **NOT YET — GATE 9 PENDING**
 
+# CH-021 Gate 9 Record
+
+QA:
+`qa/CH-021-CHAPTER-QA.md`
+
+Result:
+**PASS — CANON-APPROVED**
+
+Continuity:
+`continuity/SHARED-FOUNDATIONS-ARC-CONTINUITY.md`
+
 # Next Authorized Step
 
-**CH-021 — The Inspection Notice → Gate 9 Chapter QA**
+**CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
