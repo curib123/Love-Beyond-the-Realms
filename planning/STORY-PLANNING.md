@@ -179,13 +179,19 @@ Not every chapter needs a cliffhanger.
 
 **Shared Foundations Arc**
 
-**Selection Status:** **GATE 5 PASS — SINGLE ACTIVE ARC**
+**Selection Status:** **GATE 6 PASS — ARCHITECTURE QA-LOCKED**
 
 Selection record:
 `planning/SHARED-FOUNDATIONS-ARC-SELECTION.md`
 
 Gate 5 QA:
 `qa/ACTIVE-ARC-SELECTION-QA-ARC-002.md`
+
+Architecture:
+`planning/SHARED-FOUNDATIONS-ARC-ARCHITECTURE.md`
+
+Gate 6 QA:
+`qa/ACTIVE-ARC-ARCHITECTURE-QA-ARC-002.md`
 
 Primary active cluster:
 - LOC-001 Aster House;
@@ -217,7 +223,7 @@ Protected:
 - contact/crossing escalation.
 
 Chapter count:
-**UNLOCKED — GATE 6/7 PENDING**
+**UNLOCKED — GATE 7 PENDING**
 
 Future arcs:
 **OPEN / UNLOCKED**
@@ -1194,3 +1200,35 @@ No chapter count, midpoint, climax, F-ID placement, or next arc locked.
 # 84. Next Production Step
 
 **Gate 6 — Shared Foundations Arc Architecture QA**
+
+
+# 85. Gate 6 — Shared Foundations Arc Architecture
+
+Architecture:
+`planning/SHARED-FOUNDATIONS-ARC-ARCHITECTURE.md`
+
+QA:
+`qa/ACTIVE-ARC-ARCHITECTURE-QA-ARC-002.md`
+
+Result:
+**PASS — QA-LOCKED**
+
+Locked architecture:
+- permission-based East Maintenance Corridor access through Inez;
+- exact Max field range inside Larkspur;
+- asynchronous field surveys;
+- passive structural-correlation mapping;
+- F-005 as the only new foreshadow candidate;
+- midpoint shared foundation mark;
+- synchronized-comparison reversal;
+- blind independent survey climax;
+- target R3 Friendship;
+- P0 / narrow controlled P1 / C0 / X0 ceiling;
+- MT-001/002/003 protected.
+
+Chapter count:
+**UNLOCKED — GATE 7 ONLY**
+
+# 86. Next Production Step
+
+**Gate 7 — Shared Foundations Arc Chapter Roadmap QA**
