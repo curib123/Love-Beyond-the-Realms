@@ -260,19 +260,36 @@ A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story eve
 
 # 6A. Current On-Page Mystery State
 
-**Through canonical CH-015 v2**
+**Aster House Arc complete through canonical CH-020 v2**
 
-| Mystery | State | Canon Basis |
+| Mystery | Final Arc State | Canon Basis |
 |---|---|---|
-| M-001 | RESOLVED locally | mutual reality evidence |
-| M-002 | PARTIAL | receiver-specific P1 |
-| M-003 | ACTIVE | object/room-state and geometry mismatch |
-| M-004 | ACTIVE — SEVERE LAG | delayed/duplicated arrivals extend into tens of seconds/minute range; no pre-echo |
-| M-005 | PARTIAL | Larkspur/Mina disclosure |
-| M-006–M-011 | protected/unresolved | no advancement |
+| M-001 — Who is changing the room? | **RESOLVED locally** | Lily and Max establish independent living correspondence through writing, timed tests, audio and later sight. |
+| M-002 — Why can information cross before sight? | **PARTIAL** | person-image requires stronger receiver-specific reflective calibration; full underlying rule remains unresolved. |
+| M-003 — Why do exchanged objects/states change? | **ACTIVE** | CH-008 furniture-state overlap and later geometry effects demonstrate state exchange without full explanation. |
+| M-004 — Why does timing drift? | **ACTIVE** | measured Phase Lag and later severe delayed/duplicate arrivals; no pre-echo yet. |
+| M-005 — What happened to Max? | **PARTIAL** | Max reveals Larkspur collapse, attempt to reach Mina, and resulting phase-binding; full cause and aftermath remain protected. |
+| M-006–M-011 | **PROTECTED / UNRESOLVED** | no authorized reveal in this arc. |
 
-F-001/F-002/F-003 remain PLANTED.
-No new F-ID in CH-015.
+Knowledge stage:
+**K2**
+
+Relationship:
+**R2 — Cross-World Roommates**
+
+Default system:
+**P0 baseline / narrow controlled P1 / C0 / X0**
+
+Foreshadowing:
+- **F-001 Mirror Delay — PLANTED CH-009**
+- **F-002 Wrong Furniture — PLANTED CH-008**
+- **F-003 Cold Brass Key — PLANTED CH-014**
+- F-004–F-008 remain **PLANNED — NOT YET PLANTED**
+
+Major-twist state:
+- MT-001 UNREVEALED
+- MT-002 UNREVEALED / responsible researcher not locked
+- MT-003 UNREVEALED
 
 # 7. Foreshadowing IDs
 
