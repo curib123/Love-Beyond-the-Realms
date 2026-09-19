@@ -1,287 +1,214 @@
 # Mystery Bible
 
-**Owners:** A050-A052  
+**Owners:** A050-A053  
 **Status:** CANON — WRITER-TRUTH FOUNDATION
 
 This file contains writer spoilers.
 
-It is the authoritative source for:
-- objective mystery truth;
-- character knowledge;
-- false beliefs;
-- M-IDs;
-- F-IDs;
-- reveal windows;
-- payoff boundaries.
-
 # 1. Mystery Governance
 
-## Writer Truth
+Keep separate:
+- Writer Truth;
+- Reader Knowledge;
+- Lily Knowledge;
+- Max Knowledge;
+- Supporting Character Knowledge;
+- False Beliefs;
+- Reveal Window;
+- Evidence.
 
-What is objectively true in canon.
+No character knows writer truth without an information path.
 
-## Reader Baseline
+# 2. Reveal Windows
 
-What readers may reasonably infer before explicit reveal.
+**RW-0 — Opening**  
+The apartment is impossible.
 
-## Lily Knowledge
+**RW-1 — Early**  
+Max is not a normal ghost.
 
-What Lily currently knows.
+**RW-2 — Developing**  
+The overlap follows repeatable physical rules.
 
-## Max Knowledge
+**RW-3 — Expansion**  
+Earth and Velaire share deeper history.
 
-What Max currently knows.
+**RW-4 — Major Truth**  
+The worlds are split histories of one original reality.
 
-## Supporting Knowledge
+**RW-5 — Advanced**  
+The cause of the present reactivation and the true stakes become clear.
 
-What other characters know or believe.
+These are broad windows, not chapter numbers.
 
-## False Belief
-
-A plausible but incorrect explanation.
-
-## Reveal Window
-
-The earliest structural period in which a truth may be made explicit.
-
-# 2. Foreshadowing State
-
-Every F-ID begins:
-
-**PLANNED — NOT YET PLANTED**
-
-An F-ID becomes **PLANTED** only after manuscript prose contains the actual clue.
-
-Planning documents do not count as planting.
-
-# 3. Reveal Windows
-
-- **RW-0 — Premise:** visible in opening chapters.
-- **RW-1 — Early:** proves the “haunting” is stranger than a ghost.
-- **RW-2 — Developing:** establishes realm mechanics and Max's condition.
-- **RW-3 — Mid-Series:** exposes historical threshold infrastructure.
-- **RW-4 — Late:** reveals full Twinfall consequences and large-scale choice.
-- **RW-5 — Endgame:** final solution to permanent separation.
-
-# 4. Core Writer Truth
+# 3. Core Writer Truth
 
 ## WT-001 — Max Is Alive
 
-Max is not a dead Earth ghost.
-
-He is a living Velaire human trapped in a phase-displaced state.
-
-His body and consciousness remain continuous.
+Max is a living human in Velaire.
 
 ## WT-002 — Lily Is Not Chosen
 
-Lily can see Max because:
-- she occupies Unit 4B;
-- the Earth side is currently the receiver side of the overlap;
-- the unit contains active mirrorstone resonance.
+Lily can perceive Max because of location and phase orientation.
 
-Another compatible occupant under the same conditions could also perceive Max.
+Another compatible person in the same conditions could detect the overlap.
 
-Lily becomes important because of her decisions, not prophecy.
+## WT-003 — Lily's Parents Are Not Part of the Conspiracy
 
-## WT-003 — The Parents' Deaths Are Ordinary
+Their deaths remain an ordinary tragedy.
 
-Daniel and Elise Marlowe died in a road accident unrelated to:
-- Max;
-- Velaire;
-- the Veil;
-- mirrorstone;
-- Corven;
-- Aster House.
+## WT-004 — Earth and Velaire Were One Reality
 
-Do not retroactively convert their deaths into a secret magical murder.
+The Twinfall split one world into two stable histories approximately 140 years ago.
 
-## WT-004 — Why Max Cannot See Lily
+This is a protected major truth.
 
-The current threshold orientation transmits Velaire visual information toward Earth more effectively than Earth visual information toward Velaire.
+## WT-005 — The Buildings Are Historical Relatives
 
-Sound crosses differently.
+Aster House and Larkspur House developed differently after the split but occupy a location tied to the same pre-Twinfall structure.
 
-Reflections partially reverse this orientation, creating the earliest mutual sight.
+This is why the coordinate remains unusually coherent.
 
-## WT-005 — Why These Buildings Overlap
+## WT-006 — Echo Exchange Is Information-State Leakage
 
-Aster House and Larkspur House contain paired mirrorstone descended from the same Twinfall split.
+Most early "haunting" events are not spirits.
 
-The stones create a matched coordinate.
+They are state leakage between branch histories.
 
-The buildings themselves were constructed independently.
+## WT-007 — Max's Phase Binding Was an Accident
 
-## WT-006 — Max's Accident
+Max entered the unstable zone while trying to reach Mina.
 
-During a Veil disturbance, Max entered the unstable overlap while trying to reach Mina.
+He was not selected.
 
-A boundary mechanism collapsed around him.
+## WT-008 — Mina Survived
 
-He became trapped rather than transported.
+Max does not know this early.
 
-Mina survived.
+## WT-009 — Corven Is Not the Hidden Mastermind
 
-Max does not know that immediately.
+Corven favors containment and may become an antagonist to the couple's goals, but he did not create the original Twinfall or deliberately trap Max.
 
-## WT-007 — The Hollow Is Not a Villain
+## WT-010 — Present Reactivation Had Human Involvement
 
-The Hollow Between is unstable boundary space.
+The modern overlap did not strengthen through chance alone.
 
-It can replay echoes and distort perception.
+Someone on the Velaire side intentionally restarted old measurement equipment to test whether another branch still existed.
 
-It does not possess a human-style motive.
+The experiment was meant to detect, not trap, a person.
 
-Characters may mistakenly treat it as a haunting intelligence.
+The identity and motive of the responsible researcher remain protected for later planning and must be locked before reveal.
 
-## WT-008 — Corven's Partial Truth
+## WT-011 — Repeated Use Makes the Local Problem Worse
 
-Corven knows:
-- overlaps are dangerous;
-- old Threshold Keeper records describe local collapses;
-- Larkspur House is linked to a restricted anchor.
+Lily and Max's experiments provide knowledge but also strengthen coherence.
 
-He does not initially know:
-- Earth is the receiving realm;
-- Lily exists;
-- exactly why Max remains stable;
-- the full Twinfall history.
+Their attempts to reach each other help create the later problem they must solve.
 
-## WT-009 — Permanent Merge Risk
+This is consequence, not punishment for romance.
 
-If Unit 4B and Room 17 remain increasingly synchronized without stabilization, a local collapse could:
-- merge incompatible geometry;
-- destroy portions of both buildings;
-- trap occupants in the Hollow;
-- create additional uncontrolled weak points.
+## WT-012 — No Simple "Choose One World" Answer
 
-It will not instantly destroy both universes.
+Stable branch contact may eventually be possible, but it will require technical, social, and personal choices.
 
-## WT-010 — Endgame Possibility
+Do not promise an easy ending early.
 
-A stable two-way passage is physically possible.
+# 4. Mystery IDs
 
-It requires:
-- repairing the paired anchor network;
-- redistributing resonance;
-- preventing local collapse;
-- choosing where the permanent threshold will exist;
-- accepting that stable access will permanently change both Lily's and Max's lives.
+**M-001 — Is Max a ghost?**  
+Truth: No.
 
-There is no consequence-free “magic fixes everything” ending.
+**M-002 — Why can Lily see Max while Max cannot see Lily?**  
+Truth: asymmetric phase orientation.
 
-# 5. Mystery IDs
+**M-003 — Why do exchanged objects change?**  
+Truth: Echo Exchange.
 
-## M-001 — Is Max Dead?
+**M-004 — Why do sounds sometimes arrive late or early?**  
+Truth: Phase Lag.
 
-**Writer Truth:** No.  
-**Reader Baseline:** He appears ghostlike.  
-**Earliest Reveal:** RW-1 to RW-2.  
-**Payoff:** Reframes the romance from human/ghost to human/human across realities.
+**M-005 — What happened to Max during the Larkspur incident?**  
+Truth: phase binding during the reactivation accident.
 
-## M-002 — Why Can Lily See Him?
+**M-006 — Did Mina survive?**  
+Truth: Yes.
 
-**Writer Truth:** Asymmetric receiver-side overlap.  
-**False Belief:** Lily inherited a supernatural gift.  
-**Earliest Reveal:** RW-2.  
-**Payoff:** Preserves Lily's agency without chosen-one logic.
+**M-007 — Why do Aster House and Larkspur House align?**  
+Truth: common pre-Twinfall location history.
 
-## M-003 — Why Can't Max See Lily?
+**M-008 — What was the Twinfall?**  
+Truth: reality bifurcation.
 
-**Writer Truth:** threshold orientation.  
-**Earliest Reveal:** RW-1.  
-**Payoff:** drives reflection scenes and emotional longing.
+**M-009 — Who restarted the old equipment?**  
+Truth: protected until a responsible researcher is formally locked.
 
-## M-004 — What Happened in Larkspur House?
+**M-010 — What happens if Echo Exchange keeps growing?**  
+Truth: local histories begin overwriting physical states and geometry.
 
-**Writer Truth:** anchor collapse during Mina rescue.  
-**Earliest Reveal:** RW-2.  
-**Payoff:** reveals Max's guilt and independent motivation.
+**M-011 — Can they build safe contact between worlds?**  
+Truth: potentially, but not through romance alone.
 
-## M-005 — Why Do the Buildings Match?
+# 5. Foreshadowing IDs
 
-**Writer Truth:** paired Twinfall mirrorstone.  
-**Earliest Reveal:** RW-3.  
-**Payoff:** expands story beyond one “haunted room.”
+All begin:
 
-## M-006 — What Is the Hollow Between?
+**PLANNED — NOT YET PLANTED**
 
-**Writer Truth:** unstable overlap space containing echoes.  
-**Earliest Reveal:** RW-2 to RW-3.  
-**Payoff:** creates crossing danger without inventing a demon villain.
+**F-001 — Mirror Delay**  
+Lily's reflection and Max's room do not align at the same instant.
 
-## M-007 — What Does Corven Want?
+**F-002 — Wrong Furniture**  
+A piece of furniture briefly appears with details neither room currently has.
 
-**Writer Truth:** containment first, recovery second.  
-**Earliest Reveal:** RW-2.  
-**Payoff:** creates morally understandable opposition.
+**F-003 — Cold Brass Key**  
+Lily's key reacts during coherence spikes.
 
-## M-008 — Can Lily and Max Ever Live in One Realm?
+**F-004 — Pre-Echo Sentence**  
+Max hears part of a sentence just before Lily says it.
 
-**Writer Truth:** yes, but only through repaired stable passage and meaningful permanent choices.  
-**Earliest Explicit Confirmation:** RW-4.  
-**Final Payoff:** RW-5.
+**F-005 — Shared Foundation Mark**  
+Both find the same old construction mark in different buildings.
 
-# 6. Foreshadowing IDs
+**F-006 — Missing Minutes**  
+Max loses a short period after a strong event.
 
-## F-001 — The Mirror Delay
+**F-007 — Map Similarity**  
+Two city maps are different but share impossible old geometry beneath later streets.
 
-A reflection in Unit 4B reacts a fraction of a second late during an overlap.
+**F-008 — Mina Trace**  
+An echo suggests Mina remained alive after Max disappeared.
 
-**Status:** PLANNED — NOT YET PLANTED  
-**Supports:** M-003, M-006
+# 6. Minor Twist Rule
 
-## F-002 — Two Floor Plans
+A minor twist should:
+- resolve or redirect a local question;
+- be supported by at least one clue;
+- change the next decision;
+- not require rewriting earlier canon.
 
-Aster House's old plans show an impossible wall depth near 4B.
+Examples:
+- an object blamed on Max actually came from an old Echo Exchange;
+- Lily thinks Max ignored her, but phase lag delayed her message;
+- a scary "ghost" sound is Max's family searching his room.
 
-**Status:** PLANNED — NOT YET PLANTED  
-**Supports:** M-005
+# 7. Major Twist Rule
 
-## F-003 — The Cold Brass Key
+A major twist must:
+- have multiple earlier clues;
+- affect both protagonists;
+- change the meaning of prior events;
+- create a new decision rather than only shock;
+- survive rereading.
 
-Lily's apartment key becomes unnaturally cold during strong overlap.
+Major truths currently protected include:
+- Earth and Velaire were one world;
+- modern reactivation was deliberate;
+- Lily and Max's own experiments increase coherence.
 
-**Status:** PLANNED — NOT YET PLANTED  
-**Supports:** crossing system, anchor reveal
+# 8. Fair-Mystery Rule
 
-## F-004 — Max's Missing Minutes
+Before a reveal, readers should have enough evidence to say:
 
-Max loses a short span of time after a strong pulse.
+"I didn't know, but that makes sense."
 
-**Status:** PLANNED — NOT YET PLANTED  
-**Supports:** M-006, collapse cost
-
-## F-005 — The Other Address
-
-An old Velaire archive reference includes a coordinate that mirrors Aster House's location.
-
-**Status:** PLANNED — NOT YET PLANTED  
-**Supports:** M-005
-
-## F-006 — Mina's Voice
-
-The Hollow briefly replays Mina calling Max's name.
-
-**Status:** PLANNED — NOT YET PLANTED  
-**Supports:** M-004 while remaining ambiguous
-
-# 7. Spoiler Firewall
-
-Before reveal authorization:
-- Lily cannot know Max is alive merely because the author does;
-- Max cannot know Lily is from Earth until evidence establishes it;
-- Ava cannot immediately accept the supernatural without proof;
-- Corven cannot know Lily's identity without a valid information path;
-- Mina's survival cannot be confirmed to Max early just to comfort him;
-- stable passage cannot be promised before the system supports it.
-
-# 8. Mystery-Romance Rule
-
-Every major reveal should change at least one of:
-- what Lily and Max believe about each other;
-- what future they think is possible;
-- what risk they are willing to take;
-- whether they trust one another.
-
-Mystery exists to pressure character and relationship decisions, not to become a separate lore encyclopedia.
+Avoid twists whose only setup is hidden writer information.
