@@ -366,23 +366,25 @@ Max's first response was exactly what Lily expected.
 
 **YOU HAVE ACCESS TO THE SEALED SIDE?**
 
-Lily sat at the desk with the maintenance notice beside the Roommate Agreement.
+Lily dropped into the desk chair and set the notice beside the Roommate Agreement.
 
-The writing patch was faint but stable.
+**SUPERVISED.**
 
-She wrote:
-
-**SUPERVISED ACCESS.**
-
-Twenty seconds later:
+Twenty seconds.
 
 **STILL ACCESS.**
 
+Lily rolled her eyes and wrote:
+
 **MRS. BELL HAS THE KEY.**
+
+**GOOD.**
+
+Then, a second line:
 
 **TEMPORARILY ACCEPTABLE.**
 
-Lily stared at that.
+Lily stared at it.
 
 **YOU DON'T GET TO APPROVE MY LANDLORD'S KEY POLICY.**
 
@@ -408,25 +410,21 @@ She wrote:
 
 Max answered faster.
 
-**AGREED. OBSERVATION ONLY.**
+**I KNOW. OBSERVATION ONLY.**
 
-That helped.
+Lily kept the pen moving.
 
-Lily continued.
+**NO P1. NO MAKING ANYTHING REACT.**
 
-**NO P1.**
+A pause.
 
-**AGREED.**
-
-**NO TRYING TO MAKE ANYTHING REACT.**
-
-A longer pause.
+Then:
 
 **AGREED.**
 
-Lily tapped the pen against the desk.
+She added one more line.
 
-**NO "WHILE YOU'RE THERE, TRY THIS."**
+**AND NO "WHILE YOU'RE THERE, TRY THIS."**
 
 This time the delay felt offended.
 
@@ -526,9 +524,9 @@ Lily looked at the word for a second, then back at the agreement.
 
 Maybe that was the useful part of having rules.
 
-Not that they stopped curiosity.
+Curiosity still got a vote.
 
-They stopped curiosity from deciding everything.
+It just didn't get the whole meeting.
 
 She wrote:
 
