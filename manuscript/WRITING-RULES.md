@@ -111,6 +111,183 @@ Avoid:
 - constant flirting;
 - generic romance dialogue.
 
+
+
+# 7A. Living Dialogue / Professional Scene Rule — HARD LOCK
+
+Dialogue must sound like two specific people living through a moment, not like characters taking turns delivering information.
+
+Every important conversation should contain a mix of:
+- reaction before response;
+- body language or environmental action;
+- interruption or overlap when natural;
+- subtext;
+- selective silence;
+- callbacks;
+- misread tone;
+- unfinished thoughts;
+- emotional avoidance;
+- small changes of subject;
+- one character pushing while the other redirects;
+- concrete details from the current scene.
+
+Avoid sterile ping-pong dialogue such as:
+
+"Did you see it?"  
+"Yes."  
+"What happened?"  
+"It changed."  
+"Why?"  
+"I don't know."
+
+Prefer dialogue that carries personality, tension, and action:
+
+"You saw it move?"
+
+Max looked at the chair as if it had personally betrayed him. "Define move."
+
+"Across the room."
+
+"Then no. I saw it commit a crime."
+
+Lily closed her eyes. "Max."
+
+"Yes. It moved."
+
+## Dialogue Density Rule
+
+Do not let long stretches become line-after-line dialogue with no physical grounding.
+
+Break conversations with:
+- gestures;
+- movement;
+- objects;
+- facial reactions;
+- delayed writing/audio effects;
+- what the POV character notices but does not say.
+
+Likewise, do not interrupt every line with an action beat. Vary the rhythm.
+
+## Information Rule
+
+Characters should not explain facts both speakers already know unless:
+- they are arguing about interpretation;
+- reminding each other for safety;
+- emotionally reframing it;
+- one person is deliberately avoiding the real issue.
+
+Technical or mystery information should enter conversation through:
+- disagreement;
+- correction;
+- failed assumptions;
+- jokes;
+- practical consequences;
+- questions with personal stakes.
+
+## Emotional Subtext Rule
+
+Characters rarely say exactly what they feel at first.
+
+Lily may hide:
+- worry inside practical instructions;
+- affection inside irritation;
+- embarrassment inside sharper wording.
+
+Max may hide:
+- fear inside humor;
+- loneliness inside curiosity;
+- guilt inside over-helpfulness.
+
+When a scene becomes emotionally serious, simplify the dialogue instead of making it more poetic.
+
+## Banter Rule
+
+Banter must change the scene.
+
+A joke should:
+- reveal familiarity;
+- relieve tension;
+- expose discomfort;
+- create a misunderstanding;
+- become a callback;
+- or sharpen chemistry.
+
+Remove jokes that could be spoken by any generic character.
+
+## Conversation Arc Rule
+
+Every substantial conversation should have an internal movement:
+
+**entry mood → friction/avoidance → real point emerges → emotional or practical shift → exit beat**
+
+Do not let a scene begin and end with the characters emotionally unchanged unless that stasis itself is the point.
+
+## Human Imperfection Rule
+
+People:
+- answer late;
+- give partial answers;
+- change their mind mid-sentence;
+- say "wait" or "what?" when surprised;
+- laugh at the wrong moment;
+- miss obvious implications;
+- need a second attempt to say something important.
+
+Use these naturally, not as a quota.
+
+# 7B. Professional Scene Vitality Rule — HARD LOCK
+
+Every scene must feel active even when nothing supernatural happens.
+
+A scene should contain at least two of:
+- a concrete immediate want;
+- resistance;
+- environmental interaction;
+- an emotional turn;
+- a new decision;
+- a comic reversal;
+- a relationship shift;
+- a mystery complication;
+- a consequence.
+
+Avoid scenes that exist only to:
+- summarize;
+- explain rules;
+- transfer exposition;
+- move characters from one place to another.
+
+For quiet scenes, use:
+**specific physical behavior + subtext + change**.
+
+# 7C. Arc 1 and Future Manuscript Revision Standard
+
+Arc 1 publication prose and all future chapters must be checked for:
+
+1. **Dead dialogue** — functional but personality-free exchanges.
+2. **Dry exposition** — facts delivered without conflict, humor, stakes, or reaction.
+3. **Robotic turn-taking** — perfectly alternating lines with no interruption or texture.
+4. **Repeated information** — characters restating what readers already know.
+5. **Generic reactions** — "she smiled", "he nodded", "they looked at each other" without specific meaning.
+6. **AI-like cadence** — repeated short declarative patterns, symmetrical phrasing, over-neat emotional summaries.
+7. **Flat scene endings** — ending only because the information is complete.
+8. **Overexplained emotion** — narration naming a feeling after dialogue/action already showed it.
+
+Required revision tools:
+- stronger action beats;
+- specific sensory grounding;
+- asymmetric dialogue rhythm;
+- callbacks;
+- character-specific jokes;
+- interruptions;
+- silence;
+- subtext;
+- small physical business;
+- sharper scene exits;
+- less explanation after strong lines.
+
+Canon, mystery timing, system rules, POV limits, and relationship milestones must remain unchanged unless separately authorized.
+
+
 # 8. Lily and Max Dialogue
 
 Their chemistry develops through contrast.
