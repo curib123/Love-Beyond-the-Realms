@@ -644,3 +644,29 @@ Key locks:
 # 39. Next Production Step
 
 **CH-012 — Rent, Repairs, and Other Horrors → Manuscript Draft**
+
+
+# 40. CH-012 Manuscript Record
+
+Manuscript:
+`manuscript/CH-012-RENT-REPAIRS-AND-OTHER-HORRORS.md`
+
+Status:
+**DRAFT COMPLETE — GATE 9 PENDING**
+
+Draft preserves:
+- Lily-only POV;
+- four Gate-8-locked scene functions;
+- ordinary loose mirror mount;
+- practical Inez pressure;
+- Nora support without control;
+- Lily accepts dinner, not a move home;
+- Max respects temporary loss of visual access;
+- R1 remains;
+- no M/F state change;
+- no new dimensional phenomenon;
+- C0 / X0.
+
+# 41. Next Production Step
+
+**CH-012 — Rent, Repairs, and Other Horrors → Gate 9 Chapter QA**
