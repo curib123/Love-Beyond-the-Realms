@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** ORIGINALITY REVISION v2 APPLIED — GATE 1 REVALIDATION NEXT
+**Status:** ORIGINALITY REVISION v2 — GATE 1 REVALIDATION PASS — GATE 2 NEXT
 
 # Series Length
 
@@ -52,7 +52,7 @@ Opening system:
 # QA State After Revision
 
 Historical but revalidation-required:
-- Gate 1 — REVALIDATE
+- Gate 1 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 2 — REVALIDATE
 - Gate 3 — REVALIDATE
 - Gate 4 — CHECK / REVALIDATE
@@ -113,6 +113,9 @@ No revised chapter is canon-approved yet.
 
 # Next Authorized Step
 
-**Gate 1 — Foundation QA Revalidation for Originality Revision v2.**
+**Gate 2 — Character QA Revalidation for Originality Revision v2.**
 
-Do not advance to CH-003 and do not draft the new opening until affected gates are revalidated in production order.
+Gate 1 v2 record:
+`qa/FOUNDATION-QA-V2.md`
+
+Do not draft the new opening until affected gates are revalidated in production order.
