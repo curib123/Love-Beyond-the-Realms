@@ -440,15 +440,15 @@ Outputs.
 
 Marks.
 
-A voice was harder.
+A voice ruined that distance.
 
 Breath.
 
-Timing.
+Bad timing.
 
-Hesitation.
+A nervous little "oh."
 
-A person reacting badly in real time.
+A real person on the other side.
 
 Max sat back.
 
@@ -540,14 +540,10 @@ Max rested both hands on the table.
 
 There was someone on the other side.
 
-A person named Lily.
+Lily.
 
-Too much rain.
+Too much rain. A loud kettle. Terrible timing.
 
-A loud kettle.
+Max looked at the blank page and smiled.
 
-An irritating habit of being right at exactly the wrong moment.
-
-New questions, then.
-
-For once, Max did not mind.
+New questions could wait until tomorrow.
