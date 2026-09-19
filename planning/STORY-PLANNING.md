@@ -1447,3 +1447,33 @@ Future Gate 8 and Gate 9 enforce this standard through:
 
 Current next production step:
 **CH-022 — The Safe Distance → Manuscript Draft**
+
+
+# 102. CH-022 — The Safe Distance — Manuscript Draft
+
+Manuscript:
+`manuscript/CH-022-THE-SAFE-DISTANCE.md`
+
+Status:
+**COMPLETE — 1,608 words**
+
+Execution:
+- Max close-third POV only;
+- Room 17 → adjoining service passage → first structural junction / inspection alcove;
+- first real symptom triggers return;
+- no portable communication;
+- no P1;
+- no mystery conclusion;
+- no F-005;
+- no M-007 activation;
+- recovery occurs before Max reports;
+- Lily asks about Max before the measurements;
+- safe boundary is labeled **NOT DATA** beyond the stop point;
+- movie-like English / actor-speak standard applied.
+
+Formal relationship remains:
+**R2 — Cross-World Roommates**
+
+# 103. Current Next Production Step
+
+**CH-022 — The Safe Distance → Gate 9 Chapter QA**
