@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GATE 4 LOCATION QA PASS — GATE 5 ACTIVE ARC SELECTION QA NEXT
+**Status:** GATE 5 ACTIVE ARC SELECTION QA PASS — GATE 6 ACTIVE ARC ARCHITECTURE NEXT
 
 # Series Length
 
@@ -33,56 +33,33 @@ Core unique mechanic:
 
 # QA State
 
-Gate 1 — Foundation QA:
+Gate 1 — Foundation QA: **PASS — 2026-09-19**  
+Record: `qa/FOUNDATION-QA.md`
 
-**PASS — 2026-09-19**
+Gate 2 — Character QA: **PASS — 2026-09-19**  
+Record: `qa/CHARACTER-QA.md`
 
-Formal record:
+Gate 3 — Mystery/Twist QA: **PASS — 2026-09-19**  
+Record: `qa/MYSTERY-TWIST-QA.md`
 
-`qa/FOUNDATION-QA.md`
+Gate 4 — Location QA: **PASS — 2026-09-19**  
+Record: `qa/LOCATION-QA.md`
 
-Gate 2 — Character QA:
+Gate 5 — Active Arc Selection QA: **PASS — 2026-09-19**  
+Record: `qa/ACTIVE-ARC-SELECTION-QA.md`
 
-**PASS — 2026-09-19**
+Gate 5 confirms:
+- exactly one active arc;
+- Aster/Unit 4B + controlled Larkspur/Room 17 is the correct opening cluster;
+- the cluster supports romance, comedy, mystery, and sci-fi;
+- the opening relationship/mechanic state fits the location;
+- local questions can resolve without solving the series;
+- future arcs remain open;
+- MT-001/002/003 remain protected.
 
-Formal record:
-
-`qa/CHARACTER-QA.md`
-
-Gate 3 — Mystery/Twist QA:
-
-**PASS — 2026-09-19**
-
-Formal record:
-
-`qa/MYSTERY-TWIST-QA.md`
-
-Gate 4 — Location QA:
-
-**PASS — 2026-09-19**
-
-Formal record:
-
-`qa/LOCATION-QA.md`
-
-Gate 4 required pre-pass corrections:
-- formally established Nora's Home in the World Bible;
-- formally established Arden Family Home in the World Bible;
-- expanded ordinary-life Earth/Velaire locations;
-- added reveal locks for East Maintenance Corridor, Civic Archive, Arden Family Home, and Hollow;
-- defined Aster/Larkspur dual-POV utility;
-- reinforced that location access does not equal mystery access.
-
-Final Gate 4 confirms:
-- all inventory locations descend from the World Bible;
-- ordinary-life locations remain useful;
-- reveal-heavy locations are protected;
-- Aster House/Unit 4B and Larkspur House/Room 17 support both main POVs;
-- future locations remain unselected and unlocked.
-
-Non-blocking notes:
-- do not create dimensional nodes at every ordinary location;
-- preserve ordinary Velaire life around Larkspur during arc architecture.
+Non-blocking Gate 5 notes:
+- Gate 6 must preserve ordinary life outside the apartment;
+- Gate 6 must define a strict major-twist ceiling.
 
 # Active Arc
 
@@ -90,22 +67,21 @@ Non-blocking notes:
 
 Status:
 
-**SELECTED — SELECTION QA NEXT / ARCHITECTURE NOT YET LOCKED**
+**GATE 5 SELECTION APPROVED — GATE 6 ARCHITECTURE NEXT**
 
-Current proposed opening cluster:
+Approved primary cluster:
 - Aster House;
 - Unit 4B;
-- controlled Larkspur House / Room 17 POV scenes.
+- controlled Larkspur House;
+- controlled Room 17.
 
-Opening goals:
-- Lily moves in;
-- Lily discovers Max;
-- Max discovers an unseen voice;
-- both test whether the other is real;
-- cross-world roommate comedy begins;
-- Max's non-ghost nature becomes increasingly defensible;
-- Echo Exchange receives early observable rules;
-- deeper Twinfall truth remains protected.
+Selection-level opening state:
+- R0 Unknown Presence;
+- P0 Bleed;
+- C0 No Contact;
+- X0 Observation.
+
+The exact arc endpoint remains **UNLOCKED** until Gate 6 architecture is built and reviewed.
 
 # Major Twist State
 
@@ -123,17 +99,31 @@ MT-003 Their Experiments Strengthen the Leak:
 
 # Future Arc Table
 
-Intentionally not fixed.
-
 | Arc | Location | Purpose | Status |
 |---|---|---|---|
-| Opening | Aster House / Larkspur House overlap | establish characters, romance, comedy, rules and first mystery | SELECTED — GATE 5 REVIEW NEXT |
-| Future | UNSELECTED | must emerge from canon | UNLOCKED |
+| Aster House Arc | Aster House / Unit 4B / controlled Larkspur-17 | opening character, romcom, mystery and basic rules | ACTIVE — SELECTION APPROVED |
+| Future | UNSELECTED | must emerge from completed canon | UNLOCKED |
 
 # Next Authorized Step
 
-**Run Gate 5 — Active Arc Selection QA.**
+**Gate 6 — Active Arc Architecture QA.**
 
-Gate 5 must determine whether the Aster House Arc is the correct active arc before architecture begins.
+Gate 6 must define and review:
+- exact opening states;
+- Lily's concrete local goal;
+- Max's concrete local goal;
+- comedy engine;
+- ordinary-life pressure;
+- central local mystery;
+- sci-fi mechanic focus;
+- supporting-cast functions;
+- midpoint shift;
+- meaningful mistake/reversal;
+- causally earned climax;
+- aftermath;
+- local resolution;
+- major-twist ceiling.
 
-Do not define midpoint, reversal, climax, detailed arc structure, chapter count, chapter roadmap, scene architecture, planted F-IDs, or manuscript prose until Gate 5 passes.
+Only after Gate 6 passes may the active arc chapter count be set and Gate 7 chapter-roadmap work begin.
+
+Do not draft manuscript prose or mark any F-ID PLANTED before prose actually exists.
