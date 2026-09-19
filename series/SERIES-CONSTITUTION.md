@@ -4,23 +4,33 @@
 **Author:** minuszeroo  
 **Genres:** Young Adult • Romantic Comedy • Mystery • Science Fiction • Supernatural  
 **Primary Audience:** Teen and young-adult female readers  
-**Status:** LOCKED FOUNDATION
+**Status:** LOCKED FOUNDATION — ORIGINALITY REVISION v2
 
 # 1. Core Premise
 
 Eighteen-year-old **Lily Marlowe** moves into Unit 4B of Aster House after the death of her parents.
 
-Nineteen-year-old **Max Arden** occupies Room 17 of Larkspur House in another reality.
+Nineteen-year-old **Max Arden** is phase-bound around Room 17 of Larkspur House in another reality.
 
-Both rooms exist at the same dimensional coordinate.
+Both rooms occupy the same historical coordinate, but **the people do not appear to each other at first**.
 
-Lily can see Max.
+Instead, the rooms begin exchanging fragments:
+- light from the wrong city;
+- surface marks;
+- temporary room details;
+- anonymous writing;
+- brief sound;
+- object states.
 
-Max can hear Lily but initially cannot see her.
+Lily first believes something is wrong with the apartment.
 
-They cannot touch.
+Max first believes something is interfering with Room 17.
 
-At first each thinks the other is some kind of haunting.
+They discover **the other room before they discover the other person**.
+
+Their first communication begins through shared-state writing and later voice, while both remain visually absent to the other.
+
+Only after they have already argued, cooperated, and learned each other's habits do they earn their first indirect glimpse of each other.
 
 They slowly discover that both are alive, both rooms are real, and their worlds are leaking into each other.
 
@@ -140,13 +150,15 @@ No breakup inserted only to extend chapter count.
 Romantic comedy is a core genre, not decoration.
 
 Comedy may come from:
-- two people trying to use the same room in different realities;
-- Max hearing Lily while unable to see her;
-- Lily seeing Max do something embarrassing before he knows she can;
-- exchanged objects;
+- two people trying to use the same coordinate in different realities;
+- anonymous notes becoming increasingly personal or petty;
+- both arguing over which version of the room is "correct";
+- hearing each other before seeing each other;
+- forming strong assumptions about appearance that later prove wrong;
+- exchanged objects and room states;
 - cultural misunderstandings;
 - failed experiments;
-- friends misunderstanding Lily or Max;
+- friends hearing only one side of later voice conversations;
 - badly timed Veil events;
 - jealous but non-toxic reactions;
 - sincere romantic moments ruined by practical problems.
@@ -289,11 +301,17 @@ Production order:
 Do not copy scenes, dialogue, lore, character dynamics, or twist structures from existing two-world romances.
 
 Familiar romance tropes are allowed only when transformed through:
-- asymmetric perception;
-- Echo Exchange;
+- **room-before-person discovery**;
+- anonymous writing before face-to-face perception;
+- voice-before-face intimacy;
+- Echo Exchange as the primary opening hook;
 - dual POV;
 - split-world science;
 - separate social lives;
 - consequence-based crossing.
+
+The opening must not rely on "girl sees handsome spectral boy in her apartment while he cannot see her" as its central hook.
+
+The first visual reveal of Lily/Max to each other must be earned as a later relationship/mechanics milestone.
 
 **Status: LOCKED.**
