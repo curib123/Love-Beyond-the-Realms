@@ -832,3 +832,47 @@ Canon:
 # 57. Next Production Step
 
 **CH-020 — The Roommate Agreement → Detailed Scene Architecture → Gate 8**
+
+
+# 58. CH-020 Canon Record
+
+Architecture:
+`planning/CH-020-SCENE-ARCHITECTURE-V2.md`
+
+Gate 8:
+`qa/CH-020-PRE-MANUSCRIPT-SCENE-QA-V2.md`
+
+Manuscript:
+`manuscript/CH-020-THE-ROOMMATE-AGREEMENT.md`
+
+Gate 9:
+`qa/CH-020-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- Lily chooses to stay in Unit 4B;
+- R2 Cross-World Roommates;
+- P0 baseline;
+- narrow controlled P1 remains learned;
+- C0 / X0;
+- roommate safety/privacy/ordinary-life rules formalized;
+- no new mystery/twist reveal;
+- future arc remains unlocked.
+
+# 59. Aster House Arc Completion
+
+**AH-ARC-001 — COMPLETE**
+
+CH-001 through CH-020:
+- Gate 8 PASS;
+- manuscripts complete;
+- Gate 9 PASS;
+- CANON-APPROVED.
+
+Final arc state:
+**R2 / P0 baseline / narrow controlled P1 / C0 / X0**
+
+Future arc:
+**UNSELECTED / UNLOCKED**
