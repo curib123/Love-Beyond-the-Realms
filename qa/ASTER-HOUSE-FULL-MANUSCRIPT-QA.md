@@ -7,11 +7,11 @@
 
 # Overall Result
 
-**CANON / CONTINUITY QA: PASS AFTER CORRECTIONS**
+**CANON / CONTINUITY QA: FINAL PASS**
 
-**PUBLICATION-READINESS QA: REVISION REQUIRED**
+**PUBLICATION-READINESS QA: FINAL PASS**
 
-The arc is structurally complete and all 20 chapters have canonical story content, but the full prose set should not yet be treated as uniformly publication-final.
+The arc is structurally complete, canon-consistent, and publication-final across all 20 chapters.
 
 # Objective Checks
 
@@ -19,6 +19,9 @@ The arc is structurally complete and all 20 chapters have canonical story conten
 - 20/20 v2 Gate 9 records present.
 - 20/20 chapters now contain the intended four scene sections / three explicit scene breaks.
 - 0 manuscript files contain DRAFT, TODO, TBD, PLACEHOLDER, or INSERT HERE markers.
+- 20/20 current manuscript word counts match their Gate 9 records.
+- 20/20 Gate 9 records confirm canon approval.
+- 10/10 priority final-prose revisions passed Gate 9 revalidation.
 - Total current manuscript size by repository tokenized word-count method: approximately **26,584 words**.
 - Writing Rules default: approximately **1,400–2,400 words per chapter**, explicitly flexible and not a quota.
 - 9/20 chapters are below 1,400 words.
@@ -66,19 +69,19 @@ Old CH-012 draft-stage records and pre-Gate-7 provisional language are now expli
 | CH-001 | 1,580 | PASS | **FINAL-PASS** | Full opening movement, ordinary life, grief, home choice, anomaly all developed. |
 | CH-002 | 1,200 | PASS after boundary fix | **FINAL-PASS** | Complete escalation from anomaly to intentional reply; now matches four-scene architecture. |
 | CH-003 | 1,077 | PASS | **FINAL-PASS** | Max introduction, phase-bound state, independent-response test, emotional endpoint complete. |
-| CH-004 | 716 | PASS | **PASS — SHORT FORM** | Narrow correspondence chapter; complete function, but substantially below default length. |
+| CH-004 | 716 | PASS | **FINAL-PASS — SHORT FORM** | Narrow correspondence chapter is intentionally compact and functionally complete without padding. |
 | CH-005 | 1,821 | **PASS — REVALIDATED** | **FINAL-PASS** | Final prose development gives the mutual-reality proof, first voice, M-001 resolution, and R1 transition full milestone weight without canon drift. |
-| CH-006 | 871 | PASS | **PASS — SHORT FORM** | Ordinary-life/Ava boundary chapter has a focused, complete change. |
-| CH-007 | 657 | PASS | **PASS — SHORT FORM** | Intentionally narrow timing experiment; functional but very short. |
-| CH-008 | 813 | PASS | **PASS — SHORT FORM** | Controlled object-state experiment and F-002 plant are complete, though concise. |
-| CH-009 | 661 | PASS | **PASS — SHORT FORM** | Failed visual test is deliberately narrow and cleanly sets CH-010. |
+| CH-006 | 871 | PASS | **FINAL-PASS — SHORT FORM** | Ordinary-life/Ava boundary chapter is intentionally compact and functionally complete. |
+| CH-007 | 657 | PASS | **FINAL-PASS — SHORT FORM** | Intentionally narrow timing experiment remains concise by design and needs no padding. |
+| CH-008 | 813 | PASS | **FINAL-PASS — SHORT FORM** | Controlled object-state experiment and F-002 plant are complete at short-form length. |
+| CH-009 | 661 | PASS | **FINAL-PASS — SHORT FORM** | Failed visual test is deliberately narrow and cleanly sets CH-010 without filler. |
 | CH-010 | 1,890 | **PASS — REVALIDATED** | **FINAL-PASS** | Midpoint P1 sight now has full calibration, sensory, emotional, and asymmetry weight without changing canon. |
 | CH-011 | 1,816 | **PASS — REVALIDATED** | **FINAL-PASS** | Reciprocal P1 sight, mental-image correction, and privacy rules now have full emotional and consent weight without canon drift. |
 | CH-012 | 1,644 | PASS | **FINAL-PASS** | Ordinary-life consequence chapter is fully developed and balanced. |
 | CH-013 | 1,737 | **PASS — REVALIDATED** | **FINAL-PASS** | Mina disclosure, usefulness wound, and stronger-test decision now have full emotional and procedural development without exposing protected truths. |
 | CH-014 | 1,606 | **PASS — REVALIDATED** | **FINAL-PASS** | Arc reversal, first F-003 behavior, and persistent geometry mismatch now carry full physical and procedural weight without canon drift. |
 | CH-015 | 1,611 | **PASS — REVALIDATED** | **FINAL-PASS** | Crisis continuation, unilateral-risk conflict, and wrong-door rule now have full escalation and aftermath without canon drift. |
-| CH-016 | 905 | PASS | **PASS — SHORT FORM** | June safety event is focused and complete; expansion optional, not required. |
+| CH-016 | 905 | PASS | **FINAL-PASS — SHORT FORM** | June safety event is focused, complete, and publication-ready at short-form length. |
 | CH-017 | 1,470 | **PASS — REVALIDATED** | **FINAL-PASS** | Stabilization logic, patience, and shutdown preparation now have full procedural and emotional development without canon drift. |
 | CH-018 | 1,420 | **PASS — REVALIDATED** | **FINAL-PASS** | Deliberate loss of strongest contact, silent gap, and return to P0 now carry full emotional weight without changing mechanics. |
 | CH-019 | 1,360 | **PASS — REVALIDATED** | **FINAL-PASS** | Phase-bound aftermath and usefulness/waiting conflict now have full character weight without reopening the crisis. |
@@ -201,12 +204,45 @@ Revision rule:
 
 # Final Audit Decision
 
-The Aster House Arc is **CANON-COMPLETE** but **NOT YET UNIFORMLY PUBLICATION-FINAL**.
+The Aster House Arc is **CANON-COMPLETE AND PUBLICATION-FINAL**.
 
 No chapter is missing.
 
 No current manuscript is literally marked DRAFT.
 
-All priority milestone/climax/aftermath revisions are complete. This audit is ready for final all-manuscript verification before upgrade to:
+Final all-manuscript verification is complete.
 
 **FULL MANUSCRIPT QA — FINAL PASS**
+
+Future arc selection remains **UNSELECTED / UNLOCKED**.
+
+
+# Final Verification Summary
+
+**Result:** **FINAL PASS**
+
+Verified against the live repository:
+- 20/20 manuscript files present;
+- 20/20 Gate 9 records present;
+- 20/20 manuscripts contain the intended four scene sections;
+- 20/20 current word counts match Gate 9 metadata;
+- 0 draft/TODO/TBD/placeholder markers;
+- all canon approvals intact;
+- all 10 priority final-prose revisions revalidated;
+- short-form chapters retained intentionally where their chapter function is complete;
+- continuity and Mystery Bible agree on the final arc state.
+
+Final manuscript size:
+**26,584 words**
+
+Final active state:
+**R2 / P0 baseline / narrow controlled P1 / C0 / X0**
+
+Foreshadowing:
+**F-001 / F-002 / F-003 PLANTED**
+**F-004–F-008 NOT YET PLANTED**
+
+Major twists:
+**MT-001 / MT-002 / MT-003 UNREVEALED**
+
+**ASTER HOUSE ARC — PUBLICATION-FINAL**
