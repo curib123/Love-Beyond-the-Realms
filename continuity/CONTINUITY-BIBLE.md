@@ -198,23 +198,15 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-006 v2
+# 16. Current Canon State — Through CH-007 v2
 
-**Latest Canon Chapter:** CH-006 — Normal People Don't Have Cross-Reality Pen Pals
+**Latest Canon Chapter:** CH-007 — You're Early
 
-## Lily
-Knows everything earned through CH-005 and has now tested one important social boundary:
-- ordinary work obligations can make her miss a coherence window;
-- missing a window is not an emergency;
-- Max accepts that Lily has a life outside the overlap.
-
-Ava now suspects Lily has a private correspondent / possible online boy or new friend, but does not know dimensional truth.
-
-## Max
-Knows:
-- Lily has ordinary work obligations;
-- missed windows can be caused by normal life;
-- communication should not require either person to abandon responsibilities.
+## Lily and Max Shared Knowledge
+- they accept each other as living correspondents;
+- bounded writing/taps/audio can cross;
+- communication timing is not fixed;
+- measured delays differ by window and trial.
 
 ## Reader Knowledge
 **K2**
@@ -222,31 +214,41 @@ Knows:
 ## Relationship
 **R1 — Mutual Reality Test**
 
-R1 deepens through healthy boundary-setting.
-
 ## System
 - **P0 Echo Trace**
 - **C0**
 - **X0**
 
-No new system capability was added in CH-006.
+Observed:
+- environmental bleed;
+- bounded writing;
+- crossed taps;
+- short live audio;
+- measurable Phase Lag with delayed arrival.
+
+Not observed:
+- pre-echo;
+- person-image;
+- P1;
+- touch;
+- crossing.
 
 ## Mystery
 - **M-001 RESOLVED locally**
 - **M-002 ACTIVE**
-- M-003 onward unchanged.
+- **M-004 ACTIVE**
+- M-003 and M-005–M-011 unchanged.
 
 ## Foreshadowing
 All F-IDs remain:
 **PLANNED — NOT YET PLANTED**
 
-## CH-007 Guard
-CH-007 may measure communication timing drift.
+## Cost
+Max develops mild headache/eye pressure after repeated timing trials.
 
-It must:
-- use a clear timing question/setup/result;
-- activate M-004 only through observed lag;
-- avoid pre-echo;
-- remain P0/C0/X0;
-- preserve Max's phase-bound mobility;
-- plant no F-ID.
+## CH-008 Guard
+CH-008 must move to a controlled object/room-state test.
+
+It may plant F-002 only if matching prose genuinely appears and Gate 9 approves it.
+
+No P1, pre-echo, contact, crossing, or MT reveal.
