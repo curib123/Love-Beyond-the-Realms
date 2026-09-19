@@ -194,15 +194,13 @@ Max was already writing the interval down.
 
 "What?"
 
-"Nothing."
+He smiled at the empty air. "Nothing."
 
 Another delay.
 
 "I heard that."
 
-He looked at the empty air over the table.
-
-"Eventually."
+"See? Eventually."
 
 The static burst hard enough to make him wince.
 
@@ -267,15 +265,15 @@ A line appeared behind him.
 
 YOU'RE EARLY.
 
-Max turned.
+Max stopped halfway through turning away.
+
+He looked back at the page.
 
 The message had arrived after the window looked finished.
 
-He stared.
+He laughed under his breath.
 
-Then laughed.
-
-"Fine."
+"Okay. You win."
 
 He wrote in his notes:
 
