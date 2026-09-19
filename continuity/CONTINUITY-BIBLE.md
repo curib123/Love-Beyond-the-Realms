@@ -198,52 +198,46 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-015 v2
+# 16. Current Canon State — Through CH-016 v2
 
-**Latest Canon Chapter:** CH-015 — The Room Moves Wrong
+**Latest Canon Chapter:** CH-016 — Do Not Open That Door
 
-## Shared Situation
-Local geometry remains unstable after CH-014.
+## Ordinary-Life Safety Event
+June nearly interacted with Unit 4B's misaligned doorway while the hall seam was unstable.
 
-Observed:
-- doubled/offset wall and floor geometry;
-- severe delayed/duplicated message arrivals;
-- wrong doorway outlines;
-- brief views of the other branch's hallway through misaligned door geometry.
+Lily stopped her before the door was opened.
 
-No message has arrived before its source event.
-
-## Max
-Attempted one local solo correction.
-It worsened the spatial mismatch.
-He accepts that he cannot isolate the risk to Room 17.
+June knows only that Lily has an unsafe door/frame problem.
 
 ## Lily
-Refuses Max's unilateral sacrifice logic because Unit 4B remains affected.
+- prioritizes another person's safety over secrecy;
+- reports a practical door/frame issue to Inez;
+- marks the doorway out of service;
+- chooses stabilization over continued observation.
+
+## Max
+Agrees the next step is stabilization, not stronger testing.
 
 ## Relationship
 R1.
 
 ## System
-- narrow P1 retained
+- narrow P1 capability retained
+- local doorway/hall seam unstable
 - C0
 - X0
-- no P2/P3
-- no Hollow traversal
-
-## Emergency Rule
-**Do not open any doorway that does not match the room around it.**
+- no Hollow entry
 
 ## Mystery
-- M-002 PARTIAL
-- M-003 ACTIVE
-- M-004 ACTIVE / severe lag
-- M-005 PARTIAL
+M-002 PARTIAL
+M-003 ACTIVE
+M-004 ACTIVE
+M-005 PARTIAL
 
 ## Foreshadowing
-F-001, F-002, F-003 PLANTED.
+F-001/F-002/F-003 PLANTED.
 
-## CH-016 Guard
-One specific ordinary-life person may approach the danger.
+## CH-017 Goal
+Use only previously measured timing/state behavior to build a stabilization protocol.
 
-Lily must prioritize that person's safety without exposing protected cosmology.
+No new power.
