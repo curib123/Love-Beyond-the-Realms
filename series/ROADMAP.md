@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-001 GATE 8 PRE-MANUSCRIPT SCENE QA PASS — CH-001 MANUSCRIPT NEXT
+**Status:** CH-001 MANUSCRIPT DRAFT COMPLETE — GATE 9 CHAPTER QA NEXT
 
 # Series Length
 
@@ -106,6 +106,12 @@ CH-001 Gate 8 confirms:
 - chapter ends before communication;
 - P0/C0/X0 preserved.
 
+CH-001 manuscript:
+- **DRAFT COMPLETE**
+- path: `manuscript/CH-001-A-PLACE-OF-MY-OWN.md`
+- approximately 1,900 words
+- Gate 9 not yet run.
+
 Non-blocking CH-001 notes:
 - avoid overplaying grief in the opening;
 - keep the cabinet anomaly mundane enough to dismiss.
@@ -116,7 +122,7 @@ Non-blocking CH-001 notes:
 
 Status:
 
-**CH-001 GATE 8 APPROVED — CH-001 MANUSCRIPT AUTHORIZED**
+**CH-001 MANUSCRIPT DRAFT COMPLETE — GATE 9 NEXT**
 
 Approved primary cluster:
 - Aster House;
@@ -163,12 +169,10 @@ MT-003 Their Experiments Strengthen the Leak:
 
 # Next Authorized Step
 
-**CH-001 — A Place of My Own → Manuscript Draft.**
-
-Only CH-001 manuscript prose is currently authorized.
-
-After the draft is completed, run:
-
 **CH-001 → Gate 9 Chapter QA.**
+
+The manuscript draft now exists.
+
+Do not mark CH-001 canon-approved until Gate 9 passes.
 
 CH-002 still requires its own Gate 8 scene architecture before its manuscript may be drafted.
