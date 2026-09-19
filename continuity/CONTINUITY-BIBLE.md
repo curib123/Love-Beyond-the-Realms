@@ -72,7 +72,7 @@ States are descriptive, not chapter quotas.
 
 # 6. Perception State
 
-- P0 Bleed
+- P0 Echo Trace
 - P1 Indirect Sight
 - P2 Echo Sight
 - P3 Mutual Sight
@@ -194,60 +194,45 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-002
+# 16. Current Canon State — ORIGINALITY REVISION v2
 
-**Latest Canon Chapter:** CH-002 — There Is a Boy in My Apartment
+**Manuscript Canon Status:** RESET FOR OPENING REWRITE
 
-## Lily
+The previous CH-001 and CH-002 visual-perception canon is superseded.
 
-Knowledge:
-- an unknown young man appears inside locked Unit 4B;
-- he appears physically real to her;
-- he does not visually track her;
-- he can hear her spoken voice;
-- his attention follows sound rather than her visible body.
+No revised manuscript chapter is canon-approved yet.
 
-Still unknown:
-- his name;
-- whether he is alive, a ghost, hallucination, or something else;
-- where he is physically located;
-- why perception is asymmetric;
-- Velaire;
-- Echo Exchange;
-- Phase Lag;
-- Twinfall;
-- mirrorstone.
+## Opening Baseline
 
-## Max
+### Lily
+- has chosen Unit 4B as her first independent home;
+- has no knowledge of Max, Velaire, Echo Exchange, Twinfall, or mirrorstone;
+- does not begin by seeing Max.
 
-On-page reader-accessible knowledge from Lily POV only:
-- he hears an unexpected female voice at CH-002's endpoint;
-- he does not visually identify Lily.
-
-His internal interpretation is reserved for CH-003 Max POV.
+### Max
+- is alive and phase-bound around Room 17;
+- has no visual knowledge of Lily;
+- does not begin by seeing Lily.
 
 ## Relationship
 
 **R0 — Unknown Presence**
 
-They are mutually aware only at the sensory level.
-
-They have not yet completed a mutual reality test.
+Neither initially knows the identity, age, appearance, or even exact nature of the other occupant.
 
 ## Perception / Contact / Crossing
 
-- **P0 — Bleed**
-  - Lily sees/hears Max.
-  - Max hears Lily.
-  - Max does not visually see Lily.
+- **P0 — Echo Trace**
+  - neither directly sees the other;
+  - room/environment information may cross;
+  - writing may cross;
+  - intermittent sound may later cross;
 - **C0 — None**
 - **X0 — Observation**
 
 ## Mystery
 
-- **M-001 ACTIVE**
-- **M-002 ACTIVE — first observable asymmetry**
-- M-003 through M-011 not advanced by CH-002.
+Use the Initial Mystery-State Ledger until revised manuscript prose passes QA.
 
 ## Foreshadowing
 
@@ -255,12 +240,11 @@ All F-IDs remain:
 
 **PLANNED — NOT YET PLANTED**
 
-## Continuity Guard for CH-003
+## Revision Guard
 
-CH-003 may begin from Max's reaction to Lily's voice.
+The opening may not restore:
+- Lily directly seeing Max before communication;
+- Max hearing Lily as the sole defining opening asymmetry;
+- a "handsome spectral stranger in the apartment" hook.
 
-It must not:
-- replay CH-002 in full from Max's POV;
-- grant P1;
-- reveal Lily visually to Max;
-- reveal protected dimensional history.
+First sight must be earned later through P1.
