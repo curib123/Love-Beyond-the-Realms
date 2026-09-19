@@ -198,81 +198,80 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-004 v2
+# 16. Current Canon State — Through CH-005 v2
 
-**Latest Canon Chapter:** CH-004 — The Other Tenant
+**Latest Canon Chapter:** CH-005 — Tap Twice If You're Real
 
 ## Lily
 Knows:
-- the responder calls himself **Max**;
-- he claims to be in **Room 17** in a place called **Rivenhall**;
-- he does not recognize Bellweather;
-- his weather/local details differ from hers;
-- short written windows open and close unpredictably;
-- Max agreed to a controlled mutual reality test.
+- the correspondent identifies himself as Max;
+- Max claims Room 17 / Rivenhall;
+- bounded writing/tap responses behave independently;
+- she heard Max's live voice during a brief clipped bridge;
+- Max heard her;
+- both now accept that an independent living correspondent is responding.
 
 Still does not know:
-- Max's age or appearance;
-- whether Max is definitely alive/human;
+- Max's appearance;
 - Velaire as a named world;
 - why the rooms correlate;
-- Echo Exchange / Phase Lag / Twinfall / mirrorstone.
+- why information crosses while person-image does not;
+- protected MT-001/002/003 truths.
 
 ## Max
 Knows:
-- the responder calls herself **Lily**;
-- she claims to be in **Unit 4B** in **Bellweather**;
-- her local environment differs from Rivenhall;
-- short written windows permit bounded exchange;
-- Lily agreed to a controlled mutual reality test.
+- the correspondent identifies herself as Lily;
+- Lily claims Unit 4B / Bellweather;
+- bounded writing/taps behave independently;
+- he heard Lily's live voice and she heard him;
+- both now accept the other as a living correspondent.
 
 Still does not know:
-- Lily's age or appearance;
-- whether Lily is definitely alive/human;
+- Lily's appearance;
 - Earth as a named world;
 - why the rooms correlate;
-- MT-001/002/003.
+- why person-image remains unavailable;
+- protected MT-001/002/003 truths.
 
 ## Reader Knowledge
-**K1**
+**K2**
 
-Reader knows Max is alive and phase-bound through Max POV.
+Mutual reality-test knowledge has been earned.
 
 ## Relationship
-**R0 — Unknown Presence**
-
-Names and claimed local places are exchanged, but mutual living-person reality is not yet proven.
+**R1 — Mutual Reality Test**
 
 ## System
 - **P0 Echo Trace**
 - **C0**
 - **X0**
 
-Observed:
-- environmental bleed;
+Observed capabilities:
+- environmental state bleed;
 - bounded fresh-mark writing;
-- multiple short coherence windows;
-- independent location information.
+- crossed tap/impact information;
+- short live audio bridge lasting under 15 seconds.
 
-No:
-- audio;
+Still unavailable:
+- person-image;
 - P1;
 - touch;
 - crossing.
 
 ## Mystery
-- **M-001 ACTIVE — NEAR RESOLUTION**
-- M-002 onward unchanged.
+- **M-001 RESOLVED locally**
+- **M-002 ACTIVE**
+- M-003 onward unchanged.
 
 ## Foreshadowing
 All F-IDs remain:
 **PLANNED — NOT YET PLANTED**
 
-## CH-005 Guard
-CH-005 must:
-- run a controlled mutual reality test;
-- keep first audio clipped to 3–15 seconds;
-- resolve M-001 only after combined independent evidence;
-- activate M-002;
-- remain P0/C0/X0;
-- plant no F-ID.
+## CH-006 Guard
+CH-006 should shift pressure outward into Lily's ordinary life.
+
+It must not:
+- grant new perception levels;
+- turn Ava into an exposition shortcut;
+- let a social misunderstanding replace the dimensional mystery;
+- plant any F-ID not assigned by the locked roadmap.
