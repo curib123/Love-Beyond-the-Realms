@@ -68,8 +68,10 @@ No chapter replays the full events of a previous chapter from the other POV.
 
 ## CH-001 — A Place of My Own
 
-**Gate 8 Status:** **PASS — SCENE ARCHITECTURE QA-LOCKED / MANUSCRIPT AUTHORIZED**  
+**Gate 8 Status:** **PASS — SCENE ARCHITECTURE QA-LOCKED**  
+**Manuscript Status:** **DRAFT COMPLETE — GATE 9 NEXT**  
 **Scene Architecture:** `planning/CH-001-SCENE-ARCHITECTURE.md`  
+**Manuscript:** `manuscript/CH-001-A-PLACE-OF-MY-OWN.md`  
 **POV:** Lily  
 **Movement:** A — Impossible Room  
 **Primary Location:** Unit 4B / Aster House
