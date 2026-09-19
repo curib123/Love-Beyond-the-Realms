@@ -6,23 +6,31 @@ Ava noticed on the sixth.
 
 "You have somewhere to be?"
 
-Lily put a clean mug on the shelf. "Eventually."
+Lily slid a clean mug onto the shelf. "Eventually."
+
+Ava stared.
 
 "That is how time works."
 
-Paper Moon Books & Café was busy enough that Lily should not have had space in her head for anything except orders. The rain had driven half the university district indoors, which meant every small table was occupied and somebody had already asked if the history section had an outlet.
+Paper Moon Books & Café was packed. Rain had driven half the university district indoors. Every small table was occupied, and someone had already asked whether the history section had an outlet.
 
 It did not.
 
 The clock moved to three-thirty-two.
 
-Max had written the night before that the desk usually changed around late afternoon on his side. Their times did not match neatly, but the last few windows had clustered close enough that Lily had started making guesses.
+Max had written the night before that Room 17 tended to cooperate around late afternoon on his side.
 
-She disliked that she had started making guesses.
+Their times did not match neatly.
 
-She disliked even more that she wanted to be right.
+But the last few windows had clustered close enough that Lily had started guessing.
 
-Ava slid a tray onto the counter. "You are doing the thing."
+She disliked that.
+
+She disliked wanting to be right even more.
+
+Ava placed a tray on the counter.
+
+"You are doing the thing."
 
 "What thing?"
 
@@ -32,53 +40,65 @@ Lily looked at her. "I don't have a thing."
 
 "You absolutely have a thing."
 
-A customer approached before Lily could respond. She took the order, made two drinks, found a misplaced paperback, and managed not to look at the clock for almost nine minutes.
+A customer stepped up before Lily could answer.
+
+She took an order.
+
+Made two drinks.
+
+Found a misplaced paperback.
+
+Managed not to check the clock for almost nine minutes.
 
 Personal growth.
 
-Then the espresso machine hissed and she checked again.
+The espresso machine hissed.
 
-Ava smiled.
+She looked.
 
-Lily ignored her.
+Ava smiled without saying anything.
+
+Lily hated that more.
 
 ---
 
 Their shift was supposed to end at four.
 
-At four-oh-five, a customer spilled tea over a display table.
+At four-oh-five, a customer spilled tea over a display.
 
 At four-ten, the card terminal stopped connecting.
 
-At four-seventeen, Lily was kneeling on the floor with a towel while Ava held three damp novels by their dry corners.
+At four-seventeen, Lily was on the floor with a towel while Ava held three damp novels by their dry corners.
 
 "Go," Ava said.
 
 Lily looked up. "What?"
 
-"You've checked the time enough to age the clock. I can finish this."
+"You've checked the clock enough to age it."
 
-"No."
+"I am working."
 
-"Lily."
+"So am I."
 
 "We close together."
 
-Ava narrowed her eyes. "Is this a boy?"
+Ava narrowed her eyes.
+
+"Is this a boy?"
 
 Lily nearly dropped the towel.
 
 "No."
 
-That answer was technically defensible.
+Ava's face changed instantly.
 
-Max was a boy, probably. He had a male voice. He claimed to be alive. But he was also trapped in a room that should not overlap Lily's apartment, and Ava was asking a much more normal question.
-
-Ava's expression changed immediately.
-
-"Oh, it is."
+"Oh, wow."
 
 "It is not."
+
+"That was a very fast no."
+
+"It was also correct."
 
 "Online?"
 
@@ -86,27 +106,39 @@ Ava's expression changed immediately.
 
 "Neighbor?"
 
-"Definitely no."
+"Definitely not."
 
 "Secret criminal?"
 
+Lily wrung out the towel.
+
 "You're getting warmer only because everything else is colder."
 
-Ava laughed. "You have been weird for four days."
+Ava laughed.
+
+"You have been weird for four days."
 
 "I moved."
 
 "You have been different weird."
 
-Lily stood and carried the wet towels to the sink. "There is no boy."
+Lily stood and carried the towels to the sink.
 
-Ava followed. "There is a person."
+"There is no boy."
 
-Lily hesitated for half a second.
+Ava followed her.
 
-That was enough.
+"There is a person."
 
-Ava pointed at her. "Person."
+Lily paused.
+
+Half a second.
+
+Too long.
+
+Ava pointed.
+
+"Person."
 
 "Congratulations."
 
@@ -116,19 +148,41 @@ Ava pointed at her. "Person."
 
 "Do you?"
 
-Lily thought of gray handwriting appearing on blank paper. A voice breaking through static for ten seconds.
+Lily thought of gray handwriting.
+
+Ten seconds of static.
+
+A voice saying her name back to her.
 
 "Not really."
 
-Ava's teasing softened. "Okay."
+Ava's teasing softened.
 
-That was one of the reasons Lily trusted her. Ava knew when to stop pushing.
+"Okay."
 
-Mostly.
+Lily glanced at her.
 
-Then Ava added, "But when this becomes a dramatic internet romance, I want it noted that I identified it first."
+Ava knew when to stop.
 
-Lily picked up the nearest clean towel and threw it at her.
+Usually.
+
+Then Ava added, "But when this becomes a dramatic internet romance, I want credit for identifying the plot early."
+
+Lily threw the nearest clean towel at her.
+
+Ava caught it.
+
+"Violence confirms it."
+
+"There is nothing to confirm."
+
+"Sure."
+
+"Keep drying books."
+
+"Romantic."
+
+Lily turned away before Ava could see her smile.
 
 ---
 
@@ -136,11 +190,17 @@ The tram was late.
 
 Of course it was.
 
-Lily stood beneath the stop shelter while rain hammered the roof and watched four-twenty become four-thirty-three.
+Lily stood beneath the shelter while rain hammered the roof.
 
-If the pattern was right, the window had probably opened already.
+Four-twenty.
 
-For one uncomfortable second, she considered walking the rest of the way.
+Four-twenty-six.
+
+Four-thirty-three.
+
+If her guess was right, the window had probably opened already.
+
+For one bad second, Lily considered walking home.
 
 It would still take too long.
 
@@ -158,33 +218,39 @@ Lily put the phone away.
 
 She was annoyed.
 
-Not at Ava. Not at work. Not even at the tram.
+Not at Ava.
 
-At the fact that missing a gray sentence on a sheet of paper felt like missing an appointment with someone.
+Not at work.
+
+Not even at the tram.
+
+At the fact that missing a gray sentence on a sheet of paper felt like missing an appointment.
 
 That was unreasonable.
 
 Max had survived without her for however long Room 17 had been strange.
 
-She had survived without him for her entire life.
+She had survived without him for her whole life.
 
 One missed window was not an emergency.
 
 The tram arrived nine minutes later.
 
-Lily got on instead of running.
+Lily got on.
 
-That felt like a decision worth remembering.
+That felt like a decision worth keeping.
 
 ---
 
 The desk lamp did not dim until nearly six.
 
-Lily was halfway through reheating dinner when she saw it.
+Lily was reheating dinner when she saw it.
 
-She sat quickly, but not quickly enough to spill anything.
+She sat quickly.
 
-Progress again.
+Not fast enough to spill anything this time.
+
+Progress.
 
 A message appeared.
 
@@ -196,8 +262,6 @@ WORK.
 
 A pause.
 
-Then:
-
 I ASSUMED YOU HAD A LIFE. VERY INCONVENIENT.
 
 She smiled.
@@ -206,25 +270,21 @@ I DO.
 
 GOOD.
 
-The answer arrived almost at once.
+The answer arrived almost immediately.
 
-Lily looked at the word longer than necessary.
+Lily looked at it longer than necessary.
 
-Then she wrote:
+Then:
 
 IF I MISS A WINDOW, DON'T WAIT ALL DAY.
-
-Max replied:
 
 SAME RULE FOR ME?
 
 YES.
 
-A short pause.
+A pause.
 
 THAT SOUNDS SUSPICIOUSLY HEALTHY.
-
-Lily wrote:
 
 TRY TO COPE.
 
@@ -234,15 +294,36 @@ One last line appeared.
 
 TOMORROW, THEN.
 
-Lily waited until the page went blank.
+Lily waited until the page cleared.
 
 She had missed a window.
 
-Nothing terrible had happened. Max had not demanded an explanation. She had not abandoned her shift. Ava still had no idea what was actually happening.
+Nothing terrible had happened.
+
+Max had not demanded an explanation.
+
+She had not abandoned her shift.
+
+Ava still did not know the truth.
 
 Normal life had survived contact with the impossible.
 
-For one day, at least.
+Lily carried dinner to the table.
 
-Lily carried her dinner to the small table and checked the clock only once.
+Her phone buzzed again.
 
+Ava: SO?
+
+Lily looked at it.
+
+Then typed:
+
+Nothing happened.
+
+Ava: liar
+
+Lily put the phone face down.
+
+She checked the clock once.
+
+Only once.
