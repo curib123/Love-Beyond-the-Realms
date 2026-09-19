@@ -792,3 +792,23 @@ Canon:
 # 53. Next Production Step
 
 **CH-018 — Let Go on Three → Detailed Scene Architecture → Gate 8**
+
+
+# 54. CH-018 Canon Record
+
+Gate 9:
+`qa/CH-018-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- P0 baseline restored;
+- narrow P1 learned but not active by default;
+- C0 / X0;
+- no stronger tests for now;
+- local geometry stabilized.
+
+# 55. Next Production Step
+
+**CH-019 — Still Here → Detailed Scene Architecture → Gate 8**
