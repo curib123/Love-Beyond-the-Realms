@@ -76,7 +76,8 @@ Physical/phase state:
 - alive;
 - phase-bound around the Larkspur House / Room 17 overlap after the incident;
 - unable to simply resume normal contact with his family or ordinary life;
-- able to perceive enough of his local Velaire environment to know he has not died.
+- able to perceive enough of his immediate local Velaire environment to know he has not died;
+- **Gate 7 may not grant Max unrestricted movement through Rivenhall or reliable normal-Velaire interaction while he remains phase-bound.** Any broader movement/contact capability requires a Realm Systems canon update before chapter planning uses it.
 
 Life:
 - separated from his normal archive apprenticeship;
