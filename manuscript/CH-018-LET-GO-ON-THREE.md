@@ -398,7 +398,11 @@ The answer took longer this time.
 
 Lily's hand tightened around the pen.
 
-Before she could answer, another line appeared.
+She started to write **ME NEITHER**.
+
+Stopped.
+
+Before she could decide whether to send it, another line appeared.
 
 **STILL WORTH IT.**
 
@@ -478,13 +482,21 @@ The letters finally appeared.
 
 Lily let out a breath that almost became a laugh.
 
-She wrote:
-
-**YOU CAN HATE IT AND FOLLOW IT.**
+**GOOD.**
 
 A pause.
 
+**GOOD?**
+
+**YOU CAN HATE IT AND STILL FOLLOW IT.**
+
+Longer pause.
+
 Then:
+
+**THAT'S ANNOYINGLY REASONABLE.**
+
+**AGREED?**
 
 **AGREED.**
 
