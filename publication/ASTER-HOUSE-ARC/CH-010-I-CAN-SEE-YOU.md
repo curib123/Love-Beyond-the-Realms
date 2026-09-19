@@ -6,9 +6,9 @@ Yesterday, he had been trying to make the reflection stronger.
 
 Today, he was trying to make it arrive at the right time.
 
-That distinction made him feel smarter than he deserved.
+That distinction made him feel much smarter than he deserved.
 
-The compass sat on its stand beside the worktable, its polished face angled toward the point where Lily's mirror sometimes appeared. Max had copied the previous timing results into the margin of his notebook.
+The compass sat on its stand beside the worktable, polished face angled toward the place where Lily's mirror sometimes appeared. Max had copied the old timing results into the margin of his notebook.
 
 Two seconds.
 
@@ -16,39 +16,53 @@ Five.
 
 Eight.
 
-Then four-point-something during the mirror test.
+Then four-point-something during the last mirror test.
 
-Not a pattern. Not yet.
+Not a pattern.
 
-But the delays had never been fixed.
+Not yet.
+
+But the delay had never stayed fixed.
 
 That mattered.
 
-If Lily's movement reached him late while the room itself arrived cleanly, then perhaps the problem was not that person-image information was impossible.
+If Lily's movement reached him late while the room itself crossed cleanly, maybe person-image information was not impossible.
 
-Perhaps it was arriving out of step.
+Maybe it was simply arriving out of step.
 
 Max looked at the polished receiver.
 
 "That sounds almost reasonable."
 
-Room 17 did not reward him.
+Room 17 offered no encouragement.
 
 He checked the angle again.
 
 Then stopped himself from checking it a third time.
 
-Lily would absolutely notice if she could see him.
+Lily would absolutely mock him if she could see him doing that.
 
-That thought made him look at the metal face differently.
+The thought made him look at the metal face differently.
 
-Until now, Lily had been handwriting. Timing. A voice through static. Rain. A pharmacy sign. A bad kettle. A chair with structural problems she defended like family.
+Until now, Lily had been handwriting.
+
+Timing.
+
+A voice through static.
+
+Rain.
+
+A blue pharmacy sign.
+
+A loud kettle.
+
+A chair with structural problems she defended like family.
 
 He knew how she argued.
 
 He knew which jokes made her stop answering for several seconds.
 
-He knew she wrote shorter when she was annoyed.
+He knew her writing got shorter when she was annoyed.
 
 He knew she worried quietly and complained practically.
 
@@ -62,41 +76,35 @@ Max picked up the pen.
 
 AS MUCH AS POSSIBLE.
 
-Her reply came quickly.
-
 THAT IS NOT REASSURING.
 
 IT WASN'T FOR YOU.
 
-A pause.
+A beat.
 
 RUDE.
 
 Max smiled.
 
-"Good. Normal so far."
+"Good. Normal."
 
 He wrote:
 
-SAME RULE AS YESTERDAY. ROOM FIRST. THEN MOVEMENT.
-
-Lily answered:
+SAME RULES. ROOM FIRST. THEN MOVEMENT.
 
 AND IF YOUR EYES HURT?
 
 STOP.
 
-A few seconds later:
+The next line came fast.
 
 ACTUALLY STOP?
 
-Max looked at the line.
+Max stared at it.
 
 He deserved that.
 
 YES.
-
-Her next answer:
 
 GOOD.
 
@@ -106,73 +114,73 @@ First the room.
 
 Then the blur.
 
-Then, if the timing behaved, one controlled correction.
+Then one controlled correction if the timing behaved.
 
 No stronger alignment.
 
 No guessing.
 
-No turning an experiment into a personal challenge because he hated losing to furniture and mirrors.
+No turning the experiment into a personal challenge because he hated losing to mirrors.
 
-Max checked the compass dial.
+"Easy," he told himself.
 
-"Easy."
-
-The room remained unconvinced.
+Room 17 remained deeply unconvinced.
 
 ---
 
-Lily angled her mirror until the polished receiver shimmered.
+Lily angled her mirror.
 
-Room 17 faded from the compass face.
+The compass face shimmered.
 
-For several seconds, the reflection became an unstable mixture of both spaces. Pale Velaire stone lingered behind warmer Earth-side light. The edge of Max's worktable doubled, then settled.
+For several seconds, both rooms overlapped badly.
 
-Unit 4B appeared.
+Pale stone behind warmer Earth light.
+
+Two table edges occupying nearly the same place.
+
+A curtain where no curtain belonged.
+
+Then the image settled.
+
+Unit 4B.
 
 Desk.
 
+Lamp.
+
 Curtain.
 
-Warm lamp.
-
-Part of the wall.
-
-The old mirror.
+Mirror.
 
 And the empty place where Lily should have been.
 
-Max leaned closer but did not touch the receiver.
+Max leaned closer.
 
-Yesterday he had chased the blur every time it moved.
+Yesterday, he had chased every blur.
 
-Today he waited.
+Today, he waited.
 
-The room reflection held.
+The room held.
 
 He wrote:
 
 ROOM STABLE.
 
-Lily's answer:
-
 I'M IN POSITION.
 
 Max checked the dial.
 
-He wrote:
-
 RAISE RIGHT HAND ON 3.
 
-The audio channel did not open, so the count crossed in writing.
+No audio.
+
+So the count crossed in writing.
 
 3
 
 2
 
 1
-
-Max watched the empty place in the reflected room.
 
 Nothing.
 
@@ -182,11 +190,11 @@ Two.
 
 Three.
 
-Then the familiar distortion formed.
+Then the distortion appeared.
 
-A vertical shadow.
+Vertical.
 
-Too soft to be a body.
+Soft.
 
 Too responsive to be random.
 
@@ -198,17 +206,11 @@ Max checked the dial.
 
 Four-point-three seconds.
 
-He wrote it down.
-
-Lily's message appeared.
-
 DID IT MOVE?
 
 YES. LATE.
 
 HOW LATE?
-
-Max wrote:
 
 4.3.
 
@@ -216,9 +218,7 @@ A pause.
 
 VERY ROMANTIC NUMBER.
 
-Max stared at the line.
-
-He wrote:
+Max stared.
 
 THIS IS SCIENCE.
 
@@ -228,63 +228,53 @@ He ignored that.
 
 Mostly.
 
-Max adjusted the receiver by a fraction and reset the timing dial.
+Max adjusted the receiver by a fraction.
 
 Again.
 
 Lily moved on the count.
 
-The distortion appeared.
+The blur narrowed.
 
-Narrower.
+For half a second, he thought he had it.
 
-For half a second Max thought he had it.
+Then it split.
 
-Then the blur split into two overlapping shadows.
+Two overlapping shadows.
 
-One moved left.
+One moved.
 
-The other stayed behind.
+One lagged behind.
 
-Max's eyes watered.
+His eyes watered immediately.
 
-He looked away immediately.
+Max looked away.
 
 Pressure gathered above his left eye.
 
-The writing patch brightened.
-
 BETTER?
 
-Max rubbed his brow.
-
-He considered lying.
+He rubbed his brow.
 
 WORSE IN A MORE INTERESTING WAY.
 
-The answer:
-
 THAT IS A VERY MAX ANSWER.
 
-He could hear her saying it even though the audio channel was closed.
+He could hear the dry emphasis even without audio.
 
-Not literally.
-
-He just knew where the dry emphasis would fall now.
-
-That was probably a problem of a different kind.
+That was probably a separate problem.
 
 Max sat back.
 
-The pressure behind his eye had not become pain yet, but it was close enough to count as warning.
+The pressure had not become pain yet, but it was close enough.
 
 He drank water.
 
 Did not touch the receiver.
 
-Did not propose a fourth idea immediately.
+Did not suggest another idea immediately.
 
-The writing patch opened again.
+The patch brightened again.
 
 WE CAN STOP.
 
@@ -292,25 +282,21 @@ Max looked at the words.
 
 He wanted to say no.
 
-Not because stopping would be wrong.
+Not because stopping was wrong.
 
 Because they were close.
 
-Close was dangerous that way. It made one more attempt sound like caution instead of impatience.
+Close made one more attempt sound responsible.
 
-He checked his notes.
+He checked the plan.
 
-The first attempt had given him a current delay.
-
-The second had shown that changing the receiver angle affected the blur.
-
-They had one bounded attempt left in the plan.
+One bounded try remained.
 
 Max wrote:
 
 ONE MORE. CURRENT DELAY ONLY. THEN STOP.
 
-The answer took several seconds.
+Several seconds passed.
 
 ONE.
 
@@ -320,17 +306,19 @@ ONE.
 
 ---
 
-They waited until the pressure behind Max's eye faded.
+They waited until the pressure behind his eye faded.
 
-The third window opened weakly.
+The third window opened weakly enough that Max almost called it off.
 
-That almost ended the experiment before it began.
+The image shimmered.
 
-The room image shimmered in and out, unable to decide which wall belonged in the reflection.
+Room 17.
 
-Max held still.
+Unit 4B.
 
-Then the Earth-side room sharpened.
+Back again.
+
+Then Earth sharpened.
 
 Desk.
 
@@ -342,21 +330,21 @@ Mirror.
 
 Empty space.
 
-He checked the dial.
+Max checked the newest delay.
 
-The lag was not yesterday's lag.
+Not yesterday's.
 
-It was not even the lag from the first attempt.
+Not the first trial's.
 
-Max measured the newest interval from Lily's last movement test.
+The current one.
 
-He adjusted for that number only.
+He corrected for that number only.
 
 No average.
 
 No stronger setting.
 
-No extra correction.
+No extra adjustment.
 
 "Lily," he murmured, though she could not hear him.
 
@@ -364,11 +352,11 @@ The blur appeared.
 
 Max turned the compass face a few degrees.
 
-The blur narrowed.
+The shape narrowed.
 
 His pulse climbed.
 
-He stopped touching the receiver.
+He took his hand away.
 
 For one breath, nothing happened.
 
@@ -388,25 +376,29 @@ Not handwriting.
 
 Not static.
 
-Not a dark place in a reflection where someone should have been.
+Not a dark place where a person should have been.
 
 Her.
 
-She had her hair tied back, though several loose strands had escaped around her face as if she had stopped caring halfway through. She wore a simple dark shirt with one sleeve pushed slightly higher than the other.
+Hair tied back, but not successfully. Several strands had escaped around her face.
 
-She was standing very straight.
+Dark shirt.
+
+One sleeve pushed higher than the other.
+
+She stood very straight.
 
 Too straight.
 
-Nervous, then.
+Nervous.
 
 That surprised him.
 
-In every written exchange, Lily had seemed like the calmer person.
+In writing, Lily always sounded like the calmer one.
 
-The one who wrote rules while he tried to find technical loopholes.
+The rule-maker.
 
-The one who answered fear by becoming practical.
+The person who answered fear by becoming practical.
 
 But now he could see the tension in her shoulders.
 
@@ -418,27 +410,29 @@ That felt correct.
 
 Max smiled before he could stop himself.
 
-Lily's expression changed slightly.
+Lily's expression shifted.
 
 She could not see him.
 
-She must have noticed something on her side.
+Maybe she heard his breathing change.
 
-Or heard the change in his breathing.
+Maybe she just hated waiting.
 
 She raised one hand.
 
-Max saw it happen.
+Max saw it happen at the right time.
 
-At the right time.
+No delay.
 
-Not four seconds later.
+No blur.
 
-Not as a blur.
+Her actual hand.
 
-Her actual hand moved.
+Her actual face.
 
-Her actual face shifted with the effort of watching for a result she could not see.
+Real movement.
+
+Real expression.
 
 Max stared.
 
@@ -448,35 +442,33 @@ The audio channel crackled open.
 
 Weak.
 
-Barely there.
-
-Her voice reached him.
+Her voice came through.
 
 "Did it work?"
 
 Max opened his mouth.
 
-For once, no joke arrived.
+Nothing useful came out.
 
 The image shook.
 
 Lily doubled.
 
-One version stayed where she was.
+One version stayed.
 
 The other lagged half a step behind.
 
-The pressure behind Max's eye sharpened.
+The pressure behind his eye sharpened.
 
 He did not touch the receiver.
 
 He had promised one attempt.
 
-"Lily, I—"
+"Yeah. I can—"
 
 The image collapsed.
 
-Both versions vanished.
+Gone.
 
 Room 17 returned to the polished metal.
 
@@ -484,13 +476,13 @@ Max sat very still.
 
 The audio died with it.
 
-The whole clear image had lasted perhaps five seconds.
-
 Five seconds.
 
-He looked at the dial as if the number might be wrong.
+Maybe less.
 
-It wasn't.
+He looked at the timer as if it had personally cheated.
+
+It had not.
 
 Five seconds had been enough to make the empty space in Lily's mirror stop being abstract.
 
@@ -504,25 +496,21 @@ That was the part he had not predicted.
 
 Seeing Lily did not make her more real.
 
-They had settled that with taps, writing, and a voice.
+They had already settled that with taps, writing, and a voice.
 
 It made the separation more visible.
 
 ---
 
-The writing patch opened before Max had recovered a useful expression.
+The patch opened before Max had recovered a useful expression.
 
 DID IT WORK?
-
-He looked at the question.
-
-For some reason, answering felt harder than it should have.
 
 He wrote:
 
 YES.
 
-Her response came quickly.
+The response came fast.
 
 YES WHAT?
 
@@ -530,11 +518,9 @@ Max laughed.
 
 Of course.
 
-He wrote:
-
 I SAW YOU.
 
-Nothing appeared for several seconds.
+Nothing.
 
 Then:
 
@@ -542,7 +528,7 @@ OH.
 
 Max waited.
 
-He could imagine the exact tone now.
+He could hear the exact tone now.
 
 That was new.
 
@@ -550,55 +536,41 @@ Another line appeared.
 
 WAS I A SMUDGE?
 
-Max smiled.
-
 NOT THIS TIME.
-
-A pause.
 
 GOOD.
 
 He rubbed the ache above his eye.
 
-He could have described her.
+He could describe her.
 
-He could have told Lily everything he had noticed.
+Loose hair.
 
-The loose hair.
+Dark shirt.
 
-The dark shirt.
+Too-straight posture.
 
-The way she stood too straight because she was pretending not to be nervous.
+Nervous shoulders.
 
-That felt too personal somehow.
+That felt strangely unfair.
 
-Not because he had seen anything private.
+She had not seen him yet.
 
-Because she had not seen him back.
-
-The asymmetry mattered more now than it had on paper.
-
-So Max chose the safest true thing.
+So he chose the safest true thing.
 
 YOU LOOKED ANNOYED.
 
-The reply arrived almost immediately.
+The reply came immediately.
 
 I WAS LOOKING AT YOU.
 
-Max laughed hard enough that the headache objected.
+Max laughed hard enough that the headache complained.
 
 FAIR.
 
-Another line appeared.
-
 HOW LONG?
 
-Max checked the notebook.
-
 ABOUT FIVE SECONDS.
-
-Her response:
 
 THAT'S IT?
 
@@ -606,15 +578,19 @@ Max wrote:
 
 VERY MEMORABLE FIVE SECONDS.
 
-He regretted the sentence immediately.
+Max stared at what he had written.
 
-There was a pause long enough for him to consider moving to another branch of reality voluntarily.
+"Oh, no."
 
-Then Lily answered:
+Silence.
+
+Long enough for him to consider whether Room 17 could kindly fold him out of existence.
+
+Then:
 
 THAT SOUNDS WEIRD.
 
-Max covered his face with one hand.
+Max covered his face.
 
 I MEANT SCIENTIFICALLY.
 
@@ -624,53 +600,39 @@ He laughed again.
 
 The embarrassment helped.
 
-It made the moment ordinary enough to survive.
+It made the impossible moment ordinary enough to survive.
 
 The window weakened.
-
-Lily wrote:
 
 MY TURN NEXT.
 
 Max looked at the compass.
 
-That was the important part.
+That mattered.
 
-She had no image of him.
+She still had no image of him.
 
-The connection had not become fair just because his side had worked first.
-
-Max wrote:
+His success had not made the connection fair.
 
 SEPARATE CALIBRATION.
 
-The response:
-
 I KNOW.
-
-He added:
 
 YOUR SIDE MAY NEED DIFFERENT TIMING.
 
 AGREED.
 
-Then, after a pause:
+Then:
 
 AND IF IT HURTS?
 
 Max looked at the ache behind his eye.
 
-He wrote:
-
 WE STOP.
-
-Her answer came immediately.
 
 GOOD.
 
 The page began to clear.
-
-Max leaned back.
 
 For days, Lily had been handwriting, timing, clipped audio, bad weather, a loud kettle, and arguments about furniture.
 
@@ -682,17 +644,17 @@ It fit beside them.
 
 Her face was not the reason he cared whether the writing patch opened.
 
-It was not the reason he had waited early today.
+It was not the reason he showed up early.
 
-It was not the reason Room 17 had felt less empty after CH-005.
+It was not the reason Room 17 had started feeling less empty.
 
 The connection had happened first.
 
-The face only gave it another shape.
+The face gave it another shape.
 
 Max looked once more at the polished receiver.
 
-It reflected only Room 17 now.
+Only Room 17.
 
 He could not see Lily.
 
@@ -700,7 +662,7 @@ She could not see him.
 
 Not yet.
 
-For the first time, that imbalance felt personal.
+For the first time, the imbalance felt personal.
 
 Tomorrow, they would fix it properly.
 
@@ -710,12 +672,10 @@ Carefully.
 
 No guessing.
 
-Max wrote one final note in the margin of his timing sheet.
+Max wrote one final note in the margin.
 
 **P1 — possible. Receiver-specific. Brief. Costly.**
 
-Then, beneath it, after a moment:
+Then, after a moment:
 
 **Five seconds.**
-
-He did not need to write anything else.
