@@ -370,10 +370,30 @@ Planned mystery transition:
 
 The actual canon mystery state changes only after prose exists and passes chapter QA.
 
-# 20. Next Production Step
+# 20. CH-002 Manuscript Draft Record
 
-**CH-002 — There Is a Boy in My Apartment → Manuscript Draft**
+Manuscript:
 
-After drafting:
-- run **CH-002 → Gate 9 Chapter QA**;
-- do not begin CH-003 manuscript drafting before CH-003 receives its own Gate 8 scene approval.
+`manuscript/CH-002-THERE-IS-A-BOY-IN-MY-APARTMENT.md`
+
+Status:
+
+**DRAFT COMPLETE — GATE 9 NOT YET RUN**
+
+Draft length:
+- approximately 1,340 words;
+- slightly below the suggested range but complete;
+- not padded to hit a quota.
+
+Scene compliance:
+- four Lily-only scenes;
+- no formal experiment;
+- no touch/object test;
+- no F-ID assignment;
+- endpoint is Max reacting to Lily's voice without seeing her.
+
+# 21. Next Production Step
+
+**CH-002 → Gate 9 Chapter QA**
+
+Do not mark CH-002 canon-approved or begin CH-003 manuscript drafting before the required QA/scene gates are completed.
