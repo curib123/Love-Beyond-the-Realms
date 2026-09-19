@@ -74,6 +74,14 @@ Previous tenants reported:
 
 They assumed haunting, stress, or an old building.
 
+### East Maintenance Corridor
+
+A sealed service corridor inside Aster House.
+
+It contains older structural materials connected to the building's unusual coherence.
+
+Its deeper mirrorstone significance is protected writer information and must not be exposed merely because the location is visited.
+
 # 3. Lily's Earth Life
 
 Lily Marlowe is eighteen.
@@ -90,6 +98,47 @@ She chooses Aster House because it is:
 - close to work;
 - independent;
 - imperfect enough to feel like something she can make her own.
+
+## Paper Moon Books & Café
+
+Lily's part-time workplace.
+
+It supports:
+- ordinary work pressure;
+- friendship scenes;
+- Ava interactions;
+- customer comedy;
+- Lily's life outside Max;
+- consequences when dimensional problems interfere with work.
+
+It is not a dimensional research site.
+
+## Bellweather Riverfront
+
+A public stretch of river walks, tram stops, benches, food stalls, and older city views.
+
+It can support:
+- friendship;
+- grief;
+- quiet romance;
+- city life;
+- controlled observation or low-risk experiments when justified.
+
+It is not automatically a major overlap node.
+
+## Nora's Home
+
+Nora Marlowe's home in Bellweather.
+
+It is the place Lily lived during the months after her parents' deaths before choosing independent housing.
+
+It supports:
+- family;
+- safety-versus-independence conflict;
+- ordinary meals and visits;
+- reminders that Lily has a life and support system outside Aster House.
+
+It is not secretly tied to the dimensional conspiracy.
 
 # 4. Velaire — Rivenhall
 
@@ -111,6 +160,45 @@ Rivenhall is a dense riverside city with:
 
 Its technology looks different from Earth technology but follows engineering rules.
 
+## Rivenhall Civic Archive
+
+Max's workplace and a civic repository for:
+- city maps;
+- building plans;
+- transit geometry;
+- historical records;
+- restricted anomaly material.
+
+Public and restricted collections are not the same.
+
+The Archive can support Max's ordinary work life as well as later investigation, but protected Twinfall or reactivation truth must not become available without an authorized information path.
+
+## Rivenhall Market Bridges
+
+A network of public bridges and market streets crossing parts of the riverside district.
+
+They support:
+- ordinary Velaire culture;
+- food;
+- errands;
+- humor;
+- family interactions;
+- contrast with Bellweather.
+
+They are not currently assigned as an active arc.
+
+## Arden Family Home
+
+The home shared by Elara and Mina Arden before and after Max's disappearance.
+
+It supports:
+- Max's family history;
+- Mina and Elara's independent lives;
+- domestic Velaire scenes;
+- the emotional consequences of Max's disappearance.
+
+The home is not itself a dimensional node unless later canon explicitly establishes otherwise.
+
 # 5. Larkspur House
 
 Larkspur House stands at the Velaire-side coordinate corresponding to Aster House.
@@ -120,6 +208,27 @@ It was built for a different purpose and does not perfectly match Aster House.
 One room, historically labeled **Room 17**, overlaps Unit 4B more strongly than any other known point.
 
 Max becomes phase-bound near this room.
+
+Larkspur House supports:
+- Max POV;
+- Max's ordinary movement before/around the incident;
+- family-search consequences;
+- local investigation;
+- the Velaire side of the shared-apartment mystery.
+
+## Room 17
+
+Room 17 is the strongest known local correlation with Unit 4B.
+
+It supports:
+- Max POV;
+- asymmetric perception;
+- Echo Exchange;
+- Phase Lag;
+- controlled experiments;
+- evidence that can be compared with Lily's room.
+
+Its existence does not by itself reveal the Twinfall or the true historical relationship between the buildings.
 
 # 6. Mirrorstone
 
@@ -209,6 +318,10 @@ It may contain:
 
 The Hollow is not alive.
 
+The Hollow is reveal-heavy and dangerous.
+
+It is not an ordinary travel shortcut and must not be used before crossing/knowledge state authorizes it.
+
 # 12. Threshold Keepers
 
 Velaire once maintained a scientific civic organization that studied unstable branch phenomena.
@@ -255,7 +368,30 @@ Velaire supports:
 
 Neither world exists only for the other protagonist.
 
-# 15. World Constraints
+# 15. Location Governance
+
+A location may be canonically listed without being authorized for immediate use.
+
+Location status must distinguish:
+- ordinary/supporting use;
+- active-arc use;
+- reserved use;
+- reveal-heavy use;
+- future/unselected use.
+
+A reveal-heavy location does not automatically authorize the information stored there.
+
+Visiting:
+- the East Maintenance Corridor;
+- Rivenhall Civic Archive;
+- Arden Family Home;
+- the Hollow;
+
+must still respect Mystery Bible knowledge locks and active-arc reveal ceilings.
+
+No location automatically becomes the next arc because it exists in canon.
+
+# 16. World Constraints
 
 - no public Earth knowledge of Velaire;
 - no easy mass travel;
