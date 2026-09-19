@@ -19,35 +19,51 @@ Love does not power the system.
 
 Unit 4B and Room 17 occupy strongly correlated coordinates.
 
-Default state:
+Default opening state:
 
 ### Lily
-- can see Max;
-- can hear Max;
-- cannot touch Max;
-- sees some Velaire objects as faint overlays.
+- cannot directly see Max;
+- may see short-lived Velaire room traces, wrong light, surface marks, or state changes;
+- may receive writing or sound when coherence briefly rises;
+- cannot touch Max.
 
 ### Max
-- can hear Lily;
-- senses Earth-side movement;
-- cannot normally see Lily directly;
-- sees some Earth objects as distortions.
+- cannot directly see Lily;
+- may see short-lived Earth room traces, wrong light, surface marks, or state changes;
+- may receive writing or sound when coherence briefly rises;
+- cannot touch Lily.
 
-This asymmetry is physical, not chosen-one magic.
+The opening asymmetry is primarily **between people and environment**:
+
+the rooms can exchange information before the occupants can visually perceive each other.
+
+This is physical, location-based, and not chosen-one magic.
 
 # 3. Perception Modes
 
-**P0 — Bleed**  
-Lily sees Max. Max hears Lily.
+**P0 — Echo Trace**  
+Neither person can directly see the other.
+
+Possible effects:
+- room-state overlays;
+- light bleed;
+- surface marks;
+- shared writing;
+- intermittent sound;
+- object-state distortion.
+
+Audio may be absent, one-way, delayed, or briefly two-way depending on local coherence.
 
 **P1 — Indirect Sight**  
-Max can see Lily through mirrors, dark screens, polished metal, or camera-like instruments.
+A person can see the other only through a reflective, instrument-mediated, or otherwise indirect channel.
+
+Early P1 is narrow, unstable, and may not work equally for both at the same instant.
 
 **P2 — Echo Sight**  
-Max sees a delayed or incomplete direct image.
+A delayed, incomplete, or position-shifted direct image becomes possible.
 
 **P3 — Mutual Sight**  
-Both see each other directly for a limited window.
+Both can see each other directly for a limited window.
 
 # 4. Contact Modes
 
@@ -195,11 +211,14 @@ Repeated use increases local instability unless recovery/stabilization occurs.
 Information can sometimes cross more easily than matter.
 
 This supports:
-- notes;
+- anonymous notes appearing on corresponding surfaces;
+- handwriting ghosting between papers or boards at the same coordinate;
 - reflected writing;
 - audio;
 - pattern transfer;
 - mapped coordinates.
+
+Information crossing before person-image crossing is a core early-series rule.
 
 But communication can be corrupted by phase lag.
 
