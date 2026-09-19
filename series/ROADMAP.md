@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-019 CANON-APPROVED — CH-020 GATE 8 NEXT
+**Status:** ASTER HOUSE ARC COMPLETE — CH-001–CH-020 CANON-APPROVED
 
 # Series Length
 
@@ -72,7 +72,7 @@ Architecture:
 `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`
 
 Status:
-**GATE 6 v2 QA-LOCKED**
+**ARC COMPLETE — GATE 6/7 LOCKS FULFILLED**
 
 Chapter roadmap:
 `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
@@ -111,11 +111,11 @@ MT-003 Their Experiments Strengthen the Leak:
 
 Pre-v2 CH-001/CH-002 are superseded.
 
-CH-001 through CH-019 v2 are canon-approved.
+CH-001 through CH-020 v2 are canon-approved.
 
 # Next Authorized Step
 
-**CH-020 — The Roommate Agreement → Detailed Scene Architecture → Gate 8.**
+**Aster House Arc complete. Future arc selection remains UNSELECTED / UNLOCKED.**
 
 Gate 1 v2 record:
 `qa/FOUNDATION-QA-V2.md`
