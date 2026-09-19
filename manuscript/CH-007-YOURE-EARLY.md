@@ -42,21 +42,37 @@ HOW EXCITING.
 
 He smiled.
 
-COUNT 3. TAP ON ZERO. I TIME ARRIVAL.
+COUNT FROM 3. TAP ON ZERO. I TIME ARRIVAL.
 
-Lily answered:
+The reply came fast.
 
-YOU MEAN COUNT DOWN FROM 3.
+COUNT DOWN.
 
-Max stared at the line.
+Max frowned.
 
-YES. THAT WAS IMPLIED.
+THAT IS WHAT I MEANT.
 
-NO IT WASN'T.
+THEN WRITE THAT.
 
-"Hostile interpretation."
+He stared at the page.
 
-The window closed.
+YOU UNDERSTOOD ME.
+
+I REFUSE TO REWARD BAD INSTRUCTIONS.
+
+Max laughed.
+
+"Hostile peer review."
+
+He added:
+
+3. 2. 1. TAP.
+
+A final line appeared as the window thinned.
+
+LOOK AT YOU. LEARNING.
+
+Then it closed.
 
 Max leaned back.
 
@@ -164,23 +180,35 @@ Max laughed once.
 
 "What is?"
 
-"Your timing."
+"You're four seconds late."
 
-A pause.
+Silence.
 
-Then her voice returned, delayed and offended.
+Then Lily's voice came back, perfectly offended and several seconds behind the moment.
 
-"My timing is fine."
+"I am not late. Your haunted table is late."
 
-Max had already begun writing down the interval.
+Max was already writing the interval down.
+
+"Defensive."
+
+"What?"
+
+"Nothing."
+
+Another delay.
+
+"I heard that."
 
 He looked at the empty air over the table.
 
-"That sounded personal."
+"Eventually."
 
-Static swallowed whatever she said next.
+The static burst hard enough to make him wince.
 
-The channel vanished.
+Lily started saying something that sounded unfriendly.
+
+The channel vanished before he could enjoy it.
 
 Max wrote:
 
@@ -211,31 +239,29 @@ Lily's reply appeared slowly.
 
 SO THE ROOMS AREN'T KEEPING THE SAME TIME.
 
-Max considered that.
-
-Not exactly.
-
-Their clocks might still be normal.
-
-The connection was what seemed to slip.
+Max tapped the pen against his notebook.
 
 He wrote:
 
-THE CONNECTION IS LATE. SOMETIMES MORE LATE.
+OUR CLOCKS MIGHT BE FINE.
 
-No answer.
+Then:
 
-The gray edge faded.
+THE CONNECTION IS WHAT'S LATE.
 
-Max waited.
+A pause.
+
+SOMETIMES VERY LATE.
 
 Nothing.
 
-He closed the compass.
+The gray edge faded.
 
-"Done, then."
+Max waited another few seconds.
 
-He stood.
+"Fine. Ignore the important conclusion."
+
+He closed the compass and stood.
 
 A line appeared behind him.
 
