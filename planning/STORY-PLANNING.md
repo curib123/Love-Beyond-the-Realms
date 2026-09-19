@@ -492,3 +492,32 @@ Canon:
 
 # 28. Next Production Step
 **CH-007 — You're Early → Detailed Scene Architecture → Gate 8**
+
+
+# 28. CH-007 Production Record
+
+Architecture:
+`planning/CH-007-SCENE-ARCHITECTURE-V2.md`
+
+Gate 8:
+`qa/CH-007-PRE-MANUSCRIPT-SCENE-QA-V2.md`
+
+Manuscript:
+`manuscript/CH-007-YOURE-EARLY.md`
+
+Gate 9:
+`qa/CH-007-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- M-004 ACTIVE through measured delay;
+- no pre-echo;
+- K2 / R1 / P0 / C0 / X0;
+- mild experiment cost;
+- no F-ID.
+
+# 29. Next Production Step
+
+**CH-008 — That Was My Chair → Detailed Scene Architecture → Gate 8**
