@@ -100,9 +100,15 @@ A longer pause.
 
 RUDE.
 
-Max laughed once.
+He laughed.
 
-NOT MY DECISION.
+I'M ALSO DISAPPOINTED.
+
+THAT DOESN'T HELP.
+
+Max smiled and wrote:
+
+NOTED.
 
 ---
 
@@ -252,13 +258,17 @@ The answer came before he could add anything else.
 
 NOT TODAY.
 
-Max stared at the line.
+Max stared at it.
 
-His first instinct was to argue.
+His hand was already halfway to the adjustment screw.
 
-His second was to notice the headache.
+He looked at his hand.
 
-He lowered the pen.
+Then at the message.
+
+"Right."
+
+He lowered both.
 
 NOT TODAY.
 
