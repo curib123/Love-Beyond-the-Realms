@@ -876,3 +876,18 @@ Final arc state:
 
 Future arc:
 **UNSELECTED / UNLOCKED**
+
+
+# 60. Full Manuscript QA
+
+Record:
+`qa/ASTER-HOUSE-FULL-MANUSCRIPT-QA.md`
+
+Result:
+**CANON / CONTINUITY PASS AFTER CORRECTIONS**
+**PUBLICATION-READINESS REVISION REQUIRED**
+
+Priority final-prose queue:
+CH-005 → CH-010 → CH-011 → CH-013 → CH-014 → CH-015 → CH-017 → CH-018 → CH-019 → CH-020.
+
+Canon must remain unchanged during this pass.
