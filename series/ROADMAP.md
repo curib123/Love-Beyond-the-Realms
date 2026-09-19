@@ -320,3 +320,19 @@ Later arcs:
 # Current Next Authorized Step
 
 **CH-021 — The Inspection Notice → Detailed Scene Architecture → Gate 8**
+
+
+# CH-021 Gate 8
+
+Architecture:
+`planning/CH-021-SCENE-ARCHITECTURE.md`
+
+QA:
+`qa/CH-021-PRE-MANUSCRIPT-SCENE-QA.md`
+
+Result:
+**PASS — MANUSCRIPT AUTHORIZED**
+
+# Current Next Authorized Step
+
+**CH-021 — The Inspection Notice → Manuscript Draft**
