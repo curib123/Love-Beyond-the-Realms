@@ -1,9 +1,14 @@
+> **HISTORICAL RECORD — SUPERSEDED BY ORIGINALITY REVISION v2**  
+> This Gate 2 PASS applied to the pre-v2 character/opening dynamic.  
+> Current production uses `qa/CHARACTER-QA-V2.md`.  
+> See `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`.
+
 # Gate 2 — Character QA
 
 **Project:** Love Beyond the Realms  
 **Date:** 2026-09-19  
 **Gate:** 2 — Character QA  
-**Final Result:** **PASS**  
+**Final Result:** **HISTORICAL PASS — SUPERSEDED**  
 **Blocking Issues:** 0  
 **Major Issues:** 0  
 **Minor Notes:** 2
