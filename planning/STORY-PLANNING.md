@@ -322,8 +322,28 @@ Draft length:
 - within the flexible chapter-length guideline;
 - not padded to hit a quota.
 
-# 18. Next Production Step
+# 18. CH-001 Gate 9 Record
 
-**CH-001 → Gate 9 Chapter QA**
+Formal QA:
 
-Do not revise CH-001 into canon or begin CH-002 manuscript drafting before the required QA/scene gates are completed.
+`qa/CH-001-CHAPTER-QA.md`
+
+Status:
+
+**PASS — CANON-APPROVED**
+
+Canonical manuscript:
+
+`manuscript/CH-001-A-PLACE-OF-MY-OWN.md`
+
+Gate 9 required:
+- paragraph-flow revision;
+- restoration of the explicit four-scene structure.
+
+Final manuscript remains approximately 1,893 words.
+
+# 19. Next Production Step
+
+**CH-002 — There Is a Boy in My Apartment → Detailed Scene Architecture → Gate 8**
+
+CH-002 manuscript drafting remains unauthorized until its own Gate 8 review passes.
