@@ -16,7 +16,7 @@
 - Max does not know what happened afterward.
 - Mina's survival remains protected.
 - no deliberate-reactivation or full-cause reveal.
-- the proposed stronger setup uses already-established anchors.
+- the proposed stronger setup uses already-established mirror/compass behavior plus the brass key as an **untested practical reference object**; no prior key anomaly is assumed.
 - Lily imposes daytime, one-attempt and stop-on-request conditions.
 - the stronger experiment is not executed yet.
 - no new perception/contact/crossing tier.
