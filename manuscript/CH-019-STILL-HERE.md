@@ -312,13 +312,13 @@ No humor in it.
 
 "Then I'm just the person everyone has to wait for."
 
-The words sat in Room 17.
+The words hung in the room.
 
-He regretted them immediately.
+Max wanted them back immediately.
 
-Not because they were false.
+Not because they were wrong.
 
-Because they were too accurate.
+Because they weren't.
 
 The audio crackled.
 
@@ -480,9 +480,11 @@ Before it disappeared, Lily added:
 
 The room went quiet.
 
-Max did not have a joke for that.
+Max waited for a joke.
 
-Maybe that was fine.
+None came.
+
+For once, he let the silence stay.
 
 ---
 
