@@ -168,16 +168,25 @@ State:
 - C0
 - X0
 
+## CH-006 — Normal People Don't Have Cross-Reality Pen Pals — CANON
+
+Character/social continuity:
+- Ava knows Lily has a private correspondent but not the dimensional truth;
+- Lily does not abandon work to chase a contact window;
+- Lily and Max agree missed windows are not emergencies and ordinary obligations come first.
+
+Mystery/system:
+- no state change;
+- all F-IDs unchanged.
+
+State:
+- K2 / R1 / P0 / C0 / X0.
+
 # Current State
 
-Latest canon: **CH-005**
+Latest canon: **CH-006**
 
-Knowledge: **K2**
-Relationship: **R1**
-Perception: **P0**
-Contact: **C0**
-Crossing: **X0**
-
+K2 / R1 / P0 / C0 / X0.
 M-001 RESOLVED.
 M-002 ACTIVE.
 All other M-IDs unchanged.
