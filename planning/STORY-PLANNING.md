@@ -181,7 +181,7 @@ Not every chapter needs a cliffhanger.
 
 **Selection Status:** **GATE 5 PASS — LOCKED AS SINGLE ACTIVE ARC**
 
-**Architecture Status:** **NOT YET LOCKED**
+**Architecture Status:** **GATE 6 PASS — QA-LOCKED**
 
 Approved primary cluster:
 - LOC-001 Aster House;
@@ -237,10 +237,40 @@ The next arc remains:
 
 It must emerge from the completed canon of the active arc.
 
-# 14. Next Production Step
+# 14. Gate 6 Architecture Record
 
-**Gate 6 — Active Arc Architecture QA**
+Formal architecture:
 
-Gate 6 may build the detailed arc architecture.
+`planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`
 
-Detailed chapter count remains **UNLOCKED** until Gate 6 passes.
+Gate 6 approved:
+- exact opening Lily/Max states;
+- concrete local goals;
+- romantic-comedy engine;
+- ordinary-life pressure;
+- central local mystery;
+- P0/Phase Lag/Echo Exchange/P1 science focus;
+- supporting-cast functions;
+- midpoint P1 breakthrough;
+- overconfidence reversal;
+- causally earned stabilization climax;
+- aftermath;
+- local R2 resolution;
+- strict MT/F-ID ceiling.
+
+**Chapter Count:** UNLOCKED
+
+Gate 6 approval now authorizes setting the active arc chapter count during Gate 7 chapter-roadmap construction.
+
+# 15. Next Production Step
+
+**Gate 7 — Chapter Roadmap QA**
+
+Gate 7 may now:
+- choose the active arc chapter count;
+- assign chapter functions;
+- assign Lily/Max POV intentionally;
+- distribute romcom, character, mystery, and sci-fi beats;
+- assign only Gate-6-authorized foreshadowing candidates.
+
+Do not draft manuscript prose or mark any F-ID PLANTED before prose actually exists.
