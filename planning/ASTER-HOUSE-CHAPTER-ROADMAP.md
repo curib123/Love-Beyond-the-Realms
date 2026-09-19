@@ -5,7 +5,7 @@
 **Previous Gate 7 Lock:** SUPERSEDED  
 **Roadmap Status:** GATE 7 v2 QA-LOCKED  
 **Chapter Count:** **20 — ACTIVE ARC QA-LOCKED**  
-**Manuscript Canon:** CH-001–CH-015 v2 CANON-APPROVED; CH-016–CH-020 pending chapter gates
+**Manuscript Canon:** CH-001–CH-016 v2 CANON-APPROVED; CH-017–CH-020 pending chapter gates
 
 # 1. Roadmap Law
 
