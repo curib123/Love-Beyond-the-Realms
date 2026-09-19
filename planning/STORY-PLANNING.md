@@ -330,8 +330,26 @@ Selection result:
 - future arc remains unlocked;
 - Gate 5 does not authorize the current 20-chapter candidate structure.
 
-# 20. Next Production Step
+# 20. Gate 6 v2 Revalidation Record
 
-**Gate 6 — Active Arc Architecture QA Revalidation for Originality Revision v2**
+Formal QA:
 
-Do not draft revised CH-001 or CH-002 until Gate 6/7 and chapter-level gates are revalidated.
+`qa/ACTIVE-ARC-ARCHITECTURE-QA-V2.md`
+
+Status:
+
+**PASS — 2026-09-19**
+
+Architecture locks:
+- Correlation Patch A fixed to paired work surfaces;
+- written bandwidth/duration bounded;
+- early audio bounded;
+- P1 receiver-specific and separately reciprocal;
+- Max phase-bound mobility explicit;
+- one note cannot prove a living person.
+
+# 21. Next Production Step
+
+**Gate 7 — Chapter Roadmap QA Revalidation for Originality Revision v2**
+
+Manuscript drafting remains unauthorized until Gate 7 and chapter Gate 8 pass.
