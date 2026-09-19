@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-011 CANON-APPROVED — CH-012 GATE 8 NEXT
+**Status:** CH-012 GATE 8 PASS — MANUSCRIPT NEXT
 
 # Series Length
 
@@ -115,7 +115,7 @@ CH-001 through CH-011 v2 are canon-approved.
 
 # Next Authorized Step
 
-**CH-012 — Rent, Repairs, and Other Horrors → Detailed Scene Architecture → Gate 8.**
+**CH-012 — Rent, Repairs, and Other Horrors → Manuscript Draft.**
 
 Gate 1 v2 record:
 `qa/FOUNDATION-QA-V2.md`
