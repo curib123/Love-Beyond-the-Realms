@@ -198,30 +198,29 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-018 v2
+# 16. Current Canon State — Through CH-019 v2
 
-**Latest Canon Chapter:** CH-018 — Let Go on Three
+**Latest Canon Chapter:** CH-019 — Still Here
 
-## Stabilization Outcome
-Lily and Max deliberately release the strongest active anchor conditions on the same count.
+## Max
+- remains phase-bound around Room 17;
+- confirms the corridor limit still exists;
+- does not respond by forcing another test;
+- admits that part of his risk-taking came from needing to feel useful and worth waiting for;
+- still intends to find Mina and understand Larkspur.
 
-Result:
-- wrong doorway/wall geometry resets;
-- active P1/audio conditions collapse;
-- Unit 4B and Room 17 return to a survivable baseline;
-- bounded writing later returns.
-
-## Active State
-- **P0 Echo Trace baseline**
-- narrow P1 remains learned but is not active by default
-- C0
-- X0
+## Lily
+- supports Max without promising to solve his family problem;
+- reinforces safe learning and ordinary-life rules.
 
 ## Relationship
-R1.
+**R1 — deep emotional trust**
 
-## Safety Rule
-No stronger tests for now.
+## Active System State
+- **P0 Echo Trace baseline**
+- narrow P1 learned but inactive by default
+- C0
+- X0
 
 ## Mystery
 M-002 PARTIAL
@@ -232,6 +231,7 @@ M-005 PARTIAL
 ## Foreshadowing
 F-001/F-002/F-003 PLANTED.
 
-## CH-019 Goal
-Aftermath only:
-Max remains phase-bound and must confront the fact that pushing harder did not make him more useful.
+## CH-020 Goal
+Lily chooses to remain in Unit 4B and converts the accumulated safety/privacy/ordinary-life rules into a practical cross-world roommate agreement.
+
+R2 may be formally reached only there.
