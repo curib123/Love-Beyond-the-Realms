@@ -8,7 +8,7 @@
 **Primary Location:** LOC-002 Unit 4B / correlated visual of Max  
 **Relationship State:** R0 — Unknown Presence  
 **System State:** P0 Bleed / C0 No Contact / X0 Observation  
-**Manuscript Status:** **AUTHORIZED FOR CH-002 DRAFT**
+**Manuscript Status:** **GATE 9 PASS — CANON-APPROVED**
 
 # 1. Chapter Function
 
