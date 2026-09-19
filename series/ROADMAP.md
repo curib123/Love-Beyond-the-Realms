@@ -445,3 +445,21 @@ Future chapters must follow the same dialogue-vitality rules.
 # Current Next Authorized Step
 
 **CH-022 — The Safe Distance → Manuscript Draft**
+
+
+# Movie-Like English Publication Baseline
+
+Arc 1 CH-001–CH-020:
+**PASS — PUBLICATION-FINAL**
+
+CH-021:
+**PASS — PROSE REVALIDATED**
+
+Authoritative QA:
+- `qa/ASTER-HOUSE-MOVIE-ENGLISH-REVALIDATION.md`
+- `qa/CH-021-MOVIE-ENGLISH-REVALIDATION.md`
+
+All future chapters must use natural movie-like English while remaining novel prose.
+
+Current next authorized step:
+**CH-022 — The Safe Distance → Manuscript Draft**
