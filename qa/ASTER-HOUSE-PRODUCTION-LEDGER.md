@@ -4,7 +4,7 @@
 **Locked Chapter Count:** 20  
 **Gate 6:** PASS v2  
 **Gate 7:** PASS v2  
-**Status:** ACTIVE PRODUCTION
+**Status:** ARC COMPLETE — ALL 20 CHAPTERS CANON-APPROVED
 
 | Chapter | Gate 8 | Manuscript | Gate 9 | Canon |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@
 | CH-017 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-018 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-019 | PASS v2 | complete | PASS v2 | **YES** |
-| CH-020 | pending | pending | pending | no |
+| CH-020 | PASS v2 | complete | PASS v2 | **YES** |
