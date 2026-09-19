@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GATE 3 MYSTERY/TWIST QA PASS — GATE 4 LOCATION QA NEXT
+**Status:** GATE 4 LOCATION QA PASS — GATE 5 ACTIVE ARC SELECTION QA NEXT
 
 # Series Length
 
@@ -57,28 +57,32 @@ Formal record:
 
 `qa/MYSTERY-TWIST-QA.md`
 
-Gate 3 required pre-pass corrections:
-- added an explicit initial knowledge matrix;
-- added an initial M-ID state ledger;
-- made every F-ID status explicit;
-- strengthened MT reveal guards and required post-reveal choices;
-- added no-retcon controls;
-- removed a README hint that approached MT-003 leakage;
-- clarified MT-003 environmental escalation versus personal recovery.
+Gate 4 — Location QA:
 
-Final Gate 3 confirms:
-- Writer Truth is separated from Lily/Max/supporting knowledge;
-- M-001 through M-011 are controlled;
-- F-001 through F-008 remain PLANNED — NOT YET PLANTED;
-- MT-001/002/003 have multiple setup paths;
-- protected twists do not leak early;
-- major twists create choices and consequences;
-- retcon safeguards exist;
-- sci-fi mystery logic matches Realm Systems.
+**PASS — 2026-09-19**
+
+Formal record:
+
+`qa/LOCATION-QA.md`
+
+Gate 4 required pre-pass corrections:
+- formally established Nora's Home in the World Bible;
+- formally established Arden Family Home in the World Bible;
+- expanded ordinary-life Earth/Velaire locations;
+- added reveal locks for East Maintenance Corridor, Civic Archive, Arden Family Home, and Hollow;
+- defined Aster/Larkspur dual-POV utility;
+- reinforced that location access does not equal mystery access.
+
+Final Gate 4 confirms:
+- all inventory locations descend from the World Bible;
+- ordinary-life locations remain useful;
+- reveal-heavy locations are protected;
+- Aster House/Unit 4B and Larkspur House/Room 17 support both main POVs;
+- future locations remain unselected and unlocked.
 
 Non-blocking notes:
-- final marketing copy must decide whether Max being alive is openly spoiled;
-- pre-echo must remain rare.
+- do not create dimensional nodes at every ordinary location;
+- preserve ordinary Velaire life around Larkspur during arc architecture.
 
 # Active Arc
 
@@ -86,7 +90,12 @@ Non-blocking notes:
 
 Status:
 
-**SELECTED — ARCHITECTURE NOT YET LOCKED**
+**SELECTED — SELECTION QA NEXT / ARCHITECTURE NOT YET LOCKED**
+
+Current proposed opening cluster:
+- Aster House;
+- Unit 4B;
+- controlled Larkspur House / Room 17 POV scenes.
 
 Opening goals:
 - Lily moves in;
@@ -118,11 +127,13 @@ Intentionally not fixed.
 
 | Arc | Location | Purpose | Status |
 |---|---|---|---|
-| Opening | Aster House / Larkspur House overlap | establish characters, romance, comedy, rules and first mystery | SELECTED |
+| Opening | Aster House / Larkspur House overlap | establish characters, romance, comedy, rules and first mystery | SELECTED — GATE 5 REVIEW NEXT |
 | Future | UNSELECTED | must emerge from canon | UNLOCKED |
 
 # Next Authorized Step
 
-**Run Gate 4 — Location QA.**
+**Run Gate 5 — Active Arc Selection QA.**
 
-Do not lock the Aster House Arc architecture, assign its chapter count, create chapter/scene architecture, plant F-IDs, or draft manuscript prose until Gate 4 passes.
+Gate 5 must determine whether the Aster House Arc is the correct active arc before architecture begins.
+
+Do not define midpoint, reversal, climax, detailed arc structure, chapter count, chapter roadmap, scene architecture, planted F-IDs, or manuscript prose until Gate 5 passes.
