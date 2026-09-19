@@ -175,55 +175,52 @@ A chapter normally changes at least one:
 
 Not every chapter needs a cliffhanger.
 
-# 13. Current Active Arc — v2 Production State
+# 13. Current Active Arc — Post-Aster Selection
 
-**Aster House Arc**
+**Shared Foundations Arc**
 
-**Selection Status:** **GATE 5 v2 REVALIDATION PASS — SINGLE ACTIVE ARC**
+**Selection Status:** **GATE 5 PASS — SINGLE ACTIVE ARC**
 
-Approved primary cluster:
+Selection record:
+`planning/SHARED-FOUNDATIONS-ARC-SELECTION.md`
+
+Gate 5 QA:
+`qa/ACTIVE-ARC-SELECTION-QA-ARC-002.md`
+
+Primary active cluster:
 - LOC-001 Aster House;
 - LOC-002 Unit 4B;
-- controlled LOC-007 Larkspur House;
-- controlled LOC-008 Room 17.
+- LOC-006 East Maintenance Corridor;
+- LOC-007 Larkspur House;
+- LOC-008 Room 17 plus immediately adjoining phase-accessible Larkspur interior.
 
-Supporting ordinary-life locations may appear as needed without becoming separate active arcs.
+Starting canon:
+- **R2 — Cross-World Roommates**;
+- **P0 Echo Trace baseline**;
+- narrow controlled P1 learned;
+- **C0**;
+- **X0**;
+- **K2**;
+- Max remains phase-bound.
 
-Current opening baseline:
-- R0 Unknown Presence;
-- **P0 Echo Trace**;
-- C0 No Contact;
-- X0 Observation.
+Local selection question:
+**Why do Aster House and Larkspur House show deeper structural correspondence beyond Unit 4B / Room 17?**
 
-Current v2 architecture:
-`planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`
+Gate 5 does not activate M-007 in canon and does not plant F-005/F-007.
 
-Status:
-**CANDIDATE — GATE 6 REVALIDATION REQUIRED**
+Protected:
+- MT-001/002/003;
+- Mina survival from Max;
+- Mina POV;
+- restricted Archive truths;
+- Hollow entry;
+- contact/crossing escalation.
 
-Current v2 roadmap:
-`planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
+Chapter count:
+**UNLOCKED — GATE 6/7 PENDING**
 
-Status:
-**GATE 7 v2 QA-LOCKED — 20 CHAPTERS**
-
-Active-arc chapter count:
-**20 — GATE 7 v2 QA-LOCKED**
-
-This count applies only to the Aster House Arc.
-
-The old Gate 5/6/7 planning language is superseded where it conflicts with Originality Revision v2.
-
-Local opening questions now include:
-- who is changing the room;
-- whether another independent living person exists at the correlated coordinate;
-- why information crosses before person-image data;
-- how written/audio contact can become repeatable.
-
-The old opening question "is Max a conventional ghost?" is no longer the primary local mystery.
-
-Future arc:
-**UNSELECTED / UNLOCKED**
+Future arcs:
+**OPEN / UNLOCKED**
 
 # 14. Originality Revision v2 Production Reset
 
@@ -1174,3 +1171,26 @@ Future arc remains:
 **UNSELECTED / UNLOCKED**
 
 **Gate 5 — Next Active Arc Selection QA**
+
+
+# 83. Gate 5 — Next Active Arc Selection
+
+Selected:
+**Shared Foundations Arc**
+
+Result:
+**PASS**
+
+Reason:
+- directly follows the stabilized Aster/Larkspur state;
+- introduces LOC-006 East Maintenance Corridor as genuinely new pressure;
+- keeps both Lily and Max active within current mobility limits;
+- supports romance/comedy through established R2 routines;
+- advances building-correlation mystery without revealing the Twinfall;
+- preserves Mina/family, Archive/reactivation, and Hollow routes for later.
+
+No chapter count, midpoint, climax, F-ID placement, or next arc locked.
+
+# 84. Next Production Step
+
+**Gate 6 — Shared Foundations Arc Architecture QA**
