@@ -3,12 +3,24 @@
 **Chapter:** That Is Not What I Imagined  
 **Result:** **PASS**  
 **Canon Status:** **APPROVED**  
-**Word Count:** 581  
+**Word Count:** 583  
 **Blocking:** 0  
 **Major:** 0  
 **Minor:** 2
 
-Confirmed:
+# Review History
+
+The first Gate 9 review found one prose-standard issue:
+
+- ordinary narration still used too many isolated one-line paragraphs.
+
+Correction:
+- routine narration was merged into more natural paragraph flow;
+- all four approved scene functions, calibration results, jokes, first-sight details, and privacy rules were preserved exactly in meaning.
+
+Gate 9 was rerun after correction.
+
+# Confirmed
 - Lily-only close third.
 - four scene functions preserved.
 - reverse calibration is separate from Max's CH-010 settings.
