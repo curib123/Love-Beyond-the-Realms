@@ -12,7 +12,7 @@ After losing her parents, eighteen-year-old **Lily Marlowe** rents Unit 4B in As
 
 Then she discovers a boy already living in her apartment.
 
-**Max Arden**, nineteen, is not a ghost. He is alive in another version of the same city.
+**Max Arden**, nineteen, is not a ghost. He is alive somewhere Lily should not be able to reach.
 
 Lily can see him.
 
@@ -20,13 +20,13 @@ Max can hear her—but at first he cannot see her.
 
 They cannot touch.
 
-Worse, their shared room does not behave like a normal portal. Objects sometimes exchange states between worlds. Sounds arrive early. Furniture appears where it should not exist. For a few seconds, one person's room may replace the other's. The more they investigate the connection, the more both realities begin leaking into each other.
+Worse, their shared room does not behave like a normal portal. Objects sometimes exchange states. Sounds arrive at the wrong time. Furniture appears where it should not exist. For a few seconds, one person's room may replace the other's.
 
-Their first problem is learning how to share one apartment across two worlds without driving each other insane.
+Their first problem is learning how to share one apartment across two realities without driving each other insane.
 
-Their second problem is figuring out why the apartment exists in both realities.
+Their second problem is figuring out why their rooms overlap at all.
 
-Their third problem is realizing **Earth and Velaire were once the same world.**
+Their third problem is discovering that the truth about their worlds is much stranger than either of them expected.
 
 ## Story Identity
 
@@ -52,9 +52,7 @@ The romance must stay fun, human, and alive even when the larger mystery becomes
 
 This is not simply "girl falls for a boy from another universe."
 
-Earth and Velaire are **two histories split from one original reality** during an old dimensional event.
-
-The overlap can exchange more than people:
+The connection can exchange more than people:
 - room layouts;
 - object states;
 - sounds;
@@ -64,6 +62,8 @@ The overlap can exchange more than people:
 Lily and Max do not gain magic from falling in love.
 
 Their choices, experiments, mistakes, and use of the overlap change the connection.
+
+The deeper history of the two realities is deliberately protected as a long-term mystery.
 
 ## Studio Pipeline
 
