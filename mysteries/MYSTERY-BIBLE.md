@@ -51,7 +51,9 @@ Max is a living human in Velaire.
 
 ## WT-002 — Lily Is Not Chosen
 
-Lily can perceive Max because of location and phase orientation.
+Lily and Max detect each other's branch because of location, coherence, and the correlated rooms.
+
+Neither receives special one-way romantic perception.
 
 Another compatible person in the same conditions could detect the overlap.
 
@@ -147,11 +149,11 @@ Until a knowledge update is explicitly earned:
 
 # 5. Mystery IDs
 
-**M-001 — Is Max a ghost?**  
-Truth: No.
+**M-001 — Who is changing the room?**  
+Truth: another living occupant exists at the correlated coordinate in the other branch.
 
-**M-002 — Why can Lily see Max while Max cannot see Lily?**  
-Truth: asymmetric phase orientation.
+**M-002 — Why can information cross before Lily and Max can see each other?**  
+Truth: room-state and information coherence can occur at lower stability than person-image coherence.
 
 **M-003 — Why do exchanged objects change?**  
 Truth: Echo Exchange.
@@ -202,25 +204,20 @@ A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story eve
 
 # 6A. Current On-Page Mystery State
 
-**Through canonical CH-002**
+**ORIGINALITY REVISION v2 — MANUSCRIPT CANON RESET**
 
-| Mystery | Current Canon State | On-Page Basis |
-|---|---|---|
-| M-001 — Is Max a ghost? | **ACTIVE** | Lily sees an impossible young man in locked Unit 4B, considers intruder/hallucination/ghost possibilities, and has no answer yet. |
-| M-002 — Why can Lily see Max while Max cannot see Lily? | **ACTIVE — FIRST OBSERVABLE ASYMMETRY** | Lily repeatedly sees Max fail to visually track her; Max reacts only after Lily speaks. |
-| M-003 | UNASKED | No canonical object-state exchange investigation yet. |
-| M-004 | UNASKED | No canonical timing anomaly investigation yet. |
-| M-005 | UNASKED | No canonical investigation of Max's incident yet. |
-| M-006 | UNASKED / PROTECTED | Mina remains outside Lily's knowledge and protected from Max. |
-| M-007 | UNASKED / PROTECTED | No building-history comparison yet. |
-| M-008 | UNASKED / PROTECTED | Twinfall remains protected. |
-| M-009 | UNASKED / PROTECTED | Responsible researcher remains protected/unlocked. |
-| M-010 | UNASKED / PROTECTED | No growth-consequence question yet. |
-| M-011 | UNASKED | Safe long-term contact not yet investigated. |
+The previous CH-001/CH-002 on-page state is superseded by the v2 opening revision.
 
-This section tracks **current canon**.
+Until the revised manuscripts are re-approved through Gate 8/9:
+- M-001 through M-011 use the Initial Mystery-State Ledger as the active canon baseline;
+- all F-IDs remain PLANNED — NOT YET PLANTED;
+- no previous one-way visual-perception event remains canon.
 
-The Initial Mystery-State Ledger above remains the historical baseline before manuscript events.
+The revised opening is intended to activate:
+- M-001 through impossible room-state interference and anonymous writing;
+- M-002 through information exchange occurring before first sight.
+
+Those transitions are **planned, not yet canon**, until revised prose passes QA.
 
 # 7. Foreshadowing IDs
 
