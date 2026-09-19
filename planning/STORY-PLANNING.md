@@ -1258,3 +1258,24 @@ Status:
 # 88. Next Production Step
 
 **CH-021 — The Inspection Notice → Detailed Scene Architecture → Gate 8**
+
+
+# 89. CH-021 — The Inspection Notice — Gate 8 Record
+
+Architecture:
+`planning/CH-021-SCENE-ARCHITECTURE.md`
+
+Gate 8:
+`qa/CH-021-PRE-MANUSCRIPT-SCENE-QA.md`
+
+Result:
+**PASS — MANUSCRIPT AUTHORIZED**
+
+Canon state remains unchanged:
+**R2 / P0 baseline / narrow controlled P1 / C0 / X0 / K2**
+
+No F-ID or M-ID state changes occur at planning stage.
+
+# 90. Next Production Step
+
+**CH-021 — The Inspection Notice → Manuscript Draft**
