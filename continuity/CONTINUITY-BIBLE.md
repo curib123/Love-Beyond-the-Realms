@@ -198,73 +198,55 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-011 v2
+# 16. Current Canon State — Through CH-012 v2
 
-**Latest Canon Chapter:** CH-011 — That Is Not What I Imagined
+**Latest Canon Chapter:** CH-012 — Rent, Repairs, and Other Horrors
 
 ## Lily
-Knows:
-- Max's CH-010 visual success was receiver-specific and did not automatically transfer to her;
-- her own reverse calibration requires a different timing/angle solution;
-- after two failed attempts, she obtained a reliable reflected image of Max for several seconds;
-- Max appears to be a young man around her age with messy dark hair, tired eyes, expressive features, and practical unfamiliar clothing;
-- P1 access must be announced and consent-based.
+- remains committed to Unit 4B as her home;
+- reported ordinary mirror-mount damage rather than hiding it;
+- accepted limited support from Nora without moving home;
+- has explicit limits on late-night testing and apartment damage.
 
 ## Max
-Knows:
-- Lily independently achieved her own P1 view of him;
-- reciprocity is possible but requires separate receiver calibration;
-- Lily's settings are not identical to his;
-- both can refuse visual windows.
+- accepts that Lily's home/work/sleep responsibilities outrank convenient visual access;
+- agrees to pause Lily-side visual calibration until repair is complete.
 
 ## Reader Knowledge
 **K2**
 
 ## Relationship
-**R1 — Mutual Reality Test**
-
-The relationship deepens toward cross-world-roommate behavior through visual familiarity and explicit privacy boundaries.
-
-No formal promotion to R2 yet.
+**R1 — Mutual Reality Test, deepened toward roommate behavior**
 
 ## Perception / Contact / Crossing
-- **Lily: P1 — Indirect Sight (narrow, receiver-specific)**
-- **Max: P1 — Indirect Sight (narrow, receiver-specific)**
-- each requires separate calibration;
-- visual windows are brief and deliberate;
-- **C0**
-- **X0**
-
-No direct naked-eye sight, touch, crossing, P2, or P3.
+- Lily: narrow P1 capability, current mirror receiver temporarily unavailable during ordinary repair
+- Max: narrow P1 capability
+- C0
+- X0
 
 ## Mystery
 - M-001 RESOLVED locally
-- **M-002 PARTIAL**
+- M-002 PARTIAL
 - M-003 ACTIVE
 - M-004 ACTIVE
-- M-005 onward unchanged
+- M-005 unadvanced
 
 ## Foreshadowing
-- **F-001 Mirror Delay — PLANTED**
-- **F-002 Wrong Furniture — PLANTED**
-- F-003–F-008 — NOT YET PLANTED
+- F-001 PLANTED
+- F-002 PLANTED
+- F-003–F-008 NOT YET PLANTED
 
-## Privacy / Consent Rules
-Canonical visual-window rules:
-- announce before visual calibration;
-- no surprise activation;
-- no testing while changing;
-- no testing while sleeping;
-- either person may refuse a visual window.
+## Ordinary-Life Rules
+- no late tests before work days;
+- restore furniture/fixtures after tests;
+- building repair/inspection access takes priority;
+- Unit 4B is a home before it is an experiment site.
 
-## CH-012 Guard
-CH-012 must shift pressure back to ordinary life:
-- rent;
-- repairs;
-- Inez;
-- Nora;
-- sleep / responsible apartment use.
+## CH-013 Guard
+CH-013 may partially open M-005 through Max's controlled incident disclosure.
 
-P1 remains narrow and deliberate.
-
-Do not escalate to touch/crossing or a new perception tier.
+It must not reveal:
+- Mina survived;
+- deliberate reactivation;
+- full Larkspur cause;
+- MT-001/002/003.
