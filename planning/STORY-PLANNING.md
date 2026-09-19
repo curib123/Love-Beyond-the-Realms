@@ -888,7 +888,7 @@ Result:
 **PUBLICATION-READINESS REVISION REQUIRED**
 
 Priority final-prose queue:
-CH-010 → CH-011 → CH-013 → CH-014 → CH-015 → CH-017 → CH-018 → CH-019 → CH-020.
+CH-011 → CH-013 → CH-014 → CH-015 → CH-017 → CH-018 → CH-019 → CH-020.
 
 Canon must remain unchanged during this pass.
 
@@ -914,4 +914,30 @@ Canon unchanged:
 
 # 62. Next Editorial Step
 
-**CH-010 — I Can See You → Final Prose Development Pass → Gate 9 Revalidation**
+**CH-011 — That Is Not What I Imagined → Final Prose Development Pass → Gate 9 Revalidation**
+
+
+# 63. CH-010 Final Prose Revalidation
+
+Chapter:
+`manuscript/CH-010-I-CAN-SEE-YOU.md`
+
+Gate 9:
+`qa/CH-010-CHAPTER-QA-V2.md`
+
+Result:
+**PASS — PUBLICATION-FINAL**
+
+Current word count:
+**1,890**
+
+Canon unchanged:
+- Max narrow P1;
+- Lily P0;
+- R1;
+- M-002 PARTIAL;
+- C0 / X0.
+
+# 64. Next Editorial Step
+
+**CH-011 — That Is Not What I Imagined → Final Prose Development Pass → Gate 9 Revalidation**
