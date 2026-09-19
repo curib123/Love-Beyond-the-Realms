@@ -3,7 +3,7 @@
 **Chapter:** Still Here  
 **Result:** **PASS**  
 **Canon Status:** **APPROVED**  
-**Word Count:** 558  
+**Word Count:** 1,360  
 **Blocking:** 0  
 **Major:** 0  
 **Minor:** 2
@@ -34,3 +34,37 @@ R1 remains formal state, but emotional trust deepens.
 
 # Next
 **CH-020 — The Roommate Agreement → Detailed Scene Architecture → Gate 8**
+
+
+# Final Prose Development — Gate 9 Revalidation
+
+**Result:** **PASS**  
+**Publication Readiness:** **FINAL-PASS**  
+**Current Word Count:** **1,360**
+
+The aftermath-compression issue identified by the full-manuscript audit has been corrected.
+
+Development added only:
+- fuller confirmation that Max's ordinary phase-bound limit remains unchanged;
+- more emotional weight around choosing not to force a second attempt;
+- stronger writing/audio aftermath with Lily;
+- deeper articulation of Max's usefulness/waiting fear;
+- a clearer distinction between making a bad decision and later making a good corrective decision;
+- explicit permission for uncertainty and anger without forcing a new test;
+- fuller acceptance that Mina/Larkspur remain unresolved.
+
+Canon preserved exactly:
+- Max-only close third;
+- one corridor-limit check only;
+- Max remains phase-bound;
+- no renewed escalation;
+- Lily supports without solving;
+- no Mina survival reveal;
+- no direct family contact;
+- P0 baseline remains active;
+- narrow P1 remains learned but inactive by default;
+- C0 / X0;
+- R1 remains;
+- no M/F/MT advancement.
+
+**FINAL GATE 9 REVALIDATION — PASS / PUBLICATION-FINAL**
