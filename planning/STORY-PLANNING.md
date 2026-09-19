@@ -254,8 +254,24 @@ Foundation corrections:
 - Phase Lag wording now cannot imply early direct person sight;
 - Gate 1 permanently checks room-before-person, P0 Echo Trace, and the prohibition on the superseded one-way visual hook.
 
-# 16. Next Production Step
+# 16. Gate 2 v2 Revalidation Record
 
-**Gate 2 — Character QA Revalidation for Originality Revision v2**
+Formal QA:
+
+`qa/CHARACTER-QA-V2.md`
+
+Status:
+
+**PASS — 2026-09-19**
+
+Character corrections:
+- appearance-independent attraction formally locked;
+- anonymous-stage equal agency formally locked;
+- stale pre-v2 active-arc planning language removed;
+- written and spoken chemistry remain distinct stages.
+
+# 17. Next Production Step
+
+**Gate 3 — Mystery/Twist QA Revalidation for Originality Revision v2**
 
 Do not draft revised CH-001 or CH-002 until the affected gates are revalidated in order.
