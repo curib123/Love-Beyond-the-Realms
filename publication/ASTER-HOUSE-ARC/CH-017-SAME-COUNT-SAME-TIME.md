@@ -108,7 +108,9 @@ Max considered denying it.
 
 **I NOTICED.**
 
-That felt worse than praise and better than he wanted it to.
+He stared at that for a second.
+
+"Rude."
 
 ---
 
@@ -236,9 +238,9 @@ A pause.
 
 Max looked toward the false doorway.
 
-Waiting felt harder than doing.
+Waiting was worse than doing.
 
-Another lesson he did not want.
+Max hated that lesson on principle.
 
 ---
 
@@ -398,11 +400,19 @@ He blinked.
 
 That was not the joke he had expected.
 
-**YES. OFFENDED BY THE METHOD.**
+**YES. MOSTLY.**
 
-Lily replied:
+A beat.
 
-**GOOD. THEN I'M ALLOWED TO SAY THIS.**
+**MOSTLY?**
+
+Max looked at the doorway, then wrote:
+
+**HEADACHE. MANAGEABLE.**
+
+Lily answered:
+
+**GOOD. NOW I'M ALLOWED TO SAY THIS.**
 
 Another pause.
 
@@ -518,11 +528,15 @@ Lily added:
 
 Max wrote:
 
-**OFFENSIVE.**
+**I WASN'T GOING TO.**
 
-Then, after a second:
+A pause.
 
-**AGREED.**
+**MAX.**
+
+He sighed.
+
+**FINE. AGREED.**
 
 The room was still wrong.
 
