@@ -44,13 +44,13 @@ Nothing.
 
 She stared at it.
 
-"Good."
+"Great."
 
 Off.
 
 On.
 
-"Excellent scientific method."
+"Now I'm investigating a light switch."
 
 The lamp remained stubbornly normal.
 
@@ -324,7 +324,7 @@ Lily stared.
 
 "That was my question."
 
-The room offered no explanation.
+The room, predictably, did not apologize.
 
 A second line appeared.
 
@@ -332,7 +332,7 @@ I WAS ABOUT TO ASK YOU THAT.
 
 Lily read it once.
 
-Then again.
+Then leaned closer and read it again.
 
 The handwriting leaned slightly to the right.
 
