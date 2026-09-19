@@ -129,7 +129,12 @@ Check:
 - minor twists are not overused;
 - major twist setups are controlled;
 - aftermath gets space;
-- future arc is not prematurely locked.
+- future arc is not prematurely locked;
+- written bandwidth limits are respected across chapter functions;
+- CH-005 mutual reality evidence resolves M-001 rather than waiting for appearance;
+- first P1 is receiver-specific and reciprocity gets a separate beat;
+- M-005 has an explicit partial-information path;
+- Max phase-bound mobility is preserved.
 
 # Gate 8 — Pre-Manuscript Scene QA
 
