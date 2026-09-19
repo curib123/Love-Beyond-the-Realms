@@ -670,3 +670,25 @@ Draft preserves:
 # 41. Next Production Step
 
 **CH-012 — Rent, Repairs, and Other Horrors → Gate 9 Chapter QA**
+
+
+# 42. CH-012 Canon Record
+
+Gate 9:
+`qa/CH-012-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- ordinary mirror repair only;
+- stricter work/sleep/apartment rules;
+- Nora support accepted in small measure;
+- R1 remains;
+- narrow P1 retained;
+- no M/F advancement;
+- C0 / X0.
+
+# 43. Next Production Step
+
+**CH-013 — One More Test → Detailed Scene Architecture → Gate 8**
