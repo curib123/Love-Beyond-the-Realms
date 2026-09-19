@@ -142,29 +142,33 @@ His compass rested beside one hand.
 
 "One."
 
-"If I say stop—"
+"And if I say stop?"
 
 "We stop."
 
-"If you say stop—"
+"Immediately."
 
-"We stop."
+Max gave her a look through the mirror.
 
-"No five extra seconds to finish a reading."
+"Lily."
 
-Max's mouth tightened.
+"That was not an answer."
 
-Exactly specific enough.
+His mouth tightened.
 
-"Agreed."
+"No five extra seconds. No finishing the reading. We stop."
 
-Lily watched him.
+She held his gaze for another second.
 
-"Actually agreed?"
+"Good."
 
-He exhaled.
+"Happy?"
 
-"Actually agreed."
+"No."
+
+That pulled the smallest smile out of him.
+
+"Fair."
 
 "Good."
 
@@ -358,17 +362,23 @@ Lily did not touch it.
 
 "How bad?"
 
-A pause.
+Static hissed.
 
-"My wall is in two places."
+Then Max said, "My wall is in two places."
 
 Lily swallowed.
 
 "Don't touch anything."
 
-"I wasn't planning to."
+"I know."
 
-"Good."
+"Max."
+
+A beat.
+
+"I'm not touching anything."
+
+"Better answer."
 
 Audio cut.
 
