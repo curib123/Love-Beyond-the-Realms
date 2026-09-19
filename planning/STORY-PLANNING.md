@@ -258,19 +258,39 @@ Gate 6 approved:
 - local R2 resolution;
 - strict MT/F-ID ceiling.
 
-**Chapter Count:** UNLOCKED
+**Chapter Count:** **20 — GATE 7 QA-LOCKED**
 
 Gate 6 approval now authorizes setting the active arc chapter count during Gate 7 chapter-roadmap construction.
 
-# 15. Next Production Step
+# 15. Gate 7 Chapter Roadmap Record
 
-**Gate 7 — Chapter Roadmap QA**
+Formal roadmap:
 
-Gate 7 may now:
-- choose the active arc chapter count;
-- assign chapter functions;
-- assign Lily/Max POV intentionally;
-- distribute romcom, character, mystery, and sci-fi beats;
-- assign only Gate-6-authorized foreshadowing candidates.
+`planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
 
-Do not draft manuscript prose or mark any F-ID PLANTED before prose actually exists.
+Formal QA:
+
+`qa/CHAPTER-ROADMAP-QA.md`
+
+Gate 7 approved:
+- **20 active-arc chapters**;
+- Lily 11 / Max 9 planned POV ownership;
+- unique chapter functions;
+- CH-010 first P1 midpoint;
+- CH-014–015 reversal;
+- CH-017–018 climax;
+- CH-019–020 aftermath;
+- F-001/F-002/F-003 planning candidates only;
+- no MT-001/002/003 reveal;
+- no P2/P3, C1+, or X1+;
+- future arc still unlocked.
+
+# 16. Next Production Step
+
+**Gate 8 — Pre-Manuscript Scene QA**
+
+Begin with **CH-001**.
+
+Gate 8 may create detailed scene architecture for the selected chapter, but manuscript prose remains unauthorized until that chapter's Gate 8 review passes.
+
+No F-ID becomes PLANTED until actual prose contains it.
