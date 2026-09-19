@@ -18,3 +18,15 @@ Confirmed:
 - MT-001/002/003 protected.
 
 **MANUSCRIPT AUTHORIZED**
+
+
+# Production Record Correction
+
+Architecture record restored:
+`planning/CH-003-SCENE-ARCHITECTURE.md`
+
+Gate 8 was rechecked against that owning file before Gate 9.
+
+The prior PASS remains valid because the restored architecture matches the already-approved constraints.
+
+**Gate 8 rerun result: PASS**
