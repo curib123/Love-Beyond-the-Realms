@@ -260,25 +260,24 @@ A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story eve
 
 # 6A. Current On-Page Mystery State
 
-**Through canonical CH-013 v2**
+**Through canonical CH-014 v2**
 
 | Mystery | State | Canon Basis |
 |---|---|---|
 | M-001 | RESOLVED locally | mutual reality evidence |
 | M-002 | PARTIAL | receiver-specific P1 |
-| M-003 | ACTIVE | temporary furniture-state overlap |
-| M-004 | ACTIVE | measured Phase Lag |
-| M-005 — What happened to Max? | **PARTIAL** | Max discloses that he was caught in the Larkspur collapse while trying to reach Mina and became phase-bound afterward; full cause and aftermath remain protected |
+| M-003 | ACTIVE | furniture-state overlap and later local geometry mismatch |
+| M-004 | ACTIVE | measured Phase Lag; instability now complicates timing further |
+| M-005 | PARTIAL | Max's Larkspur/Mina disclosure |
 | M-006–M-011 | protected/unresolved | no authorized advancement |
-
-Knowledge: **K2**  
-Relationship: **R1**  
-System: narrow P1 / C0 / X0
 
 Foreshadowing:
 - F-001 PLANTED
 - F-002 PLANTED
-- F-003–F-008 NOT YET PLANTED
+- **F-003 PLANTED CH-014**
+- F-004–F-008 NOT YET PLANTED
+
+The CH-014 acute instability does not reveal MT-003.
 
 # 7. Foreshadowing IDs
 
@@ -299,7 +298,7 @@ Status: **PLANTED — CH-008**
 A piece of furniture briefly appears with details neither room currently has.
 
 **F-003 — Cold Brass Key**  
-Status: **PLANNED — NOT YET PLANTED**  
+Status: **PLANTED — CH-014**  
 Lily's key reacts during coherence spikes.
 
 **F-004 — Pre-Echo Sentence**  
