@@ -84,27 +84,31 @@ Max wrote:
 
 **MAKE EVERYTHING BORING.**
 
-Lily's reply took forty-one seconds.
+Forty-one seconds later:
 
 **FINALLY A FIELD YOU'RE QUALIFIED FOR.**
 
-He smiled.
+He laughed before he could stop himself.
 
 Good.
 
 If she could still insult him, things were not completely lost.
 
-**NO NEW VARIABLES. ONLY BASELINE POSITIONS + TIMING.**
+He wrote:
+
+**NO NEW VARIABLES. BASELINE POSITIONS. TIMING ONLY.**
 
 A pause.
 
-**BETTER.**
+**THAT SOUNDS SUSPICIOUSLY RESPONSIBLE.**
 
-Max looked at the word.
+Max considered denying it.
 
-It should not have felt like approval from a supervisor.
+**I'M TRYING SOMETHING NEW.**
 
-It did.
+**I NOTICED.**
+
+That felt worse than praise and better than he wanted it to.
 
 ---
 
@@ -388,7 +392,21 @@ Max looked at the line.
 
 A pause.
 
-**THAT MUST BE DIFFICULT FOR YOU.**
+**ARE YOU OKAY?**
+
+He blinked.
+
+That was not the joke he had expected.
+
+**YES. OFFENDED BY THE METHOD.**
+
+Lily replied:
+
+**GOOD. THEN I'M ALLOWED TO SAY THIS.**
+
+Another pause.
+
+**DOING LESS WORKED.**
 
 Max placed a hand over his heart.
 
