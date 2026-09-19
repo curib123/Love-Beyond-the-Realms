@@ -10,44 +10,46 @@ Classifications:
 - **UNUSED**
 - **NOT SUITABLE**
 
-Classification does not automatically assign a future volume.
+Classification does not assign a final series order.
 
 | ID | Location | Realm | Classification | Story Capacity | Mystery Risk |
 |---|---|---|---|---|---|
-| LOC-001 | Aster House | Earth | HIGH POTENTIAL | primary domestic romance, haunting mystery, tenant life, collapse stakes | medium |
-| LOC-002 | Unit 4B | Earth | HIGH POTENTIAL | Lily/Max overlap, intimate dialogue, first perception milestones | high |
-| LOC-003 | Paper Moon Books & Café | Earth | SUPPORTING | Lily's ordinary life, Ava, work pressure, recovery, social contrast | low |
-| LOC-004 | Bellweather Riverfront | Earth | SUPPORTING | grief beats, friendship, reflective scenes, public-space contrast | low |
-| LOC-005 | Nora's Home | Earth | SUPPORTING | family conflict, safety vs independence, grief continuity | low |
-| LOC-006 | East Maintenance Corridor | Earth | RESERVED | mirrorstone access, building history, later physical investigation | high |
-| LOC-007 | Larkspur House | Velaire | HIGH POTENTIAL | Max's trapped side, boundary incident, Velaire domestic reality | high |
-| LOC-008 | Room 17 | Velaire | HIGH POTENTIAL | paired overlap coordinate, Max-side mystery | high |
-| LOC-009 | Rivenhall Civic Archive | Velaire | RESERVED | Threshold Keeper records, Corven, historical evidence | very high |
-| LOC-010 | Arden Family Home | Velaire | RESERVED | Max family, Mina/Elara emotional payoff | high |
-| LOC-011 | Rivenhall Market Bridges | Velaire | UNUSED | later cultural exploration and relationship contrast | low |
-| LOC-012 | The Hollow Between | Boundary Space | RESERVED | dangerous crossings, echoes, geometry distortion | very high |
+| LOC-001 | Aster House | Earth | HIGH POTENTIAL | shared-apartment romcom, mystery, tenant life, local overlap | medium |
+| LOC-002 | Unit 4B | Earth | HIGH POTENTIAL | Lily/Max interaction, Echo Exchange, perception milestones | high |
+| LOC-003 | Paper Moon Books & Café | Earth | SUPPORTING | Lily's ordinary life, Ava, work comedy, social pressure | low |
+| LOC-004 | Bellweather Riverfront | Earth | SUPPORTING | dates, friendship, grief, phase experiments | low |
+| LOC-005 | Nora's Home | Earth | SUPPORTING | family and independence | low |
+| LOC-006 | East Maintenance Corridor | Earth | RESERVED | old structural channel, mirrorstone evidence | high |
+| LOC-007 | Larkspur House | Velaire | HIGH POTENTIAL | Max-side life, family search, overlap investigation | high |
+| LOC-008 | Room 17 | Velaire | HIGH POTENTIAL | paired coordinate and Max POV | high |
+| LOC-009 | Rivenhall Civic Archive | Velaire | RESERVED | records, Corven, Twinfall research | very high |
+| LOC-010 | Arden Family Home | Velaire | RESERVED | Mina/Elara and Max family payoff | high |
+| LOC-011 | Rivenhall Market Bridges | Velaire | UNUSED | culture, comedy, future cross-world contrast | low |
+| LOC-012 | The Hollow Between | Boundary | RESERVED | dangerous crossing, phase lag, reality geometry | very high |
 
-# Selection Rule
+# Opening Active Arc
 
-A major volume may select a location cluster only after:
-1. the location already exists in the World Bible;
-2. its reveal dependencies are safe;
-3. it supports a complete emotional and supernatural movement;
-4. the relationship stage is compatible;
-5. later locations remain available.
+**Selected cluster:** Aster House + Unit 4B + controlled Larkspur/Room 17 POV scenes.
 
-# Volume 1 Selection
+**Arc name:** Aster House Arc
 
-**Selected Cluster:** LOC-001 Aster House + LOC-002 Unit 4B, with controlled support from LOC-003 and LOC-007/008 through overlap.
+Purpose:
+- establish Lily;
+- establish Max;
+- establish both POV voices;
+- establish the roommate romantic-comedy engine;
+- prove repeatable dimensional behavior;
+- seed Echo Exchange;
+- plant fair clues toward deeper split-world truth;
+- keep high-level Twinfall truth protected.
 
-**Arc Name:** **Aster House Arc**
+This selection does not lock the next arc.
 
-Reason:
-- opens from Lily's ordinary need for a home;
-- supports intimate slow-burn interaction;
-- establishes the impossible perception rule;
-- allows Earth life to remain visible;
-- introduces Velaire without prematurely sending Lily there;
-- supports a local climax involving the building rather than universe-scale danger.
+# Future Selection Rule
 
-The East Maintenance Corridor, Rivenhall Civic Archive, Arden Family Home, and full Hollow exploration remain protected for later use.
+A future location may become an active arc only when:
+1. current canon naturally points toward it;
+2. mystery dependencies allow it;
+3. it supports character and romantic development;
+4. it introduces something new rather than repeating Aster House;
+5. selection does not require fixing the final series length.
