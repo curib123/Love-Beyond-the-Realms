@@ -1,3 +1,7 @@
+> **HISTORICAL RECORD — SUPERSEDED BY ORIGINALITY REVISION v2**  
+> This PASS applied only to the pre-v2 opening. It does not authorize current production.  
+> See `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`.
+
 > **SUPERSEDED — ORIGINALITY REVISION v2**  
 > This QA record belongs to the pre-v2 opening where Lily directly saw Max.  
 > It is retained only as historical production evidence and must not authorize current manuscript work.  
