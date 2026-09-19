@@ -220,11 +220,19 @@ Her reply came faster than the others.
 
 Max's pen hovered.
 
-There were several technically accurate answers.
+He started one answer.
+
+Stopped.
+
+Crossed out two words.
+
+There were several technically accurate versions.
 
 None of them were good.
 
-He knew that.
+Finally he wrote:
+
+**I THOUGHT I COULD FIX IT.**
 
 He disliked knowing that.
 
@@ -576,13 +584,19 @@ Max frowned.
 
 **I KNOW.**
 
+The answer came back:
+
 **YOU PAUSED.**
 
 He stared at the page.
 
 **I WAS THINKING.**
 
-**THAT IS WHAT WORRIES ME.**
+A beat.
+
+**YES. EXACTLY.**
+
+Max laughed despite himself.
 
 Despite everything, a breath of laughter escaped him.
 
