@@ -888,7 +888,7 @@ Result:
 **PUBLICATION-READINESS REVISION REQUIRED**
 
 Priority final-prose queue:
-CH-019 → CH-020.
+CH-020.
 
 Canon must remain unchanged during this pass.
 
@@ -914,7 +914,7 @@ Canon unchanged:
 
 # 62. Next Editorial Step
 
-**CH-019 — Still Here → Final Prose Development Pass → Gate 9 Revalidation**
+**CH-020 — The Roommate Agreement → Final Prose Development Pass → Gate 9 Revalidation**
 
 
 # 63. CH-010 Final Prose Revalidation
@@ -1091,3 +1091,29 @@ Canon unchanged:
 # 76. Next Editorial Step
 
 **CH-019 — Still Here → Final Prose Development Pass → Gate 9 Revalidation**
+
+
+# 77. CH-019 Final Prose Revalidation
+
+Chapter:
+`manuscript/CH-019-STILL-HERE.md`
+
+Gate 9:
+`qa/CH-019-CHAPTER-QA-V2.md`
+
+Result:
+**PASS — PUBLICATION-FINAL**
+
+Current word count:
+**1,360**
+
+Canon unchanged:
+- Max remains phase-bound;
+- R1;
+- P0 baseline / narrow P1 learned;
+- C0 / X0;
+- Mina/Larkspur unresolved.
+
+# 78. Next Editorial Step
+
+**CH-020 — The Roommate Agreement → Final Prose Development Pass → Gate 9 Revalidation**
