@@ -300,9 +300,11 @@ The overlap may develop a **phase lag** ranging from fractions of a second to se
 
 This can cause:
 - delayed replies;
-- a sound arriving before the visible action;
-- Lily seeing what Max did moments earlier;
+- a sound arriving before the corresponding room-state change;
+- Lily seeing a room-state trace of something Max changed moments earlier;
 - Max hearing something Lily has not consciously said yet during rare unstable events.
+
+Phase Lag by itself does **not** bypass the perception ladder or grant direct person sight before P1/P2/P3 conditions are earned.
 
 Large phase lag is dangerous and uncommon.
 
