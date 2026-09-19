@@ -198,16 +198,21 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-009 v2
+# 16. Current Canon State — Through CH-010 v2
 
-**Latest Canon Chapter:** CH-009 — No Faces
+**Latest Canon Chapter:** CH-010 — I Can See You
 
-## Shared Knowledge
-Lily and Max know:
-- reflective room-state information can cross;
-- person-associated information behaves differently;
-- Lily's movement can create delayed reflective distortion without a usable person image;
-- current reflective setup is insufficient for sight.
+## Lily
+Knows:
+- Max's side successfully produced a visual image of her.
+- Lily still cannot see Max.
+- visual access requires a separate calibration.
+
+## Max
+Knows:
+- receiver-specific calibration can briefly resolve Lily as a reliable reflected person-image.
+- Lily's appearance is now known to him through P1.
+- the clear image lasted only several seconds and caused eye/head strain.
 
 ## Reader Knowledge
 **K2**
@@ -215,44 +220,31 @@ Lily and Max know:
 ## Relationship
 **R1 — Mutual Reality Test**
 
-## System
-- **P0 Echo Trace**
+Visual vulnerability deepens the existing bond; no formal romance-stage jump.
+
+## Perception / Contact / Crossing
+- **Max: P1 — Indirect Sight (narrow, receiver-specific)**
+- **Lily: P0 — Echo Trace**
 - **C0**
 - **X0**
 
-Observed:
-- environment/writing/taps/audio;
-- Phase Lag;
-- furniture-state overlap;
-- reflective room-state transfer;
-- delayed person-associated blur.
-
-Still unavailable:
-- reliable person-image;
-- P1;
-- contact;
-- crossing.
+No direct sight, touch or crossing.
 
 ## Mystery
 - M-001 RESOLVED locally
-- **M-002 ACTIVE — strengthened**
+- **M-002 PARTIAL**
 - M-003 ACTIVE
 - M-004 ACTIVE
 - M-005 onward unchanged
 
 ## Foreshadowing
-- **F-001 Mirror Delay — PLANTED**
-- **F-002 Wrong Furniture — PLANTED**
-- F-003–F-008 — NOT YET PLANTED
+- F-001 PLANTED
+- F-002 PLANTED
+- F-003–F-008 NOT YET PLANTED
 
-## Cost
-Max experiences eye/head pressure after reflective testing.
+## CH-011 Guard
+CH-011 must perform a separate reverse calibration for Lily.
 
-## CH-010 Guard
-CH-010 may attempt a receiver-specific calibration for Max.
+Lily may reach P1 if Gate 9 approves it.
 
-If successful:
-- Max alone may reach P1;
-- Lily remains without P1 until CH-011;
-- no direct naked-eye sight;
-- M-002 may become PARTIAL, not resolved.
+No automatic reciprocity, contact or direct sight.
