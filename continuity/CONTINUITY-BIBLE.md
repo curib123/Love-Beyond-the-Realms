@@ -198,36 +198,40 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-017 v2
+# 16. Current Canon State — Through CH-018 v2
 
-**Latest Canon Chapter:** CH-017 — Same Count, Same Time
+**Latest Canon Chapter:** CH-018 — Let Go on Three
 
-## Stabilization Progress
-Using only:
-- prior lag measurements;
-- known room reference positions;
-- neutral mirror/compass orientation;
-- matched counts;
+## Stabilization Outcome
+Lily and Max deliberately release the strongest active anchor conditions on the same count.
 
-Lily and Max reduce the local geometry mismatch.
+Result:
+- wrong doorway/wall geometry resets;
+- active P1/audio conditions collapse;
+- Unit 4B and Room 17 return to a survivable baseline;
+- bounded writing later returns.
 
-Observed:
-- false doorway moves closer to physical frame;
-- duplicated message arrivals decrease;
-- lag shortens during stable windows;
-- geometry remains imperfect.
+## Active State
+- **P0 Echo Trace baseline**
+- narrow P1 remains learned but is not active by default
+- C0
+- X0
 
 ## Relationship
 R1.
 
-## System
-- narrow P1 capability retained but not actively used
-- C0
-- X0
-- no new power
+## Safety Rule
+No stronger tests for now.
 
-## Next Step
-They agree to release the active anchor conditions together on the same count.
+## Mystery
+M-002 PARTIAL
+M-003 ACTIVE
+M-004 ACTIVE
+M-005 PARTIAL
 
-Goal:
-return to baseline rather than strengthen contact.
+## Foreshadowing
+F-001/F-002/F-003 PLANTED.
+
+## CH-019 Goal
+Aftermath only:
+Max remains phase-bound and must confront the fact that pushing harder did not make him more useful.
