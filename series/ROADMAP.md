@@ -144,7 +144,7 @@ Result:
 **CANON PASS / PUBLICATION-READINESS REVISION REQUIRED**
 
 Priority final-prose queue:
-CH-017, CH-018, CH-019, CH-020.
+CH-018, CH-019, CH-020.
 
 Future arc selection remains unlocked until the user chooses to proceed; this editorial pass does not alter canon.
 
@@ -153,7 +153,7 @@ CH-005 final prose revalidation:
 **PASS — PUBLICATION-FINAL**
 
 Next editorial step:
-**CH-017 — Same Count, Same Time → Final Prose Development Pass → Gate 9 Revalidation**
+**CH-018 — Let Go on Three → Final Prose Development Pass → Gate 9 Revalidation**
 
 
 CH-010 final prose revalidation:
@@ -189,3 +189,10 @@ CH-015 final prose revalidation:
 
 Next editorial step:
 **CH-017 — Same Count, Same Time → Final Prose Development Pass → Gate 9 Revalidation**
+
+
+CH-017 final prose revalidation:
+**PASS — PUBLICATION-FINAL**
+
+Next editorial step:
+**CH-018 — Let Go on Three → Final Prose Development Pass → Gate 9 Revalidation**
