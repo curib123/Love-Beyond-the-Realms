@@ -192,3 +192,75 @@ A later twist may reinterpret established information but may not silently rewri
 - character knowledge;
 - published observations;
 - protected ordinary events.
+
+
+# 16. Current Canon State — Through CH-002
+
+**Latest Canon Chapter:** CH-002 — There Is a Boy in My Apartment
+
+## Lily
+
+Knowledge:
+- an unknown young man appears inside locked Unit 4B;
+- he appears physically real to her;
+- he does not visually track her;
+- he can hear her spoken voice;
+- his attention follows sound rather than her visible body.
+
+Still unknown:
+- his name;
+- whether he is alive, a ghost, hallucination, or something else;
+- where he is physically located;
+- why perception is asymmetric;
+- Velaire;
+- Echo Exchange;
+- Phase Lag;
+- Twinfall;
+- mirrorstone.
+
+## Max
+
+On-page reader-accessible knowledge from Lily POV only:
+- he hears an unexpected female voice at CH-002's endpoint;
+- he does not visually identify Lily.
+
+His internal interpretation is reserved for CH-003 Max POV.
+
+## Relationship
+
+**R0 — Unknown Presence**
+
+They are mutually aware only at the sensory level.
+
+They have not yet completed a mutual reality test.
+
+## Perception / Contact / Crossing
+
+- **P0 — Bleed**
+  - Lily sees/hears Max.
+  - Max hears Lily.
+  - Max does not visually see Lily.
+- **C0 — None**
+- **X0 — Observation**
+
+## Mystery
+
+- **M-001 ACTIVE**
+- **M-002 ACTIVE — first observable asymmetry**
+- M-003 through M-011 not advanced by CH-002.
+
+## Foreshadowing
+
+All F-IDs remain:
+
+**PLANNED — NOT YET PLANTED**
+
+## Continuity Guard for CH-003
+
+CH-003 may begin from Max's reaction to Lily's voice.
+
+It must not:
+- replay CH-002 in full from Max's POV;
+- grant P1;
+- reveal Lily visually to Max;
+- reveal protected dimensional history.
