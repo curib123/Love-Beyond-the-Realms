@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-003 CANON-APPROVED — CH-004 GATE 8 NEXT
+**Status:** CH-004 CANON-APPROVED — CH-005 GATE 8 NEXT
 
 # Series Length
 
@@ -111,11 +111,11 @@ MT-003 Their Experiments Strengthen the Leak:
 
 Pre-v2 CH-001/CH-002 are superseded.
 
-CH-001 through CH-003 v2 are canon-approved.
+CH-001 through CH-004 v2 are canon-approved.
 
 # Next Authorized Step
 
-**CH-004 — The Other Tenant → Detailed Scene Architecture → Gate 8.**
+**CH-005 — Tap Twice If You're Real → Detailed Scene Architecture → Gate 8.**
 
 Gate 1 v2 record:
 `qa/FOUNDATION-QA-V2.md`
