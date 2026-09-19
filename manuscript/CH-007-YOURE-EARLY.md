@@ -265,11 +265,15 @@ A line appeared behind him.
 
 YOU'RE EARLY.
 
-Max stopped halfway through turning away.
+Max stopped halfway out of the chair.
 
-He looked back at the page.
+He looked back.
 
-The message had arrived after the window looked finished.
+The page had been blank a second ago.
+
+Now:
+
+**YOU'RE EARLY.**
 
 He laughed under his breath.
 
@@ -287,7 +291,7 @@ Useful result.
 
 Enough for one day.
 
-He looked at Lily's delayed sentence one last time.
+Max closed the notebook, then opened it again just to look at Lily's delayed sentence one last time.
 
 "You're early," he repeated.
 
