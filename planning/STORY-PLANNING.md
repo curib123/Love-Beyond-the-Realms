@@ -1229,6 +1229,32 @@ Locked architecture:
 Chapter count:
 **UNLOCKED — GATE 7 ONLY**
 
-# 86. Next Production Step
+# 86. Gate 7 — Shared Foundations Arc Chapter Roadmap
 
-**Gate 7 — Shared Foundations Arc Chapter Roadmap QA**
+Roadmap:
+`planning/SHARED-FOUNDATIONS-CHAPTER-ROADMAP.md`
+
+QA:
+`qa/SHARED-FOUNDATIONS-CHAPTER-ROADMAP-QA.md`
+
+Result:
+**PASS — QA-LOCKED**
+
+Locked:
+- 14 active-arc chapters;
+- CH-021–CH-034;
+- midpoint CH-027 — Same Mark;
+- reversal CH-029 — Too Synchronized;
+- climax CH-032–CH-033 — blind independent survey / mismatch;
+- aftermath CH-034 — Friends, Apparently.
+
+# 87. Arc 2 Production Ledger
+
+`qa/SHARED-FOUNDATIONS-PRODUCTION-LEDGER.md`
+
+Status:
+**ACTIVE PRODUCTION — CH-021 GATE 8 NEXT**
+
+# 88. Next Production Step
+
+**CH-021 — The Inspection Notice → Detailed Scene Architecture → Gate 8**
