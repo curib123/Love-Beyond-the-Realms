@@ -348,7 +348,7 @@ That somehow made everything worse.
 
 A strange message was one thing.
 
-A strange message with attitude was another.
+A strange message that talked back was worse.
 
 She looked under the desk.
 
@@ -404,4 +404,6 @@ Lily looked at the empty space beneath her own handwriting.
 
 "Okay," she said quietly. "New problem."
 
-That changed everything.
+Her pen was still in her hand.
+
+This time, she didn't put it down.
