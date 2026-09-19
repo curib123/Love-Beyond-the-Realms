@@ -19,10 +19,10 @@ The arc is structurally complete and all 20 chapters have canonical story conten
 - 20/20 v2 Gate 9 records present.
 - 20/20 chapters now contain the intended four scene sections / three explicit scene breaks.
 - 0 manuscript files contain DRAFT, TODO, TBD, PLACEHOLDER, or INSERT HERE markers.
-- Total current manuscript size by repository tokenized word-count method: approximately **17,076 words**.
+- Total current manuscript size by repository tokenized word-count method: approximately **18,058 words**.
 - Writing Rules default: approximately **1,400–2,400 words per chapter**, explicitly flexible and not a quota.
-- 18/20 chapters are below 1,400 words.
-- 15/20 chapters are below 900 words.
+- 17/20 chapters are below 1,400 words.
+- 14/20 chapters are below 900 words.
 
 Length alone is **not** a failure. The concern is where a major emotional/relationship/mystery milestone is compressed enough that it reads more like a finished scene sequence than a fully developed web-novel chapter.
 
@@ -67,7 +67,7 @@ Old CH-012 draft-stage records and pre-Gate-7 provisional language are now expli
 | CH-002 | 1,200 | PASS after boundary fix | **FINAL-PASS** | Complete escalation from anomaly to intentional reply; now matches four-scene architecture. |
 | CH-003 | 1,077 | PASS | **FINAL-PASS** | Max introduction, phase-bound state, independent-response test, emotional endpoint complete. |
 | CH-004 | 716 | PASS | **PASS — SHORT FORM** | Narrow correspondence chapter; complete function, but substantially below default length. |
-| CH-005 | 839 | PASS | **REVISION REQUIRED — MILESTONE COMPRESSION** | First mutual reality proof, first voice, M-001 resolution and R1 transition occur too quickly for their importance. |
+| CH-005 | 1,821 | **PASS — REVALIDATED** | **FINAL-PASS** | Final prose development gives the mutual-reality proof, first voice, M-001 resolution, and R1 transition full milestone weight without canon drift. |
 | CH-006 | 871 | PASS | **PASS — SHORT FORM** | Ordinary-life/Ava boundary chapter has a focused, complete change. |
 | CH-007 | 657 | PASS | **PASS — SHORT FORM** | Intentionally narrow timing experiment; functional but very short. |
 | CH-008 | 813 | PASS | **PASS — SHORT FORM** | Controlled object-state experiment and F-002 plant are complete, though concise. |
@@ -114,11 +114,20 @@ Major twists:
 - MT-002 UNREVEALED
 - MT-003 UNREVEALED
 
+# Completed Final-Prose Revalidations
+
+## CH-005 Final Prose Revalidation
+- milestone-compression issue corrected;
+- current manuscript: **1,821 words**;
+- Gate 9 revalidation: **PASS**;
+- publication readiness: **FINAL-PASS**;
+- canon unchanged.
+
 # Required Final-Prose Revision Queue
 
 Priority revision chapters:
 
-**CH-005 → CH-010 → CH-011 → CH-013 → CH-014 → CH-015 → CH-017 → CH-018 → CH-019 → CH-020**
+**CH-010 → CH-011 → CH-013 → CH-014 → CH-015 → CH-017 → CH-018 → CH-019 → CH-020**
 
 Revision rule:
 - preserve canon exactly;
