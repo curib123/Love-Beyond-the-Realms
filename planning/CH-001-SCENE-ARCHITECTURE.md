@@ -3,12 +3,12 @@
 **Chapter ID:** CH-001  
 **Arc:** AH-ARC-001 — Aster House Arc  
 **Gate:** 8 — Pre-Manuscript Scene QA  
-**Architecture Status:** GATE 8 CANDIDATE — NOT YET QA-LOCKED  
+**Architecture Status:** GATE 8 PASS — QA-LOCKED  
 **POV Owner:** **LILY ONLY**  
 **Primary Location:** LOC-001 Aster House / LOC-002 Unit 4B  
 **Relationship State:** R0 — Unknown Presence  
 **System State:** P0 Bleed / C0 No Contact / X0 Observation  
-**Manuscript Status:** NOT AUTHORIZED UNTIL GATE 8 PASSES
+**Manuscript Status:** **AUTHORIZED FOR CH-001 DRAFT**
 
 # 1. Chapter Function
 
