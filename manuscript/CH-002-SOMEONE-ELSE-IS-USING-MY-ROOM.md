@@ -158,6 +158,8 @@ Lily exhaled. The window had been four seconds. The marks had appeared once. May
 
 She picked up the paper.
 
+---
+
 A faint gray stroke appeared beneath her question.
 
 Lily stopped moving.
