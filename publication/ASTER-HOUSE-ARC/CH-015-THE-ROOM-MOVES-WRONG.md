@@ -1,12 +1,12 @@
 # CH-015 — The Room Moves Wrong
 
-Room 17 had decided that corners were optional.
+Room 17 had apparently decided corners were optional.
 
-Max stood beside the worktable and looked at the far wall.
+Max stood beside the worktable and stared at the far wall.
 
-The wall itself was real.
+The real wall was where it belonged.
 
-The second version of it, half a handspan to the left, was not supposed to be there.
+The second version, half a handspan to the left, was not.
 
 He blinked.
 
@@ -14,39 +14,35 @@ Both remained.
 
 The false edge did not behave like a reflection.
 
-It did not disappear when he changed angle.
+It did not vanish when he changed angle.
 
-It simply occupied almost the same place as the real wall, like the room had remembered two slightly different answers and refused to choose between them.
+It simply occupied almost the same place as the real wall, like the room had remembered two answers and refused to choose.
 
-"Good," Max said. "We have improved the room by giving it choices."
+"Good," Max said. "We've improved architecture by adding options."
 
-The joke sounded weak.
+The joke landed badly.
 
-That was annoying.
+That annoyed him almost as much as the wall.
 
-The writing patch had been quiet for almost a minute.
-
-Max checked the timer.
+The writing patch had been quiet for nearly a minute.
 
 Forty-eight seconds.
 
-The last message from Lily had taken nearly that long.
+Lily's last message had taken almost that long.
 
-When the gray marks finally appeared, they did not land in the usual center of the patch.
-
-They formed slightly lower.
+When gray marks finally appeared, they formed lower than usual.
 
 **DO NOT MOVE ANYTHING.**
 
-A second copy of the same sentence appeared several inches beneath the first.
+A second copy appeared several inches beneath it.
 
-Max's hand froze over the notebook.
+Max froze.
 
-He checked the timestamp Lily had included.
+He checked the timestamp.
 
-The first message had arrived thirty-eight seconds after she wrote it.
+First message: thirty-eight seconds late.
 
-The duplicate appeared twelve seconds later.
+Duplicate: twelve seconds after that.
 
 Late.
 
@@ -56,29 +52,25 @@ Still late.
 
 No pre-echo.
 
-At least causality was keeping one promise.
+At least causality had kept one promise.
 
-Max wrote:
+He wrote:
 
-**TWO COPIES. FIRST AT +38. SECOND +50.**
-
-He watched the patch.
+**TWO COPIES. FIRST +38. SECOND +50.**
 
 Nothing.
 
-He looked toward the doorway.
+Max looked toward the doorway.
 
-The physical frame remained where it belonged.
+The real frame stayed fixed.
 
-The false version sat several inches to the left.
+The false one sat left of it.
 
 For half a second, both showed the normal Larkspur corridor.
 
-Then the false frame flickered.
+Then the false opening darkened.
 
-Its interior darkened.
-
-Max took one step sideways to improve the angle.
+Max shifted one step sideways for a better angle.
 
 The false opening shifted with him.
 
@@ -86,7 +78,7 @@ Not a reflection.
 
 Not good.
 
-A message appeared.
+A message arrived.
 
 **SAME HERE. DO NOT CORRECT ANYTHING YET.**
 
@@ -96,31 +88,25 @@ He should wait.
 
 That was the correct answer.
 
-He had already learned what happened when he treated every problem as a personal challenge.
-
 The compass sat beside his hand.
 
-If he could isolate the offset on Room 17's side—
+If he could isolate the offset—
 
 No.
 
-Lily's message was clear.
+Lily's instruction was clear.
 
 He wrote:
 
 **I'M GOING TO TRY A LOCAL CORRECTION.**
 
-Then he waited.
+Then waited.
 
 Nothing.
 
 The silence stretched.
 
-The doorway flickered again.
-
-For half a second, the false opening showed the normal corridor.
-
-Then its frame shifted farther left while the actual doorway stayed fixed.
+The false frame shifted farther left.
 
 Max stared.
 
@@ -134,11 +120,11 @@ One word.
 
 **NO.**
 
-Max looked at it.
+Max looked at the compass.
 
-Then at the compass.
+Then at the word.
 
-"Compelling argument."
+"Compelling."
 
 He knew exactly what Lily would say if she could see his face.
 
@@ -152,9 +138,9 @@ He picked up the compass.
 
 The solo correction lasted seven seconds.
 
-That was six seconds too long.
+Six too many.
 
-Max aligned the compass with the original Room 17 wall grid and forced himself to ignore the doubled edge in his vision.
+Max aligned the compass with the original Room 17 wall grid and ignored the doubled edge in his vision.
 
 He did not strengthen the field.
 
@@ -162,7 +148,7 @@ He did not attempt a full calibration.
 
 Just one local adjustment.
 
-That was how he described it to himself.
+That was how he justified it.
 
 The calibration ring turned beneath his thumb.
 
@@ -184,19 +170,17 @@ The room punished the optimism immediately.
 
 The floor tilted sideways without physically moving.
 
-Max's body reacted before his mind could.
+Max's body reacted before his mind did.
 
-His balance failed even though both feet remained flat.
+His balance failed.
 
-He caught the worktable.
+He caught the table.
 
-The spatial compass vibrated in his hand.
+The compass vibrated hard enough to sting his palm.
 
-Hard.
+A high metallic whine cut through the room.
 
-The metal housing produced a high, ugly sound Max had never heard from it before.
-
-He released the ring.
+Max released the ring.
 
 The false floor vanished.
 
@@ -204,55 +188,65 @@ The doubled wall returned.
 
 Pain hit behind both eyes.
 
-Max lowered himself into the chair.
-
-His stomach rolled.
-
-The compass continued humming for another second, then stopped.
+He lowered himself into the chair.
 
 The writing patch brightened.
 
 **WHAT DID YOU DO?**
 
-The letters were darker than usual.
+The letters looked darker than usual.
 
-Or Max's vision was worse.
+Or his vision was worse.
 
 He wrote:
 
 **SMALL CORRECTION.**
 
-The reply took nearly a minute.
+Nothing.
+
+Max rubbed both eyes.
+
+Then Lily's answer appeared.
 
 **THAT WAS NOT THE AGREEMENT.**
+
+He wrote:
+
+**I KNOW.**
+
+Her reply came faster than the others.
+
+**THEN WHY DID YOU DO IT?**
+
+Max's pen hovered.
+
+There were several technically accurate answers.
+
+None of them were good.
 
 He knew that.
 
 He disliked knowing that.
 
-He rubbed his eyes.
-
-The urge to defend himself arrived instantly.
+The defense arrived automatically.
 
 He had not opened the door.
 
-He had not increased contact.
+Had not increased contact.
 
-He had only tried to reduce the offset.
+Had only tried to reduce the offset.
 
-Useful action.
+Reasonable.
 
-Reasonable action.
+Useful.
 
-The kind of explanation he had become very good at producing after the fact.
+Exactly the kind of explanation he was very good at producing after a bad decision.
 
 Max wrote:
 
 **I CAN HANDLE MY SIDE. DISCONNECT FOR NOW.**
 
-The answer did not come.
-
-He waited.
+No answer.
 
 Ten seconds.
 
@@ -260,41 +254,33 @@ Twenty.
 
 Thirty.
 
-Max exhaled.
-
-Good.
+He exhaled.
 
 Maybe she had listened.
 
-Maybe reducing activity on Earth would make this easier to contain here.
+Maybe less Earth-side activity would make this easier to contain.
 
 Maybe—
 
-The letters formed.
-
 **NO.**
 
-He closed his eyes.
+Max closed his eyes.
 
 Of course.
 
-A second line appeared much later.
+Another line arrived much later.
 
 **MY SIDE IS STILL WRONG.**
 
-Max stared at it.
+That ruined the argument.
 
-That complicated the argument.
+Logically.
 
-He did not like arguments that reality won.
+Which was worse.
 
 ---
 
-The audio channel opened badly.
-
-Not as a smooth hiss.
-
-In fragments.
+Audio opened in fragments.
 
 Static.
 
@@ -302,7 +288,7 @@ Then Lily's voice.
 
 "Max—"
 
-Silence.
+Gone.
 
 He leaned toward the table.
 
@@ -322,17 +308,15 @@ Max straightened.
 
 "What door?"
 
-No response.
-
-He watched the timer.
+No answer.
 
 Thirty seconds.
 
 Forty.
 
-The false doorway in Room 17 shifted again.
+The false doorway shifted again.
 
-For one moment, the inside of it showed something that was not the Larkspur corridor.
+For one moment, its interior showed something that was not Larkspur.
 
 A narrow hallway.
 
@@ -340,15 +324,11 @@ Painted walls.
 
 Warm light.
 
-Not Velaire architecture.
-
 Earth.
 
 Probably.
 
-Max stayed where he was.
-
-Every instinct he had wanted to move closer.
+Every instinct told Max to move closer.
 
 Better angle.
 
@@ -356,19 +336,15 @@ Better observation.
 
 Useful data.
 
-He did not.
+He stayed where he was.
 
-Finally Lily's next words came through.
+Finally Lily's voice came back.
 
 "Front door. Outline doesn't match the wall."
 
-Max's chest tightened.
+Max looked at his own doorway.
 
-He looked toward his own doorway.
-
-The false frame had moved farther from the real one.
-
-Both openings occupied the same section of wall and somehow did not.
+The false frame had shifted farther from the real one.
 
 "Lily, don't open it."
 
@@ -378,39 +354,35 @@ He wrote the same thing.
 
 **DO NOT OPEN THE DOOR.**
 
-The writing vanished before he knew whether it crossed.
+The writing vanished before he knew if it crossed.
 
-Then another message appeared.
+Then a new message appeared.
 
 **YOU DON'T GET TO DECIDE THIS ALONE.**
 
 Max stared.
 
-A second line followed forty-seven seconds later.
+A second line arrived forty-seven seconds later.
 
 **MY ROOM IS STILL WRONG TOO.**
 
-That killed the argument.
+That killed his position.
 
 Not emotionally.
 
 Logically.
 
-Which was worse.
+If Unit 4B was still unstable after his correction, he had not isolated anything.
 
-If Unit 4B remained unstable after Max's local correction, then he had not isolated the risk.
-
-He had only changed one part of a coupled problem.
-
-He wrote:
+He had only changed one part of a shared problem.
 
 **I WAS TRYING TO KEEP IT ON THIS SIDE.**
 
 The answer took almost a minute.
 
-**THAT IS NOT HOW THIS HAS WORKED ONCE.**
+**MAX. THAT IS NOT HOW THIS HAS WORKED ONCE.**
 
-Max looked away.
+He looked away.
 
 Annoying.
 
@@ -420,39 +392,49 @@ Again.
 
 He wrote:
 
-**IF I CAN FIX ROOM 17, YOUR SIDE MAY FOLLOW.**
+**IF I FIX ROOM 17, YOUR SIDE MIGHT FOLLOW.**
 
-Lily's response:
+Lily answered:
 
-**AND IF YOU MAKE ROOM 17 WORSE, MINE MAY FOLLOW.**
+**MIGHT.**
 
-Max did not answer.
+Then:
+
+**AND IF YOU MAKE ROOM 17 WORSE?**
+
+Max did not write anything.
+
+A final line appeared.
+
+**MINE MIGHT FOLLOW TOO.**
+
+He hated the word because it was his own logic turned around.
 
 The false hallway flickered.
 
-For a second, he saw Earth-side warm light again.
+Earth-side warm light again.
 
 No person.
 
 No movement.
 
-Just enough to make curiosity painful.
+Nothing worth approaching.
 
-He stepped back.
+Max stepped back.
 
-The writing patch brightened.
+The patch brightened.
 
 **STOP TRYING TO TAKE THE RISK BY YOURSELF.**
 
-Max read the sentence.
+He read it.
 
-He wanted to object.
+Wanted to object.
 
 He had a family.
 
 A reason to be desperate.
 
-A room he had been trapped inside far longer than Lily had dealt with Unit 4B.
+A room he had been trapped in longer than Lily had known Unit 4B was strange.
 
 None of that gave him the right to decide what happened to her apartment.
 
@@ -460,23 +442,19 @@ Or her door.
 
 Or her body.
 
-He could not take responsibility for a shared problem by making the other person blind to it.
+He could not call it responsibility if the other person had no choice.
 
-That was not responsibility.
-
-That was control wearing better clothes.
+That was control in better clothing.
 
 Max sat down.
 
-He moved the compass to the far side of the worktable.
+Moved the compass to the far side of the table.
 
-Then pushed it farther away.
-
-He wrote:
+Then farther.
 
 **NO MORE CORRECTIONS.**
 
-Lily's answer arrived late.
+Lily answered late.
 
 **GOOD.**
 
@@ -488,7 +466,7 @@ They spent the next half hour doing almost nothing.
 
 That was harder than any experiment.
 
-No adjustments.
+No adjustment.
 
 No mirror calibration.
 
@@ -496,13 +474,11 @@ No key alignment.
 
 No compass correction.
 
-No trying to improve the problem while pretending improvement and action were the same thing.
-
 Only observation.
 
-Max marked the real doorway in his notebook.
+Max marked the real doorway.
 
-Then the false doorway.
+Then the false one.
 
 Measured the offset.
 
@@ -510,7 +486,7 @@ Waited.
 
 Measured again.
 
-Lily sent her own observations whenever the writing patch cooperated.
+Lily sent her own observations whenever the patch cooperated.
 
 **DOOR OUTLINE LEFT OF FRAME.**
 
@@ -518,13 +494,13 @@ Twenty-eight seconds later:
 
 **NOW CLOSER.**
 
-Another minute:
+Then:
 
 **LIGHT UNDER DOOR NORMAL. OUTLINE STILL WRONG.**
 
 Max recorded the timestamps.
 
-The delays were terrible.
+Delays were awful.
 
 Twenty seconds.
 
@@ -532,25 +508,21 @@ Forty.
 
 Once, more than a minute.
 
-One of Lily's messages arrived twice.
+One message arrived twice.
 
-The duplicate came after the original.
+Duplicate after original.
 
 Still no pre-echo.
 
-Max wrote that down too.
+Time distorted through delay.
 
-Important.
+Not reversal.
 
-Whatever was wrong, time was distorted through delay.
-
-Not reversed.
-
-That distinction might matter later.
+Important later.
 
 Not now.
 
-The geometry slowly stopped getting worse.
+The geometry stopped getting worse.
 
 Not better.
 
@@ -558,13 +530,13 @@ Just not worse.
 
 That counted.
 
-Max's headache eased to a dull pressure.
+Max's headache eased.
 
 The false wall edge stopped drifting.
 
 The doorway still sat wrong.
 
-Eventually Lily's writing appeared.
+Then Lily wrote:
 
 **NEW RULE.**
 
@@ -572,21 +544,17 @@ Max answered:
 
 **I HAVE SEVERAL SUGGESTIONS.**
 
-Her reply:
-
 **IF A DOOR LOOKS WRONG, DON'T OPEN IT.**
 
-Max looked toward the shifted doorway.
-
-He wrote:
+Max looked toward the shifted frame.
 
 **AGREED.**
 
-Another line arrived.
+Another line followed.
 
-**EVEN IF IT LOOKS LIKE THE OTHER ROOM.**
+**EVEN IF IT LOOKS LIKE MY SIDE.**
 
-He hesitated.
+His hand stopped.
 
 That one hurt more.
 
@@ -598,63 +566,63 @@ Rule first.
 
 Curiosity later.
 
-He wrote:
-
 **AGREED.**
 
-Then added:
+The next message appeared almost immediately.
 
-**YOU TOO.**
+**THAT RULE INCLUDES ME.**
 
-The reply:
+Max frowned.
 
-**OBVIOUSLY.**
+**I KNOW.**
 
-Max stared at it.
+**YOU PAUSED.**
 
-**I'M SERIOUS.**
+He stared at the page.
+
+**I WAS THINKING.**
+
+**THAT IS WHAT WORRIES ME.**
+
+Despite everything, a breath of laughter escaped him.
+
+He wrote:
+
+**YOU TOO. IF IT LOOKS LIKE ROOM 17, YOU DON'T OPEN IT.**
 
 A pause.
 
-**SO AM I.**
+**AGREED.**
+
+That answer settled something the first rule had not.
 
 The false frame flickered.
 
-For one second, he saw the narrow Earth-side hall again.
+For one second, the Earth-side hall appeared again.
 
 Warm light.
 
 Painted wall.
 
-A shape that might have been a coat rack or shadow.
-
-Nothing worth approaching.
+A shape that might have been a coat rack.
 
 Nothing worth breaking the rule.
 
 Max stayed where he was.
 
-The writing patch shifted slightly upward.
-
 Lily wrote:
 
 **WE WATCH. WE DON'T TOUCH.**
 
-Max answered:
-
 **AGREED.**
 
-He placed both hands flat on the table.
+Max placed both hands flat on the table.
 
 The room remained wrong.
 
 But stable wrong.
 
 For now.
-
-That mattered.
-
-Max looked at the doorway.
 
 Every part of him wanted to solve it.
 
@@ -668,4 +636,4 @@ He did none of those things.
 
 The room moved wrong.
 
-He did not.
+Max did not.
