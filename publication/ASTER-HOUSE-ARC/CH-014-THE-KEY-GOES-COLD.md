@@ -176,8 +176,6 @@ That pulled the smallest smile out of him.
 
 "Fair."
 
-"Good."
-
 The audio crackled.
 
 The visual link was narrow but unusually clear.
@@ -450,15 +448,13 @@ Static.
 
 Lily closed her eyes for one second.
 
-They had obeyed the rule.
+They had stopped when they said they would.
 
-The result had not.
-
-That mattered.
+The room hadn't.
 
 The test was over.
 
-The effect was not.
+Whatever they'd started wasn't.
 
 She opened her eyes.
 
