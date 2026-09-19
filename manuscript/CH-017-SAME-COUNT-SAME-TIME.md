@@ -108,7 +108,9 @@ Max considered denying it.
 
 **I NOTICED.**
 
-That felt worse than praise and better than he wanted it to.
+He stared at that for a second.
+
+"Rude."
 
 ---
 
@@ -236,9 +238,9 @@ A pause.
 
 Max looked toward the false doorway.
 
-Waiting felt harder than doing.
+Waiting was worse than doing.
 
-Another lesson he did not want.
+Max hated that lesson on principle.
 
 ---
 
