@@ -76,19 +76,36 @@ Check:
 
 # Gate 5 — Active Arc Selection QA
 
-Check:
+Universal checks:
 - exactly one active arc;
-- location supports romance, comedy, mystery and sci-fi;
-- relationship stage fits;
-- local stakes can resolve;
+- location cluster supports romance, comedy, mystery, character drama and sci-fi;
+- current relationship stage fits;
+- Lily and Max can both remain active POV protagonists;
+- local stakes can resolve without solving the series;
 - future arcs remain open;
 - protected major truths remain protected;
-- selected cluster supports **room-before-person** discovery;
-- selected cluster supports both Lily and Max as active POV protagonists;
-- P0 Echo Trace works without direct person sight;
-- M-001/M-002 can progress locally without revealing MT-001/002/003;
 - ordinary-life supporting locations can remain in use without becoming separate active arcs;
-- Gate 5 does not lock chapter count, midpoint, climax, or next arc.
+- selected locations obey current mobility/knowledge limits;
+- Gate 5 does not lock chapter count, midpoint, climax, exact clue placement, or the following arc.
+
+## Opening-Arc Additional Checks
+
+Apply only when selecting the opening arc:
+- selected cluster supports **room-before-person** discovery;
+- P0 Echo Trace works without direct person sight;
+- M-001/M-002 can progress locally without revealing MT-001/002/003.
+
+## Post-Opening Additional Checks
+
+Apply after the opening arc has completed:
+- do **not** reset Lily and Max to strangers or repeat the room-before-person discovery;
+- inherit the current relationship/perception/contact/crossing state from canon;
+- the new arc introduces a genuinely new local question or location pressure rather than replaying the opening;
+- unresolved M-IDs may progress only through authorized evidence paths;
+- protected F-IDs remain unplanted until manuscript prose exists;
+- reserved locations may be selected only within their reveal-protection rules;
+- Max's phase-bound mobility remains binding unless a later system update explicitly changes it;
+- Gate 5 selection alone does not authorize Mina POV, major-twist reveals, crossing, touch, or a new perception tier.
 
 # Gate 6 — Active Arc Architecture QA
 
