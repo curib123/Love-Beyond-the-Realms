@@ -134,9 +134,9 @@ Not a crossing attempt. Not contact.
 
 A stronger spatial reading.
 
-His compass already helped hold Max's side steady. Lily's brass apartment key behaved like an anchor in earlier observations, and the repaired mirror could provide a known P1 reference.
+His compass already helped hold Max's side steady, and the repaired mirror could provide a known P1 reference. On Lily's side, they needed one small object tied to the apartment that could be placed and removed without shifting furniture. The brass key was the obvious candidate—not because they knew what it would do, but because it was simple, portable, and easy to take out of the setup.
 
-If they aligned all three with the same count, Max might be able to tell whether his phase-bound state had a direction.
+If they aligned the compass, mirror, and key position with the same count, Max might be able to tell whether his phase-bound state had a direction.
 
 Toward somewhere. Toward someone.
 
