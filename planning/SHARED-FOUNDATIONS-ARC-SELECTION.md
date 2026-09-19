@@ -3,7 +3,7 @@
 **Arc ID:** SF-ARC-002  
 **Working Name:** Shared Foundations Arc  
 **Selection Level:** Gate 5 only  
-**Status:** GATE 6 QA-LOCKED — GATE 7 NEXT  
+**Status:** GATE 7 QA-LOCKED — CH-021 GATE 8 NEXT  
 **Date:** 2026-09-19
 
 # 1. Starting Canon
@@ -330,6 +330,23 @@ Result:
 Chapter count remains:
 **UNLOCKED — GATE 7 ONLY**
 
-# 14. Next Authorized Step
+# 14. Gate 7 Chapter Roadmap Lock
 
-**Gate 7 — Shared Foundations Arc Chapter Roadmap QA**
+Roadmap:
+`planning/SHARED-FOUNDATIONS-CHAPTER-ROADMAP.md`
+
+QA:
+`qa/SHARED-FOUNDATIONS-CHAPTER-ROADMAP-QA.md`
+
+Result:
+**PASS — QA-LOCKED**
+
+Locked active-arc chapter count:
+**14**
+
+Locked chapter range:
+**CH-021–CH-034**
+
+# 15. Next Authorized Step
+
+**CH-021 — The Inspection Notice → Detailed Scene Architecture → Gate 8**
