@@ -78,6 +78,33 @@ Distribution:
 
 A chapter may contain more than one scene only when scene boundaries are explicit. No scene may head-hop.
 
+# 3A. Arc 2 Chapter Genre Rule — QA LOCK
+
+Every CH-021–CH-034 chapter must preserve the series identity:
+
+**Romantic Comedy / Romance first → Slice of Life → Mystery → Sci-Fi**
+
+This does not require equal page percentages.
+
+It requires **narrative priority**.
+
+For every chapter roadmap implementation:
+
+1. the technical/mystery objective must create or pressure a Lily/Max relationship beat;
+2. at least one ordinary-life or personal constraint must remain visible when naturally available;
+3. comedy should come from character/circumstance when the scene allows it;
+4. danger may suppress comedy but must deepen trust, boundaries, care, disagreement, or emotional understanding;
+5. system exposition must remain subordinate to the scene;
+6. no chapter may exist only to collect dimensional data.
+
+Minimum chapter-level requirement:
+
+**Each chapter must produce at least one relationship, chemistry, ordinary-life, or emotional change in addition to any mystery/sci-fi change.**
+
+For technical-heavy chapters CH-023–CH-033, Gate 8 and Gate 9 must explicitly check that Lily and Max remain recognizable as **roommates becoming friends**, not generic investigators.
+
+CH-021 is already canon-approved and satisfies this rule.
+
 # 4. Chapter Roadmap
 
 ## CH-021 — The Inspection Notice
