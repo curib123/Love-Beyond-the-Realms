@@ -422,3 +422,26 @@ Max's safe-range survey must primarily prove that he can respect the Lily/Max bo
 # Current Next Authorized Step
 
 **CH-022 — The Safe Distance → Manuscript Draft**
+
+
+# Aster House Dialogue Vitality Pass
+
+QA:
+`qa/ASTER-HOUSE-DIALOGUE-VITALITY-REVALIDATION.md`
+
+Result:
+**PASS — PUBLICATION-FINAL**
+
+All Arc 1 chapters were reviewed for living dialogue, subtext, reaction beats, and non-robotic conversation rhythm.
+
+Canon:
+**UNCHANGED**
+
+Publication master:
+`publication/ASTER-HOUSE-ARC-PUBLISH-MANUSCRIPT.md`
+
+Future chapters must follow the same dialogue-vitality rules.
+
+# Current Next Authorized Step
+
+**CH-022 — The Safe Distance → Manuscript Draft**
