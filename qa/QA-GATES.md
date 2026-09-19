@@ -105,7 +105,13 @@ Before chapter roadmap:
 - climax is causally earned;
 - aftermath exists;
 - major twist ceiling defined;
-- final series ending remains unlocked.
+- final series ending remains unlocked;
+- exact early writing-surface pair is locked;
+- written-channel bandwidth/duration limits are defined;
+- audio progression is bounded;
+- P1 reciprocity/directionality is defined;
+- Max's phase-bound mobility is explicit;
+- no architecture claim treats one note as proof of a living person.
 
 Only after Gate 6 may the active arc chapter count be set.
 
