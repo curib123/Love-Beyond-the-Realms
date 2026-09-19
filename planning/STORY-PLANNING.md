@@ -773,3 +773,22 @@ Canon:
 # 51. Next Production Step
 
 **CH-017 — Same Count, Same Time → Detailed Scene Architecture → Gate 8**
+
+
+# 52. CH-017 Canon Record
+
+Gate 9:
+`qa/CH-017-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- coordinated neutral-state timing reduces mismatch;
+- no new power;
+- final shutdown plan established;
+- R1 / narrow P1 / C0 / X0.
+
+# 53. Next Production Step
+
+**CH-018 — Let Go on Three → Detailed Scene Architecture → Gate 8**
