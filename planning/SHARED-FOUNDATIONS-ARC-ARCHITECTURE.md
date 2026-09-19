@@ -3,7 +3,7 @@
 **Arc ID:** SF-ARC-002  
 **Working Name:** Shared Foundations Arc  
 **Production Level:** Gate 6 Architecture  
-**Status:** QA CANDIDATE  
+**Status:** GATE 6 QA-LOCKED  
 **Chapter Count:** UNLOCKED — GATE 7 ONLY  
 **Date:** 2026-09-19
 
