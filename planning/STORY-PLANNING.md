@@ -205,12 +205,12 @@ Current v2 roadmap:
 `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
 
 Status:
-**CANDIDATE — GATE 7 REVALIDATION REQUIRED**
+**GATE 7 v2 QA-LOCKED — 20 CHAPTERS**
 
 Active-arc chapter count:
-**UNLOCKED AT GATE 5**
+**20 — GATE 7 v2 QA-LOCKED**
 
-The existing v2 20-chapter shape remains a planning candidate only and receives no authority from Gate 5.
+This count applies only to the Aster House Arc.
 
 The old Gate 5/6/7 planning language is superseded where it conflicts with Originality Revision v2.
 
@@ -348,8 +348,25 @@ Architecture locks:
 - Max phase-bound mobility explicit;
 - one note cannot prove a living person.
 
-# 21. Next Production Step
+# 21. Gate 7 v2 Revalidation Record
 
-**Gate 7 — Chapter Roadmap QA Revalidation for Originality Revision v2**
+Formal QA:
 
-Manuscript drafting remains unauthorized until Gate 7 and chapter Gate 8 pass.
+`qa/CHAPTER-ROADMAP-QA-V2.md`
+
+Status:
+
+**PASS — 20 ACTIVE-ARC CHAPTERS LOCKED**
+
+Key corrections:
+- M-001 resolves CH-005;
+- written bandwidth respected;
+- CH-010 Max-only P1;
+- CH-011 reciprocal Lily P1;
+- M-005 partial path fixed at CH-013.
+
+# 22. Next Production Step
+
+**CH-001 — A Place of My Own → Detailed Scene Architecture → Gate 8**
+
+Manuscript drafting remains unauthorized until CH-001 Gate 8 passes.
