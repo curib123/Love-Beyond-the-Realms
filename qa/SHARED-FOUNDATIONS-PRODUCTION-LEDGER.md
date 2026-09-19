@@ -7,13 +7,13 @@
 **Gate 5:** PASS  
 **Gate 6:** PASS — QA-LOCKED  
 **Gate 7:** PASS — QA-LOCKED  
-**Status:** ACTIVE PRODUCTION — CH-022 MANUSCRIPT NEXT  
-**Date:** 2026-09-19
+**Status:** ACTIVE PRODUCTION — CH-022 GATE 9 NEXT  
+**Date:** 2026-09-20
 
 | Chapter | Title | Gate 8 | Manuscript | Gate 9 | Canon |
 |---|---|---|---|---|---|
 | CH-021 | The Inspection Notice | **PASS** | **complete — 1,993 words** | **PASS** | **YES** |
-| CH-022 | The Safe Distance | **PASS** | pending | pending | NO |
+| CH-022 | The Safe Distance | **PASS** | **complete — 1,608 words** | pending | NO |
 | CH-023 | Behind the East Door | pending | pending | pending | NO |
 | CH-024 | Your Measurements Are Wrong | pending | pending | pending | NO |
 | CH-025 | Not to Scale | pending | pending | pending | NO |
@@ -115,9 +115,6 @@ Result:
 Genre lock:
 **PASS — romance/romcom-first execution preserved**
 
-# Next Authorized Step
-
-**CH-022 — The Safe Distance → Manuscript Draft**
 
 
 # CH-021 Movie-Like English Revalidation
@@ -133,6 +130,27 @@ Canon state:
 
 All existing series manuscripts CH-001–CH-021 now use the locked movie-like English / actor-speak prose baseline.
 
+
+
+# CH-022 Manuscript Record
+
+Manuscript:
+`manuscript/CH-022-THE-SAFE-DISTANCE.md`
+
+Status:
+**COMPLETE — 1,608 words**
+
+Prose standard:
+**Movie-like English / actor-speak PASS at draft stage**
+
+Canon:
+**NOT YET — GATE 9 PENDING**
+
+Current state remains provisional until Gate 9:
+**R2 / P0 baseline / controlled P1 available but unused / C0 / X0 / K2**
+
+No M/F state change is authorized before Gate 9.
+
 # Current Next Authorized Step
 
-**CH-022 — The Safe Distance → Manuscript Draft**
+**CH-022 — The Safe Distance → Gate 9 Chapter QA**
