@@ -260,24 +260,24 @@ A mystery becomes ACTIVE, PARTIAL, or RESOLVED only through authorized story eve
 
 # 6A. Current On-Page Mystery State
 
-**Through canonical CH-009 v2**
+**Through canonical CH-010 v2**
 
 | Mystery | State | Canon Basis |
 |---|---|---|
 | M-001 | RESOLVED locally | mutual reality evidence |
-| M-002 | **ACTIVE — STRENGTHENED** | room/reflection state crosses while person-image remains delayed/unusable |
-| M-003 | ACTIVE | CH-008 furniture-state overlap |
-| M-004 | ACTIVE | CH-007 measured delay |
+| M-002 | **PARTIAL** | CH-010 proves person-image can cross under stronger receiver-specific calibration; reciprocity and full rule remain unresolved |
+| M-003 | ACTIVE | furniture-state overlap |
+| M-004 | ACTIVE | measured Phase Lag |
 | M-005–M-011 | UNASKED / protected | no advancement |
 
 Knowledge: **K2**  
 Relationship: **R1**  
-System: **P0 / C0 / X0**
+Perception: **Max P1 / Lily P0 / C0 / X0**
 
 Foreshadowing:
-- **F-001 Mirror Delay — PLANTED CH-009**
-- **F-002 Wrong Furniture — PLANTED CH-008**
-- F-003–F-008 remain NOT YET PLANTED.
+- F-001 PLANTED
+- F-002 PLANTED
+- F-003–F-008 NOT YET PLANTED
 
 # 7. Foreshadowing IDs
 
