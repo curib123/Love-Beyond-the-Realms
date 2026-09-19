@@ -365,8 +365,23 @@ Key corrections:
 - CH-011 reciprocal Lily P1;
 - M-005 partial path fixed at CH-013.
 
-# 22. Next Production Step
+# 22. CH-001 Production Record
 
-**CH-001 — A Place of My Own → Detailed Scene Architecture → Gate 8**
+Gate 8:
+**PASS**
 
-Manuscript drafting remains unauthorized until CH-001 Gate 8 passes.
+Manuscript:
+`manuscript/CH-001-A-PLACE-OF-MY-OWN.md`
+
+Gate 9:
+**PASS — CANON-APPROVED**
+
+Canon change:
+- first environmental Echo Trace observed;
+- M-001 ACTIVE;
+- K0 / R0 / P0 / C0 / X0;
+- no F-ID planted.
+
+# 23. Next Production Step
+
+**CH-002 — Someone Else Is Using My Room → Detailed Scene Architecture → Gate 8**
