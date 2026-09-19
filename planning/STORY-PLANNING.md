@@ -1424,3 +1424,26 @@ Future chapters inherit the Cross-World Writing Channel Vitality Rule from:
 # 100. Current Next Production Step
 
 **CH-022 — The Safe Distance → Manuscript Draft**
+
+
+# 101. Movie-Like English Publication Baseline
+
+Arc 1:
+`qa/ASTER-HOUSE-MOVIE-ENGLISH-REVALIDATION.md`
+
+CH-021:
+`qa/CH-021-MOVIE-ENGLISH-REVALIDATION.md`
+
+Current prose law:
+**natural cinematic novel prose + actor-speak dialogue + simple English**
+
+All existing manuscripts CH-001–CH-021 now follow this baseline.
+
+Canon:
+**UNCHANGED**
+
+Future Gate 8 and Gate 9 enforce this standard through:
+`qa/QA-GATES.md`
+
+Current next production step:
+**CH-022 — The Safe Distance → Manuscript Draft**
