@@ -257,7 +257,12 @@ This is not yet an official romantic relationship.
 ## Arc Status
 **AH-ARC-001 ASTER HOUSE ARC — COMPLETE**
 
-Future arc:
+Next active planning arc:
+**Shared Foundations Arc — GATE 5 PASS**
+
+Starting canon remains this exact state.
+
+Later arcs remain:
 **UNSELECTED / UNLOCKED**
 
-Any next arc must begin from this canon state and pass the normal production gates.
+Shared Foundations must pass Gate 6 before chapter architecture or roadmap production.
