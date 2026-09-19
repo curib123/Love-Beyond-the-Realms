@@ -1,4 +1,9 @@
 > **SUPERSEDED — ORIGINALITY REVISION v2**  
+> This scene architecture belongs to the pre-v2 one-way visual opening.  
+> It is historical only and cannot authorize current manuscript work.  
+> See `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`.
+
+> **SUPERSEDED — ORIGINALITY REVISION v2**  
 > This scene architecture belongs to the pre-v2 opening where Lily directly saw Max.  
 > It is retained only as historical production evidence and must not authorize current manuscript work.  
 > See: `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`
