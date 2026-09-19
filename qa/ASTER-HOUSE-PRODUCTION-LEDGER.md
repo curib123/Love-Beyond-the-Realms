@@ -22,7 +22,7 @@
 | CH-012 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-013 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-014 | PASS v2 | complete | PASS v2 | **YES** |
-| CH-015 | pending | pending | pending | no |
+| CH-015 | PASS v2 | complete | PASS v2 | **YES** |
 | CH-016 | pending | pending | pending | no |
 | CH-017 | pending | pending | pending | no |
 | CH-018 | pending | pending | pending | no |
