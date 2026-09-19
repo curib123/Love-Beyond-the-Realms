@@ -3,7 +3,7 @@
 **Chapter:** Someone Else Is Using My Room  
 **Result:** **PASS**  
 **Canon Status:** **APPROVED**  
-**Word Count:** 1,199  
+**Word Count:** 1,200  
 **Blocking:** 0  
 **Major:** 0 after correction  
 **Minor:** 2
