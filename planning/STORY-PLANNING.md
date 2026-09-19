@@ -306,8 +306,22 @@ Current active documents:
 - `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md` — v2 candidate
 - `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md` — v2 candidate
 
-# 17. Next Production Step
+# 17. Gate 1 v2 Revalidation Record
 
-**Gate 1 — Foundation QA Revalidation (Originality Revision v2)**
+Formal QA:
+
+`qa/FOUNDATION-QA-V2.md`
+
+Status:
+
+**PASS — 2026-09-19**
+
+Foundation corrections:
+- Phase Lag wording now cannot imply early direct person sight;
+- Gate 1 permanently checks room-before-person, P0 Echo Trace, and the prohibition on the superseded one-way visual hook.
+
+# 18. Next Production Step
+
+**Gate 2 — Character QA Revalidation for Originality Revision v2**
 
 Do not draft revised CH-001 or CH-002 until the affected gates are revalidated in order.
