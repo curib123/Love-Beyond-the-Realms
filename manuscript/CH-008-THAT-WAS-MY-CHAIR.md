@@ -224,7 +224,7 @@ Max wrote first.
 
 MY STOOL GREW A WOODEN RUNG.
 
-Lily answered:
+Lily stared at the line, then at her chair.
 
 MINE GREW METAL.
 
@@ -232,23 +232,35 @@ A pause.
 
 THAT SOUNDS WORSE.
 
+She wrote:
+
 IT WAS UGLY.
+
+The answer appeared immediately.
 
 IMPORTANT SCIENTIFIC OBSERVATION.
 
-Lily smiled despite herself.
+DON'T MOCK THE WITNESS.
 
-She checked the chair again.
+I'M DOCUMENTING YOUR EXPERTISE.
+
+Lily smiled despite herself, then crouched to check the tape again.
 
 DID YOUR STOOL MOVE?
 
+NO. YOURS?
+
+She looked at the untouched floor marks.
+
 NO.
 
-MINE DIDN'T EITHER.
+A longer pause.
 
-Then:
+Then Max wrote:
 
-SO NOT A SWAP.
+SO WE DIDN'T SWAP THEM.
+
+Lily's smile disappeared.
 
 Lily looked at the chair.
 
