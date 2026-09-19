@@ -202,7 +202,9 @@ Max answered quickly.
 
 THAT SOUNDS LIKE YOUR BUILDING'S PROBLEM.
 
-Lily pressed her lips together.
+Lily stared at the line.
+
+Then she actually looked around her own apartment, as if Room 17 might be hiding behind the kitchen.
 
 "You are very confident for handwriting."
 
@@ -322,7 +324,7 @@ TOMORROW?
 
 YES.
 
-She thought for half a beat.
+Lily tapped the pen once against the desk.
 
 Then:
 
@@ -330,9 +332,11 @@ SAME DESK. PROVE YOU'RE REAL.
 
 The gray letters began to fade.
 
-One final reply appeared.
+One final reply squeezed through.
 
 RUDE.
+
+Lily smiled before she could stop herself.
 
 Lily laughed.
 
