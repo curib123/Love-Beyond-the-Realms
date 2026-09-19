@@ -285,6 +285,38 @@ Gate 6 does not assign chapter count.
 
 Gate 7 owns that decision.
 
+# Genre Priority Revalidation
+
+## 25. Romance / Romcom Remains Primary Genre
+
+**PASS — HARD-LOCKED**
+
+Arc 2 is required to follow:
+
+**Romantic Comedy / Romance first → Slice of Life → Mystery → Science Fiction**
+
+The building-correspondence investigation is a story engine, not the genre center.
+
+Required effect:
+- investigation creates Lily/Max interaction;
+- technical problems expose personality;
+- ordinary schedules and responsibilities continue to matter;
+- danger develops trust/boundaries instead of replacing relationship writing.
+
+Gate 8 and Gate 9 must reject technical-only execution.
+
+## 26. Technical-Chapter Safeguard
+
+**PASS**
+
+CH-023–CH-033 may contain measurements, structural mapping, system behavior, and evidence.
+
+However:
+- exposition must stay subordinate;
+- each chapter must create relationship/emotional/ordinary-life movement;
+- Lily and Max may not read like interchangeable researchers;
+- comedy may pause during danger, but character intimacy/concern must remain.
+
 # Cross-System Review
 
 ## Mystery vs Originality
