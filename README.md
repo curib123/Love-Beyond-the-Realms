@@ -10,19 +10,21 @@ This repository is the canonical production workspace for **Love Beyond the Real
 
 After losing her parents, eighteen-year-old **Lily Marlowe** rents Unit 4B in Aster House because it is cheap, quiet, and finally hers.
 
-Then she discovers a boy already living in her apartment.
+Then the apartment begins behaving like it belongs to someone else.
 
-**Max Arden**, nineteen, is not a ghost. He is alive somewhere Lily should not be able to reach.
+Light from an unfamiliar city crosses her wall. Writing appears where she did not write it. Small parts of the room briefly remember a different version of themselves.
 
-Lily can see him.
+In another reality, nineteen-year-old **Max Arden** is seeing the same problem from the opposite side.
 
-Max can hear her—but at first he cannot see her.
+At first, neither can see the other.
 
-They cannot touch.
+They discover **the other room before the other person**.
 
-Worse, their shared room does not behave like a normal portal. Objects sometimes exchange states. Sounds arrive at the wrong time. Furniture appears where it should not exist. For a few seconds, one person's room may replace the other's.
+Their first contact comes through shared writing. Voice comes later. Their faces come later still.
 
-Their first problem is learning how to share one apartment across two realities without driving each other insane.
+The room is not a normal portal. It exchanges states, sounds, marks, light, information, and eventually much more.
+
+Their first problem is proving that an actual living person exists on the other side of the room without ever seeing them.
 
 Their second problem is figuring out why their rooms overlap at all.
 
@@ -52,14 +54,21 @@ The romance must stay fun, human, and alive even when the larger mystery becomes
 
 This is not simply "girl falls for a boy from another universe."
 
-The connection can exchange more than people:
-- room layouts;
+The opening is built around **room-before-person discovery**.
+
+The connection can exchange:
+- room details;
 - object states;
+- handwriting;
 - sounds;
+- wrong light and window views;
 - short moments of time;
-- traces of information.
+- traces of information;
+- eventually people.
 
 Lily and Max do not gain magic from falling in love.
+
+Lily and Max form an opinion of each other through notes and voices before either gets a reliable face.
 
 Their experiments help them learn the connection, but important consequences and deeper mechanics are deliberately protected as story mysteries.
 
