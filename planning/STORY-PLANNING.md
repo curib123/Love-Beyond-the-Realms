@@ -239,8 +239,8 @@ Production effects:
 - previous CH-001/CH-002 manuscript canon is superseded;
 - previous CH-001/CH-002 Gate 8/9 approvals are historical only;
 - previous Gate 6/7 arc locks are superseded by v2 candidate architecture/roadmap;
-- the 20-chapter Aster House shape remains **PROVISIONAL**;
-- CH-010 remains the intended first P1 sight milestone, pending revalidation.
+- **HISTORICAL PRE-GATE-7 NOTE — SUPERSEDED:** the 20-chapter Aster House shape was provisional at this stage;
+- **HISTORICAL PRE-GATE-7 NOTE — SUPERSEDED:** CH-010 was still pending revalidation at this stage.
 
 Current active documents:
 - `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md` — v2 candidate
@@ -652,9 +652,9 @@ Manuscript:
 `manuscript/CH-012-RENT-REPAIRS-AND-OTHER-HORRORS.md`
 
 Status:
-**DRAFT COMPLETE — GATE 9 PENDING**
+**HISTORICAL DRAFT RECORD — SUPERSEDED BY CH-012 GATE 9 PASS / CANON-APPROVED**
 
-Draft preserves:
+Draft-stage record preserved:
 - Lily-only POV;
 - four Gate-8-locked scene functions;
 - ordinary loose mirror mount;
