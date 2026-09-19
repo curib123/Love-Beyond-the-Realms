@@ -67,7 +67,12 @@ Check:
 - ordinary-life locations remain useful;
 - reveal-heavy locations are protected;
 - Aster House and Larkspur support both POVs;
-- future locations are not locked into a final route.
+- future locations are not locked into a final route;
+- Unit 4B and Room 17 physically support room-before-person clues;
+- P0 location behavior uses environment/surfaces, not direct person sight;
+- limited writing surfaces exist without revealing MT-001;
+- later P1-capable reflective/instrument surfaces are present but remain inactive until authorized;
+- ordinary-life spaces remain useful outside the dimensional plot.
 
 # Gate 5 — Active Arc Selection QA
 
