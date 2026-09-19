@@ -1,8 +1,6 @@
 # CH-013 — One More Test
 
-Max made it three steps farther than usual before the corridor folded.
-
-That should have counted as progress.
+Max made it three steps farther than usual before the corridor folded. That should have counted as progress.
 
 It did not feel like progress when the wall doubled, his stomach dropped, and he found himself back beside Room 17 with one hand braced against the doorframe.
 
@@ -12,9 +10,7 @@ The corridor did not applaud.
 
 Beyond the nearest opening, Rivenhall continued without him. A railcar passed between buildings. Someone shouted from the market level below. Ordinary movement. Ordinary distance.
 
-Max stayed where he was until the pressure behind his eyes faded.
-
-Then he went back inside.
+Max stayed where he was until the pressure behind his eyes faded, then went back inside.
 
 The writing patch was already open.
 
@@ -32,9 +28,7 @@ That seemed fair.
 
 ---
 
-They used the repaired mirror once.
-
-Only once.
+They used the repaired mirror once. Only once.
 
 Lily's image appeared in the polished face of Max's compass for several seconds, stable enough that he could see her raise an eyebrow when he checked the angle twice.
 
@@ -54,11 +48,7 @@ Lily looked satisfied.
 
 The image flickered out.
 
-The silence afterward felt heavier than it should have.
-
-Max stared at the compass for a long moment.
-
-Then he wrote:
+The silence afterward felt heavier than it should have. Max stared at the compass for a long moment, then wrote:
 
 **I NEED TO TRY SOMETHING STRONGER.**
 
@@ -66,9 +56,7 @@ The response took longer this time.
 
 **WHY?**
 
-He had several answers prepared.
-
-None of them survived the question.
+He had several answers prepared. None of them survived the question.
 
 ---
 
@@ -134,9 +122,7 @@ Lily's answer came slowly.
 
 Max looked away.
 
-Annoying sentence.
-
-Accurate sentence.
+Annoying sentence. Accurate sentence.
 
 Those were often the worst kind.
 
@@ -144,9 +130,7 @@ Those were often the worst kind.
 
 He waited until the next stable window before showing her the plan.
 
-Not a crossing attempt.
-
-Not contact.
+Not a crossing attempt. Not contact.
 
 A stronger spatial reading.
 
@@ -154,9 +138,7 @@ His compass already helped hold Max's side steady. Lily's brass apartment key be
 
 If they aligned all three with the same count, Max might be able to tell whether his phase-bound state had a direction.
 
-Toward somewhere.
-
-Toward someone.
+Toward somewhere. Toward someone.
 
 Lily read the short version twice.
 
@@ -184,9 +166,7 @@ A final line appeared.
 
 Max looked at it longer than necessary.
 
-He wanted to argue for two attempts.
-
-Maybe three.
+He wanted to argue for two attempts. Maybe three.
 
 Enough data to matter.
 
@@ -208,10 +188,6 @@ That would have been easier.
 
 The compass rested beside his hand.
 
-One stronger test.
-
-A controlled one.
-
-A useful one.
+One stronger test. A controlled one. A useful one.
 
 Max told himself those were different things.
