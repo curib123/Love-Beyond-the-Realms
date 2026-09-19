@@ -114,9 +114,9 @@ I WAS ABOUT TO ASK YOU THAT.
 
 He stared at the page.
 
-Then laughed once.
+A laugh slipped out before he could stop it.
 
-"That's my question."
+"Oh, good. It argues."
 
 The letters were already fading.
 
@@ -316,9 +316,11 @@ That would make it worse.
 
 Max leaned back and covered his face with one hand.
 
-Somewhere, in some place with rain, brick walls, tram wires, and a blue pharmacy sign, something had just received his first serious attempt at cross-space investigation.
+Somewhere, in a place with rain, brick walls, tram wires, and a blue pharmacy sign, someone had just received his first serious attempt at cross-space investigation.
 
-And he had ended it by sounding like he was flirting with architecture.
+And somehow he'd managed to make it sound like flirting.
+
+"Excellent," he muttered into his palm.
 
 He lowered his hand.
 
