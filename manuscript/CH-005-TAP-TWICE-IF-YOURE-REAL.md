@@ -368,7 +368,7 @@ But a voice.
 
 Max leaned so close to the worktable that his knee hit the underside.
 
-"Yes."
+"Yeah—yes."
 
 Too loud.
 
@@ -482,9 +482,9 @@ Then:
 
 YOU'RE REAL.
 
-Simple.
+He almost crossed it out for sounding too obvious.
 
-Still right.
+He didn't.
 
 Lily's reply took longer.
 
