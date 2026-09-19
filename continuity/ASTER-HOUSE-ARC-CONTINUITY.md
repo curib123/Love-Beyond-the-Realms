@@ -143,10 +143,41 @@ State:
 - C0
 - X0
 
+## CH-005 — Tap Twice If You're Real — CANON
+
+Evidence:
+- timed unpredictable marks;
+- crossed tap responses;
+- independent private word choice;
+- live two-way clipped audio lasting under 15 seconds.
+
+Both now accept the other as a real living correspondent for local story purposes.
+
+Mystery:
+- M-001 **RESOLVED locally**
+- M-002 **ACTIVE** — information/audio crosses while person-image does not.
+- M-003–M-011 unchanged.
+
+F-IDs:
+- all **PLANNED — NOT YET PLANTED**.
+
+State:
+- K2
+- R1 — Mutual Reality Test
+- P0 Echo Trace
+- C0
+- X0
+
 # Current State
 
-Latest canon: **CH-004**
+Latest canon: **CH-005**
 
-Reader knowledge stage: **K1**
-M-001 ACTIVE — named independent correspondent, mutual test pending.
+Knowledge: **K2**
+Relationship: **R1**
+Perception: **P0**
+Contact: **C0**
+Crossing: **X0**
+
+M-001 RESOLVED.
+M-002 ACTIVE.
 All other M-IDs unchanged.
