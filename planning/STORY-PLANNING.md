@@ -692,3 +692,23 @@ Canon:
 # 43. Next Production Step
 
 **CH-013 — One More Test → Detailed Scene Architecture → Gate 8**
+
+
+# 44. CH-013 Canon Record
+
+Gate 9:
+`qa/CH-013-CHAPTER-QA-V2.md`
+
+Status:
+**PASS — CANON-APPROVED**
+
+Canon:
+- M-005 PARTIAL;
+- Mina identified as Max's younger sister;
+- Mina survival remains protected;
+- one stronger test authorized under strict conditions;
+- R1 / narrow P1 / C0 / X0.
+
+# 45. Next Production Step
+
+**CH-014 — The Key Goes Cold → Detailed Scene Architecture → Gate 8**
