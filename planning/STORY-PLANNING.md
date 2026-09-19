@@ -285,12 +285,32 @@ Gate 7 approved:
 - no P2/P3, C1+, or X1+;
 - future arc still unlocked.
 
-# 16. Next Production Step
+# 16. CH-001 Gate 8 Record
 
-**Gate 8 — Pre-Manuscript Scene QA**
+Detailed scene architecture:
 
-Begin with **CH-001**.
+`planning/CH-001-SCENE-ARCHITECTURE.md`
 
-Gate 8 may create detailed scene architecture for the selected chapter, but manuscript prose remains unauthorized until that chapter's Gate 8 review passes.
+Formal QA:
 
-No F-ID becomes PLANTED until actual prose contains it.
+`qa/CH-001-PRE-MANUSCRIPT-SCENE-QA.md`
+
+CH-001 Gate 8 status:
+
+**PASS — MANUSCRIPT AUTHORIZED**
+
+Locked CH-001 scene sequence:
+1. SC-001-01 The Key Works
+2. SC-001-02 Make It Livable
+3. SC-001-03 I'm Fine
+4. SC-001-04 Not Alone
+
+No F-ID is assigned to CH-001.
+
+# 17. Next Production Step
+
+**CH-001 — A Place of My Own → Manuscript Draft**
+
+After drafting:
+- run **CH-001 → Gate 9 Chapter QA**;
+- do not begin CH-002 manuscript drafting before CH-002 receives its own Gate 8 scene approval.
