@@ -5,7 +5,7 @@
 **Previous Gate 7 Lock:** SUPERSEDED  
 **Roadmap Status:** GATE 7 v2 QA-LOCKED  
 **Chapter Count:** **20 — ACTIVE ARC QA-LOCKED**  
-**Manuscript Canon:** RESET FOR CH-001/CH-002 REWRITE
+**Manuscript Canon:** CH-001 v2 CANON-APPROVED; CH-002–CH-020 pending chapter gates
 
 # 1. Roadmap Law
 
@@ -75,8 +75,8 @@ Later, a different handwriting answers.
 Ending:
 **I WAS ABOUT TO ASK YOU THAT.**
 
-M-001 planned activation:
-who is changing the room?
+M-001 progression:
+already ACTIVE from CH-001's impossible environmental anomaly; CH-002 deepens it by adding evidence of an intentional responder.
 
 No faces.
 No voice.
