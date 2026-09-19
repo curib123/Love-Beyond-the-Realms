@@ -198,55 +198,60 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-013 v2
+# 16. Current Canon State — Through CH-014 v2
 
-**Latest Canon Chapter:** CH-013 — One More Test
+**Latest Canon Chapter:** CH-014 — The Key Goes Cold
 
-## Max
-- has told Lily that the Larkspur accident occurred while he was trying to reach his younger sister, Mina;
-- became phase-bound during the collapse;
-- does not know what happened to Mina afterward;
-- wants a stronger spatial reading because he hopes to learn whether his condition has directional structure.
+## Shared State
+A single stronger anchor test used:
+- Lily's brass apartment key;
+- repaired Unit 4B mirror;
+- Max's spatial compass;
+- synchronized timing.
 
-## Lily
-- knows the safe portion of Max's accident history;
-- understands his family urgency;
-- agrees to one stronger test only under explicit safety conditions.
+They stopped immediately when Lily called stop.
 
-## Reader Knowledge
-**K2**
+## Consequence
+Stopping active input did not immediately reset the rooms.
+
+Observed:
+- Lily's brass key became painfully cold and briefly frosted;
+- reflected Unit 4B doorway/floor geometry stayed misaligned;
+- Max reported Room 17 spatially offset;
+- writing position briefly shifted;
+- both experienced physical strain.
 
 ## Relationship
-**R1 — deepened**
+**R1**
+
+The stop rule was respected.
 
 ## System
-- both retain narrow P1
+- both retain narrow P1 capability
+- local room geometry is unstable
 - C0
 - X0
-
-## Planned Stronger-Test Safety Conditions
-- daytime;
-- not a Lily work day;
-- one attempt only;
-- either person may stop;
-- no crossing or contact objective.
+- no P2/P3
 
 ## Mystery
 - M-001 RESOLVED locally
 - M-002 PARTIAL
 - M-003 ACTIVE
 - M-004 ACTIVE
-- **M-005 PARTIAL**
+- M-005 PARTIAL
 
 ## Foreshadowing
 - F-001 PLANTED
 - F-002 PLANTED
-- F-003–F-008 NOT YET PLANTED
+- **F-003 Cold Brass Key — PLANTED**
+- F-004–F-008 NOT YET PLANTED
 
 ## Protected
-Mina survival, deliberate reactivation, full accident cause, MT-001/002/003.
+Characters know this specific combined setup caused acute instability.
 
-## CH-014 Guard
-Execute one stronger observation attempt using existing anchors only.
+They do NOT know the broader cumulative MT-003 truth.
 
-The attempt may create acute instability, but characters may not infer the broader MT-003 truth.
+## CH-015 Guard
+CH-015 continues the same unresolved mismatch.
+
+No new crossing, Hollow entry, P2/P3, or major-twist reveal.
