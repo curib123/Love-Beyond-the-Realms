@@ -78,6 +78,8 @@ To understand that connection is worth choosing even when permanence is impossib
 
 Build an adult life that feels like hers.
 
+This includes deciding what future she wants instead of allowing grief, family fear, or Max's crisis to decide it for her.
+
 # 3. Max Arden
 
 **Age:** 19  
@@ -144,6 +146,8 @@ To accept being loved without having to earn it through sacrifice.
 
 Return to his family, learn what really caused the overlap, and prevent another collapse.
 
+He must pursue these goals even when Lily disagrees with his methods.
+
 # 4. Lily + Max Relationship
 
 ## Starting Dynamic
@@ -173,11 +177,13 @@ Their romance grows through:
 
 ## Dynamic
 
-Lily grounds Max.
+Lily often grounds Max's impulsive decisions.
 
-Max pulls Lily out of emotional overcontrol.
+Max often challenges Lily's habit of overcontrolling uncertainty.
 
-Neither "fixes" the other.
+Neither fixes, completes, or owns the other.
+
+Each must be capable of saying no to the other.
 
 ## Romantic Progression
 
@@ -194,6 +200,18 @@ Use flexible stages rather than a rigid chapter schedule:
 
 Major physical milestones remain earned by both relationship and realm mechanics.
 
+## Relationship Boundaries
+
+Romance must never require:
+- isolation from friends or family;
+- controlling access to information;
+- coercion;
+- stalking framed as affection;
+- jealousy treated as ownership;
+- one lead abandoning all independent goals.
+
+Conflict must come from believable personality, fear, competing goals, incomplete information, or dimensional consequences.
+
 # 5. Ava Chen
 
 **Age:** 18  
@@ -209,7 +227,17 @@ Ava is:
 
 She should create both comedy and pressure.
 
-She has her own university plans and relationships.
+## Independent Life and Goal
+
+Ava is preparing for university and wants to build a social life and future that are not dependent on Lily.
+
+She has:
+- her own application deadlines;
+- her own friends;
+- family expectations;
+- romantic interests separate from the main couple.
+
+She may become frustrated when Lily repeatedly cancels plans or hides dangerous problems.
 
 She does not exist only to ship Lily and Max.
 
@@ -229,6 +257,19 @@ She notices:
 
 She is blunt enough to create funny misunderstandings but responsible enough to matter during real danger.
 
+## Independent Goal
+
+June wants to complete nursing school without depending financially on relatives who expect her to return home.
+
+Her own pressures include:
+- exams;
+- clinical training;
+- night shifts;
+- rent;
+- protecting her limited sleep.
+
+She will not repeatedly drop her life because Lily needs help.
+
 # 7. Nora Marlowe
 
 **Age:** 41  
@@ -238,6 +279,17 @@ She is blunt enough to create funny misunderstandings but responsible enough to 
 Nora loves Lily and worries about her independence.
 
 Their conflicts come from different definitions of safety, not cruelty.
+
+## Independent Goal
+
+Nora is rebuilding her own routine after helping Lily through the months following the funeral.
+
+She wants:
+- Lily to become independent without disappearing from the family;
+- to stop treating every unanswered message as an emergency;
+- to resume plans and relationships she postponed while caring for Lily.
+
+Her arc includes learning that supporting Lily does not mean monitoring every decision.
 
 # 8. Inez Bell
 
@@ -250,6 +302,19 @@ Mrs. Bell knows 4B has had strange tenant reports for years.
 She initially treats them as old-building nonsense.
 
 She has more useful building history than she realizes.
+
+## Independent Goal
+
+Inez wants to keep Aster House financially viable without selling it to a redevelopment company.
+
+She must manage:
+- repair costs;
+- tenant complaints;
+- inspections;
+- old records;
+- pressure to modernize the building.
+
+The strange events in 4B threaten a property she genuinely wants to preserve.
 
 # 9. Mina Arden
 
@@ -269,6 +334,17 @@ Max does not know this early.
 
 Later, she can become a Velaire-side ally with her own POV only if explicitly authorized.
 
+## Independent Goal
+
+Mina wants to prove she is capable of investigating the Larkspur incident without being treated as someone who must simply wait at home.
+
+Her goals include:
+- finding evidence about Max's disappearance;
+- learning why restricted records were hidden;
+- earning greater independence from both Max and Elara.
+
+She may make mistakes because she wants to be taken seriously.
+
 # 10. Elara Arden
 
 **Age:** 44  
@@ -278,6 +354,17 @@ Later, she can become a Velaire-side ally with her own POV only if explicitly au
 Elara repairs precision instruments and lumen-grid equipment.
 
 She believes Max disappeared during the Larkspur incident.
+
+## Independent Goal
+
+Elara wants an official investigation into Max's disappearance rather than accepting an administrative declaration that the site is too dangerous to reopen.
+
+She also wants to:
+- keep Mina safe;
+- continue supporting the household;
+- challenge institutions that dismiss missing-person cases connected to restricted research.
+
+Her grief does not remove her practical competence.
 
 # 11. Corven Hale
 
@@ -290,6 +377,16 @@ Corven studies dimensional containment.
 He believes unstable overlaps must be sealed before they spread.
 
 He is not the hidden evil mastermind.
+
+## Independent Goal
+
+Corven wants to prevent another large-scale threshold accident and restore professional legitimacy to containment research.
+
+His priorities may include:
+- sealing dangerous sites;
+- recovering reliable evidence;
+- limiting public panic;
+- protecting people even when they hate his methods.
 
 His goals may oppose Lily and Max while remaining reasonable.
 
@@ -319,12 +416,45 @@ June:
 - sharp;
 - minimal patience for nonsense.
 
+Nora:
+- warm but direct;
+- asks practical questions;
+- becomes more formal when worried.
+
+Inez:
+- matter-of-fact;
+- old-building pragmatism;
+- dislikes dramatic explanations until evidence forces her to reconsider.
+
 Mina:
 - quick;
 - challenging;
 - hates being underestimated.
 
-# 13. Supporting-Cast Law
+Elara:
+- precise;
+- calm under pressure;
+- emotionally direct when family is involved.
+
+Corven:
+- controlled;
+- technical without unnecessary speeches;
+- careful about promises.
+
+# 13. Character Agency Rule
+
+A recurring character should be able to make at least one important decision that the protagonists did not order them to make.
+
+Supporting characters may:
+- disagree;
+- refuse;
+- leave;
+- investigate separately;
+- protect their own goals;
+- create consequences;
+- solve problems the protagonists cannot.
+
+# 14. Supporting-Cast Law
 
 Every recurring character needs:
 - an independent goal;
@@ -332,4 +462,8 @@ Every recurring character needs:
 - information limits;
 - opinions that may disagree with both protagonists.
 
-No supporting character exists only to create jealousy or tell the leads to date.
+No supporting character exists only to:
+- create jealousy;
+- deliver exposition;
+- rescue the leads on command;
+- tell Lily and Max to date.
