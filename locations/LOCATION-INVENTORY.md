@@ -197,7 +197,9 @@ Future route remains **UNLOCKED**.
 
 **Selected Arc:** **Shared Foundations Arc**
 
-**Gate 5 Status:** SELECTED — REQUIRES GATE 6 ARCHITECTURE QA
+Architecture: `planning/SHARED-FOUNDATIONS-ARC-ARCHITECTURE.md`
+
+**Gate 6 Status:** PASS — ARCHITECTURE QA-LOCKED
 
 ## Primary Active Cluster
 
