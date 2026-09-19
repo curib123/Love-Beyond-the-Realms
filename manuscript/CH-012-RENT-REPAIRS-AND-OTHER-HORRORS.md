@@ -148,9 +148,9 @@ Lily looked at the tape.
 
 Then the mirror.
 
-"Some of it."
+"Okay. I can explain some of it."
 
-"That's already worse."
+"That's worse."
 
 "Probably."
 
@@ -390,15 +390,17 @@ Prove independence by refusing everything.
 
 She was tired of that instinct making decisions for her.
 
-"Dinner," she said.
+"Dinner," Lily said.
+
+A beat.
 
 "What?"
 
-"You can bring dinner."
+"Bring dinner tomorrow."
 
-Nora paused.
+Nora went quiet just long enough for Lily to regret sounding like she was negotiating a treaty.
 
-Then, very carefully, "All right."
+Then, carefully, "Okay."
 
 "Not because I can't cook."
 
