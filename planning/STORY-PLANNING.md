@@ -382,6 +382,23 @@ Canon change:
 - K0 / R0 / P0 / C0 / X0;
 - no F-ID planted.
 
-# 23. Next Production Step
+# 23. CH-002 Production Record
 
-**CH-002 — Someone Else Is Using My Room → Detailed Scene Architecture → Gate 8**
+Gate 8:
+**PASS**
+
+Manuscript:
+`manuscript/CH-002-SOMEONE-ELSE-IS-USING-MY-ROOM.md`
+
+Gate 9:
+**PASS — CANON-APPROVED**
+
+Canon change:
+- first deliberate written response;
+- M-001 ACTIVE / strengthened;
+- K0 / R0 / P0 / C0 / X0;
+- no F-ID planted.
+
+# 24. Next Production Step
+
+**CH-003 — The Note That Shouldn't Exist → Detailed Scene Architecture → Gate 8**
