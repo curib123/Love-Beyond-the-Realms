@@ -69,7 +69,7 @@ No chapter replays the full events of a previous chapter from the other POV.
 ## CH-001 — A Place of My Own
 
 **Gate 8 Status:** **PASS — SCENE ARCHITECTURE QA-LOCKED**  
-**Manuscript Status:** **DRAFT COMPLETE — GATE 9 NEXT**  
+**Manuscript Status:** **GATE 9 PASS — CANON-APPROVED**  
 **Scene Architecture:** `planning/CH-001-SCENE-ARCHITECTURE.md`  
 **Manuscript:** `manuscript/CH-001-A-PLACE-OF-MY-OWN.md`  
 **POV:** Lily  
