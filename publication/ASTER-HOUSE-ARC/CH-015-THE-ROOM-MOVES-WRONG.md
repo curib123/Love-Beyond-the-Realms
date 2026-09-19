@@ -374,15 +374,11 @@ A second line arrived forty-seven seconds later.
 
 **MY ROOM IS STILL WRONG TOO.**
 
-That killed his position.
+There went his argument.
 
-Not emotionally.
+If Unit 4B was still wrong, he hadn't contained anything.
 
-Logically.
-
-If Unit 4B was still unstable after his correction, he had not isolated anything.
-
-He had only changed one part of a shared problem.
+He had only touched one side of the same problem.
 
 **I WAS TRYING TO KEEP IT ON THIS SIDE.**
 
@@ -596,9 +592,7 @@ A beat.
 
 **YES. EXACTLY.**
 
-Max laughed despite himself.
-
-Despite everything, a breath of laughter escaped him.
+A breath of laughter escaped him despite everything.
 
 He wrote:
 
