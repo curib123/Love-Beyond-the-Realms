@@ -3,7 +3,7 @@
 **Arc ID:** SF-ARC-002  
 **Working Name:** Shared Foundations Arc  
 **Selection Level:** Gate 5 only  
-**Status:** SELECTED — REQUIRES GATE 6 ARCHITECTURE QA  
+**Status:** GATE 6 QA-LOCKED — GATE 7 NEXT  
 **Date:** 2026-09-19
 
 # 1. Starting Canon
@@ -314,3 +314,22 @@ Not locked:
 # 12. Next Authorized Step
 
 **Gate 6 — Shared Foundations Arc Architecture QA**
+
+
+# 13. Gate 6 Architecture Lock
+
+Architecture:
+`planning/SHARED-FOUNDATIONS-ARC-ARCHITECTURE.md`
+
+QA:
+`qa/ACTIVE-ARC-ARCHITECTURE-QA-ARC-002.md`
+
+Result:
+**PASS — QA-LOCKED**
+
+Chapter count remains:
+**UNLOCKED — GATE 7 ONLY**
+
+# 14. Next Authorized Step
+
+**Gate 7 — Shared Foundations Arc Chapter Roadmap QA**
