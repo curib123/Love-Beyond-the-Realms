@@ -104,6 +104,25 @@ Effect:
 
 This is consequence, not punishment for falling in love.
 
+# 2A. v2 Opening Non-Leak Guard
+
+The room-before-person opening may show:
+- wrong light;
+- writing;
+- audio;
+- object-state mismatch;
+- failed person-image transfer.
+
+These observations do **not** by themselves authorize conclusions that:
+- Earth and Velaire were once one world;
+- Aster House and Larkspur share a pre-Twinfall origin;
+- someone deliberately restarted the modern equipment;
+- Lily and Max's repeated use is progressively strengthening the leak.
+
+Early characters may form wrong local hypotheses.
+
+MT-001/002/003 remain protected until their independent setup-path requirements are met in actual prose.
+
 # 3. Protected Future Major-Twist Candidates
 
 These are **PROVISIONAL**, not canon.
@@ -135,15 +154,17 @@ Do not define the final answer until later world-history development requires it
 
 These are reusable patterns, not fixed chapter assignments.
 
-- Max seems to ignore Lily, but Phase Lag delayed the message.
+- Lily interprets a missing written reply as refusal, but Phase Lag delayed the transfer.
 - A "haunted" object belongs to neither current room; it is a state echo from an older configuration.
-- Lily catches Max hiding something, but it is an embarrassing personal object rather than a sinister secret.
-- A scary voice in the room is Mina or Elara searching on the Velaire side.
-- Ava thinks Lily has a secret boyfriend in the apartment and draws the wrong conclusion for several chapters.
+- A written answer that seems evasive is actually limited by a damaged/partial correlated surface.
+- A scary voice heard after audio contact begins is Mina or Elara searching on the Velaire side.
+- Ava thinks Lily has a secret online correspondent and draws the wrong conclusion.
 - Max thinks an Earth device is a scientific instrument when it is something ordinary.
 - A clue assumed to come from Velaire is actually an old Earth-side mark.
 - Corven appears to sabotage contact but is preventing a dangerous coherence spike.
 - A romantic interruption that looks random later proves to be a measurable phase event.
+
+The minor-twist pool must not restore the superseded early one-way visual premise.
 
 # 5. Twist Spacing Rule
 
