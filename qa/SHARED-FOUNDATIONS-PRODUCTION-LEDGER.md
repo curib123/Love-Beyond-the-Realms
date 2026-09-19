@@ -7,12 +7,12 @@
 **Gate 5:** PASS  
 **Gate 6:** PASS — QA-LOCKED  
 **Gate 7:** PASS — QA-LOCKED  
-**Status:** ACTIVE PRODUCTION — CH-021 GATE 8 NEXT  
+**Status:** ACTIVE PRODUCTION — CH-021 MANUSCRIPT NEXT  
 **Date:** 2026-09-19
 
 | Chapter | Title | Gate 8 | Manuscript | Gate 9 | Canon |
 |---|---|---|---|---|---|
-| CH-021 | The Inspection Notice | pending | pending | pending | NO |
+| CH-021 | The Inspection Notice | **PASS** | pending | pending | NO |
 | CH-022 | The Safe Distance | pending | pending | pending | NO |
 | CH-023 | Behind the East Door | pending | pending | pending | NO |
 | CH-024 | Your Measurements Are Wrong | pending | pending | pending | NO |
@@ -52,6 +52,17 @@ Arc 2 manuscript canon:
 Starting inherited state:
 **R2 / P0 baseline / narrow controlled P1 / C0 / X0 / K2**
 
+# CH-021 Gate 8 Record
+
+Architecture:
+`planning/CH-021-SCENE-ARCHITECTURE.md`
+
+QA:
+`qa/CH-021-PRE-MANUSCRIPT-SCENE-QA.md`
+
+Result:
+**PASS — MANUSCRIPT AUTHORIZED**
+
 # Next Authorized Step
 
-**CH-021 — The Inspection Notice → Detailed Scene Architecture → Gate 8**
+**CH-021 — The Inspection Notice → Manuscript Draft**
