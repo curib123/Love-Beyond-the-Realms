@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** ORIGINALITY REVISION v2 — GATE 4 REVALIDATION PASS — GATE 5 NEXT
+**Status:** ORIGINALITY REVISION v2 — GATE 5 REVALIDATION PASS — GATE 6 NEXT
 
 # Series Length
 
@@ -56,7 +56,7 @@ Historical but revalidation-required:
 - Gate 2 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 3 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 4 — **PASS v2 REVALIDATION — 2026-09-19**
-- Gate 5 — CHECK / REVALIDATE
+- Gate 5 — **PASS v2 REVALIDATION — 2026-09-19**
 - Gate 6 — SUPERSEDED by v2 candidate architecture
 - Gate 7 — SUPERSEDED by v2 candidate roadmap
 - CH-001 Gate 8/9 — SUPERSEDED
@@ -113,7 +113,7 @@ No revised chapter is canon-approved yet.
 
 # Next Authorized Step
 
-**Gate 5 — Active Arc Selection QA Revalidation for Originality Revision v2.**
+**Gate 6 — Active Arc Architecture QA Revalidation for Originality Revision v2.**
 
 Gate 1 v2 record:
 `qa/FOUNDATION-QA-V2.md`
@@ -127,4 +127,7 @@ Gate 3 v2 record:
 Gate 4 v2 record:
 `qa/LOCATION-QA-V2.md`
 
-Do not draft the new opening until affected gates are revalidated in production order.
+Gate 5 v2 record:
+`qa/ACTIVE-ARC-SELECTION-QA-V2.md`
+
+Do not draft the new opening until Gate 6/7 and chapter-level gates are revalidated.
