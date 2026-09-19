@@ -216,9 +216,7 @@ THAT EXPLAINS EVERYTHING.
 
 Lily shook her head.
 
-The humor helped.
-
-It gave her something ordinary to hold while another world's room sat inside her mirror.
+For three seconds, arguing about blurry height made this feel almost normal.
 
 Then the image vanished.
 
@@ -488,9 +486,9 @@ I AM.
 
 No joke.
 
-Lily's pen stopped moving.
+Lily's pen stopped.
 
-That landed harder than anything clever would have.
+That was worse.
 
 She already knew enough.
 
