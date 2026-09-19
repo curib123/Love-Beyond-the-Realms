@@ -56,9 +56,36 @@ System observation:
 - no person-image;
 - no writing/audio.
 
+## CH-002 — Someone Else Is Using My Room — CANON
+
+Knowledge:
+- Lily has seen foreign mark-state appear on her own paper;
+- Lily received one meaningful written response;
+- Lily does not know the responder's identity, age, nature, world, or whether it is alive.
+
+Mystery:
+- M-001 **ACTIVE — STRENGTHENED**
+- M-002–M-011 unchanged.
+
+F-IDs:
+- all **PLANNED — NOT YET PLANTED**.
+
+State:
+- K0
+- R0
+- P0 Echo Trace
+- C0
+- X0
+
+System observation:
+- fresh mark-state can cross at the east-side desk patch;
+- marks fade;
+- Lily's own writing remains on her paper;
+- no voice/person-image.
+
 # Current State
 
-Latest canon: **CH-001**
+Latest canon: **CH-002**
 
-M-001 ACTIVE.
+M-001 ACTIVE — evidence of intentional response.
 All other M-IDs unchanged.
