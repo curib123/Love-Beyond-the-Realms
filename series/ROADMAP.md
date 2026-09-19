@@ -400,3 +400,25 @@ CH-021 remains compliant and canon-approved.
 # Current Next Authorized Step
 
 **CH-022 — The Safe Distance → Detailed Scene Architecture → Gate 8**
+
+
+# CH-022 Gate 8
+
+Architecture:
+`planning/CH-022-SCENE-ARCHITECTURE.md`
+
+QA:
+`qa/CH-022-PRE-MANUSCRIPT-SCENE-QA.md`
+
+Result:
+**PASS — MANUSCRIPT AUTHORIZED**
+
+Genre priority:
+**Romantic Comedy / Romance first → Slice of Life → Mystery → Sci-Fi**
+
+Chapter emotional lock:
+Max's safe-range survey must primarily prove that he can respect the Lily/Max boundary while alone and report the true result afterward.
+
+# Current Next Authorized Step
+
+**CH-022 — The Safe Distance → Manuscript Draft**
