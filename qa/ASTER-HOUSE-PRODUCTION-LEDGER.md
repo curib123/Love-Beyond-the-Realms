@@ -58,3 +58,17 @@
 - current manuscript total: **26,584 words**.
 
 **Arc publication status: FINAL**
+
+
+# Draft Commit Status Audit
+
+Record:
+`qa/ASTER-HOUSE-DRAFT-COMMIT-AUDIT.md`
+
+Result:
+**PASS**
+
+Historical draft commits are preserved, but no Arc 1 manuscript now has a `Draft ...` commit as its latest manuscript commit.
+
+Current publication status:
+**20/20 PUBLICATION-FINAL**
