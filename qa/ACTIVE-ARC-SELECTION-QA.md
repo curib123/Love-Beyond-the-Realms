@@ -1,9 +1,14 @@
+> **HISTORICAL RECORD — SUPERSEDED BY ORIGINALITY REVISION v2**  
+> This Gate 5 PASS selected the same Aster House Arc, but its justification used the pre-v2 one-way perception/ghost-question model.  
+> Current production uses `qa/ACTIVE-ARC-SELECTION-QA-V2.md`.  
+> See `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`.
+
 # Gate 5 — Active Arc Selection QA
 
 **Project:** Love Beyond the Realms  
 **Date:** 2026-09-19  
 **Gate:** 5 — Active Arc Selection QA  
-**Final Result:** **PASS**  
+**Final Result:** **HISTORICAL PASS — SUPERSEDED**  
 **Blocking Issues:** 0  
 **Major Issues:** 0  
 **Minor Notes:** 2
