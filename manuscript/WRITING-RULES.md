@@ -1,207 +1,310 @@
 # Manuscript Writing Rules
 
-**Owners:** A090-A097  
+**Owners:** A090-A098  
 **Status:** LOCKED PROSE STANDARD
 
-# 1. POV
+# 1. Core Style
 
-Default: **close third-person limited through Lily**.
+Write in **simple, natural English**.
 
-The narration stays emotionally close to Lily's perceptions without becoming first-person.
-
-Max POV may appear only in explicitly authorized interlude chapters.
-
-No casual head-hopping.
-
-# 2. Narrative Balance
-
-Use primarily natural third-person narration with direct internal thoughts used selectively for immediacy.
-
-A practical range may often feel like:
-- roughly 70–85% close-third narration;
-- roughly 15–30% direct internal thought.
-
-These are not quotas.
-
-Scene needs control the actual balance.
-
-# 3. Voice
-
-The prose should feel:
-- youthful but not childish;
-- emotionally intelligent;
+The prose should be:
+- easy to understand;
+- close to the character;
+- emotional without being melodramatic;
+- funny when the situation allows;
 - smooth;
-- intimate;
-- readable;
-- atmospheric;
-- restrained;
-- natural.
+- visual;
+- conversational;
+- light enough for romantic comedy;
+- serious when mystery or danger earns it.
 
-Avoid making every sentence dramatic.
+Do not use difficult words when a simple word is better.
 
-Avoid sounding like a romance advertisement.
+# 2. POV
 
-# 4. Lily Filter
+Use **close third-person limited**.
 
-Description should reflect what Lily notices.
+The two main POVs are:
 
-When anxious, she may fixate on:
-- exits;
-- sounds;
-- messages;
-- physical distance.
+- Lily
+- Max
 
-When comfortable, she notices:
-- warmth;
-- expressions;
-- domestic details;
-- small humor.
+Both are regular POV characters.
 
-When attracted to Max, attraction should emerge through attention and reaction rather than constant declarations that he is handsome.
+One scene = one POV.
 
-# 5. Paragraphs
+Do not enter the other person's thoughts inside the same scene.
 
-Use normal multi-sentence paragraphs.
+Switch only at:
+- a new chapter; or
+- a clear scene break.
 
-Single-line paragraphs are reserved for:
-- real impact;
-- sudden realization;
-- supernatural interruption;
-- emotional exposure;
-- strong romantic beat;
-- effective chapter-end turn.
+# 3. Close Narration
 
-Do not format every sentence as its own paragraph.
+Narration stays close to what the POV character notices, thinks, misunderstands, fears, or finds funny.
 
-# 6. Dialogue
+Do not sound like a distant all-knowing narrator.
 
-Dialogue should:
-- sound distinct by character;
-- include interruptions and hesitation;
-- allow subtext;
-- allow awkwardness;
-- permit disagreement;
-- avoid exposition speeches.
+Example principle:
 
-Lily and Max's banter should develop from familiarity.
+Instead of explaining that Max is nervous, show what Lily notices:
+- his joke comes too fast;
+- he looks away;
+- he keeps adjusting the same object.
 
-Do not make them instantly speak like an established couple.
+The narration can carry the POV character's personality without becoming first-person.
 
-# 7. Romance
+# 4. Lily POV Voice
 
-Romantic tension comes from:
-- proximity without touch;
-- seeing what the other cannot;
-- caring gestures;
-- remembered details;
-- interrupted vulnerability;
-- disagreement followed by repair;
-- fear of losing access;
-- imagining an impossible future.
+Lily's close narration tends to be:
+- practical;
+- observant;
+- slightly dry;
+- emotionally careful;
+- easily embarrassed by romance;
+- sensitive to small domestic details.
 
-Do not force a kiss or confession because a chapter “needs romance.”
+Her humor often comes from what she refuses to say aloud.
 
-# 8. Grief
+# 5. Max POV Voice
 
-Lily's grief should appear naturally.
+Max's close narration tends to be:
+- playful;
+- curious;
+- faster and more impulsive;
+- confident on the surface;
+- quietly anxious underneath;
+- more willing to turn discomfort into a joke.
 
-Use:
-- habits;
-- remembered phrases;
-- objects;
-- anniversaries;
-- paperwork;
-- empty-space awareness;
-- guilt when enjoying herself.
+His humor often comes from committing to a bad idea and realizing too late that Lily is watching.
 
-Avoid repetitive crying scenes as the only expression of grief.
+# 6. Internal Thoughts
 
-# 9. Humor
+Use direct internal thoughts only when they improve immediacy.
 
-Humor may come from:
-- impossible roommate logistics;
-- Max reacting to Earth objects;
-- Lily reacting to Velaire customs;
-- embarrassment;
-- dry observations;
-- Ava's skepticism;
-- domestic misunderstandings.
+Keep them short.
+
+Do not turn every paragraph into internal monologue.
+
+Direct thoughts may be italicized in publication formatting when appropriate.
+
+# 7. Dialogue Standard
+
+Dialogue must feel alive.
+
+Characters should:
+- answer imperfectly;
+- interrupt;
+- avoid questions;
+- misunderstand;
+- joke;
+- change subjects;
+- pause;
+- say less than they feel;
+- remember earlier conversations;
+- use callbacks naturally.
+
+Avoid:
+- speeches that exist only to explain lore;
+- everyone speaking in complete formal sentences;
+- repetitive names in every line;
+- constant flirting;
+- generic romance dialogue.
+
+# 8. Lily and Max Dialogue
+
+Their chemistry develops through contrast.
+
+Lily:
+- often answers directly;
+- uses dry responses;
+- becomes sharper when embarrassed;
+- may hide affection inside practical complaints.
+
+Max:
+- teases more openly;
+- exaggerates for fun;
+- uses jokes to hide worry;
+- becomes surprisingly simple and sincere when something truly matters.
+
+Banter should not make every conversation a joke contest.
+
+Their strongest scenes may become quiet.
+
+# 9. Romantic Comedy
+
+The story should regularly include romantic-comedy situations.
+
+Good sources:
+- impossible roommate rules;
+- one person changing the room while the other is using it;
+- Lily seeing Max when Max cannot see her;
+- delayed sound creating bad timing;
+- exchanged possessions;
+- cultural misunderstandings;
+- friends hearing only one side of a conversation;
+- experiments failing at romantic moments;
+- accidental jealousy;
+- embarrassing discoveries;
+- sincere confessions interrupted by dimensional problems.
+
+Comedy should grow from character and circumstance.
 
 No joke quota.
 
-Humor must not erase emotional consequence.
+# 10. Romance
 
-# 10. Supernatural Atmosphere
+Show attraction through attention.
 
-Use specific sensory details:
-- cold;
-- reflection errors;
-- doubled footsteps;
-- light behaving incorrectly;
-- sound arriving late;
-- object displacement;
-- wrong depth in rooms.
+Use:
+- remembered details;
+- small favors;
+- concern;
+- noticing expressions;
+- waiting for the other person;
+- choosing to share something private;
+- trying to make the other laugh;
+- disappointment when communication fails.
 
-Avoid vague “creepy energy” when a concrete effect can be shown.
+Do not repeatedly tell readers that Lily or Max is attractive.
 
-# 11. Exposition
+Do not rush major romantic milestones.
 
-Reveal lore through:
-- investigation;
-- disagreement;
+# 11. Mystery
+
+Do not explain the answer before the characters earn it.
+
+Plant clues in:
+- normal conversations;
 - objects;
+- room changes;
 - records;
+- strange timing;
 - failed experiments;
-- consequences.
+- contradictions between Lily's and Max's worlds.
 
-Do not pause the story for encyclopedia paragraphs.
+A clue should still make sense before its reveal.
 
-# 12. Romantic Physicality
+# 12. Plot Twists
 
-Because touch is mechanically difficult, small contact carries weight.
+A twist changes meaning, not just information.
 
-When touch becomes possible:
-- do not rush past it;
-- describe sensory reality;
-- preserve character emotion;
-- respect established limits.
+Minor twists may:
+- reveal a wrong assumption;
+- show an object came from the other world;
+- change who caused a local event;
+- expose a small secret;
+- turn a funny event into a useful clue.
 
-Non-explicit affection is sufficient for the series tone.
+Major twists must:
+- have earlier evidence;
+- change the central understanding;
+- affect Lily and Max emotionally;
+- create new choices;
+- never erase previous character growth.
 
-# 13. Chapter Length
+Do not use fake deaths repeatedly.
 
-Target a flexible WebNovel-friendly range of approximately **1,500–2,300 words** for ordinary chapters.
+Do not reveal that every trusted person is secretly evil.
 
-Longer chapters are allowed when earned.
+# 13. Sci-Fi Explanation
 
-Do not pad a chapter to hit a number.
+Keep science-fiction ideas understandable through simple comparisons and observable effects.
 
-# 14. Prose Quality
+Characters should discover rules by testing them.
+
+Use:
+- hypothesis;
+- test;
+- result;
+- mistake;
+- revised understanding.
+
+Avoid long technical lectures.
+
+# 14. Description
+
+Use enough description to make the scene clear.
+
+Focus on:
+- expressions;
+- room changes;
+- body language;
+- important objects;
+- sounds;
+- light;
+- distance;
+- strange overlap effects.
+
+Do not describe everything in the room.
+
+# 15. Paragraphs
+
+Use normal multi-sentence paragraphs.
+
+Single-line paragraphs are for:
+- punchlines;
+- surprise;
+- strong emotional beats;
+- sudden supernatural changes;
+- important reveals.
+
+Do not put every sentence on its own line.
+
+# 16. Simple English Rule
 
 Prefer:
-- concrete verbs;
-- varied sentence length;
-- natural transitions;
-- emotionally grounded metaphors;
-- clear spatial logic.
 
-Avoid:
-- repetitive rhetorical questions;
-- constant fragments;
-- purple prose;
-- generic “her breath hitched” repetition;
-- excessive “somehow” and “suddenly”;
-- repeated summaries of emotions already shown;
-- AI-like restatement.
+"She stared at him."
 
-# 15. Ending Rule
+over:
 
-End on a meaningful change, not an arbitrary cutoff.
+"Her gaze remained transfixed upon his spectral figure."
 
-A quiet emotional hook is valid.
+Prefer clarity first.
 
-# 16. Originality
+Simple does not mean childish.
 
-Do not copy dialogue, scenes, character dynamics, lore, or visual designs from existing supernatural romances.
+# 17. Chapter Rhythm
 
-Familiar tropes may be transformed through this story's specific Veil mechanics and character choices.
+There is no fixed series chapter total.
+
+An individual chapter should normally contain at least one meaningful change:
+- relationship;
+- comedy situation;
+- mystery;
+- character;
+- sci-fi understanding;
+- consequence.
+
+A chapter may be quiet.
+
+Not every chapter needs a cliffhanger.
+
+# 18. Chapter Length
+
+Use a flexible web-novel length appropriate to the scene.
+
+A useful default is approximately **1,400–2,400 words**, but this is not a quota.
+
+Never pad a chapter just to reach a number.
+
+# 19. Emotional Rule
+
+Do not explain an emotion three times.
+
+Show it, let the character react, and trust the reader.
+
+# 20. Final Prose Test
+
+Before approval ask:
+
+- Is the POV clear?
+- Is the English simple?
+- Does the dialogue sound human?
+- Do Lily and Max sound different?
+- Is the comedy natural?
+- Did something change?
+- Did the mystery stay fair?
+- Did the sci-fi rule stay consistent?
+- Does the chapter feel like a story rather than generated prose?
