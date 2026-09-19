@@ -1,10 +1,15 @@
+> **HISTORICAL RECORD — SUPERSEDED BY ORIGINALITY REVISION v2**  
+> This Gate 7 PASS used the pre-v2 opening roadmap.  
+> Current production uses `qa/CHAPTER-ROADMAP-QA-V2.md`.  
+> See `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`.
+
 # Gate 7 — Chapter Roadmap QA
 
 **Project:** Love Beyond the Realms  
 **Date:** 2026-09-19  
 **Gate:** 7 — Chapter Roadmap QA  
 **Arc:** AH-ARC-001 — Aster House Arc  
-**Final Result:** **PASS**  
+**Final Result:** **HISTORICAL PASS — SUPERSEDED**  
 **Locked Active-Arc Chapter Count:** **20**  
 **Blocking Issues:** 0  
 **Major Issues:** 0 after correction  
