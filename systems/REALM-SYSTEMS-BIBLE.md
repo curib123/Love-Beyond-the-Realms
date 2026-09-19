@@ -3,292 +3,236 @@
 **Owners:** A030-A037  
 **Status:** CANON — FOUNDATION
 
-This file defines the supernatural physics of **Love Beyond the Realms**.
+This file defines the fictional science behind the two-world connection.
 
-# 1. Core Principle
+# 1. Core Model
 
-Earth and Velaire are complete physical realities separated by the **Veil**.
+Earth and Velaire are two stable branches created by the Twinfall.
 
-The Veil does not respond to romance, destiny, bloodline, or moral worth.
+The **Veil** is the phase boundary between them.
 
-Cross-realm interaction requires physical conditions.
+Mirrorstone can preserve coherence between matching coordinates.
 
-Emotion can affect concentration and decision-making, but **love is not a magic battery**.
+Love does not power the system.
 
-# 2. Overlap State
+# 2. Base Overlap
 
-Unit 4B and Room 17 occupy a temporary overlapping coordinate.
+Unit 4B and Room 17 occupy strongly correlated coordinates.
 
-The overlap is asymmetric.
+Default state:
 
-## Earth-Side Reception
+### Lily
+- can see Max;
+- can hear Max;
+- cannot touch Max;
+- sees some Velaire objects as faint overlays.
 
-Lily can normally:
-- see Max;
-- hear Max;
-- see objects Max moves in his room as translucent overlap artifacts.
+### Max
+- can hear Lily;
+- senses Earth-side movement;
+- cannot normally see Lily directly;
+- sees some Earth objects as distortions.
 
-Lily cannot normally:
-- touch Max;
-- move Velaire matter;
-- cross into Velaire.
-
-## Velaire-Side Reception
-
-Max can normally:
-- hear Lily imperfectly;
-- hear Earth-side impact noises;
-- observe Earth objects moving as faint distortions;
-- sense when Lily is close.
-
-Max cannot normally:
-- see Lily directly;
-- touch Lily;
-- cross into Earth.
-
-This asymmetry is caused by current mirrorstone orientation, not by Lily being special.
+This asymmetry is physical, not chosen-one magic.
 
 # 3. Perception Modes
 
-## P0 — Bleed
+**P0 — Bleed**  
+Lily sees Max. Max hears Lily.
 
-Default state.
+**P1 — Indirect Sight**  
+Max can see Lily through mirrors, dark screens, polished metal, or camera-like instruments.
 
-Lily sees Max.
+**P2 — Echo Sight**  
+Max sees a delayed or incomplete direct image.
 
-Max hears Lily but cannot see her.
-
-## P1 — Reflection
-
-When specific reflective surfaces align during a Veil pulse, Max can see Lily indirectly in:
-- mirrors;
-- dark windows;
-- polished metal;
-- still water.
-
-This is the earliest mutual visual contact.
-
-## P2 — Echo Image
-
-A stronger pulse allows Max to see a delayed or incomplete image of Lily directly for seconds.
-
-## P3 — Stable Mutual Sight
-
-Both can see each other directly for a bounded period.
-
-Requires a stabilized paired anchor.
+**P3 — Mutual Sight**  
+Both see each other directly for a limited window.
 
 # 4. Contact Modes
 
-## C0 — No Contact
+**C0 — No Contact**  
+Bodies pass through each other's phase space.
 
-Bodies pass through overlap without physical touch.
+**C1 — Pressure**  
+They feel resistance through the boundary.
 
-Cold pressure or static may be felt.
+**C2 — Brief Touch**  
+True contact lasting seconds.
 
-## C1 — Pressure Contact
+**C3 — Sustained Touch**  
+Later capability requiring strong stabilization.
 
-A rare stabilized moment allows one person to feel resistance without full skin-to-skin contact.
+Contact is important but does not automatically equal romantic progression.
 
-Example:
-- palm against palm with the Veil still between them.
+# 5. Crossing Modes
 
-## C2 — Brief Touch
+**X0 — Observation**  
+No body crossing.
 
-Actual physical contact lasting seconds.
+**X1 — Partial Phase**  
+A small object, hand, or foot partly crosses.
 
-Requires:
-- matched anchors;
-- synchronized position;
-- active Veil window;
-- stable local geometry.
+**X2 — Threshold Step**  
+A person crosses for a very short period.
 
-## C3 — Sustained Contact
+**X3 — Short Visit**  
+Temporary full presence.
 
-Later-series capability.
+**X4 — Stable Passage**  
+Advanced infrastructure. Not early-series capability.
 
-High cost.
+# 6. Echo Exchange
 
-Not authorized early.
+The overlap can exchange **state information** between corresponding spaces.
 
-# 5. Crossing Progression
+It may affect:
+- object position;
+- surface marks;
+- color;
+- temperature;
+- minor damage;
+- sound;
+- light;
+- short-lived room geometry.
 
-## X0 — Observation
+Example comedy uses:
+- Lily's carefully arranged chair becomes Max's badly placed stool for thirty seconds;
+- Max loses a notebook only for Lily to find its writing ghosted across her grocery list;
+- both try to use the same table coordinate at once.
 
-No crossing.
+Example mystery uses:
+- a damaged object reveals a history that exists only in the other branch;
+- a room feature appears that proves the buildings share an older origin.
 
-## X1 — Partial Phase
+# 7. Exchange Limits
 
-A hand, object, or foot may briefly enter the other side.
+Echo Exchange cannot casually:
+- create large amounts of matter;
+- duplicate valuable objects permanently;
+- resurrect people;
+- rewrite a person's full history;
+- solve problems without cost.
 
-Risk:
-- numbness;
-- disorientation;
-- object instability.
+Stable object transfer requires stronger conditions than temporary state exchange.
 
-## X2 — Threshold Step
+# 8. Phase Lag
 
-One person crosses fully for less than several minutes.
+The branches may be offset in time locally.
 
-Requires a prepared anchor.
+Normal lag:
+- fractions of a second;
+- a few seconds.
 
-## X3 — Short Visit
+Unstable lag:
+- minutes.
 
-A person may remain across for a bounded period.
+Rare severe lag may produce a **pre-echo**, where a sound or action is detected before its source event reaches the matching phase.
 
-Cost increases rapidly.
+Pre-echoes must be used sparingly because they can affect causality and mystery fairness.
 
-## X4 — Stable Passage
+# 9. Shared Minute
 
-Late-series condition requiring repaired infrastructure.
+During rare high-stability alignment, both rooms enter a **Shared Minute**.
 
-Not available in early volumes.
+For a short period:
+- mutual sight improves;
+- more objects become shared-state;
+- touch may become possible at higher stages;
+- actions in one room directly affect the other.
 
-# 6. Anchors
+The name is descriptive, not always exactly sixty seconds.
 
-An **anchor** is an object or fixed structure containing compatible mirrorstone resonance.
+Early Shared Minutes are unstable and brief.
+
+# 10. Anchors
+
+Anchors are mirrorstone-bearing objects or structures that help maintain coherence.
 
 Examples:
-- Lily's original brass apartment key contains trace mirrorstone dust from the old lock mechanism;
-- a Velaire boundary compass;
-- a mirror backed with old foundation material;
-- a stabilized threshold frame.
+- Lily's brass apartment key;
+- the wall mirror backing;
+- Max's spatial compass;
+- old structural channels;
+- calibrated Velaire instruments.
 
-An anchor can:
-- focus a pulse;
-- stabilize mutual perception;
-- reduce geometry drift;
-- record residual resonance.
+An anchor can focus a connection.
 
-An anchor cannot:
-- ignore energy limits;
-- resurrect the dead;
-- create matter freely;
-- guarantee safe crossing.
+It cannot ignore system limits.
 
-# 7. Veil Windows
+# 11. Experiment Rule
 
-Crossing becomes more possible during a **Veil window**.
+Lily and Max can learn the system through tests.
 
-Triggers include:
-- mirrorstone alignment;
-- electrical or lumen-grid instability;
-- specific local pressure changes;
-- repeated resonance at the same coordinate;
-- deliberate activation from Velaire technology.
+A proper test should have:
+1. question;
+2. setup;
+3. prediction;
+4. observation;
+5. result;
+6. consequence or new question.
 
-Weather may correlate with windows but does not cause them by itself.
+Failed experiments are encouraged when they create comedy, character interaction, or useful information.
 
-# 8. Costs
+# 12. Costs
 
-Every significant interaction carries cost.
-
-Possible costs:
-- sudden cold;
-- migraines;
-- shaking;
-- sensory overlap;
+Strong overlap may cause:
+- cold;
+- headaches;
 - nausea;
-- exhaustion;
-- temporary loss of balance;
+- shaking;
+- lost sleep;
+- short-term memory fuzz;
+- sensory doubling;
 - lost minutes;
-- memory fuzz around the crossing;
-- emotional afterimages;
-- sleep disruption.
+- object damage;
+- room instability.
 
-Repeated crossings without recovery worsen effects.
+Repeated use increases local instability unless recovery/stabilization occurs.
 
-# 9. Memory Echoes
+# 13. Information Rule
 
-The Hollow can retain short-lived impressions of:
-- voices;
-- movement;
-- fear;
-- strong intentions;
-- recently handled objects.
+Information can sometimes cross more easily than matter.
 
-An echo is not the original person.
+This supports:
+- notes;
+- reflected writing;
+- audio;
+- pattern transfer;
+- mapped coordinates.
 
-Echoes may mislead characters because they replay partial context.
+But communication can be corrupted by phase lag.
 
-# 10. Object Rules
+# 14. Collapse Risk
 
-Small nonliving objects are easier to phase than people.
+If coherence becomes too strong and uncontrolled:
+- rooms may merge incorrectly;
+- doors may open into the other history;
+- objects may exchange permanently;
+- people may become phase-bound;
+- sections of both buildings may enter the Hollow.
 
-Objects crossing realms may:
-- become cold;
-- lose color temporarily;
-- develop fine cracks;
-- return to origin side if resonance fails.
+Early stakes remain local.
 
-Living organisms are harder to cross.
+# 15. Human Rule
 
-No casual transfer of large objects, vehicles, or buildings.
+Lily and Max have no superpowers.
 
-# 11. Injury Rules
-
-Crossing does not provide healing.
-
-A person injured before crossing remains injured.
-
-Bad crossings may cause:
-- bruising;
-- cuts from geometry snaps;
-- nerve pain;
-- fainting.
-
-The system must not erase danger simply to preserve romance.
-
-# 12. Communication Rules
-
-Early:
-- voice;
-- written notes placed at matching surfaces;
-- object movement;
-- reflections.
-
-Later:
-- stabilized mirror communication;
-- temporary two-way devices;
-- short crossings.
-
-Phones do not simply connect across realms.
-
-# 13. Collapse Risk
-
-If overlap intensity exceeds safe limits:
-- walls may visually merge;
-- doors may open into wrong spaces;
-- time offsets increase;
-- echoes multiply;
-- objects may phase unpredictably.
-
-A local collapse threatens the overlapping buildings and occupants.
-
-It does not immediately destroy both universes.
-
-# 14. Human Limits
-
-Lily has no inherent magical power.
-
-Max has no unrestricted supernatural power.
-
-Their advantages come from:
+They solve problems through:
 - observation;
+- experimentation;
 - knowledge;
-- trust;
-- tools;
-- timing;
+- social help;
 - courage;
-- access to different information in different realms.
+- communication;
+- mistakes and correction.
 
-# 15. Romance Integrity Rule
+# 16. Romance Integrity
 
-Supernatural milestones and romantic milestones may reinforce each other but are not identical.
+The system may create romantic opportunities.
 
-Example:
-- first mutual sight can intensify feelings;
-- first touch can be emotionally important;
-- neither event proves love automatically.
+It does not decide their feelings.
 
-Characters must still communicate, choose, and repair conflict.
+A Shared Minute does not force intimacy.
+
+First touch matters because Lily and Max choose what to do with the opportunity.
