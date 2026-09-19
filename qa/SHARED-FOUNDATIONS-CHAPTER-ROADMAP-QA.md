@@ -246,6 +246,27 @@ The roadmap provides recurring chapter engines:
 
 No chapter exists only to restate previous data.
 
+# 14A. Genre Priority Lock
+
+**PASS — REQUIRED FOR ALL CHAPTER EXECUTION**
+
+Arc 2's locked hierarchy is:
+
+**Romantic Comedy / Romance → Slice of Life → Mystery → Sci-Fi**
+
+The chapter roadmap is valid only under this execution rule.
+
+Gate 8 / Gate 9 must verify that every chapter:
+- keeps Lily and Max's chemistry/relationship visible;
+- retains ordinary-life texture when appropriate;
+- uses mystery as a reason for interaction rather than as a replacement for it;
+- keeps technical exposition concise and character-linked;
+- produces at least one relationship, emotional, chemistry, or ordinary-life change alongside plot/data progress.
+
+A chapter that only advances structural data fails the intended series identity even if its mystery logic is correct.
+
+CH-021 is retrospectively compliant and remains canon-approved.
+
 # 15. Gate Decision
 
 **GATE 7 — PASS / QA-LOCKED**
