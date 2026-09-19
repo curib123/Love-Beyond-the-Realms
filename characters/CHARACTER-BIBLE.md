@@ -50,7 +50,8 @@ Lily is usually the straight-faced half of the comedy.
 
 She is funniest when:
 - she treats impossible things like annoying practical problems;
-- she catches Max doing something he does not know she can see;
+- she argues with anonymous notes from the other room;
+- she builds a completely wrong mental image of Max before seeing him;
 - she tries to stay serious while obviously flustered;
 - her plans are ruined by overlap effects.
 
@@ -152,21 +153,33 @@ He must pursue these goals even when Lily disagrees with his methods.
 
 ## Starting Dynamic
 
-Lily thinks Max is a very attractive ghost with terrible boundaries.
+Lily does not initially know Max is a young man at all.
 
-Max thinks Lily may be:
-- an invisible resident;
-- a boundary echo;
-- a stress-induced voice;
-- or the world's rudest haunting.
+She first knows only that:
+- Unit 4B sometimes becomes wrong;
+- someone else's writing can appear in her space;
+- an unseen person seems to believe **she** is the intruder.
 
-Both try to prove the other is real.
+Max likewise does not initially know what Lily looks like.
+
+He first treats the Earth-side interference as:
+- a room-state anomaly;
+- a possible unknown observer;
+- or an impossible correspondent occupying the same coordinate.
+
+Their early relationship develops as:
+**anonymous rivals → impossible pen pals → voice-only co-occupants → first sight → cross-world roommates.**
+
+Both try to prove the other is a real living person before either receives a reliable face-to-face image.
 
 ## Core Chemistry
 
 Their romance grows through:
+- anonymous notes;
 - shared apartment problems;
+- voice-only conversations;
 - verbal teasing;
+- wrong assumptions about each other's appearance and world;
 - failed experiments;
 - late-night conversations;
 - small acts of care;
