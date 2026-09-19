@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GATE 1 FOUNDATION QA PASS — GATE 2 CHARACTER QA NEXT
+**Status:** GATE 2 CHARACTER QA PASS — GATE 3 MYSTERY/TWIST QA NEXT
 
 # Series Length
 
@@ -16,6 +16,7 @@ Only the active arc is planned in detail.
 # Current Canon Direction
 
 Genre:
+
 **Young Adult Romantic Comedy • Mystery • Science Fiction • Supernatural**
 
 Main characters:
@@ -32,31 +33,39 @@ Core unique mechanic:
 
 # QA State
 
-Gate 1 — Foundation QA: **PASS — 2026-09-19**
+Gate 1 — Foundation QA:
+
+**PASS — 2026-09-19**
 
 Formal record:
 
 `qa/FOUNDATION-QA.md`
 
-Gate 1 confirmed:
-- genre identity;
-- equal dual protagonists;
-- simple close-third dual POV;
-- ordinary life in both worlds;
-- split-history foundation;
-- Echo Exchange;
-- Phase Lag;
-- Shared Minute;
-- costs and limitations;
-- Lily non-chosen status;
-- Max living status;
-- parents outside conspiracy;
-- open-ended chapter/volume structure;
-- unlocked future arcs.
+Gate 2 — Character QA:
+
+**PASS — 2026-09-19**
+
+Formal record:
+
+`qa/CHARACTER-QA.md`
+
+Gate 2 required one pre-pass Character Bible correction:
+- recurring supporting characters were given explicit independent goals and agency.
+
+Final Gate 2 confirms:
+- Lily has an independent series goal;
+- Max has an independent series goal;
+- both can drive plot;
+- both have distinct flaws and wounds;
+- comedy styles differ;
+- dialogue voices differ;
+- supporting cast has independent lives;
+- romance boundaries reject coercive/toxic shortcuts;
+- neither lead exists only to rescue or complete the other.
 
 Non-blocking notes:
-- keep technical language simple in manuscript;
-- keep pre-echo rare.
+- vary Lily/Max comedy roles to prevent formula;
+- give Lily a concrete local objective during Gate 6.
 
 # Active Arc
 
@@ -101,6 +110,6 @@ Intentionally not fixed.
 
 # Next Authorized Step
 
-**Run Gate 2 — Character QA.**
+**Run Gate 3 — Mystery/Twist QA.**
 
-Do not begin Gate 3, lock the Aster House Arc architecture, set its chapter count, create scene architecture, or draft manuscript prose until Gate 2 passes.
+Do not lock the Aster House Arc architecture, assign its chapter count, create chapter/scene architecture, or draft manuscript prose until Gate 3 passes.
