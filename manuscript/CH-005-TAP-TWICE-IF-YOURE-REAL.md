@@ -2,133 +2,109 @@
 
 Max arrived at the worktable ten minutes early.
 
-This was unnecessary.
+This was completely unnecessary.
 
-The room had no appointment system. The strange writing did not care about manners, and Lily could not see him waiting anyway.
+The room had no appointment system. The writing patch did not care about punctuality, and Lily could not see him waiting.
 
-He still arrived early.
+He came early anyway.
 
-Room 17 was quiet except for the low hum of the lumen strip above the table and the distant sound of Rivenhall moving beyond the corridor opening. Somewhere below, metal wheels passed over a rail joint in a steady rhythm. A voice called from the market level and disappeared into the building.
+Room 17 hummed softly around him. The lumen strip above the table buzzed. Somewhere below, a railcar passed over a joint with a steady metal rhythm. A market voice drifted up from Rivenhall, too far away to make out.
 
 Normal sounds.
 
-Max had started paying more attention to those lately.
+Max noticed them more now.
 
-It was difficult not to when most of his day was spent waiting for one impossible thing to happen inside a room that had become much too important.
+Maybe because most of his days had become waiting for one impossible thing inside one increasingly important room.
 
-He placed a clean sheet of drafting paper in the center of the worktable and lined its bottom edge with one of the old measuring marks. The spatial compass went beside it, not because he expected the instrument to explain anything, but because having a tool nearby made the setup feel less like two strangers arguing with paper.
+He placed a clean sheet of drafting paper in the center of the table.
 
-He checked the narrow part of the table where the gray writing usually appeared.
+The spatial compass went beside it.
 
-Then he checked it again.
+Not because the instrument was going to explain anything.
 
-Doing the same thing twice was apparently how trained people prepared for impossible conversations.
+Because having a tool nearby made this feel slightly less like two strangers arguing with stationery.
 
-Max looked toward the doorway.
+He checked the writing area.
 
-He could still leave Room 17 for a short distance. He could still reach the corridor. He could still see Rivenhall continuing beyond the point where his body stopped cooperating.
+Then checked it again.
 
-That was not the same as being free.
+"Excellent," he muttered. "Very professional."
 
-He pushed the thought away and looked back at the paper.
+Today's question was simple.
 
-Today's question was simpler.
+Was Lily actually independent?
 
-Was Lily actually an independent person?
+Not strange. Strange was established.
 
-Not whether she was strange. That part was established.
+Not whether the room changed. It did.
 
-Not whether the room was changing. It was.
+Could the thing on the other side make a choice he could not predict?
 
-He needed to know whether the responses on the other side came from someone who could choose something he could not predict.
+The lumen strip dimmed.
 
-The lumen strip remained steady.
-
-"Fine," Max said. "Be dramatic."
-
-Nothing happened.
-
-He sat.
-
-Thirty seconds later, the light dipped.
-
-A gray line formed almost immediately.
+Gray letters appeared.
 
 READY?
-
-Lily's handwriting.
 
 Max smiled before he could stop himself.
 
 READY.
 
-Then he added:
+Then:
 
 TEST. NO GUESSING.
 
-Her response arrived several seconds later.
+A pause.
 
 GOOD. YOU NEED IT.
 
 Max stared at the line.
 
-"Excellent start."
+"Strong start."
 
-He wrote the protocol in the shortest version he could manage.
+He wrote:
 
-I TAP TWICE. YOU WRITE ANY NUMBER 1–9.
+I TAP TWICE. YOU PICK ANY NUMBER 1–9 AFTER.
 
-A pause.
+Lily answered:
 
-Then Lily answered:
-
-THEN I TAP THREE TIMES. YOU WRITE A DIFFERENT NUMBER?
-
-Max nodded even though she could not see him.
+THEN I TAP 3 TIMES. YOU PICK A DIFFERENT NUMBER?
 
 YES.
 
-He added:
+DON'T PICK EARLY.
 
-DON'T PICK THE NUMBER UNTIL AFTER THE TAPS.
-
-Her reply:
+Her reply came fast.
 
 OBVIOUSLY.
 
 Max looked at it.
 
-"You say that now."
-
-A second line appeared.
-
 YOU TOO.
+
+He laughed.
+
+"Hostile methodology."
 
 The light flickered.
 
-The window would not stay open long.
+Short window.
 
-Max wrote:
+He wrote:
 
 START?
-
-Lily answered:
 
 YES.
 
 ---
 
-Max lifted two fingers over the worktable.
+Max lifted two fingers over the table.
 
-He had the sudden urge to choose his number early.
+He almost picked his number in advance.
 
-That would defeat the point.
-
-He opened his hand again.
+Stopped himself.
 
 "No cheating."
-
-The room did not accuse him.
 
 He tapped twice.
 
@@ -136,9 +112,7 @@ Tap.
 
 Tap.
 
-The sound was ordinary on his side. Wood under his fingers. A small vibration through the table.
-
-Then nothing.
+Nothing.
 
 One second.
 
@@ -146,61 +120,53 @@ Two.
 
 Three.
 
-Max forced himself not to choose a number yet.
+He kept his mind blank.
 
-At five seconds, a gray mark appeared.
+At five seconds, a gray number appeared.
 
 7.
 
-He looked at it.
+Max looked at it.
 
 Seven.
 
-Max had not chosen anything.
+He had not chosen anything.
 
 Good.
 
 Now his turn.
 
-He picked the first number that came to mind.
-
 2.
 
 He wrote it beneath Lily's seven.
 
-For half a second, both numbers sat on the page together.
+For half a second, both numbers sat on the page.
 
-Then Lily's seven began to fade.
-
-A new line appeared.
+Then her seven faded.
 
 MY TURN.
 
-Max leaned back and took his hands off the table.
+Max pulled his hands back.
 
 He waited.
 
 A faint knock came from inside the wood.
 
-Not on the surface.
+Tap.
+
+Tap.
+
+Tap.
+
+Max went still.
+
+Not from the surface.
 
 Inside it.
 
-Tap.
+The sound was quieter than his own taps, but wrong in a way old wood was not wrong.
 
-Tap.
-
-Tap.
-
-Max went completely still.
-
-The three taps were quieter than his own had been, but different enough that there was no mistaking them for the building settling.
-
-He had expected marks to cross.
-
-He had not expected the physical sound of Lily's action to reach him too.
-
-His pulse sped up.
+His pulse jumped.
 
 He picked a number.
 
@@ -208,7 +174,7 @@ He picked a number.
 
 He wrote it.
 
-Lily's answer appeared several seconds later.
+Lily answered:
 
 4.
 
@@ -216,33 +182,29 @@ Then:
 
 GOOD. YOU DIDN'T COPY ME.
 
-Max let out a short laugh.
+Max laughed.
 
-"Finally. Professional recognition."
+"Finally. Recognition."
 
-The writing window began to fade.
-
-Before it vanished completely, he wrote:
+He wrote:
 
 AGAIN LATER. DIFFERENT TEST.
 
-A faint answer appeared.
-
 YES.
 
-Then the page cleared.
+The window faded.
 
-Max stayed in the chair after the window closed.
-
-He looked at his five.
-
-Then at the empty space where Lily's four had been.
+Max stayed seated.
 
 The test did not prove everything.
 
-A clever system could generate different numbers. A strange room could imitate timing. He knew enough to avoid falling in love with the first explanation that made him comfortable.
+A clever system could generate random numbers.
 
-But it did weaken one possibility.
+A strange room could imitate timing.
+
+He knew better than to fall in love with the first explanation that made him comfortable.
+
+But one possibility had become weaker.
 
 The messages were not simply reflecting his own choices back at him.
 
@@ -254,8 +216,6 @@ Max looked at the table.
 
 "Maybe."
 
-The room gave no opinion.
-
 ---
 
 The next window took almost an hour.
@@ -264,73 +224,61 @@ Max used the time badly.
 
 He tried the corridor.
 
-He told himself it was because waiting without doing anything was inefficient.
+He told himself waiting was inefficient.
 
-That explanation survived about three steps.
+That excuse survived three steps.
 
-The pressure hit behind his eyes before he reached the turn.
+Pressure hit behind his eyes.
 
 The wall stretched.
 
-The floor seemed to tilt in a direction it had no right to tilt.
+The floor tilted in a direction floors should not know.
 
-Max stopped immediately.
+Max stopped.
 
-That part, at least, he had learned.
+At least he had learned that.
 
-He backed into Room 17, drank water, and sat on the floor until the pulse in his temples settled.
+He backed into Room 17, drank water, and sat on the floor until the pulse in his temples eased.
 
 Testing two impossible things on the same day was not efficient.
 
-It was stupid with scheduling.
+It was stupidity with a schedule.
 
-When the worktable dimmed again, Max was already sitting nearby.
-
-Lily's message had appeared first.
+When the worktable dimmed again, Max was already close.
 
 SECOND TEST.
 
-Max pulled the chair in.
+He pulled the chair in.
 
 YOU'RE ENJOYING THIS.
 
 YES.
 
-The answer arrived so quickly that he laughed.
-
-He wrote:
+The answer came so fast he laughed.
 
 WRITE A WORD. ANYTHING. DON'T SHOW ME YET.
 
-Several seconds passed.
-
 DONE.
 
-Max leaned away from the page and looked toward the corridor.
+Max leaned back.
 
-He needed something simple.
+He needed something Lily could not know.
 
-A word he had not used with Lily.
+He looked toward the opening beyond Room 17.
 
-Something she could not know from the messages already exchanged.
-
-He chose the first thing he saw through the opening beyond Room 17.
-
-A narrow pedestrian bridge between two archive buildings.
+A narrow pedestrian bridge crossed between two archive buildings.
 
 He wrote:
 
 BRIDGE.
 
-Then he waited.
+Then waited.
 
-Gray letters formed beneath it.
+Gray letters appeared beneath.
 
 KETTLE.
 
 Max blinked.
-
-He read the word twice.
 
 Kettle.
 
@@ -338,59 +286,41 @@ Not gate.
 
 Not room.
 
-Not city.
-
-Not something dramatic.
-
-Kettle.
+Not anything dramatic.
 
 He wrote:
 
 WHY KETTLE?
 
-Lily's answer came back:
-
 MINE IS LOUD.
 
-Max rested his hand beside the paper.
+Max looked at the word.
 
-That was an absurdly ordinary answer.
+That answer was useless.
 
-It helped more than it should have.
+That was why it helped.
 
-A fabricated message could say kettle. A machine could generate something random. He knew that.
-
-But the uselessness of the detail made it feel different.
-
-Lily apparently owned a loud kettle.
+Lily owned a loud kettle.
 
 She lived somewhere rainy.
 
 She complained about her building.
 
-She got annoyed when he asked bad questions.
+She got annoyed by bad questions.
 
-She used shorter sentences when she was impatient.
+She used shorter sentences when impatient.
 
-Max realized he had begun collecting details without deciding to.
+Max realized he had started collecting details without meaning to.
 
-Not evidence exactly.
+Not evidence.
 
 A shape.
 
 The shape of a life.
 
-Different weather.
+The gray word faded.
 
-Different city.
-
-Different room.
-
-Bad kettle.
-
-He looked at the gray word until it faded.
-
-Then the lumen strip above him dimmed more sharply than before.
+Then the lumen strip dimmed harder.
 
 The spatial compass clicked.
 
@@ -398,25 +328,25 @@ Max turned.
 
 The needle trembled against its stop.
 
-A faint static sound moved across the room.
-
-He sat straighter.
+Static whispered across the room.
 
 "Lily?"
 
 Nothing.
 
-Then a voice said, very quietly:
+Then, very quietly:
 
 "Max?"
 
 He stopped breathing.
 
-It was thin, almost buried beneath static.
-
 A girl's voice.
 
-Real enough to have hesitation in it.
+Thin.
+
+Buried in static.
+
+But a voice.
 
 "Can you hear me?"
 
@@ -424,49 +354,49 @@ Max leaned toward the worktable.
 
 "Yes."
 
-The word came out too loud.
+Too loud.
 
-Static cracked across the room.
+Static cracked.
 
-He heard a sharp breath from the other side.
+A sharp breath came through.
 
 "Oh."
 
-Max almost laughed from pure nerves.
+Max almost laughed from nerves.
 
 "Strong reaction."
 
 "What did—"
 
-Her voice disappeared.
+Her voice vanished.
+
+Then returned.
 
 "—say?"
 
 "I said yes."
 
-A pulse of pressure moved through the table.
+The table shivered under his hand.
 
-The lumen strips stretched in Max's vision for half a second.
+The lumen strips stretched in his vision for half a second.
 
-He gripped the edge of the chair.
+He gripped the chair.
 
-Then Lily's voice came back, clearer.
+Lily's voice came back.
 
 "You're actually—"
 
-The sound cut off.
-
 Gone.
 
-Silence returned so completely it felt physical.
+Silence.
 
-Max stayed frozen over the table.
+Max did not move.
 
-The entire exchange could not have lasted more than ten seconds.
+The exchange had lasted less than ten seconds.
 
 Maybe less.
 
-He replayed it anyway.
+He replayed every useless piece.
 
 Max?
 
@@ -478,144 +408,126 @@ What did—
 
 You're actually—
 
-Nothing important had been said.
+Nothing important.
 
 That was not why his hands were shaking.
 
 Writing could still be treated like a system.
 
-Marks.
-
 Inputs.
 
 Outputs.
 
-A voice was harder.
+Marks.
 
-There had been timing in it.
+A voice was harder.
 
 Breath.
 
-Surprise.
+Timing.
 
-A person reacting to him badly in real time.
+Hesitation.
 
-Max sat back slowly.
+A person reacting badly in real time.
 
-For the first time since Room 17 had begun changing, the room felt crowded.
+Max sat back.
+
+For the first time since Room 17 began changing, the room felt occupied.
 
 Not physically.
 
-Something else.
+Something worse.
 
 He realized he was smiling.
 
-Then immediately stopped because smiling at an empty worktable felt unreasonable.
+Stopped.
 
-A moment later he started again.
+Then started again.
 
 ---
 
-The next written window was weak.
+The next writing window was weak.
 
-Only the center of the page responded, and every gray mark looked thinner than usual.
+Only the center of the page responded.
 
-Max did not waste it.
+Max wrote:
 
 YOU HEARD ME?
 
-The answer formed slowly.
-
 YES.
 
-He looked at the word.
+He stared at the word.
 
-His chest felt tight in a way that had nothing to do with the corridor.
-
-He wrote:
+Then:
 
 YOU'RE REAL.
 
-The sentence looked too simple after everything they had tested.
+Simple.
 
-It was still the right sentence.
+Still right.
 
 Lily's reply took longer.
 
 SO ARE YOU.
 
-Max stared.
-
-Another word appeared underneath.
+Another line appeared.
 
 PROBABLY.
 
-He laughed hard enough that the lingering headache objected.
+Max laughed hard enough that his headache objected.
 
 "Of course."
 
-He almost wrote something else.
-
-A question.
+He almost wrote more.
 
 A joke.
 
-Anything to keep the window open.
+A question.
 
-He stopped himself.
+Anything to keep the window alive.
 
-They had their result.
+He stopped.
 
-More than one result.
+They had the result.
 
 Independent choices.
 
 Crossed taps.
 
-A voice neither of them could script ahead of time.
+A voice neither could script.
 
 Enough.
 
-Not enough to explain where Lily was.
+Not enough to explain Bellweather.
 
-Not enough to explain why Bellweather and Rivenhall could touch through a table.
+Not enough to explain Rivenhall.
 
-Not enough to explain why they could hear each other but still had no idea what the other looked like.
+Not enough to explain why they could hear each other but not see each other.
 
-But enough to stop treating the person on the other side as a theory.
+But enough to stop calling the person on the other side a theory.
 
-Max wrote one final line.
+Max wrote:
 
 TOMORROW?
 
-Lily's answer came near the edge of the fading patch.
-
 YES.
 
-He waited until the page cleared.
+The page cleared.
 
-Room 17 became quiet again.
+Room 17 went quiet.
 
-The lumen strip returned to normal.
-
-The compass needle stopped trembling.
-
-Max rested both hands on the worktable.
-
-For days, he had been trying to prove that something impossible was happening.
-
-That question was finished.
+Max rested both hands on the table.
 
 There was someone on the other side.
 
-A person named Lily, in a place called Bellweather, with too much rain, a loud kettle, and an irritating habit of being right at exactly the wrong moment.
+A person named Lily.
 
-He still had no idea where Bellweather was.
+Too much rain.
 
-He still could not see her.
+A loud kettle.
 
-He still could not explain why writing and sound crossed while a person did not.
+An irritating habit of being right at exactly the wrong moment.
 
-Those were new questions.
+New questions, then.
 
-For once, Max did not mind having them.
+For once, Max did not mind.
