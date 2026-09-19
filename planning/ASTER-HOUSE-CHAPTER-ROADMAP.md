@@ -101,7 +101,7 @@ No chapter replays the full events of a previous chapter from the other POV.
 ## CH-002 — There Is a Boy in My Apartment
 
 **Gate 8 Status:** **PASS — SCENE ARCHITECTURE QA-LOCKED**  
-**Manuscript Status:** **DRAFT COMPLETE — GATE 9 NEXT**  
+**Manuscript Status:** **GATE 9 PASS — CANON-APPROVED**  
 **Scene Architecture:** `planning/CH-002-SCENE-ARCHITECTURE.md`  
 **Manuscript:** `manuscript/CH-002-THERE-IS-A-BOY-IN-MY-APARTMENT.md`  
 **POV:** Lily  
