@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-002 GATE 9 PASS — CH-003 GATE 8 SCENE ARCHITECTURE NEXT
+**Status:** ORIGINALITY REVISION v2 APPLIED — GATE 1 REVALIDATION NEXT
 
 # Series Length
 
@@ -9,11 +9,9 @@
 
 **Final volume count: UNLOCKED**
 
-The story is intentionally open-ended.
+The story remains open-ended.
 
-Only the active arc is planned in detail.
-
-# Current Canon Direction
+# Current Story Identity
 
 Genre:
 
@@ -23,178 +21,107 @@ Main characters:
 - Lily Marlowe
 - Max Arden
 
-POV:
-- regular Lily close-third;
-- regular Max close-third;
-- one POV per scene.
+Core opening identity:
 
-Core unique mechanic:
-- Echo Exchange between two split histories.
+**ROOM BEFORE PERSON**
 
-# QA State
+Discovery order:
+1. impossible room-state bleed;
+2. anonymous writing;
+3. proof of another intelligence;
+4. names / correspondence;
+5. voice;
+6. first indirect sight.
 
-Gate 1 — Foundation QA: **PASS — 2026-09-19**  
-Record: `qa/FOUNDATION-QA.md`
+The opening no longer uses Lily directly seeing Max while Max cannot see her.
 
-Gate 2 — Character QA: **PASS — 2026-09-19**  
-Record: `qa/CHARACTER-QA.md`
+# Core Mechanic
 
-Gate 3 — Mystery/Twist QA: **PASS — 2026-09-19**  
-Record: `qa/MYSTERY-TWIST-QA.md`
+**Echo Exchange between two split histories**
 
-Gate 4 — Location QA: **PASS — 2026-09-19**  
-Record: `qa/LOCATION-QA.md`
+Opening system:
+- **P0 — Echo Trace**
+- neither protagonist directly sees the other;
+- environmental information may cross;
+- writing may cross;
+- audio may later cross;
+- first sight is P1.
 
-Gate 5 — Active Arc Selection QA: **PASS — 2026-09-19**  
-Record: `qa/ACTIVE-ARC-SELECTION-QA.md`
+# Revision Record
 
-Gate 6 — Active Arc Architecture QA: **PASS — 2026-09-19**  
-Record: `qa/ACTIVE-ARC-ARCHITECTURE-QA.md`
+`revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`
 
-Gate 7 — Chapter Roadmap QA: **PASS — 2026-09-19**  
-Record: `qa/CHAPTER-ROADMAP-QA.md`
+# QA State After Revision
 
-CH-001 Gate 8 — Pre-Manuscript Scene QA: **PASS — 2026-09-19**  
-Record: `qa/CH-001-PRE-MANUSCRIPT-SCENE-QA.md`  
-Scene architecture: `planning/CH-001-SCENE-ARCHITECTURE.md`
+The following previous results remain as historical records but are **not sufficient for v2 production**:
 
-CH-002 Gate 8 — Pre-Manuscript Scene QA: **PASS — 2026-09-19**  
-Record: `qa/CH-002-PRE-MANUSCRIPT-SCENE-QA.md`  
-Scene architecture: `planning/CH-002-SCENE-ARCHITECTURE.md`
-
-Architecture: `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`  
-Chapter roadmap: `planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
-
-Gate 5 confirms:
-- exactly one active arc;
-- Aster/Unit 4B + controlled Larkspur/Room 17 is the correct opening cluster;
-- the cluster supports romance, comedy, mystery, and sci-fi;
-- the opening relationship/mechanic state fits the location;
-- local questions can resolve without solving the series;
-- future arcs remain open;
-- MT-001/002/003 remain protected.
-
-Gate 6 confirms:
-- exact opening states are locked;
-- Lily and Max both have concrete local goals;
-- ordinary-life pressure is preserved on both sides;
-- central mystery is locally resolvable;
-- sci-fi focus is limited to P0, basic Phase Lag/Echo Exchange, anchors, and narrow P1;
-- midpoint is the first earned P1 indirect sight;
-- reversal comes from overconfident experimentation;
-- climax uses previously learned rules rather than a new power;
-- aftermath and R2 Cross-World Roommates resolution are defined;
-- MT-001/002/003 remain unrevealed;
-- only F-001/F-002/F-003 are eligible as Gate-7 planning candidates;
-- Max cannot gain unrestricted Velaire movement while phase-bound without a Systems update.
-
-Gate 7 confirms:
-- Aster House Arc chapter count is **20**;
-- Lily owns 11 planned chapter POVs and Max 9, by story need rather than quota;
-- every chapter has a distinct function;
-- CH-010 is the first true P1 midpoint;
-- CH-014–015 form the reversal;
-- CH-017–018 form the climax;
-- CH-019–020 preserve aftermath;
-- F-001/F-002/F-003 remain planning candidates only;
-- MT-001/002/003 remain unrevealed;
-- future arc remains unlocked.
-
-CH-001 Gate 8 confirms:
-- four Lily-only scenes;
-- no Max dialogue;
-- no experiment;
-- no F-ID assignment;
-- one deliberately ambiguous cabinet inconsistency;
-- first unequivocal impossible event is Lily seeing Max;
-- chapter ends before communication;
-- P0/C0/X0 preserved.
-
-CH-001 manuscript:
-- **GATE 9 PASS — CANON-APPROVED**
-- path: `manuscript/CH-001-A-PLACE-OF-MY-OWN.md`
-- approximately 1,893 words
-- Gate 9 record: `qa/CH-001-CHAPTER-QA.md`
-- required pre-pass correction: natural paragraph flow + explicit four-scene separation.
-
-CH-002 Gate 8 confirms:
-- four Lily-only scenes;
-- immediate intruder-level threat assessment;
-- first observable visual asymmetry;
-- one short perception-based comedy beat;
-- no formal experiment;
-- no F-ID assignment;
-- no touch/object test;
-- P0/C0/X0 preserved;
-- chapter ends when Max reacts to Lily's voice, not her visible body.
-
-CH-002 manuscript:
-- **GATE 9 PASS — CANON-APPROVED**
-- path: `manuscript/CH-002-THERE-IS-A-BOY-IN-MY-APARTMENT.md`
-- approximately 1334 words
-- Gate 9 record: `qa/CH-002-CHAPTER-QA.md`
-- required pre-pass correction: natural paragraph flow.
-- canon mystery state: M-001 ACTIVE; M-002 ACTIVE with first observed asymmetry.
-
-Non-blocking CH-002 notes:
-- keep Max's embarrassing rehearsal short;
-- do not let Lily become certain he is a ghost.
+- Gate 1 — SUPERSEDED / REVALIDATION REQUIRED
+- Gate 2 — REVALIDATION REQUIRED where opening character dynamics changed
+- Gate 3 — REVALIDATION REQUIRED
+- Gate 4 — likely reusable, but must be checked against v2
+- Gate 5 — likely reusable, but must be checked against v2
+- Gate 6 — SUPERSEDED by v2 candidate architecture
+- Gate 7 — SUPERSEDED by v2 candidate chapter roadmap
+- CH-001 Gate 8/9 — SUPERSEDED
+- CH-002 Gate 8/9 — SUPERSEDED
 
 # Active Arc
 
 **Aster House Arc**
 
+Architecture:
+`planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`
+
 Status:
+**v2 CANDIDATE — GATE 6 REVALIDATION REQUIRED**
 
-**CH-002 GATE 9 PASS — CH-003 GATE 8 NEXT**
+Chapter roadmap:
+`planning/ASTER-HOUSE-CHAPTER-ROADMAP.md`
 
-Approved primary cluster:
-- Aster House;
-- Unit 4B;
-- controlled Larkspur House;
-- controlled Room 17.
+Status:
+**v2 CANDIDATE — GATE 7 REVALIDATION REQUIRED**
 
-Selection-level opening state:
-- R0 Unknown Presence;
-- P0 Bleed;
-- C0 No Contact;
-- X0 Observation.
+Provisional chapter count:
+**20**
 
-Gate 6 target endpoint:
-- **R2 — Cross-World Roommates**
-- default **P0** with narrow-condition **P1** available
-- **C0**
-- **X0**
+This number is no longer QA-locked until Gate 6/7 pass again.
 
-The active arc chapter count is **20 — LOCKED FOR AH-ARC-001**.
+# Intended v2 Milestones
 
-This does not lock the final series chapter count.
+- CH-001 — A Place of My Own → first environmental bleed
+- CH-002 — Someone Else Is Using My Room → first anonymous writing exchange
+- CH-003 — The Note That Shouldn't Exist → first Max POV
+- CH-004 — The Other Tenant → named written correspondence
+- CH-005 — Tap Twice If You're Real → reality test / early audio
+- CH-009 — No Faces → failed visual access / P1 setup
+- CH-010 — I Can See You → first P1 indirect sight
+- CH-014–015 → reversal
+- CH-017–018 → stabilization climax
+- CH-019–020 → aftermath
 
 # Major Twist State
 
 MT-001 Worlds Were Once One:
-
 **LOCKED WRITER TRUTH — UNREVEALED**
 
 MT-002 Present Overlap Was Reactivated:
-
 **LOCKED CONCEPT — RESPONSIBLE PERSON NOT YET LOCKED**
 
 MT-003 Their Experiments Strengthen the Leak:
-
 **LOCKED WRITER TRUTH — UNREVEALED**
 
-# Future Arc Table
+# Manuscript State
 
-| Arc | Location | Purpose | Status |
-|---|---|---|---|
-| Aster House Arc | Aster House / Unit 4B / controlled Larkspur-17 | opening character, romcom, mystery and basic rules | ACTIVE — 20-CH ROADMAP QA-LOCKED |
-| Future | UNSELECTED | must emerge from completed canon | UNLOCKED |
+Previous active CH-001 and CH-002 manuscript files have been removed from the active manuscript set.
+
+Git history preserves them.
+
+No revised chapter is canon-approved yet.
 
 # Next Authorized Step
 
-**CH-003 — The Voice That Shouldn't Be Here → Detailed Scene Architecture → Gate 8.**
+**Gate 1 — Foundation QA Revalidation for Originality Revision v2.**
 
-CH-001 and CH-002 are canon-approved.
+Do not advance to CH-003.
 
-CH-003 manuscript drafting remains unauthorized until its Gate 8 scene architecture passes.
+Do not draft the new opening until the affected gates are revalidated in production order.
