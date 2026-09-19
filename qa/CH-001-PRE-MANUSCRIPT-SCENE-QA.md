@@ -1,10 +1,15 @@
+> **SUPERSEDED — ORIGINALITY REVISION v2**  
+> This QA record belongs to the pre-v2 opening where Lily directly saw Max.  
+> It is retained only as historical production evidence and must not authorize current manuscript work.  
+> See: `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`
+
 # Gate 8 — Pre-Manuscript Scene QA — CH-001
 
 **Project:** Love Beyond the Realms  
 **Date:** 2026-09-19  
 **Gate:** 8 — Pre-Manuscript Scene QA  
 **Chapter:** CH-001 — A Place of My Own  
-**Final Result:** **PASS**  
+**Final Result:** **HISTORICAL PASS — SUPERSEDED**  
 **Blocking Issues:** 0  
 **Major Issues:** 0  
 **Minor Notes:** 2
