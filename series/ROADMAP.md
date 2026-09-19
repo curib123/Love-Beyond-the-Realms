@@ -463,3 +463,22 @@ All future chapters must use natural movie-like English while remaining novel pr
 
 Current next authorized step:
 **CH-022 — The Safe Distance → Manuscript Draft**
+
+
+# CH-022 Manuscript Draft
+
+Manuscript:
+`manuscript/CH-022-THE-SAFE-DISTANCE.md`
+
+Status:
+**COMPLETE — 1,608 words**
+
+The chapter uses the locked movie-like English standard and preserves the Arc 2 hierarchy:
+
+**Romantic Comedy / Romance first → Slice of Life → Mystery → Science Fiction**
+
+The technical result remains limited to Max's safe survey boundary.
+
+# Current Next Authorized Step
+
+**CH-022 — The Safe Distance → Gate 9 Chapter QA**
