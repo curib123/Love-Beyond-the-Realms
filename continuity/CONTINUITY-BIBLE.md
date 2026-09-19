@@ -258,11 +258,35 @@ This is not yet an official romantic relationship.
 **AH-ARC-001 ASTER HOUSE ARC — COMPLETE**
 
 Next active planning arc:
-**Shared Foundations Arc — GATE 5 PASS**
+**Shared Foundations Arc — GATE 6 PASS / ARCHITECTURE QA-LOCKED**
 
 Starting canon remains this exact state.
 
 Later arcs remain:
 **UNSELECTED / UNLOCKED**
 
-Shared Foundations must pass Gate 6 before chapter architecture or roadmap production.
+Shared Foundations has passed Gate 6. Gate 7 may now lock chapter count and roadmap structure.
+
+
+## Shared Foundations Architecture Planning Lock
+
+This is planning state, not new on-page canon.
+
+Architecture:
+`planning/SHARED-FOUNDATIONS-ARC-ARCHITECTURE.md`
+
+Gate 6:
+**PASS**
+
+Starting on-page canon remains:
+**R2 / P0 baseline / narrow controlled P1 / C0 / X0 / K2**
+
+Planned but NOT YET CANON:
+- M-007 activation/partial progression;
+- F-005 planting;
+- R3 transition;
+- East Corridor field events;
+- synchronized-mapping reversal;
+- blind-survey climax.
+
+No M/F state changes occur until manuscript prose passes Gate 9.
