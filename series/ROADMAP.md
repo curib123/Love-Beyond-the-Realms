@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** GATE 5 ACTIVE ARC SELECTION QA PASS — GATE 6 ACTIVE ARC ARCHITECTURE NEXT
+**Status:** GATE 6 ACTIVE ARC ARCHITECTURE QA PASS — GATE 7 CHAPTER ROADMAP NEXT
 
 # Series Length
 
@@ -48,6 +48,11 @@ Record: `qa/LOCATION-QA.md`
 Gate 5 — Active Arc Selection QA: **PASS — 2026-09-19**  
 Record: `qa/ACTIVE-ARC-SELECTION-QA.md`
 
+Gate 6 — Active Arc Architecture QA: **PASS — 2026-09-19**  
+Record: `qa/ACTIVE-ARC-ARCHITECTURE-QA.md`
+
+Architecture: `planning/ASTER-HOUSE-ARC-ARCHITECTURE.md`
+
 Gate 5 confirms:
 - exactly one active arc;
 - Aster/Unit 4B + controlled Larkspur/Room 17 is the correct opening cluster;
@@ -57,9 +62,23 @@ Gate 5 confirms:
 - future arcs remain open;
 - MT-001/002/003 remain protected.
 
-Non-blocking Gate 5 notes:
-- Gate 6 must preserve ordinary life outside the apartment;
-- Gate 6 must define a strict major-twist ceiling.
+Gate 6 confirms:
+- exact opening states are locked;
+- Lily and Max both have concrete local goals;
+- ordinary-life pressure is preserved on both sides;
+- central mystery is locally resolvable;
+- sci-fi focus is limited to P0, basic Phase Lag/Echo Exchange, anchors, and narrow P1;
+- midpoint is the first earned P1 indirect sight;
+- reversal comes from overconfident experimentation;
+- climax uses previously learned rules rather than a new power;
+- aftermath and R2 Cross-World Roommates resolution are defined;
+- MT-001/002/003 remain unrevealed;
+- only F-001/F-002/F-003 are eligible as Gate-7 planning candidates;
+- Max cannot gain unrestricted Velaire movement while phase-bound without a Systems update.
+
+Non-blocking Gate 6 notes:
+- Gate 7 should avoid overcrowding the opening with every supporting character;
+- the chapter roadmap should preserve breathing room after the climax.
 
 # Active Arc
 
@@ -67,7 +86,7 @@ Non-blocking Gate 5 notes:
 
 Status:
 
-**GATE 5 SELECTION APPROVED — GATE 6 ARCHITECTURE NEXT**
+**GATE 6 ARCHITECTURE APPROVED — GATE 7 CHAPTER ROADMAP NEXT**
 
 Approved primary cluster:
 - Aster House;
@@ -81,7 +100,13 @@ Selection-level opening state:
 - C0 No Contact;
 - X0 Observation.
 
-The exact arc endpoint remains **UNLOCKED** until Gate 6 architecture is built and reviewed.
+Gate 6 target endpoint:
+- **R2 — Cross-World Roommates**
+- default **P0** with narrow-condition **P1** available
+- **C0**
+- **X0**
+
+The active arc chapter count remains **UNLOCKED** and may now be chosen during Gate 7 roadmap construction.
 
 # Major Twist State
 
@@ -106,24 +131,14 @@ MT-003 Their Experiments Strengthen the Leak:
 
 # Next Authorized Step
 
-**Gate 6 — Active Arc Architecture QA.**
+**Gate 7 — Chapter Roadmap QA.**
 
-Gate 6 must define and review:
-- exact opening states;
-- Lily's concrete local goal;
-- Max's concrete local goal;
-- comedy engine;
-- ordinary-life pressure;
-- central local mystery;
-- sci-fi mechanic focus;
-- supporting-cast functions;
-- midpoint shift;
-- meaningful mistake/reversal;
-- causally earned climax;
-- aftermath;
-- local resolution;
-- major-twist ceiling.
+Gate 7 is now authorized to:
+- set the Aster House Arc chapter count;
+- assign unique chapter functions;
+- select Lily/Max POV by story need rather than mechanical alternation;
+- distribute romantic-comedy, ordinary-life, mystery, and sci-fi beats;
+- preserve the Gate 6 midpoint/reversal/climax chain;
+- assign only authorized F-ID candidates.
 
-Only after Gate 6 passes may the active arc chapter count be set and Gate 7 chapter-roadmap work begin.
-
-Do not draft manuscript prose or mark any F-ID PLANTED before prose actually exists.
+Do not create manuscript prose or mark any F-ID PLANTED before the relevant prose actually exists.
