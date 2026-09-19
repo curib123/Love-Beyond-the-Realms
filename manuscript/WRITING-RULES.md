@@ -76,7 +76,7 @@ Max's close narration tends to be:
 - quietly anxious underneath;
 - more willing to turn discomfort into a joke.
 
-His humor often comes from committing to a bad idea and realizing too late that Lily is watching.
+His humor often comes from committing to a bad idea, defending it in writing or voice, and realizing too late that Lily has already found the flaw.
 
 # 6. Internal Thoughts
 
@@ -136,16 +136,18 @@ Their strongest scenes may become quiet.
 The story should regularly include romantic-comedy situations.
 
 Good sources:
+- anonymous note arguments;
 - impossible roommate rules;
-- one person changing the room while the other is using it;
-- Lily seeing Max when Max cannot see her;
+- one person changing the room while the other is using the corresponding space;
+- voice-only conversations before first sight;
+- both imagining the other person's appearance incorrectly;
 - delayed sound creating bad timing;
 - exchanged possessions;
 - cultural misunderstandings;
-- friends hearing only one side of a conversation;
+- friends hearing only one side of a later conversation;
 - experiments failing at romantic moments;
 - accidental jealousy;
-- embarrassing discoveries;
+- embarrassing discoveries after visual contact is finally earned;
 - sincere confessions interrupted by dimensional problems.
 
 Comedy should grow from character and circumstance.
@@ -154,7 +156,18 @@ No joke quota.
 
 # 10. Romance
 
-Show attraction through attention.
+The early romance must not depend on physical appearance.
+
+Before first sight, attraction/attachment grows through:
+- handwriting;
+- voice;
+- humor;
+- remembered habits;
+- reliability;
+- concern;
+- curiosity.
+
+After first sight, show attraction through attention.
 
 Use:
 - remembered details;
