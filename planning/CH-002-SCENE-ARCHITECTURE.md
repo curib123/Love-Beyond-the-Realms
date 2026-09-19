@@ -1,14 +1,19 @@
+> **SUPERSEDED — ORIGINALITY REVISION v2**  
+> This scene architecture belongs to the pre-v2 opening where Lily directly saw Max.  
+> It is retained only as historical production evidence and must not authorize current manuscript work.  
+> See: `revisions/ORIGINALITY-REVISION-V2-2026-09-19.md`
+
 # CH-002 — There Is a Boy in My Apartment — Detailed Scene Architecture
 
 **Chapter ID:** CH-002  
 **Arc:** AH-ARC-001 — Aster House Arc  
 **Gate:** 8 — Pre-Manuscript Scene QA  
-**Architecture Status:** GATE 8 PASS — QA-LOCKED  
+**Architecture Status:** SUPERSEDED — NOT ACTIVE  
 **POV Owner:** **LILY ONLY**  
 **Primary Location:** LOC-002 Unit 4B / correlated visual of Max  
 **Relationship State:** R0 — Unknown Presence  
 **System State:** P0 Bleed / C0 No Contact / X0 Observation  
-**Manuscript Status:** **GATE 9 PASS — CANON-APPROVED**
+**Manuscript Status:** **SUPERSEDED — NOT CANON**
 
 # 1. Chapter Function
 
