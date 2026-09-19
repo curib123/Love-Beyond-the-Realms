@@ -36,7 +36,12 @@ Check:
 - dialogue voices differ;
 - supporting cast has independent lives;
 - no toxic behavior is romanticized;
-- neither protagonist exists only to rescue the other.
+- neither protagonist exists only to rescue the other;
+- anonymous-correspondent stage preserves equal agency;
+- attraction before first sight is not based on physical appearance;
+- Lily and Max can each initiate, refuse, or redirect communication;
+- voice-before-face chemistry still uses distinct character voices;
+- first sight adds to an existing bond rather than creating the bond.
 
 # Gate 3 — Mystery/Twist QA
 
