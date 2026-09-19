@@ -222,6 +222,22 @@ Truth: local histories begin overwriting physical states and geometry.
 **M-011 — Can they build safe contact between worlds?**  
 Truth: potentially, but not through romance alone.
 
+## Mystery-State vs Reader-Knowledge Rule
+
+M-ID state tracks the **story's active investigation / protagonist-level resolution**, not merely whether the reader has seen a writer-truth fact through another POV.
+
+Therefore:
+- Max POV may let the reader know Max is alive at K1;
+- Lily may still not know who/what is changing Unit 4B;
+- M-001 may remain ACTIVE or become PARTIAL until the protagonists earn mutual reality evidence;
+- a reader-facing fact does not automatically RESOLVE the corresponding protagonist mystery.
+
+When needed, continuity should record both:
+- reader knowledge;
+- Lily knowledge;
+- Max knowledge;
+- M-ID state.
+
 # 6. Initial Mystery-State Ledger
 
 Before manuscript prose exists:
