@@ -1,8 +1,18 @@
 # CH-004 — The Other Tenant
 
-The message was back at nine the next morning.
+The message returned at nine the next morning.
 
-Lily had left a blank sheet on the desk before bed, which had felt sensible at midnight and ridiculous in daylight. For ten minutes, nothing happened. Then the lamp dimmed and four gray words appeared near the top of the page.
+Lily had left a blank sheet on the desk before bed.
+
+At midnight, that had felt practical.
+
+In daylight, it looked like she had set out stationery for a ghost.
+
+For ten minutes, nothing happened.
+
+Then the desk lamp dimmed.
+
+Four gray words appeared near the top of the page.
 
 YOU'RE INTERESTING.
 
@@ -10,37 +20,47 @@ Lily stared at them.
 
 "That's unfortunate."
 
-The letters were already beginning to pale.
+The letters had already started to fade.
 
-She picked up her pen.
+She grabbed her pen.
 
 INTERESTING HOW?
 
-The answer did not come.
+Nothing.
 
-The lamp brightened, and the remaining gray marks vanished.
+The lamp brightened.
 
-Lily looked at the empty space where the sentence had been.
+The final gray marks vanished.
+
+Lily looked at the empty space.
 
 "Convenient."
 
-She had work that afternoon. Groceries to buy. A landlord who probably did not want to hear that the furniture was communicating with strangers.
+She had work that afternoon.
 
-She also had an invisible correspondent with questionable conversation skills.
+Groceries to buy.
+
+A landlord who probably did not want to hear that Unit 4B had begun exchanging opinions with strangers.
+
+And somewhere, apparently, an invisible correspondent with questionable conversation skills.
 
 Normal week.
 
 ---
 
-The desk lamp dimmed again just after lunch.
+The desk lamp dipped again just after lunch.
 
-Lily was ready this time.
+Lily was ready.
 
-A clean sheet sat in the middle of the desk. Her phone timer was open beside it.
+Fresh paper.
+
+Phone timer open.
+
+Pen in hand.
 
 A gray mark appeared.
 
-Lily wrote first.
+She wrote first.
 
 NAME?
 
@@ -48,17 +68,17 @@ Seven seconds later:
 
 MAX.
 
-She looked at the word.
+Lily stared at it.
 
 Max.
 
-It was annoyingly normal.
+Annoyingly normal.
 
 She wrote:
 
 LILY.
 
-The reply came almost immediately.
+The response appeared almost immediately.
 
 THAT'S YOUR NAME?
 
@@ -70,33 +90,51 @@ A pause.
 
 GOOD. CHECKING.
 
-"Very reassuring."
+She leaned back.
 
-The letters began to fade before she could ask anything else.
+"Very reassuring, Max."
 
-She checked the timer.
+The letters began fading before she could ask anything else.
+
+Lily glanced at the timer.
 
 Forty-eight seconds.
 
-That seemed to be the rule now. The desk worked when it wanted to, for less time than Lily wanted, and usually stopped as soon as the conversation became useful.
+That seemed to be the rule now.
 
-She wrote forty-eight seconds in her phone notes.
+The desk worked when it wanted.
 
-Then she added:
+For less time than she wanted.
+
+And it tended to stop the second the conversation became useful.
+
+She typed forty-eight seconds into her phone notes.
+
+Then:
 
 Max. Claims name is Max.
 
-Claims felt important.
+Lily looked at the sentence.
+
+Added:
+
+Possibly annoying.
+
+She deleted that.
+
+Claims felt more scientific.
+
+Barely.
 
 ---
 
 The next window came an hour later.
 
-Lily had been making tea when the desk lamp dipped.
+Lily had been pouring hot water into a mug when the desk lamp dipped.
 
-She nearly spilled hot water getting back to the chair.
+She abandoned the kettle so fast that water sloshed onto the counter.
 
-A line was already waiting.
+By the time she reached the chair, a line was waiting.
 
 WHERE ARE YOU?
 
@@ -104,13 +142,15 @@ Lily sat.
 
 MY APARTMENT.
 
-The reply appeared after eight seconds.
+The reply came eight seconds later.
 
 THIS IS MY ROOM.
 
-Lily stared at it.
+Lily stared at the sentence.
 
-She wrote:
+Then at her apartment.
+
+Then back at the page.
 
 NO. THIS IS MY APARTMENT.
 
@@ -120,13 +160,19 @@ THIS IS ROOM 17.
 
 Lily looked around Unit 4B.
 
-The same small kitchen. The same desk. The same rain-heavy window. The same cabinet Mrs. Bell had warned her not to force.
+The same tiny kitchen.
+
+The same desk.
+
+The same rain-heavy window.
+
+The same cabinet Mrs. Bell had warned her not to force.
 
 She wrote:
 
 THERE IS NO ROOM 17 HERE.
 
-Max's reply arrived quickly.
+Max answered quickly.
 
 THAT SOUNDS LIKE YOUR BUILDING'S PROBLEM.
 
@@ -136,7 +182,7 @@ Lily pressed her lips together.
 
 The marks began to fade.
 
-She managed one more line.
+She leaned forward and wrote fast.
 
 UNIT 4B. ASTER HOUSE.
 
@@ -144,15 +190,17 @@ Nothing came back.
 
 The window closed.
 
-Lily leaned into the chair and looked at the ceiling.
+Lily sat there with the pen still in her hand.
 
 Room 17.
 
-Different room number. Different place.
+Different room number.
+
+Different place.
 
 Maybe the messages were a prank.
 
-Maybe somebody in the building had built a system that projected writing onto paper for reasons no sane person would choose.
+Maybe someone in Aster House had built an elaborate system for projecting text onto paper because normal hobbies had become unavailable.
 
 Maybe Max was lying.
 
@@ -160,23 +208,19 @@ That possibility was almost comforting.
 
 People lying was normal.
 
-Rooms lying was harder.
+Rooms lying required entirely different paperwork.
 
 ---
 
 The fourth window came near sunset.
 
-This time Lily did not waste it.
-
-She wrote:
+This time Lily did not waste a second.
 
 CITY?
 
 RIVENHALL.
 
 She had never heard of it.
-
-She wrote:
 
 BELLWEATHER.
 
@@ -190,77 +234,108 @@ DRY. YOU?
 
 Lily looked toward the window.
 
+Rain streaked the glass.
+
 RAIN. AGAIN.
 
-Max replied:
+Max answered:
 
 THAT SOUNDS EXCESSIVE.
 
-Lily wrote:
+Lily smiled despite herself.
 
 IT'S A PERSONALITY TRAIT.
 
-The next gray line formed slowly.
+The next line formed more slowly.
 
 OF THE CITY OR YOU?
 
-Lily stared at it.
+Lily stopped.
 
-Then, despite herself, she smiled.
+"Wow."
+
+She tapped the pen against the desk.
+
+Then wrote:
 
 CITY.
 
-She added:
+She hesitated.
+
+Added:
 
 MOSTLY.
 
-The light above the desk flickered.
+For a few seconds, nothing happened.
 
-The window was almost gone.
+Then:
 
-Lily wrote quickly:
+CONCERNING.
+
+Lily almost laughed.
+
+The lamp flickered.
+
+The window was weakening.
+
+She wrote quickly.
 
 WE NEED A BETTER TEST.
 
-Max's answer arrived in two short lines.
+Max's answer came in two lines.
 
 AGREED.
 
 SOMETHING WE CAN'T GUESS.
 
-Lily checked the timer. Only seconds left.
+Lily checked the timer.
+
+Seconds.
 
 TOMORROW?
 
 YES.
 
-She thought for a moment, then wrote:
+She thought for half a beat.
+
+Then:
 
 SAME DESK. PROVE YOU'RE REAL.
 
-The gray letters on Max's side began to fade.
+The gray letters began to fade.
 
-One final reply appeared before everything disappeared.
+One final reply appeared.
 
 RUDE.
 
 Lily laughed.
 
-It surprised her enough that she stopped.
+The sound surprised her enough that she stopped.
 
-The room was quiet again.
+The room went quiet again.
 
-The page held only her own ink.
+Only her own ink remained.
 
-Lily looked at the place where Max's last word had been.
+She looked at the place where Max's last word had been.
 
 She knew his name now.
 
 Or at least the name he had given her.
 
-She knew he claimed to be in a place called Rivenhall, inside something called Room 17. She knew he thought her apartment was the strange one.
+She knew he claimed to be in a place called Rivenhall, inside something called Room 17.
+
+She knew he thought her apartment was the strange one.
+
+And somehow, between all the impossible parts, she had also learned that he was irritating on purpose.
 
 None of that proved he was real.
 
-But tomorrow, they were going to try.
+Tomorrow, they were going to try.
 
+Lily looked at the fading gray edge near the top of the page.
+
+"Don't make me regret this, Max."
+
+The room did not answer.
+
+For once, she was disappointed.
