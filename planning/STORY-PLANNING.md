@@ -342,8 +342,38 @@ Gate 9 required:
 
 Final manuscript remains approximately 1,893 words.
 
-# 19. Next Production Step
+# 19. CH-002 Gate 8 Record
 
-**CH-002 — There Is a Boy in My Apartment → Detailed Scene Architecture → Gate 8**
+Detailed scene architecture:
 
-CH-002 manuscript drafting remains unauthorized until its own Gate 8 review passes.
+`planning/CH-002-SCENE-ARCHITECTURE.md`
+
+Formal QA:
+
+`qa/CH-002-PRE-MANUSCRIPT-SCENE-QA.md`
+
+CH-002 Gate 8 status:
+
+**PASS — MANUSCRIPT AUTHORIZED**
+
+Locked CH-002 scene sequence:
+1. SC-002-01 Intruder
+2. SC-002-02 He Isn't Looking at Me
+3. SC-002-03 The World's Worst Burglar
+4. SC-002-04 Can You Hear Me?
+
+No F-ID is assigned to CH-002.
+
+Planned mystery transition:
+- M-001 → ACTIVE through manuscript events;
+- M-002 receives first observable asymmetry only.
+
+The actual canon mystery state changes only after prose exists and passes chapter QA.
+
+# 20. Next Production Step
+
+**CH-002 — There Is a Boy in My Apartment → Manuscript Draft**
+
+After drafting:
+- run **CH-002 → Gate 9 Chapter QA**;
+- do not begin CH-003 manuscript drafting before CH-003 receives its own Gate 8 scene approval.
