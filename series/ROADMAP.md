@@ -1,7 +1,7 @@
 # Series Roadmap
 
 **Owner:** A070 Series Roadmap Director  
-**Status:** CH-001 CANON-APPROVED — CH-002 GATE 8 NEXT
+**Status:** CH-002 CANON-APPROVED — CH-003 GATE 8 NEXT
 
 # Series Length
 
@@ -61,7 +61,8 @@ Historical but revalidation-required:
 - Gate 7 — **PASS v2 REVALIDATION — 20 CHAPTERS LOCKED — 2026-09-19**
 - CH-001 pre-v2 Gate 8/9 — SUPERSEDED
 - CH-001 v2 Gate 8/9 — **PASS / CANON-APPROVED**
-- CH-002 Gate 8/9 — SUPERSEDED
+- CH-002 pre-v2 Gate 8/9 — SUPERSEDED
+- CH-002 v2 Gate 8/9 — **PASS / CANON-APPROVED**
 
 # Active Arc
 
@@ -110,11 +111,11 @@ MT-003 Their Experiments Strengthen the Leak:
 
 Pre-v2 CH-001/CH-002 are superseded.
 
-CH-001 v2 is canon-approved.
+CH-001 and CH-002 v2 are canon-approved.
 
 # Next Authorized Step
 
-**CH-002 — Someone Else Is Using My Room → Detailed Scene Architecture → Gate 8.**
+**CH-003 — The Note That Shouldn't Exist → Detailed Scene Architecture → Gate 8.**
 
 Gate 1 v2 record:
 `qa/FOUNDATION-QA-V2.md`
