@@ -198,21 +198,25 @@ A later twist may reinterpret established information but may not silently rewri
 - protected ordinary events.
 
 
-# 16. Current Canon State — Through CH-007 v2
+# 16. Current Canon State — Through CH-008 v2
 
-**Latest Canon Chapter:** CH-007 — You're Early
+**Latest Canon Chapter:** CH-008 — That Was My Chair
 
-## Lily and Max Shared Knowledge
-- they accept each other as living correspondents;
-- bounded writing/taps/audio can cross;
-- communication timing is not fixed;
-- measured delays differ by window and trial.
+## Shared Knowledge
+Lily and Max now know:
+- communication can be delayed;
+- furniture/object state can partially overlap without the object physically crossing;
+- their furniture remained in place while temporary hybrid details appeared.
+
+They do not know why.
 
 ## Reader Knowledge
 **K2**
 
 ## Relationship
 **R1 — Mutual Reality Test**
+
+Cooperative experiment boundaries deepen trust.
 
 ## System
 - **P0 Echo Trace**
@@ -221,34 +225,35 @@ A later twist may reinterpret established information but may not silently rewri
 
 Observed:
 - environmental bleed;
-- bounded writing;
-- crossed taps;
-- short live audio;
-- measurable Phase Lag with delayed arrival.
+- bounded writing/taps/audio;
+- Phase Lag;
+- temporary furniture-state overlap.
 
-Not observed:
-- pre-echo;
+Still unavailable:
 - person-image;
 - P1;
-- touch;
+- contact;
 - crossing.
 
 ## Mystery
 - **M-001 RESOLVED locally**
 - **M-002 ACTIVE**
+- **M-003 ACTIVE**
 - **M-004 ACTIVE**
-- M-003 and M-005–M-011 unchanged.
+- M-005 onward unchanged.
 
 ## Foreshadowing
-All F-IDs remain:
-**PLANNED — NOT YET PLANTED**
+- **F-002 Wrong Furniture — PLANTED**
+- F-001, F-003–F-008 — PLANNED / NOT YET PLANTED
 
 ## Cost
-Max develops mild headache/eye pressure after repeated timing trials.
+Lily experienced:
+- cold fingertips;
+- brief nausea.
 
-## CH-008 Guard
-CH-008 must move to a controlled object/room-state test.
+## CH-009 Guard
+CH-009 must test person-image transfer and fail.
 
-It may plant F-002 only if matching prose genuinely appears and Gate 9 approves it.
+It may plant F-001 only if the approved reflective anomaly appears in Gate-9-approved prose.
 
-No P1, pre-echo, contact, crossing, or MT reveal.
+No P1 yet.
