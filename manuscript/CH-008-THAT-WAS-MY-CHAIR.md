@@ -2,9 +2,7 @@
 
 Lily had learned that impossible things became less impressive once they required masking tape.
 
-She crouched beside the dining chair and pressed a strip across the floor in front of its left leg.
-
-Another strip went beside the right.
+She crouched beside the dining chair and pressed a strip across the floor in front of its left leg, then another beside the right.
 
 The chair looked exactly as dignified as it had before, which was not very. It was secondhand, slightly too narrow, and still depended on a folded piece of cardboard under one leg to keep from rocking.
 
@@ -72,6 +70,8 @@ If the chair disappeared, Lily was leaving the apartment.
 
 Probably.
 
+---
+
 The desk lamp dimmed.
 
 A gray line appeared.
@@ -86,13 +86,9 @@ Then she put both hands on the back of the chair and waited.
 
 At first, nothing changed.
 
-Ten seconds.
+Ten seconds passed. The room stayed quiet except for rain at the window.
 
-The room stayed quiet except for rain at the window.
-
-Fifteen.
-
-The chair rocked once under Lily's hands.
+At fifteen, the chair rocked once under Lily's hands.
 
 She frowned.
 
@@ -100,9 +96,7 @@ She frowned.
 
 The wood beneath her fingers turned cold.
 
-Not cool.
-
-Cold.
+Not cool. Cold.
 
 Lily pulled one hand away.
 
@@ -138,15 +132,9 @@ Her fingertips felt numb.
 
 She looked under the seat again. The dark brace was still there, but now the cardboard shim beneath the short leg had changed too. Its pale folded edge had become a thin gray strip that looked almost metallic.
 
-The chair rocked.
+The chair rocked, and then everything snapped back.
 
-Then everything snapped back.
-
-Wooden spindle back.
-
-No metal brace.
-
-Folded cardboard under the leg.
+Wooden spindle back. No metal brace. Folded cardboard under the leg.
 
 Exactly the chair she had started with.
 
@@ -234,8 +222,6 @@ She laughed despite herself.
 
 Then the page cleared.
 
-The apartment looked normal again.
-
-The chair looked normal again.
+The apartment looked normal again. The chair looked normal again.
 
 Lily was no longer convinced that meant very much.
