@@ -3,7 +3,7 @@
 **Chapter:** One More Test  
 **Result:** **PASS**  
 **Canon Status:** **APPROVED**  
-**Word Count:** 626  
+**Word Count:** 668  
 **Blocking:** 0  
 **Major:** 0 after prose correction  
 **Minor:** 2
@@ -48,3 +48,19 @@ K2 / R1 / both narrow P1 / C0 / X0.
 
 # Next
 **CH-014 — The Key Goes Cold → Detailed Scene Architecture → Gate 8**
+
+
+# Post-arc knowledge-lock correction
+
+Full-manuscript audit found one canon-knowledge leak in the prior prose:
+the narration said Lily's brass key had already behaved like an anchor in earlier observations, but no earlier canonical manuscript established that.
+
+Correction:
+- CH-013 now treats the brass key as an **untested practical reference object** chosen because it is apartment-bound, portable, and easy to remove;
+- writer-side anchor classification remains in the Systems Bible;
+- first anomalous key behavior remains CH-014, preserving F-003 placement.
+
+Current manuscript word count:
+**668**
+
+Gate 9 remains **PASS for canon after correction**, while publication-readiness is tracked separately in `qa/ASTER-HOUSE-FULL-MANUSCRIPT-QA.md`.
