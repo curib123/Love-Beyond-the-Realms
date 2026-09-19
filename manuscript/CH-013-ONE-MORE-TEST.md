@@ -368,13 +368,19 @@ He wrote:
 
 Still nothing.
 
-Max added:
+Max rubbed the side of his thumb against the pen.
+
+Then added:
 
 **WHEN I HAD SOMETHING USEFUL TO SAY.**
 
 Lily's answer finally appeared.
 
 **USEFUL TO WHO?**
+
+Max stared at it.
+
+"Of course that's the question."
 
 His hand stopped.
 
@@ -568,9 +574,23 @@ Lily answered:
 
 **THAT WASN'T YES.**
 
-Max exhaled through his nose.
+Max leaned back and looked toward the corridor.
+
+Then at the compass.
+
+Then back at the page.
+
+"You're impossible."
+
+He wrote:
 
 **YES. ONE ATTEMPT.**
+
+The answer came quickly.
+
+**THANK YOU.**
+
+That somehow made it harder to argue.
 
 Lily added:
 
