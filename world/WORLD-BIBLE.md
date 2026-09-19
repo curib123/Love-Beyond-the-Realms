@@ -3,268 +3,265 @@
 **Owner:** A010 World Bible Director  
 **Status:** CANON — FOUNDATION
 
-This file is the authoritative source for the physical settings, realm structure, social context, and historical foundation of **Love Beyond the Realms**.
+# 1. The Two Worlds
 
-# 1. Earth-Side Setting
+The story appears to begin with two separate realities:
 
-## 1.1 Bellweather
+- **Earth**
+- **Velaire**
 
-Bellweather is a fictional modern coastal city known for:
-- frequent rain;
-- old brick apartment blocks;
+Writer truth: they were once **one world**.
+
+Approximately 140 years before the story, an event later called **the Twinfall** caused one reality to split into two stable histories.
+
+After the split:
+- geography remained broadly related;
+- cities developed differently;
+- technology diverged;
+- cultures diverged;
+- individual people born long after the split do not have simple one-to-one counterparts.
+
+The public in both worlds does not know this truth.
+
+# 2. Earth — Bellweather
+
+Bellweather is a modern coastal city with:
+- rain;
 - tram lines;
-- independent cafés and bookstores;
-- a university district;
-- a riverfront;
-- steep residential streets;
-- a mix of renovated buildings and older neglected properties.
+- old apartment buildings;
+- university districts;
+- bookstores and cafés;
+- riverfront streets;
+- modern phones and internet;
+- ordinary contemporary life.
 
-The city should feel lived-in and contemporary rather than generically gothic.
+The city must feel normal enough that dimensional events stand out.
 
-Lily can:
-- work;
-- shop;
-- commute;
-- meet friends;
-- handle paperwork;
-- attend classes later;
-- visit public places;
-- build a life outside the supernatural plot.
+## Aster House
 
-## 1.2 Aster House
+A five-story brick apartment building built in 1912.
 
-**Aster House** is a five-story brick apartment building built in 1912 and renovated unevenly over the decades.
-
-It is charming rather than obviously haunted.
-
-Notable features:
-- patterned hallway tile;
+Important features:
+- brass mailboxes;
 - narrow elevator;
-- original brass mailboxes;
-- tall windows;
-- a small internal courtyard;
-- old radiator pipes;
-- a sealed maintenance corridor below the east stairwell;
-- inconsistent electrical wiring;
-- thick walls that carry sound unpredictably.
+- internal courtyard;
+- old utility passages;
+- thick walls;
+- a sealed east maintenance corridor;
+- older materials reused during construction.
 
 ### Unit 4B
 
 Lily's apartment.
 
-Layout:
-- small entry hall;
-- combined living/dining space;
+It includes:
+- entry hall;
+- living/dining room;
 - compact kitchen;
-- one bedroom;
-- one bathroom;
-- tall living-room window;
-- old wall mirror left by a previous tenant;
+- bedroom;
+- bathroom;
+- tall window;
+- old wall mirror;
 - built-in cabinet;
-- original brass lock.
+- brass lock.
 
-The apartment is affordable because several previous tenants left early after reporting:
-- footsteps;
-- cold drafts;
-- misplaced objects;
+Previous tenants reported:
 - voices;
-- lights turning on by themselves.
+- moved objects;
+- cold spots;
+- lights acting strangely;
+- furniture appearing "wrong" for a moment.
 
-None of those reports proved conventional haunting.
+They assumed haunting, stress, or an old building.
 
-# 2. Lily's Earth-Side Life
+# 3. Lily's Earth Life
 
 Lily Marlowe is eighteen.
 
-Eight months before Chapter 1, her parents **Daniel and Elise Marlowe** died in an ordinary road accident.
+Her parents, Daniel and Elise Marlowe, died eight months before Chapter 1 in an ordinary road accident.
 
-Their deaths were tragic but not caused by Max, the Veil, Aster House, a secret organization, or a supernatural attack.
+Their deaths are not part of the dimensional conspiracy.
 
-Lily temporarily stayed with her aunt Nora after the funeral.
+Lily works at **Paper Moon Books & Café** and is deciding what to do next with her education and adult life.
 
-She later chooses Aster House because:
-- it is affordable;
-- it is close to transit;
-- it is near her part-time job;
-- it gives her privacy;
-- it feels like a place she can make her own.
+She chooses Aster House because it is:
+- affordable;
+- near transit;
+- close to work;
+- independent;
+- imperfect enough to feel like something she can make her own.
 
-Her choice to live alone is an act of independence, not a magical summons.
+# 4. Velaire — Rivenhall
 
-# 3. The Parallel Realm — Velaire
+Velaire is not fantasy heaven, the afterlife, or a magical copy of Earth.
 
-**Velaire** is a parallel physical reality separated from Earth by the Veil.
+It is the other historical branch created by the Twinfall.
 
-It is not an afterlife.
+Velaire developed a different science because its branch retained larger deposits of a strange crystalline material called **mirrorstone**.
 
-Its people are alive, mortal, social, and historically continuous.
-
-Velaire has:
-- cities;
-- families;
-- schools and apprenticeships;
-- ordinary labor;
-- local government;
-- older supernatural sciences;
-- public myths about "other skies";
-- rare documented boundary anomalies.
-
-Technology is not identical to Earth.
-
-Velaire combines:
-- mechanical transit;
-- luminous mineral energy;
-- paper archives;
-- clockwork instruments;
-- wired communication in major cities;
-- limited electric analogues.
-
-It should feel recognizable enough for Lily and Max to understand one another while remaining culturally distinct.
-
-# 4. Rivenhall
-
-Max lives in **Rivenhall**, a dense riverside city in Velaire.
-
-Rivenhall contains:
-- narrow stone streets;
-- suspended lamps powered by lumen glass;
-- elevated rail lines;
-- old archive towers;
+Rivenhall is a dense riverside city with:
+- elevated rail;
 - market bridges;
-- residential courtyards;
-- flood channels;
-- civic observatories.
+- civic archives;
+- mechanical transit;
+- lumen-grid lighting;
+- precision instruments;
+- wired communication networks;
+- advanced spatial measurement.
 
-Max's family lives elsewhere in the city.
+Its technology looks different from Earth technology but follows engineering rules.
 
-## 4.1 Larkspur House
+# 5. Larkspur House
 
-The Velaire-side location overlapping Aster House is **Larkspur House**.
+Larkspur House stands at the Velaire-side coordinate corresponding to Aster House.
 
-It is not architecturally identical to Aster House.
+It was built for a different purpose and does not perfectly match Aster House.
 
-However, one room in Larkspur House occupies the same cross-realm coordinate as Unit 4B.
+One room, historically labeled **Room 17**, overlaps Unit 4B more strongly than any other known point.
 
-That room is known in old building plans as **Room 17**, though modern residents use a different numbering scheme.
+Max becomes phase-bound near this room.
 
-Max became phase-bound to this room during a boundary incident.
+# 6. Mirrorstone
 
-# 5. The Veil
+Mirrorstone is a naturally occurring exotic crystal with unusual coherence properties.
 
-The **Veil** is the naturally occurring boundary separating Earth and Velaire.
+Earth retained only small scattered fragments.
 
-It is normally:
+Velaire retained larger deposits and learned to use them scientifically.
+
+Mirrorstone can:
+- preserve phase relationships;
+- store interference patterns;
+- amplify cross-branch signals;
+- stabilize or destabilize dimensional overlap.
+
+It is fictional science, not spellcasting.
+
+# 7. The Twinfall
+
+The Twinfall was not merely a portal event.
+
+Writer truth: a high-energy mirrorstone experiment created a **reality bifurcation**.
+
+One world became two self-consistent histories.
+
+Both continued forward.
+
+Neither is "the fake world."
+
+Neither is "the original" in a morally superior sense.
+
+# 8. The Veil
+
+The **Veil** is the phase boundary separating the two branches.
+
+It is:
+- non-sentient;
+- normally stable;
 - invisible;
-- stable;
-- non-traversable;
-- non-sentient.
+- difficult to cross.
 
-Weak points can form where matched anchor materials exist across both realms.
+Weak points occur where highly coherent mirrorstone structures remain correlated across both histories.
 
-A weak point does not automatically become a doorway.
+# 9. Echo Exchange
 
-# 6. The Hollow Between
+When two matching coordinates overlap, the Veil sometimes exchanges **state information** instead of matter.
 
-The **Hollow Between** is unstable boundary space created when two realities partially overlap without fully connecting.
+This is called **Echo Exchange**.
 
-It is not a normal third world.
+Possible effects:
+- a chair appears in the position of its other-world equivalent;
+- a mug briefly gains the color or damage of the matching object;
+- sounds arrive from the other room;
+- light sources overlap;
+- a written mark appears on another surface;
+- a door briefly shows the wrong hallway;
+- one clock jumps ahead or behind;
+- a small object partially swaps states.
 
-Characteristics:
-- distorted sound;
-- incomplete geometry;
-- memory echoes;
-- visual repetition;
-- lost seconds or minutes;
-- false doors;
-- reflections that do not match;
-- imprints of people who crossed recently.
+Echo Exchange is one of the main comedy, mystery, and sci-fi engines of the series.
 
-The Hollow does not think like a person.
+# 10. Phase Lag
 
-It can, however, reproduce fragments of sound and memory strongly enough to seem intelligent.
+The two branches do not always align at exactly the same moment.
 
-# 7. Mirrorstone
+The overlap may develop a **phase lag** ranging from fractions of a second to several minutes.
 
-A rare crystalline material exists in both realms.
+This can cause:
+- delayed replies;
+- a sound arriving before the visible action;
+- Lily seeing what Max did moments earlier;
+- Max hearing something Lily has not consciously said yet during rare unstable events.
 
-Earth geologists would classify surviving fragments as anomalous mineral glass.
+Large phase lag is dangerous and uncommon.
 
-Velaire scholars call it **mirrorstone**.
+# 11. The Hollow Between
 
-Properties:
-- holds cross-realm resonance;
-- can exist as paired fragments;
-- amplifies perception across the Veil;
-- can stabilize or destabilize a threshold depending on configuration.
+The Hollow is unstable transition space created when both branches attempt to occupy the same local geometry.
 
-Aster House and Larkspur House both contain mirrorstone in their foundations.
+It may contain:
+- repeated sounds;
+- incomplete rooms;
+- wrong doors;
+- short memory-like imprints;
+- time loops lasting seconds;
+- visual fragments from both histories.
 
-This is why their rooms can overlap.
+The Hollow is not alive.
 
-# 8. Historical Event — The Twinfall
+# 12. Threshold Keepers
 
-Approximately 140 years before the story, a rare boundary event called the **Twinfall** caused one mirrorstone mass to split across Earth and Velaire.
+Velaire once maintained a scientific civic organization that studied unstable branch phenomena.
 
-On Earth, pieces were eventually used unknowingly in building materials.
+They became known as the **Threshold Keepers**.
 
-In Velaire, corresponding fragments were studied and later incorporated into boundary research.
+Their surviving work is divided between:
+- public archives;
+- restricted records;
+- abandoned research sites;
+- private collections.
 
-Most knowledge of the Earth-side fragment was lost.
+Modern Velaire institutions disagree about whether branch contact should be restored or permanently sealed.
 
-# 9. The Threshold Keepers
-
-Velaire once maintained a small civic-scientific order called the **Threshold Keepers**.
-
-Their responsibility was to:
-- document Veil anomalies;
-- seal dangerous overlaps;
-- recover lost travelers;
-- maintain anchor registries.
-
-The order declined after several public scandals and costly accidents.
-
-Its surviving records are fragmented across archives.
-
-Modern officials know that boundary phenomena exist but disagree about how dangerous or controllable they are.
-
-# 10. Present-Day Trigger
+# 13. Present-Day Incident
 
 Three months before Lily moves into Unit 4B:
-- renovation work in Aster House exposes an old mirrorstone-bearing foundation channel;
-- a corresponding Velaire anchor under Larkspur House becomes unstable;
-- a Veil disturbance opens;
-- Max enters Room 17 during the event while trying to reach his younger sister;
-- the threshold collapses incorrectly;
-- Max becomes phase-displaced.
+- Earth renovation exposes a mirrorstone-bearing structural channel in Aster House;
+- Velaire researchers reactivate a related measurement system near Larkspur House;
+- the old correlation between both sites strengthens;
+- Max enters the unstable zone while trying to reach Mina;
+- the geometry collapses;
+- Max becomes phase-bound to the overlap.
 
-He remains physically alive but cannot leave the overlap zone normally.
+He remains alive.
 
-To Earth-side observers, he appears ghostlike.
+# 14. World Tone
 
-# 11. World Tone
-
-Earth scenes should support:
-- contemporary teen life;
-- grief recovery;
+Earth supports:
+- teen/young-adult life;
+- family;
+- work;
 - friendship;
-- work/school pressure;
-- ordinary routines.
+- romance;
+- ordinary comedy.
 
-Velaire scenes should support:
-- wonder;
+Velaire supports:
 - cultural contrast;
-- danger;
-- romantic discovery;
+- science-fiction wonder;
+- Max's independent life;
+- family;
+- investigation;
 - mystery.
 
-Neither realm exists only as decoration for the other.
+Neither world exists only for the other protagonist.
 
-# 12. World Constraints
+# 15. World Constraints
 
-- Earth governments do not publicly know about Velaire.
-- Velaire does not have open public portals to Earth.
-- Most people in both realms live ordinary lives.
-- Crossings are rare.
-- Mirrorstone is limited.
-- Aster House is important because of location and material history, not because Lily is a prophesied person.
-- Lily's parents' deaths remain non-supernatural unless this constitution is deliberately revised at a higher canon level.
+- no public Earth knowledge of Velaire;
+- no easy mass travel;
+- no magical chosen one;
+- no simple counterpart for every person;
+- no love-powered portal;
+- no instant world-ending stakes;
+- local consequences escalate before global ones;
+- Lily's parents' deaths remain ordinary unless the Series Constitution itself is deliberately revised.
