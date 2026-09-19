@@ -222,7 +222,7 @@ Room 17 is the strongest known local correlation with Unit 4B.
 
 It supports:
 - Max POV;
-- asymmetric perception;
+- room-before-person perception;
 - Echo Exchange;
 - Phase Lag;
 - controlled experiments;
@@ -283,6 +283,8 @@ Possible effects:
 - a mug briefly gains the color or damage of the matching object;
 - sounds arrive from the other room;
 - light sources overlap;
+- a window briefly shows light or skyline from the other branch;
+- handwriting appears on a corresponding paper or surface;
 - a written mark appears on another surface;
 - a door briefly shows the wrong hallway;
 - one clock jumps ahead or behind;
