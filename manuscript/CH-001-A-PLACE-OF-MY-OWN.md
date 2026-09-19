@@ -170,6 +170,8 @@ Old building.
 
 That phrase already explained a surprising amount.
 
+---
+
 Her phone buzzed again, then again. Lily ignored it while she folded an empty box.
 
 It started ringing.
